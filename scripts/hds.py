@@ -50,7 +50,7 @@ def queries_for(cell):
     for i in range(0, len(names), 4):
         group = " OR ".join(f'"{n}"' for n in names[i:i + 4])
         qs.append(f"{group} {district} garden OR nature OR wildlife OR park OR mural OR statue")
-    for sec in cell["sectors"][:2]:
+    for sec in cell["sectors"][:1]:  # one sector query: more repeat the same generic results
         qs.append(f'"{sec}" community garden OR nature garden OR pocket park OR wildlife area')
     return qs
 

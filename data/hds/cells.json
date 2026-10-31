@@ -31,10 +31,12 @@
     "SE15 2",
     "SE15 3"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 7,
+   "finds": [
+    "p099"
+   ]
   },
   {
    "id": "x+0y+1",
@@ -65,10 +67,12 @@
     "SE15 1",
     "SE15 5"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 6,
+   "finds": [
+    "p103"
+   ]
   },
   {
    "id": "x+1y+0",
@@ -90,9 +94,9 @@
     "SE15 2",
     "SE15 5"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 3,
    "finds": []
   },
   {
@@ -159,9 +163,9 @@
     "SE5 8",
     "SE5 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 4,
    "finds": []
   },
   {
@@ -191,9 +195,9 @@
     "SE15 2",
     "SE15 5"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 4,
    "finds": []
   },
   {
@@ -228,10 +232,12 @@
     "SE15 2",
     "SE15 5"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 6,
+   "finds": [
+    "p098"
+   ]
   },
   {
    "id": "x-1y-1",
@@ -250,9 +256,9 @@
     "SE15 5",
     "SE5 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 3,
    "finds": []
   },
   {
@@ -290,9 +296,9 @@
     "SE15 5",
     "SE5 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 5,
    "finds": []
   },
   {
@@ -318,9 +324,9 @@
     "SE15 1",
     "SE1 5"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 4,
    "finds": []
   },
   {
@@ -344,9 +350,9 @@
     "SE15 2",
     "SE14 5"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 3,
    "finds": []
   },
   {
@@ -381,9 +387,9 @@
     "SE15 3",
     "SE22 9"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 5,
    "finds": []
   },
   {
@@ -410,9 +416,9 @@
     "SE5 5",
     "SE5 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 4,
    "finds": []
   },
   {
@@ -440,9 +446,9 @@
     "SE15 1",
     "SE14 5"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 3,
    "finds": []
   },
   {
@@ -471,9 +477,9 @@
     "SE15 2",
     "SE15 3"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-10-31",
+   "queries": 5,
    "finds": []
   },
   {

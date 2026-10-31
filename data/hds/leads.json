@@ -10,21 +10,39 @@
    "found": "2026-10-31"
   },
   {
-   "name": "Kirkwood Road Nature Garden",
-   "lat": 51.46766,
-   "lon": -0.05905,
-   "cell": "x+1y-1",
-   "url": "https://southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=6",
-   "note": "On Southwark's other parks list; Southwark News on Cossall Park and Kirkwood Nature Reserve funding; description may be confused with Holly Grove",
-   "found": "2026-10-31"
-  },
-  {
    "name": "Choumert Square",
    "lat": 51.468,
    "lon": -0.0724,
    "cell": "x+0y-1",
    "url": "https://ngs.org.uk/gardens/choumert-square-se15",
    "note": "Communal garden behind 46 cottages; opens to the public once a year (NGS), otherwise private",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Old Kent Road mural (Adam Kossowski, History of the Old Kent Road)",
+   "lat": 51.48305,
+   "lon": -0.06476,
+   "cell": "x+1y+2",
+   "url": "https://www.historicengland.org.uk/listing/the-list/list-entry/1442278",
+   "note": "Grade II listed 1965 ceramic mural at 600-608 Old Kent Road SE15 1JB (postcode centroid); sources mention civic-centre redevelopment, so unclear whether it is currently on public view",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Peckham Peace Wall",
+   "lat": 51.47431,
+   "lon": -0.06923,
+   "cell": "x+0y+0",
+   "url": "https://peckhamplatform.com/all-exhibitions/peckham-peace-wall/",
+   "note": "2011 post-it riot wall preserved as a permanent mural on the western wall of Peckham Square (Garudio Studiage); newest source found is 2012, so current display unconfirmed; pin is Peckham Library, next to the square",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Goose Green Blake mural (A Vision of Angels)",
+   "lat": 51.46183,
+   "lon": -0.07117,
+   "cell": "x+0y-3",
+   "url": "https://en.wikipedia.org/wiki/Peckham",
+   "note": "Verified by 2 sources, but the pin reused Goose Green playground's coordinates: find the mural's own location",
    "found": "2026-10-31"
   }
  ]

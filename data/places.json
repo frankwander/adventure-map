@@ -3627,6 +3627,260 @@
     ],
     "reviewedAt": "2026-10-31"
    }
+  },
+  {
+   "id": "p098",
+   "name": "Kirkwood Road Nature Garden",
+   "lat": 51.46766,
+   "lon": -0.05905,
+   "type": "nature",
+   "area": "Peckham, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Kirkwood Road, SE15 street centre from the HDS gazetteer; sources put the reserve at the (north) end of Kirkwood Road beside the Cossall Estate, so the pin is approximate",
+   "ai": {
+    "score": 6,
+    "summary": "A small, narrow nature reserve at the end of Kirkwood Road, run with a local Friends group. It has a pond and wet area, plus some work by local artists. It suits a short wildlife walk with small children, and it pairs well with the Cossall Park playground nearby.",
+    "standout": "A hidden pond and wetland strip in the middle of the Cossall Estate",
+    "highlights": [
+     "Pond and wetland area (London Gardens Trust walk notes)",
+     "Looked after by the Friends of Cossall Park and Kirkwood Nature Reserve",
+     "Council Cleaner Greener Safer funding re-landscaped the entrance to stop fly-tipping and cars",
+     "Planned to form part of the future Peckham Coal Line walk"
+    ],
+    "cautions": [
+     "Very small and popular with dog walkers",
+     "No facilities mentioned in the sources",
+     "Access and opening arrangements aren't stated: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens (Peckham and Nunhead)",
+      "url": "https://southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=6"
+     },
+     {
+      "title": "Southwark Council: Cleaner Greener Safer projects",
+      "url": "https://services.southwark.gov.uk/engagement-and-consultations/grants-and-funding/cleaner-greener-safer?chapter=2"
+     },
+     {
+      "title": "Southwark News: Peckham estate nature reserve transformed from 'dog toilet' into a 'green oasis'",
+      "url": "https://southwarknews.co.uk/news/community/peckham-estate-nature-reserve-transformed-from-dog-toilet-into-a-green-oasis/embed/"
+     },
+     {
+      "title": "Peckham Society: green spaces note",
+      "url": "https://www.peckhamsociety.org.uk/?p=628"
+     },
+     {
+      "title": "London Gardens Trust: Walking with John Goodier, Peckham",
+      "url": "https://londongardenstrust.org/features/Peckham.htm"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p099",
+   "name": "Goldsmith Road Nature Garden",
+   "lat": 51.47551,
+   "lon": -0.06627,
+   "type": "nature",
+   "area": "Peckham, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Goldsmith Road, SE15 street centre from the HDS gazetteer; GiGL lists it as Goldsmiths Road Nature Garden. Exact spot on the road not stated",
+   "ai": {
+    "score": 5,
+    "summary": "A tiny nature garden, about 0.09 hectares, squeezed between houses in a built-up part of central Peckham. It is a Local Wildlife Site with free access, wood carvings and seating. It's a quick stop for a bit of green and bug-spotting rather than a destination.",
+    "standout": "Wood carvings in a pocket of wild green between the houses",
+    "highlights": [
+     "Designated Local Wildlife Site with free public access",
+     "Wood carvings and seating",
+     "A few minutes' walk from Peckham High Street"
+    ],
+    "cautions": [
+     "Very small",
+     "Few recent descriptions found; the most detailed visit write-up is from 2008",
+     "Check before going"
+    ],
+    "sources": [
+     {
+      "title": "GiGL: Goldsmiths Road Nature Garden (Local Wildlife Site)",
+      "url": "https://www.gigl.org.uk/?p=59238"
+     },
+     {
+      "title": "Londonist: Natureist walk in Peckham (2008)",
+      "url": "https://londonist.com/2008/12/natureist_londonist_takes_a_walk_on-2"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p100",
+   "name": "Myatt's Fields Park",
+   "lat": 51.47378,
+   "lon": -0.10531,
+   "type": "park",
+   "area": "Camberwell, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Cormont Road, SE5 street centre from the HDS gazetteer (Lambeth lists the park on Cormont Road)",
+   "link": "https://www.myattsfieldspark.info/visit",
+   "ai": {
+    "score": 8,
+    "summary": "A Victorian park in Camberwell with a children's playground, summer water play, a café and a nature garden. Residents and Lambeth Council paid for the water play area together, and the park's own site calls it a place for kids of all ages. It's a good summer outing a short bus ride west of Peckham.",
+    "standout": "Summer water play area built with money raised by local residents",
+    "extras": "Café, toilets by the depot and in the children's playground, buggy-friendly paths",
+    "highlights": [
+     "Children's playground with seasonal water play",
+     "Nature garden, pollinator planting and a community greenhouse",
+     "Green Flag Award park, also a London in Bloom 'Park of the Year'"
+    ],
+    "cautions": [
+     "Water play is seasonal",
+     "Park opening hours vary with sunset: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Myatt's Fields Park: Visit",
+      "url": "https://www.myattsfieldspark.info/visit"
+     },
+     {
+      "title": "Lambeth Family Information Directory: Myatt's Fields Park",
+      "url": "https://www.lambeth.gov.uk/family-information-directory/10652-myatts-fields-park"
+     },
+     {
+      "title": "CYP Now: Residents and council join forces to create water play area",
+      "url": "https://www.cypnow.co.uk/content/other/residents-and-council-join-forces-to-create-water-play-area"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p101",
+   "name": "Peckham Rye Adventure Playground",
+   "lat": 51.45396,
+   "lon": -0.05477,
+   "type": "playground",
+   "area": "Peckham Rye, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE22 0SB (Peckham Rye Park, Homestall Road, as given by Southwark Council), centroid from the HDS gazetteer",
+   "link": "https://www.southwark.gov.uk/culture-and-sport/parks-and-open-spaces/adventure-playgrounds/peckham-rye-adventure-playground",
+   "ai": {
+    "score": 8,
+    "summary": "A free, staffed, open-access adventure playground on the Homestall Road side of Peckham Rye Park, for 8 to 15-year-olds. It reopened in March 2026 after a £574,000 upgrade. It's a good fit for older children who have outgrown ordinary playgrounds.",
+    "standout": "Free staffed adventure play for older kids, newly upgraded in 2026",
+    "age": "8–15",
+    "ages": [
+     8,
+     15
+    ],
+    "highlights": [
+     "Free, open access for 8 to 15-year-olds",
+     "Reopened in March 2026 after a £574,000 refurbishment",
+     "A listing describes a Sunday term-time session for children with autism or a learning disability (confirm with the council)"
+    ],
+    "cautions": [
+     "Only open at set sessions that change with the season, and closed some days: check before going",
+     "Not for younger children; the park's other play areas suit them better"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Peckham Rye Adventure Playground",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/parks-and-open-spaces/adventure-playgrounds/peckham-rye-adventure-playground"
+     },
+     {
+      "title": "Construction News: Peckham Rye adventure playground reopens after major £574k upgrade",
+      "url": "https://www.construction.co.uk/construction-news/328607/peckham-rye-adventure-playground-reopens-after-major-574k-upgrade"
+     },
+     {
+      "title": "One Hub Southwark: Peckham Rye Park Adventure Playground",
+      "url": "https://www.onehubsouthwark.co.uk/services/peckham-rye-park-adventure-playground"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p102",
+   "name": "Limes Walk Community Garden",
+   "lat": 51.46315,
+   "lon": -0.0595,
+   "type": "nature",
+   "area": "Nunhead, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE15 3LF (58 Linden Grove, at the junction with Limes Walk, where the garden's mural is) centroid from the HDS gazetteer",
+   "ai": {
+    "score": 5,
+    "summary": "A volunteer-run community garden on Limes Walk in Nunhead, growing flowers, fruit and vegetables. In 2025 it gained a large botanical mural on the end wall of 58 Linden Grove, which marks the way in. It's a small, friendly place for children to see food growing.",
+    "standout": "A big botanical mural marks the garden's entrance",
+    "highlights": [
+     "Community growing space with flower, fruit and vegetable beds",
+     "Mural by Claire Ward-Thornton, funded by Southwark's Cleaner Greener Safer programme (2025)",
+     "Active volunteer sessions in 2024"
+    ],
+    "cautions": [
+     "Small, volunteer-run garden; public opening times aren't stated: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: New mural lights up Limes Walk (2025)",
+      "url": "https://www.southwark.gov.uk/news/2025/new-mural-limes-walk-lights-southwark-thanks-funding-clean-and-green-neighbourhoods"
+     },
+     {
+      "title": "GoodGym: When life gives you Limes...Walk Community Garden",
+      "url": "https://www.goodgym.org/reports/when-life-gives-you-limes-walk-community-garden"
+     },
+     {
+      "title": "GoodGym: Ground breaking start at Limes Walk Community Garden",
+      "url": "https://www.goodgym.org/reports/ground-breaking-start-at-limes-walk-community-garden"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p103",
+   "name": "Surrey Canal Walk",
+   "lat": 51.47648,
+   "lon": -0.06965,
+   "type": "park",
+   "area": "Peckham, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Peckham Hill Street, SE15 street centre from the HDS gazetteer; the path runs parallel to it from behind Peckham Library to Burgess Park, so the pin is approximate",
+   "ai": {
+    "score": 5,
+    "summary": "A flat, green, traffic-free path along the line of the filled-in Grand Surrey Canal. It runs about 1.1 km from behind Peckham Library to Burgess Park. It's an easy walk or scoot for young children, with a big park at the end.",
+    "standout": "A car-free green route from central Peckham into Burgess Park",
+    "highlights": [
+     "Flat and easy, about 1.1 km",
+     "Ends at Burgess Park, Southwark's largest park",
+     "Friends of Burgess Park run canal heritage and wild-food tree walks along the line"
+    ],
+    "cautions": [
+     "A path rather than a play space",
+     "The most detailed description found is from 2008"
+    ],
+    "sources": [
+     {
+      "title": "Ramblers: Surrey Canal Walk, Peckham and Burgess Park",
+      "url": "https://ramblers.org.uk/go-walking/routes/surrey-canal-walk-peckham-burgess-park"
+     },
+     {
+      "title": "Londonist: Nature-ist, Surrey Canal Walk",
+      "url": "https://londonist.com/2008/09/natureist_londonist_takes_a_walk_on"
+     },
+     {
+      "title": "Friends of Burgess Park: Bridge to Nowhere, Grand Surrey Canal",
+      "url": "https://bridgetonowhere.friendsofburgesspark.org.uk/tag/grand-surrey-canal/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   }
  ]
 }
