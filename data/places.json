@@ -4818,6 +4818,266 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p127",
+   "name": "Frendsbury Gardens",
+   "lat": 51.46063,
+   "lon": -0.04483,
+   "type": "nature",
+   "area": "Brockley",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Hainford Close, SE4 (street centre from the HDS gazetteer); Lewisham Council places the garden between Frendsbury Road, Pincott Place, Billingford Close, Hainford Close and Coston Walk",
+   "link": "https://lewisham.gov.uk/inmyarea/openspaces/parks/frendsbury-gardens",
+   "ai": {
+    "score": 6,
+    "summary": "A small community garden and wildlife space in Brockley that local residents made out of a fly-tipped wasteland. It is looked after by the Friends of Frendsbury Gardens with Glendale, has won a Green Flag, and volunteers have been building an outdoor classroom. Good for a quiet nature stop and for families who like to join in with gardening sessions.",
+    "standout": "A former wasteland turned into a volunteer-run wildlife and community garden",
+    "highlights": [
+     "Run by the Friends of Frendsbury Gardens with regular volunteer gardening sessions",
+     "Received a Green Flag in 2013",
+     "Outdoor classroom built by volunteers"
+    ],
+    "cautions": [
+     "Small site (GiGL lists about 0.13 ha)",
+     "Volunteer session days and times differ between sources; check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Frendsbury Gardens",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/frendsbury-gardens"
+     },
+     {
+      "title": "Ladywell Live: From wasteland to thriving community space (2021)",
+      "url": "https://ladywell-live.org/2021/07/10/from-wasteland-to-thriving-community-space-frendsbury-gardens-fosters-social-cohesion-and-well-being-in-se4"
+     },
+     {
+      "title": "GoodGym: Friends of Frendsbury Gardens",
+      "url": "https://www.goodgym.org/v3/organisations/friends-of-frendsbury-gardens"
+     },
+     {
+      "title": "GiGL: Frendsbury Gardens",
+      "url": "https://www.gigl.org.uk/park/OS_Le_0386"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p128",
+   "name": "Dawson's Hill",
+   "lat": 51.45096,
+   "lon": -0.06576,
+   "type": "nature",
+   "area": "East Dulwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Dunstan's Road, SE22 (street centre from the HDS gazetteer); Southwark Council gives the address as Dunstan's Road with entrances at Dunstan's Mount and Mount Adon Park",
+   "link": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/dawson-s-hill",
+   "ai": {
+    "score": 7,
+    "summary": "A steep, wild hillside next to the Dawson's Heights estate with big views over London. It is a Local Wildlife Site with nature trails and a small nature reserve looked after by the Dawson's Hill Trust, with bluebells, ramsons and hedgehogs recorded. A good scramble-and-picnic outing for children who like climbing hills.",
+    "standout": "Very steep hill with sweeping views over London",
+    "highlights": [
+     "Open at all times, according to Southwark Council",
+     "Nature trails and information boards (GiGL)",
+     "Native bluebells, bats and hedgehogs recorded"
+    ],
+    "cautions": [
+     "Very steep slopes; tricky with buggies and in wet weather",
+     "No toilets or café mentioned in sources"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Dawson's Hill Park",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/dawson-s-hill"
+     },
+     {
+      "title": "GiGL Local Wildlife Site: Dawson's Hill",
+      "url": "https://www.gigl.org.uk/sinc/SoBII20"
+     },
+     {
+      "title": "Wikipedia: Dawson's Heights",
+      "url": "https://en.wikipedia.org/wiki/Dawson%27s_Heights"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p129",
+   "name": "Camberwell Old Cemetery wildlife area",
+   "lat": 51.45057,
+   "lon": -0.05847,
+   "type": "nature",
+   "area": "East Dulwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE22 0RU on Forest Hill Road, which borders the cemetery (HDS gazetteer); some sources give the address as Underhill Road",
+   "link": "https://southwark.gov.uk/news/2022/jun/southwark-council-opens-award-winning-new-burial-space",
+   "ai": {
+    "score": 5,
+    "summary": "A Victorian cemetery that is also a Borough Grade I wildlife site, with herb-rich grassy rides where stag beetles and common blue butterflies have been recorded. Southwark turned a fenced-off part of it into a meadow with native shrubs, fruit trees, bird and bat boxes and a log pile. A calm spot for a bug hunt or bird-spotting walk with older children.",
+    "standout": "Wild meadows, stag beetles and woodpeckers in an old cemetery",
+    "highlights": [
+     "Free public access during opening hours (GiGL)",
+     "Meadow area with bird and bat boxes and a log pile for wildlife",
+     "The Horniman nature trail passes through"
+    ],
+    "cautions": [
+     "A working cemetery: keep children quiet and respectful around graves and funerals",
+     "Opening hours apply; check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: award-winning new burial space and meadow (2022)",
+      "url": "https://southwark.gov.uk/news/2022/jun/southwark-council-opens-award-winning-new-burial-space"
+     },
+     {
+      "title": "GiGL Local Wildlife Site: Camberwell Old Cemetery",
+      "url": "https://www.gigl.org.uk/sinc/SoBII05"
+     },
+     {
+      "title": "London Gardens Trust: Camberwell Old Cemetery (SOU015)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU015"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p130",
+   "name": "Folkestone Gardens",
+   "lat": 51.48336,
+   "lon": -0.04152,
+   "type": "park",
+   "area": "Deptford",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Trundleys Road, SE8 (street centre from the HDS gazetteer); sources say the park runs along Trundleys Road on its west side",
+   "link": "https://lewisham.gov.uk/inmyarea/openspaces/parks/folkestone-gardens",
+   "ai": {
+    "score": 7,
+    "summary": "A small Deptford park created in the 1970s on a wartime bomb site. It packs in a duck pond and nature area at one end, a children's play area and a concrete skate park at the other, and a café in the old toilet block. A good mix for families with children of different ages.",
+    "standout": "Duck pond and nature reserve plus a skate park in one small park",
+    "extras": "Children's play area, ball court, skate park, café",
+    "highlights": [
+     "Duck pond and a small local nature reserve",
+     "Plaza-style skate park and ball court",
+     "Café in the former public toilets"
+    ],
+    "cautions": [
+     "Café opening times not given in sources; check before going",
+     "Next to a busy railway line and road"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Folkestone Gardens",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/folkestone-gardens"
+     },
+     {
+      "title": "Wikipedia: Folkestone Gardens (Deptford)",
+      "url": "https://en.wikipedia.org/wiki/Folkestone_Gardens_(Deptford)"
+     },
+     {
+      "title": "London Gardens Trust: Folkestone Gardens (LEW019)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW019"
+     },
+     {
+      "title": "IanVisits: Folkestone Gardens in New Cross",
+      "url": "https://www.ianvisits.co.uk/articles/folkestone-gardens-in-new-cross-3959/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p131",
+   "name": "Ruskin Park",
+   "lat": 51.46508,
+   "lon": -0.09076,
+   "type": "park",
+   "area": "Camberwell",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE5 8EL, the park's Denmark Hill address given by Lambeth Council (HDS gazetteer); the pin is on the Denmark Hill side of the park",
+   "link": "https://www.lambeth.gov.uk/parks/ruskin-park",
+   "ai": {
+    "score": 8,
+    "summary": "A Grade II listed Victorian park on Denmark Hill with a children's playground, a seasonal paddling pool, sports pitches, a kiosk and toilets. Lambeth consulted on replacing the worn-out playground in 2023, with work planned for that autumn. A strong all-round family park, especially on hot days when the paddling pool is open.",
+    "standout": "Seasonal paddling pool next to the playground",
+    "extras": "Playground, seasonal paddling pool, refreshment kiosk, toilets, outdoor gym, sports pitches",
+    "highlights": [
+     "Seasonal paddling pool, supported by Friends of Ruskin Park fundraising",
+     "Playground renewal planned for autumn 2023",
+     "Toilets and a refreshment kiosk"
+    ],
+    "cautions": [
+     "Paddling pool is seasonal; check opening dates before going",
+     "No source confirmed the 2023 playground renewal was finished on schedule"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Ruskin Park",
+      "url": "https://www.lambeth.gov.uk/parks/ruskin-park"
+     },
+     {
+      "title": "Lambeth Council: Have your say on Ruskin Park Playground Renewal",
+      "url": "https://www.lambeth.gov.uk/consultations/have-your-say-ruskin-park-playground-renewal"
+     },
+     {
+      "title": "Wikipedia: Ruskin Park",
+      "url": "https://en.wikipedia.org/wiki/Ruskin_Park"
+     },
+     {
+      "title": "Brixton Buzz: Proposed redevelopment of Ruskin Park (2023)",
+      "url": "https://www.brixtonbuzz.com/2023/06/have-your-say-on-the-proposed-redevelopment-of-ruskin-park/amp/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p132",
+   "name": "Blue Bermondsey People's Mural",
+   "lat": 51.49227,
+   "lon": -0.06523,
+   "type": "landmark",
+   "area": "Bermondsey",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Sources place it on the corner of St James's Road and Drapers Way, SE16, by the Blue Market; Drapers Way is not in the gazetteer, so the pin is the northern St James's Road street centre (approximate)",
+   "link": "https://www.bluebermondsey.co.uk/blue-bermondsey-peoples-mural/",
+   "ai": {
+    "score": 5,
+    "summary": "A 15-metre-tall community mural near the Blue Market, painted in 2022 by Paul Butler with local artists. It tells Bermondsey's story from the dockers at the top to the pioneering mayor Ada Salter and today's market traders at the bottom. A fun spot-the-characters stop on a trip to the Blue or Southwark Park.",
+    "standout": "Fifty-foot mural packed with Bermondsey characters to spot",
+    "highlights": [
+     "Painted in 2022 as the final part of the Made in Bermondsey project",
+     "Features dockers, Ada Salter and real market traders",
+     "Right by the Blue Market"
+    ],
+    "cautions": [
+     "Pin is approximate (corner of St James's Road and Drapers Way)",
+     "Street-side artwork on a busy road"
+    ],
+    "sources": [
+     {
+      "title": "Southwark News: Fifty-foot tall Bermondsey people's mural unveiled by the Blue",
+      "url": "https://southwarknews.co.uk/news/community/fifty-foot-tall-bermondsey-peoples-mural-unveiled-by-the-blue/"
+     },
+     {
+      "title": "Art UK: Blue Bermondsey People's Mural",
+      "url": "https://batch.artuk.org/discover/artworks/blue-bermondsey-peoples-mural-347559"
+     },
+     {
+      "title": "London Remembers: Blue Bermondsey People's Mural, Ada Salter",
+      "url": "https://www.londonremembers.com/memorials/blue-bermondsey-people-s-mural-ada-salter"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }

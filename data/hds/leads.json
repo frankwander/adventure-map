@@ -145,21 +145,66 @@
    "found": "2026-10-31"
   },
   {
-   "name": "Blue Bermondsey People's Mural",
-   "lat": 51.49227,
-   "lon": -0.06523,
-   "cell": "x+1y+4",
-   "url": "https://batch.artuk.org/discover/artworks/blue-bermondsey-peoples-mural-347559",
-   "note": "Well sourced (Art UK, Southwark News, London Remembers, Blue Bermondsey): 15 x 7 m 2022 mural by Paul Butler centred on Ada Salter, on St James's Road at the corner of Drappers Way SE16. Drappers Way not in gazetteer (postcode SE16 3AU also missing), so pin is a St James's Road segment centre and may be several hundred metres off: needs exact location, then add.",
-   "found": "2026-10-31"
-  },
-  {
    "name": "Brockley Station community garden",
    "lat": 51.46419,
    "lon": -0.0371,
    "cell": "x+4y-2",
    "url": "https://walks.gojauntly.com/walks/brockley-bimble-walking-trail-5182631582422471152",
    "note": "Garden by Brockley station kept by Brockley Cross Action Group; one walking-trail source only. Pin is Coulgate Street, SE4 street centre.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "New Cross Gate Cutting",
+   "lat": 51.46862,
+   "lon": -0.04003,
+   "cell": "x+4y-1",
+   "url": "https://www.wildlifetrusts.org/nature-reserves/restricted-access-new-cross-gate-cutting",
+   "note": "London Wildlife Trust reserve (Metropolitan SINC) with its entrance on Vesta Road, SE4, but restricted access: open only on occasional open days and volunteer workdays. Pin is Vesta Road street centre.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Loughborough Farm",
+   "lat": 51.46866,
+   "lon": -0.10593,
+   "cell": "x-5y-1",
+   "url": "https://www.brixtonbuzz.com/2026/08/join-in-with-the-loughborough-farm-gardening-sessions-every-tuesday-and-saturday/",
+   "note": "Volunteer-run community food-growing garden 'just off Loughborough Road', open during gardening sessions (Tue and Sat per Brixton Buzz, Aug 2026). Exact site unknown and Lambeth reported a move to a new home; pin is Loughborough Road, SW9 street centre.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Nairne Grove nature reserve",
+   "lat": 51.45874,
+   "lon": -0.08858,
+   "cell": "x-3y-3",
+   "url": "https://provide.planning.data.gov.uk/organisations/local-authority:SWK/tree-preservation-zone/data/12",
+   "note": "Named in Southwark planning data (TPO woodland zone, point given) and a 2015 cabinet report as a proposed Borough SINC 'Nairne Grove Nature Garden'. No visitor information; public access unknown.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Congreve Community Garden",
+   "lat": 51.49138,
+   "lon": -0.08359,
+   "cell": "x-2y+4",
+   "url": "https://moderngov.southwark.gov.uk/documents/s27046/Appendix 1 201213 CGS Applications Walworth.pdf",
+   "note": "Only Southwark Cleaner Greener Safer funding applications (2012/13 and a 2023/24 redesign bid); estate garden, public access and exact spot unknown. Pin is Congreve Street, SE17 street centre.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Stik mural, Hansler Road",
+   "lat": 51.45647,
+   "lon": -0.07449,
+   "cell": "x-1y-4",
+   "url": "https://dulwichonview.org.uk/2012/09/07/meet-cult-street-artist-stik-at-the-bigger-picture-film-clubs-september-screening",
+   "note": "Stik piece on the side of Property Inn, Hansler Road, East Dulwich (Dulwich Outdoor Gallery); sources are 2012-2017 and a Stik mural was stolen in East Dulwich in 2013, so it may be gone. Pin is Hansler Road street centre.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Nunhead Green",
+   "lat": 51.46502,
+   "lon": -0.05957,
+   "cell": "x+1y-2",
+   "url": "https://london.gov.uk/node/1587",
+   "note": "Listed as a pocket park in the Mayor's Pocket Parks programme (SE15 3QQ, postcode pin); only one source and no detail on what is there for children.",
    "found": "2026-10-31"
   }
  ]
