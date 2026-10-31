@@ -73,7 +73,14 @@
     return Math.round(m / 1000) + " km away";
   }
 
-  PLACES.forEach(function (p) { if (p.kind === "park") p.hood = nearestHood(p); });
+  PLACES.forEach(function (p) { if (p.scope !== "far") p.hood = nearestHood(p); });
+
+  var TYPE_LABEL = { playground: "Playground", park: "Park", nature: "Nature", farm: "City farm", museum: "Museum", water: "Splash & swim", landmark: "Landmark", activity: "Activity", library: "Library" };
+  function isFar(p) { return p.scope === "far"; }
+  function isOurs(p) { return !!p.review; }
+  // One number to rank by: the AI Adventure Score, else our stars doubled, else a neutral 5.
+  function scoreOf(p) { return p.ai ? p.ai.score : (p.review ? p.review.stars * 2 : null); }
+  function rankScore(p) { var s = scoreOf(p); return s == null ? 5 : s; }
 
   // ---------- helpers ----------
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
@@ -86,9 +93,9 @@
     // Merge our review with this browser's own notes (notes win for empty fields).
     var n = state.notes[p.id] || {};
     return {
-      age: p.age || n.age || null,
-      standout: p.standout || n.standout || null,
-      extras: p.extras || n.extras || null,
+      age: p.age || (p.ai && p.ai.age) || n.age || null,
+      standout: p.standout || (p.ai && p.ai.standout) || n.standout || null,
+      extras: p.extras || (p.ai && p.ai.extras) || n.extras || null,
       mine: !!(n.age || n.standout || n.extras),
       reviewed: !!p.review
     };
@@ -96,6 +103,7 @@
   // Age range for a place: from the data, else parsed from this browser's note ("3-7", "2–8", "under 5").
   function rangeOf(p) {
     if (p.ages) return p.ages;
+    if (p.ai && p.ai.ages) return p.ai.ages;
     var n = (state.notes[p.id] || {}).age || "";
     var m = n.match(/(\d+)\s*[-–to]+\s*(\d+)/); if (m) return [+m[1], +m[2]];
     m = n.match(/under\s*(\d+)/i); if (m) return [0, +m[1] - 1];
@@ -109,9 +117,9 @@
     return state.ages.every(function (k) { var b = AGE_BANDS[k]; return r[0] <= b[1] && r[1] >= b[0]; }) ? "yes" : "no";
   }
   function kindLabel(p) {
-    if (p.kind === "park") return "Park playground · " + (p.hood || p.area);
-    if (p.kind === "trip") return "Our pick · " + p.area;
-    return "Further afield · " + p.area;
+    var t = TYPE_LABEL[p.type] || "Adventure";
+    if (isFar(p)) return "Further afield · " + p.area;
+    return (isOurs(p) ? "Our pick · " : t + " · ") + (p.hood || p.area);
   }
   var toastTimer = null;
   function toast(msg, undo) {
@@ -160,33 +168,36 @@
   // ---------- Next 10 ----------
   function buildNext10() {
     var pool = withDistances(PLACES).filter(function (p) {
-      return p.kind !== "far" && !state.visited[p.id] && state.skipped.indexOf(p.id) < 0 && ageFit(p) !== "no";
+      return !isFar(p) && !state.visited[p.id] && state.skipped.indexOf(p.id) < 0 && ageFit(p) !== "no" && p._d <= 15000;
     });
-    pool.sort(function (a, b) { return a._d - b._d; });
-    // With ages chosen, places known to fit come first among the picks.
-    var fitFirst = function (a, b) { return (ageFit(b) === "yes") - (ageFit(a) === "yes") || a._d - b._d; };
-    var parks = pool.filter(function (p) { return p.kind === "park" && p._d <= 3500; }).sort(fitFirst);
-    var trips = pool.filter(function (p) { return p.kind === "trip" && p._d <= 25000; }).sort(fitFirst);
-    var near = parks.slice(0, 6);
-    var away = trips.slice(0, 4);
-    var rest = parks.slice(6);
+    // Close to home: within a 30-minute walk; better-rated places get a head start worth ~150 m per score point.
+    // Worth a trip: further away, best-rated first. With ages chosen, places known to fit come first.
+    var fit = function (p) { return ageFit(p) === "yes" ? 1 : 0; };
+    var nearKey = function (p) { return p._d - 150 * (rankScore(p) - 5); };
+    var walkable = pool.filter(function (p) { return walkMin(p._d) <= 30; }).sort(function (a, b) { return fit(b) - fit(a) || nearKey(a) - nearKey(b); });
+    var further = pool.filter(function (p) { return walkMin(p._d) > 30 && scoreOf(p) != null; }).sort(function (a, b) { return fit(b) - fit(a) || rankScore(b) - rankScore(a) || a._d - b._d; });
+    var near = walkable.slice(0, 6);
+    var away = further.slice(0, 4);
+    var rest = walkable.slice(6);
     while (near.length + away.length < 10 && rest.length) near.push(rest.shift());
     return { near: near, away: away };
   }
 
   function cardHTML(p, i, compact) {
     var v = view(p), done = !!state.visited[p.id];
-    var cls = "card " + (p.kind === "park" ? "park" : "trip") + (done ? " is-done" : "");
+    var cls = "card " + (isOurs(p) ? "trip" : "park") + (done ? " is-done" : "");
     var facts = "";
     facts += "<dt>How far</dt><dd>" + (p._d != null ? esc(howFar(p._d)) : "Set a starting point") + "</dd>";
     var fit = ageFit(p);
     if (v.age) facts += "<dt>Ages</dt><dd>" + esc(v.age) + (p.ageFromName ? ' <span class="muted small">(from the council name)</span>' : "") + (fit === "yes" ? ' <span class="fit">fits your kids</span>' : "") + "</dd>";
     else facts += '<dt>Ages</dt><dd class="muted">Unknown</dd>';
+    if (scoreOf(p) != null) facts += '<dt>Score</dt><dd><span class="score">' + scoreOf(p) + '/10</span> <span class="muted small">' + (p.ai ? "AI review" : "our stars") + "</span></dd>";
     if (v.standout) facts += "<dt>Standout</dt><dd>" + esc(v.standout) + "</dd>";
     if (v.extras) facts += "<dt>Extras</dt><dd>" + esc(v.extras) + "</dd>";
     var body = "";
     if (p.review && p.review.text) body += '<p class="quote">“' + esc(p.review.text) + '” <span class="small">— our review, ' + esc(p.review.stars) + "★</span></p>";
-    else if (!v.standout) body += '<p class="unreviewed">Not reviewed yet. ' + (compact ? "Be the first to try it." : "Go, then add a note on what made it good.") + '</p>';
+    if (p.ai) body += aiHTML(p);
+    if (!p.review && !p.ai && !v.standout) body += '<p class="unreviewed">Not reviewed yet. ' + (compact ? "Be the first to try it." : "Go, then add a note on what made it good.") + '</p>';
     if (v.mine) body += '<p class="small muted">Includes your own notes.</p>';
     return '<li class="' + cls + '" data-id="' + p.id + '" data-n="' + i + '">' +
       '<div class="top-line"><span class="badge" aria-hidden="true">' + (done ? "✓" : i) + '</span>' +
@@ -198,6 +209,16 @@
         (done || compact ? "" : '<button class="btn small" type="button" data-act="swap" title="Swap for another place">Swap</button>') +
         (compact ? "" : '<button class="btn small" type="button" data-act="note" aria-expanded="false">' + (v.mine ? "Edit notes" : "Add notes") + '</button>') +
       "</div></li>";
+  }
+
+  function aiHTML(p) {
+    var a = p.ai, li = function (x) { return "<li>" + esc(x) + "</li>"; };
+    var more = "";
+    if (a.highlights && a.highlights.length) more += "<p class=\"small\"><strong>Good</strong></p><ul>" + a.highlights.map(li).join("") + "</ul>";
+    if (a.cautions && a.cautions.length) more += "<p class=\"small\"><strong>Watch out</strong></p><ul>" + a.cautions.map(li).join("") + "</ul>";
+    more += "<p class=\"small\"><strong>Sources</strong></p><ul>" + (a.sources || []).map(function (s) { return '<li><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.title || s.url) + "</a></li>"; }).join("") + "</ul>";
+    return '<div class="ai"><p class="ai-head">AI review · ' + esc(niceDate(a.reviewedAt)) + " " + esc((a.reviewedAt || "").slice(0, 4)) + " · from " + (a.sources || []).length + " web sources, not a visit</p>" +
+      "<p>" + esc(a.summary) + "</p><details><summary>Details and sources</summary>" + more + "</details></div>";
   }
 
   function notesFormHTML(p) {
@@ -291,11 +312,11 @@
     var i = 1, html = "";
     var label = state.origin.gps ? "you" : state.origin.label;
     if (state.skipped.length) html += '<p class="row small no-print"><span class="muted">' + state.skipped.length + ' place' + (state.skipped.length === 1 ? "" : "s") + ' swapped out.</span><button class="btn small" type="button" id="reset-skips">Bring them back</button></p>';
-    html += '<section class="group" aria-labelledby="g-near"><div class="group-head"><h2 id="g-near">Close to home</h2><span class="small muted">Park playgrounds you haven\'t been to yet, nearest to ' + esc(label) + ' first</span></div>';
-    html += current.near.length ? '<ol class="cards">' + current.near.map(function (p) { return cardHTML(p, i++); }).join("") + "</ol>" : '<p class="empty">No unvisited park playgrounds within about 3.5 km. Try another starting point, or clear swaps.</p>';
+    html += '<section class="group" aria-labelledby="g-near"><div class="group-head"><h2 id="g-near">Close to home</h2><span class="small muted">Within a 30-minute walk of ' + esc(label) + ', best and nearest first</span></div>';
+    html += current.near.length ? '<ol class="cards">' + current.near.map(function (p) { return cardHTML(p, i++); }).join("") + "</ol>" : '<p class="empty">No unvisited places within a 30-minute walk. Try another starting point, or clear swaps.</p>';
     html += "</section>";
-    html += '<section class="group" aria-labelledby="g-away"><div class="group-head"><h2 id="g-away">Our picks</h2><span class="small muted">Places we\'ve been with our kids and rated, some worth a trip</span></div>';
-    html += current.away.length ? '<ol class="cards" start="' + i + '">' + current.away.map(function (p) { return cardHTML(p, i++); }).join("") + "</ol>" : '<p class="empty">You\'ve been to all of the reviewed trips for this age, or none fit. Nice going.</p>';
+    html += '<section class="group" aria-labelledby="g-away"><div class="group-head"><h2 id="g-away">Worth a trip</h2><span class="small muted">The best-rated places a bus, train or bike ride away</span></div>';
+    html += current.away.length ? '<ol class="cards" start="' + i + '">' + current.away.map(function (p) { return cardHTML(p, i++); }).join("") + "</ol>" : '<p class="empty">No rated places further out fit these ages yet. Ask Claude to scout for more.</p>';
     html += "</section>";
     var visited = Object.keys(state.visited).filter(function (id) { return BY_ID[id]; }).map(function (id) { var p = withDistances([BY_ID[id]])[0]; return p; });
     if (visited.length) {
@@ -340,9 +361,9 @@
     var map = null, layer = null, here = null, numbered = null;
     function drawDots() {
       if (!layer) return; layer.clearLayers();
-      PLACES.filter(function (p) { return p.kind !== "far"; }).forEach(function (p) {
-        var c = p.kind === "park" ? getVar("--park") : getVar("--trip");
-        L.circleMarker([p.lat, p.lon], { radius: p.kind === "park" ? 6 : 8, color: c, weight: 2, fillColor: state.visited[p.id] ? getVar("--surface") : c, fillOpacity: 0.85 })
+      PLACES.filter(function (p) { return !isFar(p); }).forEach(function (p) {
+        var c = isOurs(p) ? getVar("--trip") : getVar("--park");
+        L.circleMarker([p.lat, p.lon], { radius: p.ai || isOurs(p) ? 8 : 6, color: c, weight: 2, fillColor: state.visited[p.id] ? getVar("--surface") : c, fillOpacity: 0.85 })
           .bindPopup(popupHTML(p)).addTo(layer);
       });
     }
@@ -357,14 +378,14 @@
     }
     function go() {
       var o = state.origin; if (!o) return;
-      var near = withDistances(PLACES).filter(function (p) { return p.kind !== "far"; }).sort(function (a, b) { return a._d - b._d; }).slice(0, 5);
+      var near = withDistances(PLACES).filter(function (p) { return !isFar(p); }).sort(function (a, b) { return a._d - b._d; }).slice(0, 5);
       $("#near-out").innerHTML = '<h2 class="sr-only">Five nearest</h2><ol class="near-list">' + near.map(function (p, i) { return cardHTML(p, i + 1, true); }).join("") + "</ol>";
       if (map) {
         if (here) map.removeLayer(here);
         here = L.circleMarker([o.lat, o.lon], { radius: 8, color: getVar("--fg"), weight: 3, fillColor: getVar("--surface"), fillOpacity: 1 }).bindTooltip("Start: " + o.label).addTo(map);
         drawDots(); numbered.clearLayers();
         near.forEach(function (p, i) {
-          L.marker([p.lat, p.lon], { icon: L.divIcon({ className: "num-pin" + (p.kind === "park" ? "" : " trip") + (state.visited[p.id] ? " done" : ""), html: String(i + 1), iconSize: [28, 28], iconAnchor: [14, 14] }), title: (i + 1) + ". " + p.name })
+          L.marker([p.lat, p.lon], { icon: L.divIcon({ className: "num-pin" + (isOurs(p) ? " trip" : "") + (state.visited[p.id] ? " done" : ""), html: String(i + 1), iconSize: [28, 28], iconAnchor: [14, 14] }), title: (i + 1) + ". " + p.name })
             .bindPopup(popupHTML(p)).addTo(numbered);
         });
         var pts = near.map(function (p) { return [p.lat, p.lon]; }); pts.push([o.lat, o.lon]);
@@ -386,6 +407,7 @@
     var fit = ageFit(p);
     return "<strong>" + esc(p.name) + "</strong><br><span>" + esc(kindLabel(p)) + "</span>" +
       "<br>Ages: " + (v.age ? esc(v.age) : "unknown") + (fit === "yes" ? " · fits your kids" : "") +
+      (scoreOf(p) != null ? "<br>Score " + scoreOf(p) + "/10" + (p.ai ? " (AI)" : "") : "") +
       (v.standout ? "<br>" + esc(v.standout) : "") + (state.visited[p.id] ? "<br>✓ Went " + esc(niceDate(state.visited[p.id])) : "") +
       '<br><a href="' + directions(p) + '" target="_blank" rel="noopener">Directions</a>';
   }
@@ -398,9 +420,13 @@
     function draw() {
       var rows = withDistances(PLACES);
       var term = q.value.trim().toLowerCase();
-      if (term) rows = rows.filter(function (p) { var n = state.notes[p.id] || {}; return [p.name, p.area, p.hood, p.standout, p.extras, p.age, (p.review || {}).text, n.age, n.standout, n.extras].join(" ").toLowerCase().indexOf(term) >= 0; });
-      if (kind.value === "london") rows = rows.filter(function (p) { return p.kind !== "far"; });
-      else if (kind.value) rows = rows.filter(function (p) { return p.kind === kind.value; });
+      if (term) rows = rows.filter(function (p) { var n = state.notes[p.id] || {}; return [p.name, p.area, p.hood, TYPE_LABEL[p.type], p.standout, p.extras, p.age, (p.review || {}).text, p.ai && p.ai.summary, p.ai && p.ai.standout, n.age, n.standout, n.extras].join(" ").toLowerCase().indexOf(term) >= 0; });
+      var k = kind.value;
+      if (k === "london") rows = rows.filter(function (p) { return !isFar(p); });
+      else if (k === "far") rows = rows.filter(isFar);
+      else if (k === "ours") rows = rows.filter(isOurs);
+      else if (k === "unreviewed") rows = rows.filter(function (p) { return !isFar(p) && !p.ai && !p.review; });
+      else if (k) rows = rows.filter(function (p) { return !isFar(p) && p.type === k; });
       var band = AGE_BANDS[$("#agef").value];
       if (band) rows = rows.filter(function (p) { var r = rangeOf(p); return r && r[0] <= band[1] && r[1] >= band[0]; });
       var s = sort.value;
@@ -408,14 +434,17 @@
       rows.sort(function (a, b) {
         if (s === "distance") return a._d - b._d;
         if (s === "reviewed") return (b.review ? 1 : 0) - (a.review ? 1 : 0) || a.name.localeCompare(b.name);
+        if (s === "score") return rankScore(b) - rankScore(a) || (scoreOf(b) != null) - (scoreOf(a) != null) || a.name.localeCompare(b.name);
         return a.name.localeCompare(b.name);
       });
-      $("#count").textContent = rows.length + " of " + PLACES.length + " places" + (kind.value === "london" ? " (London; choose “Further afield” for holiday places)" : "");
+      $("#count").textContent = rows.length + " of " + PLACES.length + " places" + (kind.value === "london" ? " within 5 miles of Peckham" : "");
       $("#tbody").innerHTML = rows.map(function (p) {
-        var v = view(p), pill = p.kind === "park" ? "" : (p.kind === "trip" ? " trip" : " far");
-        var review = p.review ? esc(p.review.stars) + "★ “" + esc(p.review.text) + "”" : (v.standout ? esc(v.standout) + (v.mine ? ' <span class="muted small">(your note)</span>' : "") : '<span class="muted">Not reviewed yet</span>');
+        var v = view(p), pill = isFar(p) ? " far" : (isOurs(p) ? " trip" : "");
+        var review = p.review ? esc(p.review.stars) + "★ “" + esc(p.review.text) + "”"
+          : p.ai ? '<span class="score">' + p.ai.score + '/10</span> ' + esc(p.ai.summary) + ' <span class="muted small">(AI review)</span>'
+          : (v.standout ? esc(v.standout) + (v.mine ? ' <span class="muted small">(your note)</span>' : "") : '<span class="muted">Not reviewed yet</span>');
         return "<tr><td data-l=\"Place\"><strong>" + esc(p.name) + "</strong><br><span class=\"small muted\">" + esc(p.hood ? p.hood + ", " + p.area : p.area) + "</span></td>" +
-          '<td data-l="Type"><span class="pill' + pill + '">' + (p.kind === "park" ? "Park" : p.kind === "trip" ? "Our pick" : "Further afield") + "</span></td>" +
+          '<td data-l="Type"><span class="pill' + pill + '">' + (isFar(p) ? "Further afield" : isOurs(p) ? "Our pick" : esc(TYPE_LABEL[p.type] || "Adventure")) + "</span></td>" +
           '<td data-l="Ages">' + (v.age ? esc(v.age) : '<span class="muted">Unknown</span>') + "</td>" +
           '<td data-l="Review" class="rev">' + review + "</td>" +
           '<td data-l="How far" class="num">' + (p._d != null ? esc(howFar(p._d)) : "—") + "</td>" +
@@ -440,5 +469,5 @@
     draw();
   }
 
-  window.AM = { initNext10: initNext10, initNear: initNear, initList: initList, _distM: distM, _buildNext10: buildNext10 };
+  window.AM = { initNext10: initNext10, initNear: initNear, initList: initList, initAdd: function () { if (window.AMAdd) window.AMAdd({ places: PLACES, types: TYPE_LABEL, presets: PRESETS, esc: esc, distM: distM }); }, _distM: distM, _buildNext10: buildNext10 };
 })();

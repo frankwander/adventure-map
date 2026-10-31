@@ -1,0 +1,14 @@
+name: Ask Claude to scout
+description: Claude searches for new adventures and adds them with a review on its next run.
+title: "[Scout] "
+body:
+  - type: textarea
+    id: focus
+    attributes: { label: What should Claude look for? }
+    validations: { required: true }
+  - type: input
+    id: area
+    attributes: { label: Where, value: "Within 5 miles of Peckham" }
+  - type: dropdown
+    id: count
+    attributes: { label: How many, options: ["5", "10", "20"], default: 1 }

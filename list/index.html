@@ -15,13 +15,13 @@
 <body>
 <header class="top"><div class="wrap">
   <a class="brand" href="../"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="var(--park)"/><path d="M9 22l5-12 4 8 2-4 3 8z" fill="var(--surface)"/></svg>Adventure Map</a>
-  <nav class="nav" aria-label="Main"><a href="../">Next 10</a><a href="../near/">Near me</a><a href="../list/" aria-current="page">All places</a></nav>
+  <nav class="nav" aria-label="Main"><a href="../">Next 10</a><a href="../near/">Near me</a><a href="../list/" aria-current="page">All places</a><a href="../add/">Add &amp; ask</a></nav>
 </div></header>
 <main class="wrap">
   <section class="hero">
     <span class="eyebrow">All places</span>
-    <h1>Every playground on the map</h1>
-    <p class="lede">All 59 Southwark park playgrounds, plus the places we've reviewed in London and further afield.</p>
+    <h1>Every adventure on the map</h1>
+    <p class="lede">Playgrounds, parks, farms, museums and more within 5 miles of Peckham, plus places we've loved further afield.</p>
   </section>
   <section class="panel" aria-label="Filter">
     <div class="controls">
@@ -32,15 +32,15 @@
     <p class="status" id="loc-status" role="status" aria-live="polite"></p>
     <div class="controls">
       <div class="field"><label for="q">Search</label><input id="q" type="search" placeholder="Name, area or feature"></div>
-      <div class="field"><label for="kind">Type</label><select id="kind"><option value="london">All in London</option><option value="park">Park playgrounds</option><option value="trip">Our picks</option><option value="far">Further afield</option><option value="">Everything</option></select></div>
+      <div class="field"><label for="kind">Type</label><select id="kind"><option value="london">Within 5 miles of Peckham</option><option value="ours">Our picks</option><option value="playground">Playgrounds</option><option value="park">Parks</option><option value="nature">Nature</option><option value="farm">City farms</option><option value="museum">Museums</option><option value="water">Splash &amp; swim</option><option value="landmark">Landmarks</option><option value="activity">Activities</option><option value="library">Libraries</option><option value="unreviewed">Not reviewed yet</option><option value="far">Further afield</option><option value="">Everything</option></select></div>
       <div class="field"><label for="agef">Suits ages</label><select id="agef"><option value="any">Any</option><option value="0-2">0–2</option><option value="3-5">3–5</option><option value="6-8">6–8</option><option value="9-12">9–12</option></select></div>
-      <div class="field"><label for="sort">Sort</label><select id="sort"><option value="name">Name</option><option value="distance">Distance</option><option value="reviewed">Reviewed first</option></select></div>
+      <div class="field"><label for="sort">Sort</label><select id="sort"><option value="name">Name</option><option value="distance">Distance</option><option value="score">Best score</option><option value="reviewed">Our picks first</option></select></div>
     </div>
     <p class="small muted" id="count" aria-live="polite"></p>
   </section>
   <div class="tbl">
     <table>
-      <thead><tr><th scope="col">Place</th><th scope="col">Type</th><th scope="col">Ages</th><th scope="col">Our review</th><th scope="col">How far</th><th scope="col">Visited</th><th scope="col"><span class="sr-only">Directions</span></th></tr></thead>
+      <thead><tr><th scope="col">Place</th><th scope="col">Type</th><th scope="col">Ages</th><th scope="col">Review</th><th scope="col">How far</th><th scope="col">Visited</th><th scope="col"><span class="sr-only">Directions</span></th></tr></thead>
       <tbody id="tbody"></tbody>
     </table>
   </div>
@@ -54,7 +54,7 @@
   </section>
 </main>
 <footer><div class="wrap">
-  <p>Adventure is everywhere. Park playgrounds come from Southwark Council's play-area list (59 park sites). "Our picks" are places we've been and reviewed ourselves. Walking times are estimates: straight-line distance plus 30%, at 80 m a minute.</p>
+  <p>Adventure is everywhere. Park playgrounds come from Southwark Council's play-area list. "Our picks" are places we've been ourselves. AI reviews are written by Claude from recent public web sources, not visits, and link to those sources. Walking times are estimates: straight-line distance plus 30%, at 80 m a minute.</p>
   <p>Your location, ticks and notes stay in this browser. Nothing is sent anywhere. Map © OpenStreetMap contributors.</p>
 </div></footer>
 <script src="../data.js"></script>

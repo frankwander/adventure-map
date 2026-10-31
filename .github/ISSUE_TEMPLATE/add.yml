@@ -1,0 +1,32 @@
+name: Add an adventure
+description: Put a place on the map. It's added automatically within a minute (owner only).
+title: "[Add] "
+body:
+  - type: input
+    id: name
+    attributes: { label: Name }
+    validations: { required: true }
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options: [Playground, Park, Nature, City farm, Museum, "Splash & swim", Landmark, Activity, Library]
+    validations: { required: true }
+  - type: textarea
+    id: what
+    attributes: { label: What makes it good, description: "The standout thing, plus café, toilets, fenced, buggy-friendly…" }
+  - type: input
+    id: ages
+    attributes: { label: Ages it suits, placeholder: "2–8" }
+  - type: input
+    id: where
+    attributes: { label: Address or directions }
+  - type: input
+    id: lat
+    attributes: { label: Latitude }
+  - type: input
+    id: lon
+    attributes: { label: Longitude }
+  - type: input
+    id: link
+    attributes: { label: Website }

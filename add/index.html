@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Adventure Map — add &amp; ask</title>
+<meta name="description" content="Add an adventure to the map, or ask Claude to scout for new places and review them.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%232f6b45'/%3E%3Cpath d='M9 22l5-12 4 8 2-4 3 8z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=IBM+Plex+Mono:wght@500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="../vendor/leaflet/leaflet.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="../"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="var(--park)"/><path d="M9 22l5-12 4 8 2-4 3 8z" fill="var(--surface)"/></svg>Adventure Map</a>
+  <nav class="nav" aria-label="Main"><a href="../">Next 10</a><a href="../near/">Near me</a><a href="../list/">All places</a><a href="../add/" aria-current="page">Add &amp; ask</a></nav>
+</div></header>
+<main class="wrap">
+  <section class="hero">
+    <span class="eyebrow">Add &amp; ask</span>
+    <h1>Grow the map</h1>
+    <p class="lede">Add a place you know, or ask Claude to scout for new adventures within 5 miles of Peckham and review them. Each request opens a short form on GitHub; tap “Create” there to send it.</p>
+  </section>
+
+  <div class="tabs" role="tablist" aria-label="What do you want to do?">
+    <button type="button" role="tab" id="t-add" aria-controls="p-add" aria-selected="true">Add a place</button>
+    <button type="button" role="tab" id="t-scout" aria-controls="p-scout" aria-selected="false">Scout</button>
+    <button type="button" role="tab" id="t-review" aria-controls="p-review" aria-selected="false">Review</button>
+  </div>
+
+  <section class="panel" role="tabpanel" id="p-add" aria-labelledby="t-add">
+    <h2>Add a place</h2>
+    <form id="add-form" class="form-grid" novalidate>
+      <div class="field"><label for="a-name">Name</label><input id="a-name" type="text" required placeholder="e.g. Nunhead Cemetery nature trail" autocomplete="off"></div>
+      <div class="field"><label for="a-type">Type</label><select id="a-type"></select></div>
+      <div class="field wide"><label for="a-what">What makes it good</label><textarea id="a-what" rows="3" placeholder="The one standout thing, plus anything useful: café, toilets, fenced, buggy-friendly"></textarea></div>
+      <div class="field"><label for="a-ages">Ages it suits</label><input id="a-ages" type="text" placeholder="e.g. 2–8"></div>
+      <div class="field"><label for="a-link">Website (optional)</label><input id="a-link" type="url" placeholder="https://"></div>
+      <div class="field wide"><span class="lbl">Where is it?</span>
+        <div id="pick-map" role="region" aria-label="Tap the map to place a pin"></div>
+        <div class="row"><button class="btn" type="button" id="a-here">Use where I am now</button><span class="small muted">or tap the map</span></div>
+        <p class="status" id="a-loc-status" role="status" aria-live="polite"></p>
+      </div>
+      <div class="field"><label for="a-lat">Latitude</label><input id="a-lat" type="text" inputmode="decimal"></div>
+      <div class="field"><label for="a-lon">Longitude</label><input id="a-lon" type="text" inputmode="decimal"></div>
+      <div class="field wide"><label for="a-where">Address or directions (if no pin)</label><input id="a-where" type="text" placeholder="e.g. Linden Grove entrance, SE15"></div>
+      <p class="small wide" id="a-dupe" hidden></p>
+      <div class="wide row"><button class="btn primary" type="submit">Send to the map</button></div>
+      <p class="status wide" id="a-status" role="status" aria-live="polite"></p>
+    </form>
+    <ol class="steps"><li>GitHub opens with this filled in. Tap “Create”.</li><li>The place is on the map in about a minute.</li><li>Claude adds an AI review and score on its next daily run.</li></ol>
+  </section>
+
+  <section class="panel" role="tabpanel" id="p-scout" aria-labelledby="t-scout" hidden>
+    <h2>Ask Claude to scout</h2>
+    <p class="muted">Claude searches the web for places that aren't on the map yet, checks they're within 5 miles of Peckham, and adds them with a review.</p>
+    <div class="row">
+      <button class="btn small" type="button" data-idea="Adventure playgrounds">Adventure playgrounds</button>
+      <button class="btn small" type="button" data-idea="Splash pads, paddling pools and lidos">Splash &amp; swim</button>
+      <button class="btn small" type="button" data-idea="City farms and animals">City farms</button>
+      <button class="btn small" type="button" data-idea="Woods, nature reserves and wild places">Nature</button>
+      <button class="btn small" type="button" data-idea="Free museums and galleries good for kids">Museums</button>
+      <button class="btn small" type="button" data-idea="Hidden gems: statues, little libraries, bridges, odd landmarks">Hidden gems</button>
+    </div>
+    <form id="scout-form" class="form-grid">
+      <div class="field wide"><label for="s-focus">What should Claude look for?</label><textarea id="s-focus" rows="3" placeholder="e.g. Rainy-day places for a 3- and 7-year-old"></textarea></div>
+      <div class="field"><label for="s-area">Where</label><input id="s-area" type="text" value="Within 5 miles of Peckham"></div>
+      <div class="field"><label for="s-count">How many</label><select id="s-count"><option>5</option><option selected>10</option><option>20</option></select></div>
+      <div class="wide row"><button class="btn primary" type="submit">Ask Claude to scout</button></div>
+      <p class="status wide" id="s-status" role="status" aria-live="polite"></p>
+    </form>
+  </section>
+
+  <section class="panel" role="tabpanel" id="p-review" aria-labelledby="t-review" hidden>
+    <h2>Ask Claude to review</h2>
+    <p class="muted">Claude reads recent public write-ups (council pages, local news, parent blogs), then writes a short review with an Adventure Score out of 10, highlights, watch-outs and links. <span id="r-count"></span></p>
+    <form id="review-form" class="form-grid">
+      <div class="field wide"><label for="r-place">Which place?</label><select id="r-place"></select></div>
+      <div class="field wide"><label for="r-notes">Anything to check? (optional)</label><input id="r-notes" type="text" placeholder="e.g. Is the paddling pool open in winter?"></div>
+      <div class="wide row"><button class="btn primary" type="submit">Ask Claude to review</button></div>
+      <p class="status wide" id="r-status" role="status" aria-live="polite"></p>
+    </form>
+  </section>
+
+  <p class="small muted"><a href="https://github.com/frankwander/adventure-map/issues" target="_blank" rel="noopener">See requests in progress on GitHub</a>. Only requests from the site owner's GitHub account are acted on.</p>
+</main>
+<footer><div class="wrap">
+  <p>Adventure is everywhere. Park playgrounds come from Southwark Council's play-area list. "Our picks" are places we've been ourselves. AI reviews are written by Claude from recent public web sources, not visits, and link to those sources. Walking times are estimates: straight-line distance plus 30%, at 80 m a minute.</p>
+  <p>Your location, ticks and notes stay in this browser. Nothing is sent anywhere. Map © OpenStreetMap contributors.</p>
+</div></footer>
+<script src="../data.js"></script>
+<script src="../vendor/leaflet/leaflet.js"></script>
+<script src="../assets/app.js"></script>
+<script src="../assets/add.js"></script>
+<script>AM.initAdd();</script>
+</body>
+</html>

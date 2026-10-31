@@ -1,0 +1,11 @@
+name: Ask Claude to review
+description: Claude writes an AI review and Adventure Score from recent public sources on its next run.
+title: "[Review] "
+body:
+  - type: input
+    id: places
+    attributes: { label: Which place(s)?, description: "A name, an id like p012, or 'All places without an AI review'" }
+    validations: { required: true }
+  - type: input
+    id: notes
+    attributes: { label: Anything to check? }

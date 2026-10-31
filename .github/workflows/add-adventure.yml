@@ -1,0 +1,47 @@
+name: Add adventure from issue
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+concurrency: { group: places-json, cancel-in-progress: false }
+jobs:
+  add:
+    # Only the repo owner's "[Add]" issues are acted on. Anyone can open issues on a public repo.
+    if: startsWith(github.event.issue.title, '[Add]') && github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Add the place
+        id: add
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          set +e
+          msg=$(python3 scripts/add_from_issue.py); code=$?
+          echo "$msg"
+          { echo "msg<<EOF"; echo "$msg"; echo "EOF"; echo "code=$code"; } >> "$GITHUB_OUTPUT"
+          exit 0
+      - name: Rebuild and publish
+        if: steps.add.outputs.code == '0'
+        env:
+          TITLE: ${{ github.event.issue.title }}
+          NUM: ${{ github.event.issue.number }}
+        run: |
+          python3 scripts/build.py
+          git config user.name "adventure-map-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/places.json data.js
+          git commit -m "${TITLE#\[Add\] } added from #${NUM}"
+          git push
+      - name: Reply on the issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MSG: ${{ steps.add.outputs.msg }}
+          CODE: ${{ steps.add.outputs.code }}
+          NUM: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$NUM" --repo "$GITHUB_REPOSITORY" --body "$MSG"
+          if [ "$CODE" = "0" ]; then gh issue close "$NUM" --repo "$GITHUB_REPOSITORY"; fi
