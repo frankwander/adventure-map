@@ -4689,6 +4689,135 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p124",
+   "name": "Green Dale Fields",
+   "lat": 51.45876,
+   "lon": -0.0862,
+   "type": "nature",
+   "area": "East Dulwich / Camberwell, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Street centre of Green Dale, SE5 (hds.py geocode, middle of three segments); the fields lie beside this road, so the pin may be up to about 150 m off.",
+   "link": "https://southwark.gov.uk/parks-and-open-spaces/parks/green-dale-fields",
+   "ai": {
+    "score": 6,
+    "summary": "About 5 hectares of former playing fields off Green Dale, back under council management since 2018 and left to rewild for wildlife and people. Friends groups value its wild character and lead nature walks linking it with Dog Kennel Hill Wood next door. Good for a rough-and-ready ramble and spotting birds such as kestrels.",
+    "standout": "A big patch of rewilded grassland on the edge of East Dulwich",
+    "highlights": [
+     "Rewilding former playing fields",
+     "Kestrels and other wildlife recorded",
+     "Friends groups run guided wildlife walks",
+     "Next to Dog Kennel Hill Wood and its adventure playground"
+    ],
+    "cautions": [
+     "Kept deliberately wild: no play equipment or facilities noted",
+     "Past plans to build a football stadium and homes on part of the site were disputed; check the current state before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Green Dale Fields",
+      "url": "https://southwark.gov.uk/parks-and-open-spaces/parks/green-dale-fields"
+     },
+     {
+      "title": "Friends of Dog Kennel Hill Wood: Write to the Mayor about Green Dale Fields MOL",
+      "url": "https://www.friendsofdkhwood.org/2020/01/write-to-the-mayor-about-green-dale-fields-mol/"
+     },
+     {
+      "title": "Southwark News: \"All we want to do is conserve Green Dale\"",
+      "url": "https://southwarknews.co.uk/?p=8769"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p125",
+   "name": "Bethwin Road Adventure Playground",
+   "lat": 51.48035,
+   "lon": -0.0979,
+   "type": "playground",
+   "area": "Camberwell, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Council lists 4 Bethwin Road, SE5 0HF, but that postcode is not in the gazetteer; pin is the street centre of Bethwin Road, SE5 (hds.py geocode, first of two segments).",
+   "link": "https://services.southwark.gov.uk/parks-and-open-spaces/adventure-playgrounds",
+   "ai": {
+    "score": 7,
+    "summary": "A free, open-access staffed adventure playground in Camberwell, running for about 50 years, with drop-in supervised play after school and in the holidays for 6 to 16 year olds. Southwark lists and inspects it among its adventure playgrounds; the council calls the site tired and plans to renovate it.",
+    "standout": "Free supervised adventure play, a Camberwell institution for 50 years",
+    "age": "6–16",
+    "ages": [
+     6,
+     16
+    ],
+    "highlights": [
+     "Free, open-access drop-in play",
+     "Staffed sessions after school and in holidays",
+     "Celebrated its 50th anniversary in 2026"
+    ],
+    "cautions": [
+     "Opening varies (term time and summer programme): check the playground's own site before going",
+     "Council describes the site as tired, with renovation planned; Southwark News reported calls for urgent funding in 2026"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Adventure playgrounds",
+      "url": "https://services.southwark.gov.uk/childcare-and-parenting/activities-and-things-to-do/adventure-playgrounds?chapter=2"
+     },
+     {
+      "title": "Southwark Council: Adventure Play Services grants extension 2022/23",
+      "url": "https://moderngov.southwark.gov.uk/documents/s105916/Report%20Adventure%20Play%20Services%20grants%20extension%20202223.pdf"
+     },
+     {
+      "title": "Southwark News: Bethwin Road playground",
+      "url": "https://southwarknews.co.uk/?p=460711"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p126",
+   "name": "Fordham Park",
+   "lat": 51.47677,
+   "lon": -0.0371,
+   "type": "park",
+   "area": "New Cross, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Street centre of Clifton Rise, SE14 (hds.py geocode), which runs along the park; pin may be up to about 150 m off.",
+   "link": "https://lewisham.gov.uk/inmyarea/openspaces/parks/fordham-park",
+   "ai": {
+    "score": 5,
+    "summary": "A council park in New Cross, regenerated in 2010 with new trees, lighting, furniture and play elements. A Friends group has since won greening funds for bins, water fountains and bird nest boxes. A handy neighbourhood stop for a run-around near New Cross station.",
+    "standout": "A neighbourhood park with play features and an active Friends group",
+    "highlights": [
+     "Play elements added in the 2010 regeneration",
+     "Friends group improvements (bird boxes, fountains)",
+     "Short walk from Hatcham Gardens"
+    ],
+    "cautions": [
+     "Sources don't detail the current play equipment: check the council page before going",
+     "Plain neighbourhood park rather than a destination"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Fordham Park",
+      "url": "https://en.wikipedia.org/wiki/Fordham_Park"
+     },
+     {
+      "title": "Lewisham Council: Fordham Park",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/fordham-park"
+     },
+     {
+      "title": "London Gardens Trust: Fordham Park (LEW019a)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW019a"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }

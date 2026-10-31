@@ -125,6 +125,42 @@
    "url": "https://production.goodgym.org/v3/organisations/camberwell-secret-garden",
    "note": "Estate community garden run by the tenant management group (GoodGym, plus a property listing). Public access and location within the estate are unknown. Pin is the D'Eynsford Road SE5 street centre.",
    "found": "2026-10-31"
+  },
+  {
+   "name": "New Cross Gate Cutting (Brockley Nature Reserve)",
+   "lat": 51.46861,
+   "lon": -0.03707,
+   "cell": "x+4y-1",
+   "url": "https://www.wildlifetrusts.org/nature-reserves/restricted-access-new-cross-gate-cutting",
+   "note": "London Wildlife Trust reserve, entrance Vesta Road SE4 2NR (postcode pin). Locked except monthly open days (last Saturday, 1-4pm per older pages) and volunteer days; no 2026 calendar found.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Addington Square Garden",
+   "lat": 51.48108,
+   "lon": -0.09178,
+   "cell": "x-3y+2",
+   "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=SOU001",
+   "note": "Public Georgian garden square by Burgess Park (open 7.30am-sunset per LGT); Southwark heritage mentions a 1935 jubilee playground but no current source confirms play equipment, so kid value unclear. Postcode SE5 7LB pin.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Blue Bermondsey People's Mural",
+   "lat": 51.49227,
+   "lon": -0.06523,
+   "cell": "x+1y+4",
+   "url": "https://batch.artuk.org/discover/artworks/blue-bermondsey-peoples-mural-347559",
+   "note": "Well sourced (Art UK, Southwark News, London Remembers, Blue Bermondsey): 15 x 7 m 2022 mural by Paul Butler centred on Ada Salter, on St James's Road at the corner of Drappers Way SE16. Drappers Way not in gazetteer (postcode SE16 3AU also missing), so pin is a St James's Road segment centre and may be several hundred metres off: needs exact location, then add.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Brockley Station community garden",
+   "lat": 51.46419,
+   "lon": -0.0371,
+   "cell": "x+4y-2",
+   "url": "https://walks.gojauntly.com/walks/brockley-bimble-walking-trail-5182631582422471152",
+   "note": "Garden by Brockley station kept by Brockley Cross Action Group; one walking-trail source only. Pin is Coulgate Street, SE4 street centre.",
+   "found": "2026-10-31"
   }
  ]
 }
