@@ -44,6 +44,42 @@
    "url": "https://en.wikipedia.org/wiki/Peckham",
    "note": "Verified by 2 sources, but the pin reused Goose Green playground's coordinates: find the mural's own location",
    "found": "2026-10-31"
+  },
+  {
+   "name": "Daniels Road community garden (former car park)",
+   "lat": 51.4639,
+   "lon": -0.05496,
+   "cell": "x+2y-2",
+   "url": "https://moderngov.southwark.gov.uk/documents/s27131/Cleaner Greener Safer Capital Fund - appendix 1.pdf",
+   "note": "Only a Southwark Cleaner Greener Safer funding line to convert Daniels Road car park into a community garden; not known whether it was built or is public. Pin is street centre of Daniel's Road, SE15.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Elmington Community Gardens (Brisbane Street wildlife triangle)",
+   "lat": 51.4774,
+   "lon": -0.0905,
+   "cell": "x-3y+1",
+   "url": "https://www.goodgym.org/v3/reports/sage-advice-from-the-neighbours",
+   "note": "Estate wildlife/community garden run by a charity (no. 1206069); public access and exact spot unclear. Pin is street centre of Brisbane Street, SE5.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Camberwell Identity mural, Wren Road (Butterfly Walk)",
+   "lat": 51.47345,
+   "lon": -0.09179,
+   "cell": "x-3y+0",
+   "url": "https://southwarknews.co.uk/?p=44275",
+   "note": "Only one source mentions a mural on Wren Road at Butterfly Walk; subject and exact wall unknown. Pin is street centre of Wren Road, SE5.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Camberwell Beauty Doulton tile mural, Wells Way",
+   "lat": 51.48108,
+   "lon": -0.08548,
+   "cell": "x-2y+2",
+   "url": "https://tilesoc.org.uk/tile-gazetteer/southwark.html",
+   "note": "Doulton tile panel from the Samuel Jones factory, resited 1983 on the south gable of the former library on Wells Way by Burgess Park; mentioned in Burgess Park review. Pin is Wells Way street centre; outside this run's cells, could be a separate landmark with a second source.",
+   "found": "2026-10-31"
   }
  ]
 }
