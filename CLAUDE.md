@@ -59,11 +59,19 @@ adventure playground or city farm is usually 8–9.
 ### Locations
 - If the place is one of the council playgrounds already in the data, use that entry; don't
   add a duplicate.
+- Best: find the place's postcode or street and run `python3 scripts/hds.py geocode "SE15 4EE"`
+  or `python3 scripts/hds.py geocode "Costa Street, SE15"` (offline ONS/OS gazetteer).
 - Otherwise take coordinates from a source that states them (the venue, Wikipedia,
   OpenStreetMap/Mapcarta pages in search results). Put where they came from in
   `locationNote`. If you can't find coordinates you trust, don't add the place: list it in
   your report instead.
 - `build.py` rejects local places further than 8.05 km from Peckham.
+
+## High Density Search
+To find small places street by street, follow `.claude/skills/dense-search/SKILL.md`
+(method: `docs/high-density-search.md`). Progress lives in `data/hds/cells.json`; unconfirmed
+finds in `data/hds/leads.json`. Those files may be edited during runs along with
+`data/places.json` and `data.js`.
 
 ## Requests from the owner (GitHub issues)
 

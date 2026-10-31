@@ -3476,6 +3476,157 @@
     ],
     "reviewedAt": "2026-10-31"
    }
+  },
+  {
+   "id": "p094",
+   "name": "McDermott Community Gardens",
+   "lat": 51.46708,
+   "lon": -0.07022,
+   "type": "nature",
+   "area": "Bellenden, Peckham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Centre of Costa Street from the OS Open Names gazetteer (scripts/hds.py geocode); the entrance is just off Costa Street, opposite the school.",
+   "ai": {
+    "score": 6,
+    "summary": "A small community garden tucked off Costa Street. It was a dumping ground until 2000, when Charlie Dimmock's TV team landscaped it as part of the Bellenden renewal scheme, and local artists added mosaics. A quiet green pocket to explore on a walk round Bellenden.",
+    "standout": "Mosaics made by local artists",
+    "highlights": [
+     "Mosaics by local artists",
+     "A quiet, hidden green space a few minutes from Rye Lane"
+    ],
+    "cautions": [
+     "Little recent information: check it's open before making a special trip"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Art, literature and green spaces walk (2024)",
+      "url": "https://www.southwark.gov.uk/sites/default/files/2024-08/Art%2C%20literature%20and%20green%20spaces%20walk.pdf"
+     },
+     {
+      "title": "Tom Phillips: Bellenden Road Renewal Scheme",
+      "url": "https://www.tomphillips.co.uk/works/site-specific-works/10291-bellenden-road-renewal-scheme-2"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p095",
+   "name": "Centre for Wildlife Gardening",
+   "lat": 51.46352,
+   "lon": -0.07446,
+   "type": "nature",
+   "area": "Peckham / East Dulwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE15 4EE (28 Marsden Road) from the ONS Postcode Directory (scripts/hds.py geocode).",
+   "link": "https://www.wildlondon.org.uk/",
+   "ai": {
+    "score": 8,
+    "summary": "A small, free London Wildlife Trust nature reserve on a former council depot, with a wildflower meadow, woodland, ponds and hedgerows, plus composting and a wormery to look at. Open to families, schools and community groups, and it hosts baby and toddler groups.",
+    "standout": "Ponds, meadow and mini woodland in a hidden garden",
+    "age": "All ages; baby and toddler groups",
+    "extras": "Free entry",
+    "highlights": [
+     "Ponds, wildflower meadow, woodland and hedgerows",
+     "Wormery and composting to explore",
+     "Baby and toddler groups listed"
+    ],
+    "cautions": [
+     "Open on selected days only and listings disagree: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Centre for Wildlife Gardening",
+      "url": "https://en.wikipedia.org/wiki/Centre_for_Wildlife_Gardening"
+     },
+     {
+      "title": "Southwark Council: Gardening, growing and conservation",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/gardening-growing-and-conservation?chapter=4"
+     },
+     {
+      "title": "Garden Visit: Centre for Wildlife Gardening",
+      "url": "https://www.gardenvisit.com/gardens/centre_for_wildlife_gardening"
+     },
+     {
+      "title": "Happity: baby groups at the Centre for Wildlife Gardening",
+      "url": "https://www.happity.co.uk/venues/baby-groups-london-london-wildlife-trust-centre-for-wildlife-gardening"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p096",
+   "name": "Holly Grove Shrubbery",
+   "lat": 51.46976,
+   "lon": -0.07216,
+   "type": "nature",
+   "area": "Bellenden, Peckham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Centre of Holly Grove from the OS Open Names gazetteer (scripts/hds.py geocode).",
+   "ai": {
+    "score": 5,
+    "summary": "A narrow Victorian shrubbery running along Holly Grove, opened to the public in 1897 and recorded by the London Gardens Trust. A small leafy strip rather than a destination, but a pleasant green stop on the way round Bellenden's quiet streets.",
+    "standout": "A Victorian shrubbery from 1897",
+    "highlights": [
+     "Historic green strip among Victorian houses"
+    ],
+    "cautions": [
+     "Very small; no play equipment"
+    ],
+    "sources": [
+     {
+      "title": "London Gardens Trust inventory: Holly Grove Shrubbery (SOU039)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU039"
+     },
+     {
+      "title": "Parks and Gardens UK: Holly Grove Shrubbery",
+      "url": "https://www.parksandgardens.org/places/holly-grove-shrubbery"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p097",
+   "name": "Gormley's Peckham bollards",
+   "lat": 51.46747,
+   "lon": -0.07265,
+   "type": "landmark",
+   "area": "Bellenden, Peckham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Approximate: junction of Bellenden Road and Choumert Road, from the street centres in OS Open Names.",
+   "ai": {
+    "score": 6,
+    "summary": "About twenty cast-metal bollards on Bellenden Road designed by sculptor Antony Gormley for the Bellenden renewal scheme in the early 2000s. They come in four shapes, nicknamed the snowman, the egg and the peg among them, which makes a fun spot-the-shapes hunt for kids on the walk to the shops.",
+    "standout": "Street furniture by Antony Gormley",
+    "highlights": [
+     "A free spot-the-shapes hunt",
+     "Real public art by a famous sculptor"
+    ],
+    "cautions": [
+     "They're bollards: a five-minute stop, best combined with McDermott Gardens or Holly Grove nearby"
+    ],
+    "sources": [
+     {
+      "title": "Historic England: Choumert Square and Bellenden Road with Gormley bollards",
+      "url": "https://historicengland.org.uk/images-books/photos/item/DP075556"
+     },
+     {
+      "title": "Design Week: Peckham regeneration employs a host of creatives",
+      "url": "https://designweek.co.uk/issues/10-april-2003/peckham-regeneration-employs-a-host-of-creatives"
+     },
+     {
+      "title": "Londonist: Seven London bollards to see before you die",
+      "url": "https://londonist.com/london/best-of-london/best-bollards-in-london"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   }
  ]
 }

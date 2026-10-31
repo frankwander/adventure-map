@@ -386,7 +386,27 @@
     presetSelect(sel);
     var local = PLACES.filter(function (p) { return !isFar(p); });
     var filt = { types: {}, min: 0, hideDone: false };
-    var map = null, layer = null, here = null, numbered = null;
+    var map = null, layer = null, here = null, numbered = null, coverage = null;
+    // High Density Search coverage: each searched 500 m square, shaded.
+    var hds = window.HDS;
+    var covBox = $("#show-coverage");
+    if (hds && covBox) {
+      var searched = hds.cells.filter(function (c) { return c[2]; });
+      $("#coverage-note").textContent = searched.length + " of " + hds.cells.length + " squares searched street by street";
+      covBox.addEventListener("change", function () {
+        if (!map) return;
+        if (covBox.checked) {
+          coverage.clearLayers();
+          var dLat = hds.cellMeters / 111320, dLon = hds.cellMeters / (111320 * Math.cos(PECKHAM.lat * Math.PI / 180));
+          hds.cells.forEach(function (c) {
+            var b = [[c[0] - dLat / 2, c[1] - dLon / 2], [c[0] + dLat / 2, c[1] + dLon / 2]];
+            L.rectangle(b, c[2] ? { color: "#2f6b45", weight: 1, fillColor: "#2f6b45", fillOpacity: c[3] ? 0.28 : 0.14, interactive: false }
+                                : { color: "#64748b", weight: 0.5, opacity: 0.35, fill: false, interactive: false }).addTo(coverage);
+          });
+          coverage.addTo(map); coverage.eachLayer(function (l) { l.bringToBack(); });
+        } else map.removeLayer(coverage);
+      });
+    } else if (covBox) { covBox.closest("label").hidden = true; }
 
     // type chips with counts
     var counts = {}; local.forEach(function (p) { counts[p.type] = (counts[p.type] || 0) + 1; });
@@ -417,6 +437,7 @@
       map = baseMap("map");
       L.circle([PECKHAM.lat, PECKHAM.lon], { radius: RADIUS_M, color: getVar("--park"), weight: 2, dashArray: "6 6", fill: false, interactive: false }).addTo(map);
       L.marker([PECKHAM.lat, PECKHAM.lon], { icon: L.divIcon({ className: "area-label", html: "Peckham", iconSize: [70, 20], iconAnchor: [35, 10] }), interactive: false }).addTo(map);
+      coverage = L.layerGroup();
       layer = L.layerGroup().addTo(map);
       numbered = L.layerGroup().addTo(map);
       map.fitBounds(L.latLng(PECKHAM.lat, PECKHAM.lon).toBounds(RADIUS_M * 2), { padding: [10, 10] });

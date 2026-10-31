@@ -29,6 +29,7 @@
     <div class="controls">
       <div class="field"><label for="min-score">Score</label><select id="min-score"><option value="0">Any score</option><option value="7">7 and up</option><option value="8">8 and up</option><option value="9">9 and up</option></select></div>
       <label class="row small" for="hide-done"><input type="checkbox" id="hide-done"> Hide places we've been</label>
+      <label class="row small" for="show-coverage"><input type="checkbox" id="show-coverage"> Show search coverage <span class="muted" id="coverage-note"></span></label>
       <span class="small muted" id="map-count" aria-live="polite"></span>
     </div>
   </section>
@@ -44,7 +45,7 @@
     </div>
     <div id="near-out" aria-live="polite"></div>
   </div>
-  <p class="small muted">The dashed ring is the 5-mile area around Peckham that the map covers.</p>
+  <p class="small muted">The dashed ring is the 5-mile area around Peckham that the map covers. With search coverage on, shaded squares have been searched street by street for small places (darker ones found something); outlined squares are still to do.</p>
 </main>
 <footer><div class="wrap">
   <p>Adventure is everywhere. Park playgrounds come from Southwark Council's play-area list. "Our picks" are places we've been ourselves. AI reviews are written by Claude from recent public web sources, not visits, and link to those sources. Walking times are estimates: straight-line distance plus 30%, at 80 m a minute.</p>
