@@ -163,15 +163,6 @@
    "found": "2026-10-31"
   },
   {
-   "name": "Loughborough Farm",
-   "lat": 51.46866,
-   "lon": -0.10593,
-   "cell": "x-5y-1",
-   "url": "https://www.brixtonbuzz.com/2026/08/join-in-with-the-loughborough-farm-gardening-sessions-every-tuesday-and-saturday/",
-   "note": "Volunteer-run community food-growing garden 'just off Loughborough Road', open during gardening sessions (Tue and Sat per Brixton Buzz, Aug 2026). Exact site unknown and Lambeth reported a move to a new home; pin is Loughborough Road, SW9 street centre.",
-   "found": "2026-10-31"
-  },
-  {
    "name": "Nairne Grove nature reserve",
    "lat": 51.45874,
    "lon": -0.08858,
@@ -205,6 +196,33 @@
    "cell": "x+1y-2",
    "url": "https://london.gov.uk/node/1587",
    "note": "Listed as a pocket park in the Mayor's Pocket Parks programme (SE15 3QQ, postcode pin); only one source and no detail on what is there for children.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Rouel Road estate community orchard (Rouel Blue Garden Club)",
+   "lat": 51.49291,
+   "lon": -0.06662,
+   "cell": "x+0y+4",
+   "url": "https://southlondon.co.uk/news/a-bermondsey-estate-has-a-new-community-garden/",
+   "note": "One news source: allotments and a 24-tree orchard on a former football pitch at St James's Road / Alexis Street, said to be 'open to all'. Need a second source and confirmation of public access; located at the Alexis Street street centre",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Southwark Park Wildlife Garden",
+   "lat": 51.49237,
+   "lon": -0.04996,
+   "cell": "x+3y+4",
+   "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/southwark-park",
+   "note": "Wildlife garden (mini woodland) on the eastern side of Southwark Park, reportedly open at weekends. Exact position in the park unknown (Hawkstone Road street centre used); the park's playgrounds are already on the map, so check whether a separate entry is wanted",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "'Truth instructing children' sculpture, Flint Street",
+   "lat": 51.49021,
+   "lon": -0.08748,
+   "cell": "x-3y+4",
+   "url": "https://www.ipernity.com/tag/philsutters/keyword/1041775",
+   "note": "Only a photographer's caption names it on Flint Street, SE17. No sculptor, date or exact spot found; may be on a school building. Flint Street street centre used",
    "found": "2026-10-31"
   }
  ]
