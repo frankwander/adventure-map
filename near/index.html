@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Adventure Map — playgrounds near me</title>
-<meta name="description" content="Find the five nearest playgrounds on a map, with ages and what makes each one good.">
+<title>Adventure Map — map</title>
+<meta name="description" content="Every adventure within 5 miles of Peckham on one map, coloured by type and sized by score.">
 <meta name="color-scheme" content="light dark">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%232f6b45'/%3E%3Cpath d='M9 22l5-12 4 8 2-4 3 8z' fill='%23fff'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,27 +16,35 @@
 <body>
 <header class="top"><div class="wrap">
   <a class="brand" href="../"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="var(--park)"/><path d="M9 22l5-12 4 8 2-4 3 8z" fill="var(--surface)"/></svg>Adventure Map</a>
-  <nav class="nav" aria-label="Main"><a href="../">Next 10</a><a href="../near/" aria-current="page">Near me</a><a href="../list/">All places</a><a href="../add/">Add &amp; ask</a></nav>
+  <nav class="nav" aria-label="Main"><a href="../">Next 10</a><a href="../near/" aria-current="page">Map</a><a href="../list/">All places</a><a href="../add/">Add &amp; ask</a></nav>
 </div></header>
 <main class="wrap">
   <section class="hero">
-    <span class="eyebrow">Near me</span>
-    <h1>Find a playground near me</h1>
-    <p class="lede">The five closest playgrounds and play places, with ages and what makes each one good where we know it.</p>
+    <span class="eyebrow">Map</span>
+    <h1>Every adventure on the map</h1>
+    <p class="lede">Everything within 5 miles of Peckham, coloured by type. Bigger dots score higher; dots with a dark ring are places we've been ourselves. Tap any dot for its review.</p>
   </section>
-  <section class="panel" aria-label="Where are you">
+  <section class="panel" aria-label="Filter the map">
+    <fieldset class="chips" id="type-chips"><legend>Show</legend></fieldset>
     <div class="controls">
-      <button class="btn primary" type="button" id="use-location">Find playgrounds near me</button>
-      <div class="field"><label for="preset">Or start from</label><select id="preset"></select></div>
-      
+      <div class="field"><label for="min-score">Score</label><select id="min-score"><option value="0">Any score</option><option value="7">7 and up</option><option value="8">8 and up</option><option value="9">9 and up</option></select></div>
+      <label class="row small" for="hide-done"><input type="checkbox" id="hide-done"> Hide places we've been</label>
+      <span class="small muted" id="map-count" aria-live="polite"></span>
     </div>
-    <p class="status" id="loc-status" role="status" aria-live="polite"></p>
   </section>
   <div class="map-layout">
-    <div id="map" role="region" aria-label="Map of playgrounds"></div>
+    <div class="map-col">
+      <div id="map" role="region" aria-label="Map of adventures"></div>
+      <div class="controls">
+        <button class="btn primary" type="button" id="use-location">Find the 5 nearest to me</button>
+        <div class="field"><label for="preset">Or start from</label><select id="preset"></select></div>
+        <button class="btn" type="button" id="show-all">Show the whole area</button>
+      </div>
+      <p class="status" id="loc-status" role="status" aria-live="polite"></p>
+    </div>
     <div id="near-out" aria-live="polite"></div>
   </div>
-  <p class="small muted">Green dots are places on the map; bigger ones have a review. <span class="pill trip">Our pick</span> orange dots are places we've been ourselves.</p>
+  <p class="small muted">The dashed ring is the 5-mile area around Peckham that the map covers.</p>
 </main>
 <footer><div class="wrap">
   <p>Adventure is everywhere. Park playgrounds come from Southwark Council's play-area list. "Our picks" are places we've been ourselves. AI reviews are written by Claude from recent public web sources, not visits, and link to those sources. Walking times are estimates: straight-line distance plus 30%, at 80 m a minute.</p>

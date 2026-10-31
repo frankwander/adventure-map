@@ -309,6 +309,7 @@
     if (!state.origin) {
       out.innerHTML = '<p class="empty">Choose where you\'re starting from, using your location or a neighbourhood, and your next 10 adventures appear here.</p>';
       $("#list-tools").hidden = true;
+      drawMini();
       return;
     }
     current = buildNext10();
@@ -328,6 +329,7 @@
     }
     out.innerHTML = html;
     $("#list-tools").hidden = false;
+    drawMini();
     var pt = $(".print-title"); if (pt) pt.textContent = "Our next 10 adventures — " + (state.origin.gps ? "" : "from ") + state.origin.label + " · " + todayISO();
   }
 
@@ -357,64 +359,122 @@
     try { navigator.clipboard.writeText(t).then(function () { s.textContent = "List copied. Paste it into a message to friends."; }, fallback); } catch (e) { fallback(); }
   }
 
-  // ---------- Near me (map) ----------
+  // ---------- Map ----------
+  // One colour per type. Markers sit on light map tiles in both themes, so one palette works.
+  var TYPE_COLOR = { playground: "#2f6b45", park: "#5a8f2e", nature: "#0f766e", farm: "#9a4a1c", museum: "#6d4aa8",
+    water: "#1d6fb8", landmark: "#a16207", activity: "#c2410c", library: "#9d3f7a" };
+  var PECKHAM = { lat: 51.4734, lon: -0.0690 }, RADIUS_M = 8047;
+  function colorOf(p) { return TYPE_COLOR[p.type] || "#2f6b45"; }
+  function radiusOf(p) { var sc = scoreOf(p); return sc == null ? 5 : 4 + sc * 0.8; }
+  function baseMap(el, opts) {
+    var m = L.map(el, Object.assign({ scrollWheelZoom: false }, opts || {}));
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' }).addTo(m);
+    return m;
+  }
+  function placeMarker(p) {
+    var done = !!state.visited[p.id];
+    return L.circleMarker([p.lat, p.lon], { radius: radiusOf(p), color: isOurs(p) ? "#111" : "#fff", weight: isOurs(p) ? 2.5 : 1.5,
+      fillColor: colorOf(p), fillOpacity: done ? 0.25 : 0.9 }).bindPopup(popupHTML(p), { maxWidth: 280 });
+  }
+  function numPin(p, n) {
+    return L.marker([p.lat, p.lon], { icon: L.divIcon({ className: "num-pin" + (state.visited[p.id] ? " done" : ""), html: '<span style="background:' + colorOf(p) + '">' + n + "</span>", iconSize: [28, 28], iconAnchor: [14, 14] }), title: n + ". " + p.name, zIndexOffset: 1000 })
+      .bindPopup(popupHTML(p), { maxWidth: 280 });
+  }
+
   function initNear() {
     var sel = $("#preset"), status = $("#loc-status");
     presetSelect(sel);
+    var local = PLACES.filter(function (p) { return !isFar(p); });
+    var filt = { types: {}, min: 0, hideDone: false };
     var map = null, layer = null, here = null, numbered = null;
-    function drawDots() {
-      if (!layer) return; layer.clearLayers();
-      PLACES.filter(function (p) { return !isFar(p); }).forEach(function (p) {
-        var c = isOurs(p) ? getVar("--trip") : getVar("--park");
-        L.circleMarker([p.lat, p.lon], { radius: p.ai || isOurs(p) ? 8 : 6, color: c, weight: 2, fillColor: state.visited[p.id] ? getVar("--surface") : c, fillOpacity: 0.85 })
-          .bindPopup(popupHTML(p)).addTo(layer);
+
+    // type chips with counts
+    var counts = {}; local.forEach(function (p) { counts[p.type] = (counts[p.type] || 0) + 1; });
+    var chipBox = $("#type-chips");
+    chipBox.innerHTML = Object.keys(TYPE_COLOR).filter(function (t) { return counts[t]; }).map(function (t) {
+      filt.types[t] = true;
+      return '<label><input type="checkbox" value="' + t + '" checked><span><i class="swatch" style="background:' + TYPE_COLOR[t] + '"></i>' + esc(TYPE_LABEL[t]) + ' <b>' + counts[t] + "</b></span></label>";
+    }).join("");
+    chipBox.addEventListener("change", function (e) { if (e.target.value) { filt.types[e.target.value] = e.target.checked; draw(); go(); } });
+    $("#min-score").addEventListener("change", function () { filt.min = +this.value; draw(); go(); });
+    $("#hide-done").addEventListener("change", function () { filt.hideDone = this.checked; draw(); go(); });
+    function shown() {
+      return local.filter(function (p) {
+        if (!filt.types[p.type]) return false;
+        if (filt.min && (scoreOf(p) || 0) < filt.min) return false;
+        if (filt.hideDone && state.visited[p.id]) return false;
+        return true;
       });
     }
+    function draw() {
+      var list = shown();
+      $("#map-count").textContent = list.length + " of " + local.length + " places shown";
+      if (!layer) return; layer.clearLayers();
+      // Smaller dots on top so big ones don't hide them.
+      list.slice().sort(function (a, b) { return radiusOf(b) - radiusOf(a); }).forEach(function (p) { placeMarker(p).addTo(layer); });
+    }
     if (window.L) {
-      map = L.map("map", { scrollWheelZoom: false }).setView([51.475, -0.075], 13);
-      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", { maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' }).addTo(map);
+      map = baseMap("map");
+      L.circle([PECKHAM.lat, PECKHAM.lon], { radius: RADIUS_M, color: getVar("--park"), weight: 2, dashArray: "6 6", fill: false, interactive: false }).addTo(map);
+      L.marker([PECKHAM.lat, PECKHAM.lon], { icon: L.divIcon({ className: "area-label", html: "Peckham", iconSize: [70, 20], iconAnchor: [35, 10] }), interactive: false }).addTo(map);
       layer = L.layerGroup().addTo(map);
       numbered = L.layerGroup().addTo(map);
-      drawDots();
+      map.fitBounds(L.latLng(PECKHAM.lat, PECKHAM.lon).toBounds(RADIUS_M * 2), { padding: [10, 10] });
     } else {
       $("#map").innerHTML = '<p class="empty">The map couldn\'t load. The list still works.</p>';
     }
+    draw();
     function go() {
       var o = state.origin; if (!o) return;
-      var near = withDistances(PLACES).filter(function (p) { return !isFar(p); }).sort(function (a, b) { return a._d - b._d; }).slice(0, 5);
-      $("#near-out").innerHTML = '<h2 class="sr-only">Five nearest</h2><ol class="near-list">' + near.map(function (p, i) { return cardHTML(p, i + 1, true); }).join("") + "</ol>";
+      var near = withDistances(shown()).sort(function (a, b) { return a._d - b._d; }).slice(0, 5);
+      $("#near-out").innerHTML = '<h2 class="near-h">Five nearest to ' + esc(o.gps ? "you" : o.label) + '</h2><ol class="near-list">' + near.map(function (p, i) { return cardHTML(p, i + 1, true); }).join("") + "</ol>";
       if (map) {
         if (here) map.removeLayer(here);
-        here = L.circleMarker([o.lat, o.lon], { radius: 8, color: getVar("--fg"), weight: 3, fillColor: getVar("--surface"), fillOpacity: 1 }).bindTooltip("Start: " + o.label).addTo(map);
-        drawDots(); numbered.clearLayers();
-        near.forEach(function (p, i) {
-          L.marker([p.lat, p.lon], { icon: L.divIcon({ className: "num-pin" + (isOurs(p) ? " trip" : "") + (state.visited[p.id] ? " done" : ""), html: String(i + 1), iconSize: [28, 28], iconAnchor: [14, 14] }), title: (i + 1) + ". " + p.name })
-            .bindPopup(popupHTML(p)).addTo(numbered);
-        });
+        here = L.circleMarker([o.lat, o.lon], { radius: 8, color: "#111", weight: 3, fillColor: "#fff", fillOpacity: 1 }).bindTooltip("Start: " + o.label).addTo(map);
+        numbered.clearLayers();
+        near.forEach(function (p, i) { numPin(p, i + 1).addTo(numbered); });
         var pts = near.map(function (p) { return [p.lat, p.lon]; }); pts.push([o.lat, o.lon]);
         map.fitBounds(pts, { padding: [30, 30], maxZoom: 16 });
       }
     }
     $("#use-location").addEventListener("click", function () { locate(status, go); });
+    $("#show-all").addEventListener("click", function () { if (map) map.fitBounds(L.latLng(PECKHAM.lat, PECKHAM.lon).toBounds(RADIUS_M * 2), { padding: [10, 10] }); });
     sel.addEventListener("change", function () { var p = presetById(sel.value); if (p) { setOrigin({ lat: p.lat, lon: p.lon, label: p.label }); status.textContent = "Starting from " + p.label + "."; go(); } });
     document.addEventListener("click", function (e) {
       var b = e.target.closest('[data-act="went"]'); if (!b) return;
       var id = b.closest("[data-id]").getAttribute("data-id");
-      if (state.visited[id]) delete state.visited[id]; else state.visited[id] = todayISO(); save(); go();
+      if (state.visited[id]) delete state.visited[id]; else state.visited[id] = todayISO(); save(); draw(); go();
     });
     if (state.origin) { status.textContent = originStatus("Starting from"); go(); }
-    else $("#near-out").innerHTML = '<p class="empty">Tap “Find playgrounds near me” or pick a neighbourhood to see the five closest.</p>';
+    else $("#near-out").innerHTML = '<p class="empty">Tap a dot to see what it is. Use your location or pick a neighbourhood to number the five closest.</p>';
   }
   function popupHTML(p) {
-    var v = view(p);
-    var fit = ageFit(p);
-    return "<strong>" + esc(p.name) + "</strong><br><span>" + esc(kindLabel(p)) + "</span>" +
-      "<br>Ages: " + (v.age ? esc(v.age) : "unknown") + (fit === "yes" ? " · fits your kids" : "") +
-      (scoreOf(p) != null ? "<br>Score " + scoreOf(p) + "/10" + (p.ai ? " (AI)" : "") : "") +
-      (v.standout ? "<br>" + esc(v.standout) : "") + (state.visited[p.id] ? "<br>✓ Went " + esc(niceDate(state.visited[p.id])) : "") +
-      '<br><a href="' + directions(p) + '" target="_blank" rel="noopener">Directions</a>';
+    var v = view(p), fit = ageFit(p), sc = scoreOf(p);
+    var sum = p.review ? "“" + p.review.text + "”" : (p.ai ? p.ai.summary : "");
+    if (sum.length > 180) sum = sum.slice(0, 177).replace(/\s+\S*$/, "") + "…";
+    return '<div class="pop"><span class="pop-type" style="color:' + colorOf(p) + '">' + esc(kindLabel(p)) + "</span>" +
+      "<strong>" + esc(p.name) + "</strong>" +
+      (sc != null ? '<span><span class="score">' + sc + "/10</span> " + (p.review ? "our visit" : "AI review") + "</span>" : '<span class="muted">Not reviewed yet</span>') +
+      (sum ? "<span>" + esc(sum) + "</span>" : "") +
+      "<span>Ages: " + (v.age ? esc(v.age) : "unknown") + (fit === "yes" ? " · fits your kids" : "") + "</span>" +
+      (state.visited[p.id] ? "<span>✓ Went " + esc(niceDate(state.visited[p.id])) + "</span>" : "") +
+      '<a href="' + directions(p) + '" target="_blank" rel="noopener">Directions</a></div>';
   }
   function getVar(n) { return getComputedStyle(document.documentElement).getPropertyValue(n).trim() || "#2f6b45"; }
+
+  // Mini map on Next 10: the list's numbered pins.
+  var miniMap = null, miniLayer = null;
+  function drawMini() {
+    var el = document.getElementById("mini-map"); if (!el || !window.L) return;
+    if (!state.origin) { el.hidden = true; return; }
+    el.hidden = false;
+    if (!miniMap) { miniMap = baseMap(el, { zoomControl: true }); miniLayer = L.layerGroup().addTo(miniMap); }
+    miniLayer.clearLayers();
+    var o = state.origin, all = current.near.concat(current.away), pts = [[o.lat, o.lon]];
+    L.circleMarker([o.lat, o.lon], { radius: 8, color: "#111", weight: 3, fillColor: "#fff", fillOpacity: 1 }).bindTooltip("Start: " + o.label).addTo(miniLayer);
+    all.forEach(function (p, i) { numPin(p, i + 1).addTo(miniLayer); pts.push([p.lat, p.lon]); });
+    setTimeout(function () { miniMap.invalidateSize(); miniMap.fitBounds(pts, { padding: [24, 24], maxZoom: 15 }); }, 0);
+  }
 
   // ---------- All places (table) ----------
   function initList() {

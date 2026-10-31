@@ -10,18 +10,19 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=IBM+Plex+Mono:wght@500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="./vendor/leaflet/leaflet.css">
 <link rel="stylesheet" href="./assets/style.css">
 </head>
 <body>
 <header class="top"><div class="wrap">
   <a class="brand" href="./"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="var(--park)"/><path d="M9 22l5-12 4 8 2-4 3 8z" fill="var(--surface)"/></svg>Adventure Map</a>
-  <nav class="nav" aria-label="Main"><a href="./" aria-current="page">Next 10</a><a href="./near/">Near me</a><a href="./list/">All places</a><a href="./add/">Add &amp; ask</a></nav>
+  <nav class="nav" aria-label="Main"><a href="./" aria-current="page">Next 10</a><a href="./near/">Map</a><a href="./list/">All places</a><a href="./add/">Add &amp; ask</a></nav>
 </div></header>
 <main class="wrap">
   <section class="hero">
-    <span class="eyebrow">Southwark · park playgrounds and our picks</span>
+    <span class="eyebrow">Within 5 miles of Peckham</span>
     <h1>Your next 10 adventures</h1>
-    <p class="lede">Most of us live within a short walk of more playgrounds than we know. Here is a ready list of ten to try next: nearby parks you haven't been to, plus a few places worth the trip. Tick them off as you go.</p>
+    <p class="lede">Most of us live within a short walk of more adventures than we know. Here is a ready list of ten to try next: the best places close to home that you haven't been to, plus a few worth the trip. Tick them off as you go.</p>
   </section>
 
   <section class="panel" aria-label="Set up your list">
@@ -40,6 +41,7 @@
     <div class="row small"><label for="target" class="muted">Monthly target: new places</label><input id="target" type="number" min="1" max="31" style="width:5rem"></div>
   </section>
 
+  <div id="mini-map" class="no-print" role="region" aria-label="Map of your next 10" hidden></div>
   <p class="print-title h2"></p>
   <div id="list-out"></div>
 
@@ -61,6 +63,7 @@
   <p>Your location, ticks and notes stay in this browser. Nothing is sent anywhere. Map © OpenStreetMap contributors.</p>
 </div></footer>
 <script src="./data.js"></script>
+<script src="./vendor/leaflet/leaflet.js"></script>
 <script src="./assets/app.js"></script>
 <script>AM.initNext10();</script>
 </body>
