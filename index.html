@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Adventure Map — your next 10 adventures</title>
+<meta name="description" content="A hand-picked list of 10 playgrounds and play places near you in Southwark, with ages, standout features and walking times.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%232f6b45'/%3E%3Cpath d='M9 22l5-12 4 8 2-4 3 8z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=IBM+Plex+Mono:wght@500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="./assets/style.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <a class="brand" href="./"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="15" fill="var(--park)"/><path d="M9 22l5-12 4 8 2-4 3 8z" fill="var(--surface)"/></svg>Adventure Map</a>
+  <nav class="nav" aria-label="Main"><a href="./" aria-current="page">Next 10</a><a href="./near/">Near me</a><a href="./list/">All places</a></nav>
+</div></header>
+<main class="wrap">
+  <section class="hero">
+    <span class="eyebrow">Southwark · park playgrounds and our picks</span>
+    <h1>Your next 10 adventures</h1>
+    <p class="lede">Most of us live within a short walk of more playgrounds than we know. Here is a ready list of ten to try next: nearby parks you haven't been to, plus a few places worth the trip. Tick them off as you go.</p>
+  </section>
+
+  <section class="panel" aria-label="Set up your list">
+    <div class="controls">
+      <button class="btn primary" type="button" id="use-location">Use my location</button>
+      <div class="field"><label for="preset">Or start from</label><select id="preset"></select></div>
+      <fieldset class="chips" id="ages"><legend>Kids' ages (tick each child)</legend>
+        <label><input type="checkbox" value="0-2" id="age-0-2"><span>0–2</span></label>
+        <label><input type="checkbox" value="3-5" id="age-3-5"><span>3–5</span></label>
+        <label><input type="checkbox" value="6-8" id="age-6-8"><span>6–8</span></label>
+        <label><input type="checkbox" value="9-12" id="age-9-12"><span>9–12</span></label>
+      </fieldset>
+    </div>
+    <p class="status" id="loc-status" role="status" aria-live="polite"></p>
+    <div class="stats" id="stats" aria-live="polite"></div>
+    <div class="row small"><label for="target" class="muted">Monthly target: new places</label><input id="target" type="number" min="1" max="31" style="width:5rem"></div>
+  </section>
+
+  <p class="print-title h2"></p>
+  <div id="list-out"></div>
+
+  <section class="panel no-print" id="list-tools" hidden aria-label="Share your list">
+    <h2>Share it</h2>
+    <p class="muted">Send the list to a friend and go together. Printing gives a paper checklist for the fridge.</p>
+    <div class="row">
+      <button class="btn primary" type="button" id="copy-list">Copy list</button>
+      <button class="btn" type="button" id="share-list" hidden>Share…</button>
+      <button class="btn" type="button" id="print-list">Print checklist</button>
+    </div>
+    <p class="status" id="copy-status" role="status" aria-live="polite"></p>
+    <label for="copy-fallback" class="sr-only">List text</label>
+    <textarea id="copy-fallback" hidden readonly></textarea>
+  </section>
+</main>
+<footer><div class="wrap">
+  <p>Adventure is everywhere. Park playgrounds come from Southwark Council's play-area list (59 park sites). "Our picks" are places we've been and reviewed ourselves. Walking times are estimates: straight-line distance plus 30%, at 80 m a minute.</p>
+  <p>Your location, ticks and notes stay in this browser. Nothing is sent anywhere. Map © OpenStreetMap contributors.</p>
+</div></footer>
+<script src="./data.js"></script>
+<script src="./assets/app.js"></script>
+<script>AM.initNext10();</script>
+</body>
+</html>
