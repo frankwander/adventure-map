@@ -80,6 +80,51 @@
    "url": "https://tilesoc.org.uk/tile-gazetteer/southwark.html",
    "note": "Doulton tile panel from the Samuel Jones factory, resited 1983 on the south gable of the former library on Wells Way by Burgess Park; mentioned in Burgess Park review. Pin is Wells Way street centre; outside this run's cells, could be a separate landmark with a second source.",
    "found": "2026-10-31"
+  },
+  {
+   "name": "Old Kent Road bridge mural (Not any old Road – A Home from Home)",
+   "lat": 51.47982,
+   "lon": -0.05836,
+   "cell": "x+1y+1",
+   "url": "https://www.planningawards.com/finalists/old-kent-road-bridge-mural-not-any-old-road-a-home-from-home",
+   "note": "Community mural on both sides of the Old Kent Road railway bridge, finished autumn 2024 and winner of a 2025 Planning Award. Well sourced (oldkentroad.org.uk, Southwark News, illustrationx) but the exact bridge position is unconfirmed: sources say only 'where Old Kent Road becomes New Cross Road, on the Southwark/Lewisham boundary'. The pin is postcode SE15 1NJ (Asylum Road/Ilderton Road junction), a placeholder.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Pat Hickson Garden",
+   "lat": 51.48333,
+   "lon": -0.0538,
+   "cell": "x+2y+2",
+   "url": "https://southwark.gov.uk/news/2021/oct/southwark-opens-new-community-garden",
+   "note": "Council-landscaped community garden on Ilderton Road SE16, opened Oct 2021, with a path linking Surrey Canal Road to Stockholm Road. Both sources are Southwark Council (news plus parks list). Exact position along Ilderton Road is unknown (pin is the Ilderton Road SE15 street centre), and nothing describes features for kids.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Camberwell Triangle Garden (Goschen allotments)",
+   "lat": 51.48035,
+   "lon": -0.0979,
+   "cell": "x-4y+2",
+   "url": "https://southwarknews.co.uk/area/camberwell/unemployed-people-transform-anti-social-behaviour-hotspot-into-camberwell-community-garden/",
+   "note": "Garden with a lawn, wildlife planting and a new pond (Southwark News, Mar 2024; GoodGym 2023). On an allotment site near the Goschen Estate (pin is the Bethwin Road SE5 street centre). Exact site and public access are unconfirmed.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Elmington Community Gardens wildlife triangle (Brisbane Street)",
+   "lat": 51.4774,
+   "lon": -0.0905,
+   "cell": "x-3y+1",
+   "url": "https://www.london.gov.uk/rewilding-london/rewild-london-fund-case-studies/north-camberwell-wildlife-corridor",
+   "note": "Rewild London-funded corridor of six small sites on the Elmington Estate linking Burgess Park to Benhill Road Nature Garden; a GoodGym listing names a 'Wildlife Triangle on Brisbane Street'. Unclear which sites are public or worth a visit. Pin is the Brisbane Street SE5 street centre.",
+   "found": "2026-10-31"
+  },
+  {
+   "name": "Camberwell Secret Garden (D'Eynsford Estate)",
+   "lat": 51.47568,
+   "lon": -0.09108,
+   "cell": "x-3y+1",
+   "url": "https://production.goodgym.org/v3/organisations/camberwell-secret-garden",
+   "note": "Estate community garden run by the tenant management group (GoodGym, plus a property listing). Public access and location within the estate are unknown. Pin is the D'Eynsford Road SE5 street centre.",
+   "found": "2026-10-31"
   }
  ]
 }

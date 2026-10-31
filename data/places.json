@@ -4376,6 +4376,319 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p116",
+   "name": "Glengall Wharf Garden",
+   "lat": 51.48308,
+   "lon": -0.07233,
+   "type": "nature",
+   "area": "Peckham / Burgess Park",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Glengall Road, SE15 street centre (offline gazetteer); a listing for a business on the same site gives 64 Glengall Road",
+   "ai": {
+    "score": 6,
+    "summary": "A community food-growing garden on an old Surrey Canal wharf at the edge of Burgess Park, taken back by local people in 2012. It grows food in a forest garden and has ponds and bee-friendly planting. A calm place for curious kids who like plants, ponds and minibeasts.",
+    "standout": "An edible forest garden and ponds on an old canal wharf",
+    "extras": "Ponds, herb and forest garden, volunteer gardening sessions",
+    "highlights": [
+     "Turned from a derelict canal wharf into a community garden in 2012",
+     "Ponds and wildlife planting",
+     "Volunteer gardening sessions and food-growing courses run by the garden"
+    ],
+    "cautions": [
+     "Opening times aren't clearly published: check before going",
+     "A volunteer-run growing space, not a playground"
+    ],
+    "sources": [
+     {
+      "title": "Time Out: Glengall Wharf Garden",
+      "url": "https://www.timeout.com/london/attractions/glengall-wharf-garden"
+     },
+     {
+      "title": "Southwark News: New outhouse approved for Glengall community garden",
+      "url": "https://southwarknews.co.uk/news/environment/new-outhouse-approved-for-glengall-community-garden/"
+     },
+     {
+      "title": "Southwark Council: Gardening, growing and conservation",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/gardening-growing-and-conservation?chapter=6"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p117",
+   "name": "Burgess Park Lime Kiln",
+   "lat": 51.48118,
+   "lon": -0.08549,
+   "type": "landmark",
+   "area": "Burgess Park, Camberwell",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Wells Way, SE5 street centre (offline gazetteer); the kiln is in the park beside Wells Way, south-south-west of the Albany Road junction, so the pin is approximate",
+   "ai": {
+    "score": 5,
+    "summary": "A Grade II listed lime kiln from 1816, left over from when the Grand Surrey Canal ran through what is now Burgess Park. Barges brought coal and limestone to it, and a plaque tells the story. A good stop for kids on a park walk who like old industrial things.",
+    "standout": "A real 1816 canal-side lime kiln standing in the middle of a park",
+    "highlights": [
+     "Grade II listed, built 1816 and used until the 1960s",
+     "On-site plaque explains how barges delivered coal and limestone",
+     "Easy to combine with the Burgess Park playgrounds and lake"
+    ],
+    "cautions": [
+     "A structure to look at, not to play on"
+    ],
+    "sources": [
+     {
+      "title": "Friends of Burgess Park: The History of Burgess Park",
+      "url": "https://www.friendsofburgesspark.org.uk/history-in-burgess-park/the-history-of-burgess-park/"
+     },
+     {
+      "title": "Brixton Buzz: An autumnal Sunday stroll around Burgess Park (Nov 2020)",
+      "url": "https://www.brixtonbuzz.com/2020/11/an-autumnal-sunday-stroll-around-burgess-park-south-london-november-2020/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p118",
+   "name": "Woman and Dog sculpture, Avondale Square",
+   "lat": 51.48613,
+   "lon": -0.06992,
+   "type": "landmark",
+   "area": "Avondale Square Estate, Old Kent Road",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Avondale Square, SE1 street centre (offline gazetteer); the sculpture stands next to St Philip's Church on the square",
+   "ai": {
+    "score": 4,
+    "summary": "A 1962 metal sculpture of a woman with her dog (also listed as Lady with a Greyhound) by Antony Weller, beside St Philip's Church on the Avondale Square Estate just off the Old Kent Road. A small curiosity for dog-loving kids on a walk rather than a destination.",
+    "standout": "A 1960s estate sculpture of a woman and her greyhound",
+    "highlights": [
+     "Original 1962 public art from when the estate was built",
+     "Easy to spot beside St Philip's Church"
+    ],
+    "cautions": [
+     "Small, a quick look on the way somewhere",
+     "No recent source on its condition"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Avondale Square Estate",
+      "url": "https://en.wikipedia.org/wiki/Avondale_Square_Estate"
+     },
+     {
+      "title": "Wikipedia: List of public art in the London Borough of Southwark",
+      "url": "https://en.wikipedia.org/wiki/List_of_public_art_in_the_London_Borough_of_Southwark"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p119",
+   "name": "Galleywall Nature Reserve",
+   "lat": 51.49003,
+   "lon": -0.05977,
+   "type": "nature",
+   "area": "South Bermondsey",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE16 3PB (corner of Galleywall Road and Lynton Road), geocoded with the offline gazetteer",
+   "ai": {
+    "score": 6,
+    "summary": "A small volunteer-run nature reserve in South Bermondsey, looked after by the Friends of Galleywall Nature Reserve since 2004. It opens to the public on Sunday afternoon open days through the warmer months, when families can explore and join in gardening sessions.",
+    "standout": "A hidden wild patch in Bermondsey that opens up on Sunday afternoons",
+    "highlights": [
+     "Run by local volunteers since 2004",
+     "Regular Sunday open days (2pm–4pm in recent seasons)",
+     "Bus routes 1 and 381 stop nearby"
+    ],
+    "cautions": [
+     "Only open on open days, not every day: check before going",
+     "Newest open-day schedule found is from 2023"
+    ],
+    "sources": [
+     {
+      "title": "Blue Bermondsey: Galleywall Nature Reserve 2022 Open Days",
+      "url": "https://www.bluebermondsey.co.uk/galleywall-nature-reserve-2022-open-days/"
+     },
+     {
+      "title": "Community Southwark: Galleywall Nature Reserve Open Days",
+      "url": "https://communitysouthwark.org/?p=8545"
+     },
+     {
+      "title": "Time Out: Galleywall Nature Reserve",
+      "url": "https://www.timeout.com/london/attractions/galleywall-nature-reserve"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p120",
+   "name": "Varcoe Road Nature Garden",
+   "lat": 51.48524,
+   "lon": -0.05615,
+   "type": "park",
+   "area": "South Bermondsey",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Varcoe Road, SE16 street centre (offline gazetteer)",
+   "ai": {
+    "score": 4,
+    "summary": "A small (0.19 ha) Local Wildlife Site in South Bermondsey. Despite the name, it is more of an interestingly landscaped little park than a wild garden, partly used by the nearby primary school. Free to walk into, and handy for a short nature break in a densely built area.",
+    "standout": "A tiny landscaped wildlife site in a built-up corner of Bermondsey",
+    "highlights": [
+     "Designated Local Wildlife Site",
+     "Free public access to most of the site"
+    ],
+    "cautions": [
+     "Very small, with no play equipment mentioned",
+     "No recent visitor reports found"
+    ],
+    "sources": [
+     {
+      "title": "GiGL: Local Wildlife Site SoL27",
+      "url": "https://www.gigl.org.uk/sinc/SoL27"
+     },
+     {
+      "title": "GiGL: Varcoe Road Nature Garden site record",
+      "url": "https://www.gigl.org.uk/?p=58772"
+     },
+     {
+      "title": "Southwark SINC citations 2017",
+      "url": "https://services.southwark.gov.uk/assets/attach/13068/Southwark-SINC-citations-2017.pdf"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p121",
+   "name": "Eckington Gardens",
+   "lat": 51.47705,
+   "lon": -0.0467,
+   "type": "park",
+   "area": "New Cross Gate",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE14 5QN (given by Lewisham Council), geocoded with the offline gazetteer; entrances on Monson Road and Casella Road",
+   "ai": {
+    "score": 6,
+    "summary": "A small Lewisham park in New Cross Gate with mature trees, lawns, a children's playground, a ball court and a water feature. It opened in 1981 on wartime bomb-damaged land, and a Friends group has been caring for it since 2018. A good neighbourhood stop for younger kids.",
+    "standout": "A leafy pocket park with a playground, ball court and water feature",
+    "extras": "Playground, ball court, water feature",
+    "highlights": [
+     "Children's playground and ball court",
+     "Looked after by the Friends of Eckington Gardens with the council",
+     "Open 8am to sunset per the council listing"
+    ],
+    "cautions": [
+     "Small neighbourhood park",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Eckington Gardens",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/eckington-gardens"
+     },
+     {
+      "title": "London Gardens Trust: Eckington Gardens site record",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW017"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p122",
+   "name": "Grove Vale Library",
+   "lat": 51.46149,
+   "lon": -0.08003,
+   "type": "library",
+   "area": "East Dulwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE22 8EF (18-22 Grove Vale, from Southwark Council), geocoded with the offline gazetteer",
+   "ai": {
+    "score": 6,
+    "summary": "A modern Southwark library that opened in 2018 on Grove Vale, with a flexible space for children's activities. It runs weekly rhymetime for under-fives and holiday crafts and story sessions, and family nature visits to the nearby Centre for Wildlife Gardening start here.",
+    "standout": "Popular rhymetime and holiday story sessions in a bright new library",
+    "age": "0–11",
+    "ages": [
+     0,
+     11
+    ],
+    "extras": "Children's activity space, Wi-Fi, study spaces",
+    "highlights": [
+     "Weekly rhymetime for 0–4s in term time",
+     "Holiday crafts and story sessions for older children",
+     "Opened in 2018, with story and rhyme sessions the council says are often oversubscribed"
+    ],
+    "cautions": [
+     "Session times change: check before going",
+     "Popular sessions can fill up"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Grove Vale Library",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/libraries/find-library/grove-vale-library"
+     },
+     {
+      "title": "Southwark Council: Southwark Council opens brand new Grove Vale Library (2018)",
+      "url": "https://services.southwark.gov.uk/news/2018/dec/southwark-council-opens-brand-new-grove-vale-library"
+     },
+     {
+      "title": "Southwark Council: Summer activities at Grove Vale Library",
+      "url": "https://www.southwark.gov.uk/southwark-presents/summer-activities-grove-vale-library"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p123",
+   "name": "Walworth Garden",
+   "lat": 51.48749,
+   "lon": -0.10138,
+   "type": "nature",
+   "area": "Walworth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE17 3BN (206 Manor Place, from London Gardens Trust), geocoded with the offline gazetteer",
+   "ai": {
+    "score": 7,
+    "summary": "A long-running community garden charity on Manor Place with a wildlife area, several wildlife ponds and a vegetable garden. It has won the Community Green Flag Award many times since 2000, and listings describe it as open to all, seven days a week. A peaceful green stop for children who like plants and pond life.",
+    "standout": "Several wildlife ponds and a vegetable garden, open to all",
+    "extras": "Wildlife ponds, wildlife area, vegetable garden",
+    "highlights": [
+     "Multiple wildlife ponds and a wildlife area",
+     "Community Green Flag Award winner many times since 2000",
+     "Listed as open seven days a week"
+    ],
+    "cautions": [
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "London Gardens Trust: London Parks & Gardens – Walworth Garden (2025)",
+      "url": "https://londongardenstrust.org/log2025/gardens/WalworthGarden.html"
+     },
+     {
+      "title": "London Gardens Trust inventory: Walworth Garden (Southwark)",
+      "url": "https://londongardenstrust.org/inventory/site-record?ID=SOU097b"
+     },
+     {
+      "title": "Time Out: Walworth Garden",
+      "url": "https://www.timeout.com/london/things-to-do/walworth-garden"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }
