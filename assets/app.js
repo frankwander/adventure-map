@@ -78,8 +78,8 @@
   var TYPE_LABEL = { playground: "Playground", park: "Park", nature: "Nature", farm: "City farm", museum: "Museum", water: "Splash & swim", landmark: "Landmark", activity: "Activity", library: "Library" };
   function isFar(p) { return p.scope === "far"; }
   function isOurs(p) { return !!p.review; }
-  // One number to rank by: the AI Adventure Score, else our stars doubled, else a neutral 5.
-  function scoreOf(p) { return p.ai ? p.ai.score : (p.review ? p.review.stars * 2 : null); }
+  // One number to rank by: our own stars (5★ = 9, 4★ = 8), else the AI Adventure Score, else a neutral 5.
+  function scoreOf(p) { return p.review ? Math.min(10, p.review.stars + 4) : (p.ai ? p.ai.score : null); }
   function rankScore(p) { var s = scoreOf(p); return s == null ? 5 : s; }
 
   // ---------- helpers ----------
@@ -177,7 +177,10 @@
     var walkable = pool.filter(function (p) { return walkMin(p._d) <= 30; }).sort(function (a, b) { return fit(b) - fit(a) || nearKey(a) - nearKey(b); });
     var further = pool.filter(function (p) { return walkMin(p._d) > 30 && scoreOf(p) != null; }).sort(function (a, b) { return fit(b) - fit(a) || rankScore(b) - rankScore(a) || a._d - b._d; });
     var near = walkable.slice(0, 6);
-    var away = further.slice(0, 4);
+    // Variety: take the best place of each type first, then fill with the next best.
+    var away = [], seen = {};
+    further.forEach(function (p) { if (away.length < 4 && !seen[p.type]) { away.push(p); seen[p.type] = 1; } });
+    further.forEach(function (p) { if (away.length < 4 && away.indexOf(p) < 0) away.push(p); });
     var rest = walkable.slice(6);
     while (near.length + away.length < 10 && rest.length) near.push(rest.shift());
     return { near: near, away: away };
@@ -191,7 +194,7 @@
     var fit = ageFit(p);
     if (v.age) facts += "<dt>Ages</dt><dd>" + esc(v.age) + (p.ageFromName ? ' <span class="muted small">(from the council name)</span>' : "") + (fit === "yes" ? ' <span class="fit">fits your kids</span>' : "") + "</dd>";
     else facts += '<dt>Ages</dt><dd class="muted">Unknown</dd>';
-    if (scoreOf(p) != null) facts += '<dt>Score</dt><dd><span class="score">' + scoreOf(p) + '/10</span> <span class="muted small">' + (p.ai ? "AI review" : "our stars") + "</span></dd>";
+    if (scoreOf(p) != null) facts += '<dt>Score</dt><dd><span class="score">' + scoreOf(p) + '/10</span> <span class="muted small">' + (p.review ? "our visit" : "AI review") + "</span></dd>";
     if (v.standout) facts += "<dt>Standout</dt><dd>" + esc(v.standout) + "</dd>";
     if (v.extras) facts += "<dt>Extras</dt><dd>" + esc(v.extras) + "</dd>";
     var body = "";

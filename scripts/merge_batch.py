@@ -27,6 +27,13 @@ def m(a, b):
     return 12742000 * math.asin(math.sqrt(h))
 
 
+def clean_urls(ai):
+    # Encode spaces so links stay valid (some council PDFs have spaces in their paths).
+    for src in (ai or {}).get("sources", []):
+        src["url"] = str(src.get("url", "")).strip().replace(" ", "%20")
+    return ai
+
+
 def is_dupe(c, places):
     for p in places:
         d = m(c, p)
@@ -51,7 +58,7 @@ def main():
                 p = by_id.get(c.get("id"))
                 if not p:
                     skipped.append((c.get("id"), "unknown id")); continue
-                p["ai"] = c["ai"]; reviewed.append(p["name"])
+                p["ai"] = clean_urls(c["ai"]); reviewed.append(p["name"])
                 continue
             try:
                 c["lat"], c["lon"] = round(float(c["lat"]), 5), round(float(c["lon"]), 5)
@@ -66,6 +73,7 @@ def main():
                 if c.get(k) not in (None, "", []):
                     p[k] = c[k]
             p.setdefault("scope", "local"); p.setdefault("source", "ai")
+            if p.get("ai"): clean_urls(p["ai"])
             places.append(p); added.append(f"{p['id']} {p['name']}")
     json.dump(data, open(SRC, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     for a in added: print("added", a)

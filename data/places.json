@@ -9,7 +9,43 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 6,
+    "summary": "A playground inside Belair Park, a historic landscaped park by Gallery Road in West Dulwich. Southwark Council lists it for children up to 14, and the park has the Belair House restaurant plus a small outdoor café on the Thurlow Park Road corner. Good for a playground stop combined with a walk round the park.",
+    "standout": "Playground set in a historic landscaped park with cafés close by",
+    "age": "up to 14",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Belair House restaurant; outdoor café (Stephanie's SE21) on the Thurlow Park Road corner",
+    "highlights": [
+     "Council lists the playground for children up to 14",
+     "Café and restaurant in the park",
+     "Entrances on Gallery Road and Thurlow Park Road; West Dulwich station nearby"
+    ],
+    "cautions": [
+     "Sources give no detail on the equipment or any recent upgrade",
+     "An older council page gave a narrower 2–10 age range",
+     "The corner café reported repeated break-ins in 2025; check it is open before relying on it"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Belair Park",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/belair-park"
+     },
+     {
+      "title": "Wikipedia: Belair Park",
+      "url": "https://en.wikipedia.org/wiki/Belair_Park"
+     },
+     {
+      "title": "Southwark News: Stephanie's SE21 café break-ins (2025)",
+      "url": "https://southwarknews.co.uk/?p=445273"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p002",
@@ -19,7 +55,38 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 6,
+    "summary": "A small Peckham park off Bird in Bush Road whose playground is pitched at older children. The park also has a BMX track with organised sessions, a fruit orchard and a sensory garden, and is listed as a local wildlife site. Better for school-age kids than toddlers.",
+    "standout": "BMX track with organised sessions next to the playground",
+    "extras": "Orchard, sensory garden, BMX track",
+    "highlights": [
+     "Playground aimed at older children",
+     "BMX track with organised sessions",
+     "Fruit orchard and sensory garden with signs made by local young people"
+    ],
+    "cautions": [
+     "Little sign of a dedicated toddler area",
+     "Small park",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens (Peckham)",
+      "url": "https://southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=6"
+     },
+     {
+      "title": "Peckham Society: parks and open spaces",
+      "url": "https://www.peckhamsociety.org.uk/?p=628"
+     },
+     {
+      "title": "GiGL: Bird in Bush Park Local Wildlife Site",
+      "url": "https://www.gigl.org.uk/sinc/SoL16"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p003",
@@ -29,7 +96,38 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "A large playground in Brimmington Park, a Green Flag neighbourhood park off the Old Kent Road. The play area went in around 2008 and sits beside mini football pitches and a big multi-use games area, so it works for families with a mix of ages who also want a kickabout.",
+    "standout": "A big play area next to plenty of space for ball games",
+    "extras": "Mini football pitches, multi-use games area, outdoor gym just outside the park",
+    "highlights": [
+     "Council describes it as a large playground with lots of equipment",
+     "Park is open at all times",
+     "Next to sports pitches and a MUGA for older siblings",
+     "Green Flag park with an active Friends group"
+    ],
+    "cautions": [
+     "The playground dates from about 2008 and we found no recent reports on its condition",
+     "Council plans for a sports hub may mean building works nearby: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Brimmington Park",
+      "url": "https://southwark.gov.uk/parks-and-open-spaces/parks/brimmington-park"
+     },
+     {
+      "title": "Wikipedia: Brimmington Park",
+      "url": "https://en.wikipedia.org/wiki/Brimmington_Park"
+     },
+     {
+      "title": "Peckham Society: Peckham's parks",
+      "url": "https://www.peckhamsociety.org.uk/?p=628"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p004",
@@ -39,7 +137,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "A local playground in Brunswick Park, Camberwell, rebuilt by Southwark in 2017 after residents asked for an imaginative, adventurous play space. It's laid out around the park's existing trees, and there are tennis and ball courts nearby. Good for a quick neighbourhood play rather than a big day out.",
+    "standout": "Play area built around the park's mature trees",
+    "extras": "Tennis courts and games court in the park",
+    "highlights": [
+     "Rebuilt in 2017 from a design residents helped shape",
+     "Keeps the existing trees around the play space",
+     "Tennis and ball courts close by"
+    ],
+    "cautions": [
+     "Recent sources about its current condition are thin",
+     "Check opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Fabulous new play area opens in Brunswick Park",
+      "url": "https://services.southwark.gov.uk/news/2017/oct/fabulous-new-play-area-opens-in-brunswick-park"
+     },
+     {
+      "title": "Southwark Consultations: Brunswick Park Play Area Upgrade 2 - Draft Plan",
+      "url": "https://consultations.southwark.gov.uk/environment-leisure/brunswick-park-play-area-upgrade-1/"
+     },
+     {
+      "title": "Wikipedia: Brunswick Park, Southwark",
+      "url": "https://en.wikipedia.org/wiki/Brunswick_Park,_Southwark"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p005",
@@ -59,7 +187,44 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 9,
+    "summary": "The main Burgess Park playground at Chumleigh Gardens, with separate areas for under-5s and over-5s and climbing kit for children up to 14. Water jets run here in summer, and toilets and a drinking fountain are close by. Southwark is consulting on refurbishing the under-5s area, so expect changes.",
+    "standout": "Summer water-play jets beside the play areas",
+    "age": "0–14",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Toilets, drinking fountain, separate under-5s area with sandpit",
+    "highlights": [
+     "Separate under-5s and over-5s play areas",
+     "Water play jets in summer",
+     "Toilets and drinking fountain near the play area",
+     "Big park around it with lots more to do"
+    ],
+    "cautions": [
+     "Under-5s playground is due for refurbishment after a 2025–26 consultation, so parts may close",
+     "Water jets are seasonal",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Burgess Park",
+      "url": "https://www.southwark.gov.uk/parks-and-open-spaces/parks/burgess-park"
+     },
+     {
+      "title": "Southwark Council engagement: Burgess Park playground improvements",
+      "url": "https://engage.southwark.gov.uk/en-GB/projects/burgess-park-playground-improvements/1"
+     },
+     {
+      "title": "Homegirl London: Ten things to do in Burgess Park",
+      "url": "https://homegirllondon.com/ten-things-to-do-in-burgess-park-london-se5/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p007",
@@ -85,7 +250,42 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 7,
+    "summary": "A woodland play area at the Rust Square end of Burgess Park, built during the park's 2019 Burgess Park West refurbishment. Natural wooden climbing frames are linked by nets, bridges, ropes and tunnels, with a big slide and swings. Best for school-age children who like to climb.",
+    "standout": "Climbing net trail winding through the trees",
+    "age": "5–12",
+    "ages": [
+     5,
+     12
+    ],
+    "highlights": [
+     "Natural timber play built among the trees",
+     "Nets, bridges, tunnels and climbing walls link the frames",
+     "Large slide and swings"
+    ],
+    "cautions": [
+     "Aimed at older children; toddlers may be better off at the Chumleigh Gardens play areas",
+     "Toilets are at Chumleigh Gardens, not by this play area",
+     "Check opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Burgess Park West hosts celebratory party after £3.6m refurb",
+      "url": "https://services.southwark.gov.uk/news/2019/jun/burgess-park-west-hosts-celebratory-party-in-the-sunshine-after-3-6m-refurb"
+     },
+     {
+      "title": "Freeparks: Burgess Park Woodland Play Area",
+      "url": "https://freeparks.co.uk/park/burgess-park-woodland-play-area/"
+     },
+     {
+      "title": "Southwark Council: Burgess Park",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/burgess-park"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p009",
@@ -95,7 +295,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "The playground on Camberwell Green was rebuilt as part of the green's 2016 makeover, when it moved to the north side and was made noticeably bigger, with colourful safety surfacing and custom play pieces. A handy, always-open stop in central Camberwell rather than a destination.",
+    "standout": "Bigger playground built in the green's 2016 redesign",
+    "extras": "Open lawn; park open at all times",
+    "highlights": [
+     "Rebuilt and enlarged in the 2016 refurbishment",
+     "Multicoloured safety surfacing and custom play features",
+     "Central Camberwell location, unrestricted opening"
+    ],
+    "cautions": [
+     "Most detailed sources date from 2016; current condition not confirmed",
+     "Sits at a busy road junction"
+    ],
+    "sources": [
+     {
+      "title": "Londonist: Camberwell Green is reopening (2016)",
+      "url": "https://londonist.com/2016/07/camberwell-green-is-reopening"
+     },
+     {
+      "title": "Blakedown: Camberwell Green, BALI Awards 2016",
+      "url": "https://www.blakedown.co.uk/bali-awards-2016-camberwell-green"
+     },
+     {
+      "title": "London Gardens Trust: Camberwell Green",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=SOU013"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p010",
@@ -105,7 +335,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "Formerly Central Venture Park and now called Kelly Avenue Park, this Peckham green space by the Tustin Estate has a playground alongside table tennis, football pitches and a council-staffed youth centre. Local campaigners have worked to make it cleaner and safer. A handy neighbourhood stop rather than a destination.",
+    "extras": "Youth centre, table tennis, football pitches",
+    "highlights": [
+     "Playground plus table tennis and football",
+     "Youth centre staffed by council workers",
+     "Active friends group"
+    ],
+    "cautions": [
+     "Now signed as Kelly Avenue Park",
+     "Community campaign has focused on making the park clean and safe",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Peckham Society: parks and open spaces",
+      "url": "https://www.peckhamsociety.org.uk/?p=628"
+     },
+     {
+      "title": "Citizens UK: Kelly Avenue Park, a revival",
+      "url": "https://www.citizensuk.org/chapters/south-london/south-london-news/kelly-avenue-park-a-revival/"
+     },
+     {
+      "title": "Southwark Council: What's happening in parks",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/what-s-happening"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p011",
@@ -115,7 +375,38 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "A small, brightly coloured play area in the south corner of Christ Church Garden, a leafy churchyard garden off Blackfriars Road near Southwark station. Handy for a short play break during a trip to the South Bank rather than a destination in itself.",
+    "standout": "A pocket of play in a peaceful garden near the South Bank",
+    "extras": "Planted garden, listed drinking fountain (not working)",
+    "highlights": [
+     "Quiet, well-planted garden managed with Bankside Open Spaces Trust",
+     "Close to Southwark station",
+     "Open access at all times"
+    ],
+    "cautions": [
+     "Small playground: limited equipment",
+     "The listed drinking fountain has not worked for some years",
+     "A funding bid for a children's play space here was listed for 2024–25; any works may change the area, so check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=3"
+     },
+     {
+      "title": "Bankside Open Spaces Trust: Christ Church Garden",
+      "url": "https://bost.org.uk/christchurch-garden/"
+     },
+     {
+      "title": "Marcus Beale Architects: Christ Church Garden",
+      "url": "https://www.marcus-beale.com/projects/christ-church-garden/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p012",
@@ -125,7 +416,38 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "A small, leafy park in Peckham where the children's play area is the main feature. Southwark finished the first phase of joining it with Dr Harold Moody Park in 2025, adding trees and some climbing equipment. A bigger playground upgrade is planned but still waiting on funding.",
+    "standout": "Newly merged green space with Dr Harold Moody Park",
+    "extras": "Games court in neighbouring Dr Harold Moody Park",
+    "highlights": [
+     "First phase of the park revamp finished in 2025",
+     "New trees and climbing equipment added",
+     "Shaded, wooded setting"
+    ],
+    "cautions": [
+     "Main playground refurbishment and expansion is still unfunded",
+     "Residents in the consultations described the old equipment as tired and mentioned dogs and anti-social behaviour",
+     "Check opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Revamped Consort Park and Dr Harold Moody Park unveiled",
+      "url": "https://www.southwark.gov.uk/news/2025/southwark-council-unveils-revamped-consort-park-and-dr-harold-moody-park-peckham"
+     },
+     {
+      "title": "Southwark Council: Consort Park and Dr Harold Moody Park project",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/projects-in-parks/consort-park"
+     },
+     {
+      "title": "Peckham Society: Peckham parks",
+      "url": "https://www.peckhamsociety.org.uk/?p=628"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p013",
@@ -135,7 +457,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "A small Peckham park off Queens Road with a children's playground, a basketball court and a five-a-side pitch. Southwark has been improving it in phases under a master plan, and the old play equipment was to stay until a new play area is finished. A local option close to Peckham centre.",
+    "standout": "Small local park with play, basketball and football together",
+    "extras": "Basketball court, five-a-side pitch",
+    "highlights": [
+     "Playground plus ball courts in one small park",
+     "Council improvement project under way in phases",
+     "Neighbouring Kirkwood Nature Reserve"
+    ],
+    "cautions": [
+     "Improvement works are phased; check whether the play area is the old or new one before going",
+     "Sources don't confirm a completion date for the new playground"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Cossall Park project",
+      "url": "https://southwark.gov.uk/parks-and-open-spaces/projects-in-parks/cossall-park"
+     },
+     {
+      "title": "Peckham Society: local parks",
+      "url": "https://www.peckhamsociety.org.uk/?p=628"
+     },
+     {
+      "title": "Southwark News: Cleaner Greener Safer funding (2023)",
+      "url": "https://southwarknews.co.uk/?p=134781"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p014",
@@ -145,7 +497,32 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 6,
+    "summary": "Now called Dickens' Fields, this revamped park off Falmouth Road reopened in 2021 after a council regeneration. Its Anne Keane playground offers a good spread of play, and Rockingham Adventure Playground sits on the adjacent site for older kids. The park is open at all times.",
+    "standout": "Rockingham Adventure Playground right next door",
+    "highlights": [
+     "Park relandscaped and reopened in 2021",
+     "Anne Keane playground with varied play",
+     "Open at all times"
+    ],
+    "cautions": [
+     "Now signed as Dickens' Fields",
+     "Don't confuse with Little Dorrit Playground, a separate site"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Dickens' Fields",
+      "url": "https://www.southwark.gov.uk/parks-and-open-spaces/parks/dickens-square-park"
+     },
+     {
+      "title": "London Gardens Trust: Dickens' Fields",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=SOU020a"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p015",
@@ -155,7 +532,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "A small neighbourhood play area in Dr Harold Moody Park on Consort Road, next to Consort Park. Equipment suits younger children, and there's a basketball court and table tennis for older ones. The council finished the first phase of a wider makeover of both parks in 2025.",
+    "standout": "Part of a two-park makeover in the heart of Peckham",
+    "extras": "Basketball court, table tennis tables",
+    "highlights": [
+     "Play equipment aimed at young children",
+     "Basketball court and table tennis for older kids",
+     "Council completed first-phase improvements in May 2025"
+    ],
+    "cautions": [
+     "Small park",
+     "The masterplan includes refurbishing the play area with more equipment; works may be ongoing, so check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Consort Park and Dr Harold Moody Park revamp (2025)",
+      "url": "https://www.southwark.gov.uk/news/2025/southwark-council-unveils-revamped-consort-park-and-dr-harold-moody-park-peckham"
+     },
+     {
+      "title": "Southwark Council: Consort Park and Dr Harold Moody Park project",
+      "url": "https://southwark.gov.uk/culture-and-sport/leisure-projects-0/consort-park-and-dr-harold-moody-park"
+     },
+     {
+      "title": "London Gardens Trust: Walking with John Goodier, Peckham",
+      "url": "https://londongardenstrust.org/features/Peckham.htm"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p016",
@@ -165,7 +572,42 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 8,
+    "summary": "A large playground in Dulwich Park for children up to 14, with a café and cycle hire nearby and the lake close at hand. It's known for being good for toddlers as well as older children. Southwark and Dulwich Park Friends have been upgrading it, with more improvements under consultation in 2026, including inclusive play.",
+    "standout": "Big playground for all ages in a full day-out park",
+    "age": "0–14",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Café, cycle hire",
+    "highlights": [
+     "Large playground covering toddlers to young teens",
+     "Café and cycle hire in the park",
+     "Recent upgrades, with the Friends group raising money for more"
+    ],
+    "cautions": [
+     "Further play area works were under consultation in 2026, so parts may be fenced off",
+     "Check café and park opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Dulwich Park",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/dulwich-park"
+     },
+     {
+      "title": "Southwark Engage: Dulwich Park play area improvements",
+      "url": "https://engage.southwark.gov.uk/en-GB/projects/dulwich-park-play-area-improvements"
+     },
+     {
+      "title": "Lonely Planet: Dulwich Park",
+      "url": "https://lonelyplanet.com/england/london/attractions/dulwich-park/a/poi-sig/1278084/358914"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p017",
@@ -175,7 +617,32 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "A small pocket park at the New Kent Road end of Falmouth Road with a children's playground and a multi-use games area. It was given a full makeover through a Cleaner Greener Safer grant. Useful for families living nearby rather than worth a special trip.",
+    "standout": "Compact neighbourhood playground with a games court",
+    "extras": "Multi-use games area",
+    "highlights": [
+     "Playground and ball court side by side",
+     "Refreshed with a Cleaner Greener Safer grant"
+    ],
+    "cautions": [
+     "Very small site (about 0.19 ha)",
+     "No recent sources on the condition of the equipment"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=3"
+     },
+     {
+      "title": "GiGL Space to Visit: Falmouth Road Park",
+      "url": "https://www.gigl.org.uk/?p=62144"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p018",
@@ -185,7 +652,36 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "A small Walworth garden by St Peter's Churchyard with a children's playground and a multi-use games area. Southwark has funding to resurface and refurbish the play area and add inclusive equipment, with design sessions held in 2026. Locals have flagged that it gets very sunny in summer.",
+    "extras": "Multi-use games area",
+    "highlights": [
+     "Playground plus a ball court",
+     "Refurbishment with inclusive equipment planned"
+    ],
+    "cautions": [
+     "Little shade on hot days",
+     "Upcoming refurbishment may close the play area for a while",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens (Walworth and Elephant)",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=8"
+     },
+     {
+      "title": "Southwark Council engagement: Faraday Gardens playground improvements",
+      "url": "https://engage.southwark.gov.uk/en-GB/projects/faraday-gardens-playground-improvements/1"
+     },
+     {
+      "title": "London Gardens Trust: Faraday Gardens",
+      "url": "https://www.londongardenstrust.org/site-record?ID=SOU030"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p019",
@@ -195,7 +691,42 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "The playground in Geraldine Mary Harmsworth Park, the park around the Imperial War Museum. It serves children up to about 14, but a 2025 school workshop found many kids thought it boring, and the council has funding to redesign it with a focus on 8–15 year olds. Good to combine with a museum visit.",
+    "standout": "Right next to the Imperial War Museum",
+    "age": "up to 14",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Outdoor gym (renovated 2023)",
+    "highlights": [
+     "Easy to pair with a trip to the Imperial War Museum",
+     "Council has funding for new equipment and landscaping",
+     "Outdoor gym renovated in 2023"
+    ],
+    "cautions": [
+     "Current equipment described as dated or boring by local pupils",
+     "Redesign planned: the playground may be closed for works, so check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Geraldine Mary Harmsworth Park playground project",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/leisure-projects-0/geraldine-mary-harmsworth-park-playground"
+     },
+     {
+      "title": "Southwark Council engage: GMH Park new playground facilities",
+      "url": "https://engage.southwark.gov.uk/en-GB/projects/geraldine-mary-harmsworth-park-new-playground-facilities/1"
+     },
+     {
+      "title": "Southwark Council: Geraldine Mary Harmsworth Park",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/parks-and-open-spaces/find-park/geraldine-mary-harmsworth-park"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p020",
@@ -205,7 +736,31 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "A small, always-open playground on Goose Green in East Dulwich. Its play tower has been removed. In 2025 Southwark consulted on replacing it and the goal area, but no source yet confirms the new equipment is in. Handy for a short stop, but expect limited equipment for now.",
+    "standout": "Handy green in the middle of East Dulwich",
+    "highlights": [
+     "Open-access green with no gates or set hours",
+     "Council funding agreed to replace the play tower and goal area"
+    ],
+    "cautions": [
+     "Play tower was removed and replacement was not confirmed as installed",
+     "Check the council project page for the latest status"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Engage: Goose Green play area",
+      "url": "https://engage.southwark.gov.uk/en-GB/projects/goose-green-play-area/1"
+     },
+     {
+      "title": "London Gardens Trust: Goose Green inventory record",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU034"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p021",
@@ -215,7 +770,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "A small park near London Bridge with a play area under mature trees, a multi-use games area and a community garden. It hasn't been refurbished since the early 2000s, but early 2026 reports say the council has funded a refurbishment and a new Friends group is shaping the plans.",
+    "standout": "Leafy play area with a refurbishment funded for 2026",
+    "extras": "Multi-use games area, picnic area, community garden",
+    "highlights": [
+     "Play area in a landscaped setting with mature trees",
+     "Refurbishment funding announced in 2026",
+     "New Friends of Guy Street Park group"
+    ],
+    "cautions": [
+     "Equipment dates from the 2003 refurbishment",
+     "Works may be planned or under way; check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/parks-and-open-spaces/find-park/other-parks-and-gardens"
+     },
+     {
+      "title": "London Gardens Trust: Guy Street Park",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU036"
+     },
+     {
+      "title": "Southwark News: Friends of Guy Street Park call for volunteers",
+      "url": "https://southwarknews.co.uk/area/bermondsey/friends-of-guy-street-park-call-for-volunteers-ahead-of-their-first-ever-meeting/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p022",
@@ -225,7 +810,32 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "Southwark's Honor Oak ground near Honor Oak Park station has a playground and picnic area alongside football pitches and tennis courts. A council consultation on improving the play area mentions replacing a broken climbing frame and repairing railings and gates, so check its condition.",
+    "extras": "Picnic area, tennis courts, football pitches",
+    "highlights": [
+     "Picnic area next to the playground",
+     "Tennis and football on site"
+    ],
+    "cautions": [
+     "Council project notes a broken climbing frame and railings needing repair",
+     "Not the same as Lewisham's Honor Oak Adventure Playground on Turnham Road",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens (Dulwich and Honor Oak)",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=5"
+     },
+     {
+      "title": "Southwark Council engagement: Honor Oak Recreation Ground play area improvements",
+      "url": "https://engage.southwark.gov.uk/en-GB/projects/honor-oak-recreation-ground-play-area-improvements/1"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p023",
@@ -245,7 +855,33 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "A small playground in King George's Field near Canada Water, a Rotherhithe park built on the old All Saints' churchyard. It also has tennis courts. In 2025 the council pointed local parents here after removing another Rotherhithe playground. A basic local option rather than a destination.",
+    "standout": "Protected playing field near Canada Water",
+    "extras": "Tennis courts",
+    "highlights": [
+     "Playground plus tennis courts",
+     "Protected by Fields in Trust",
+     "Close to Canada Water station"
+    ],
+    "cautions": [
+     "Few recent details on the equipment or its condition",
+     "Check opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "London Gardens Trust: King George's Field, Rotherhithe",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU044"
+     },
+     {
+      "title": "Southwark News: Council removed playground in Rotherhithe due to health and safety risks",
+      "url": "https://southwarknews.co.uk/area/rotherhithe/exclusive-council-removed-playground-in-rotherhithe-due-to-health-and-safety-risks-but-local-mums-claim-its-more-dangerous-now/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p025",
@@ -255,7 +891,42 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 6,
+    "summary": "A fenced, dog-free playground in King's Stairs Gardens, a 3.3-hectare riverside park on Jamaica Road. Southwark lists it for children up to 14. The park runs down to a paved Thames riverfront and is a nature conservation site, so a play stop can turn into a riverside walk.",
+    "standout": "Fenced playground in a park that opens onto the Thames",
+    "age": "up to 14",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Fenced, dog-free play area; riverside path",
+    "highlights": [
+     "Fenced and dog-free",
+     "Riverside setting with Thames views",
+     "Site of nature conservation importance; protected village green"
+    ],
+    "cautions": [
+     "Dogs are allowed in the rest of the park",
+     "No detail in sources on the equipment or toilets"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: King's Stairs Gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/king-s-stairs-gardens"
+     },
+     {
+      "title": "GiGL Space to Visit: King's Stairs Gardens",
+      "url": "https://www.gigl.org.uk/?p=62131"
+     },
+     {
+      "title": "Wikipedia: King's Stairs Gardens",
+      "url": "https://en.wikipedia.org/wiki/King%27s_Stairs_Gardens"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p026",
@@ -265,7 +936,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "A small play area in the south-west corner of Leathermarket Gardens, near Bermondsey Street. The council refurbished it in 2020, adding new features around the original concrete play boat and new safety surfacing. Fine for a quick play near London Bridge.",
+    "standout": "The old concrete play boat",
+    "highlights": [
+     "Refurbished and reopened in 2020",
+     "Concrete boat centrepiece",
+     "Leafy gardens around it"
+    ],
+    "cautions": [
+     "Small, hard-surfaced space",
+     "The gardens have been closed in the past for ground-movement investigations",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Leathermarket Gardens Playground",
+      "url": "https://southwark.gov.uk/parks-and-open-spaces/projects-in-parks/leathermarket-gardens-playground"
+     },
+     {
+      "title": "London SE1: Leathermarket Gardens playground vote",
+      "url": "https://www.london-se1.co.uk/news/view/6272"
+     },
+     {
+      "title": "Southwark Council: Leathermarket Gardens consultation report",
+      "url": "https://services.southwark.gov.uk/assets/attach/11485/Consultation-report-final.pdf"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p027",
@@ -275,7 +976,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "A pocket park play area on Peckham Park Road, famous as Rio Ferdinand's childhood playground. It was rebuilt in 2018 with an elevated timber trail and climbing frame plus an outdoor gym, but in 2023 it was named one of London's saddest playgrounds after the big climbing frame was badly fire-damaged.",
+    "standout": "Rio Ferdinand's old playground, with a timber climbing trail",
+    "extras": "Outdoor gym, multi-use games area",
+    "highlights": [
+     "2018 rebuild added a raised timber trail and climbing frame for older kids",
+     "Outdoor gym and resurfaced games area",
+     "Leyton Square adventure playground and play hut nearby"
+    ],
+    "cautions": [
+     "2023 reports of the main climbing frame burnt out and fenced off; we found no confirmation it has been repaired",
+     "Check its condition before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Leyton Square transformed into new playground (2018)",
+      "url": "https://services.southwark.gov.uk/news/2018/sep/leyton-square-transformed-into-brand-new-children-s-playground"
+     },
+     {
+      "title": "Time Out: Londoners vote for the city's saddest playgrounds (2023)",
+      "url": "https://www.timeout.com/london/news/londoners-have-voted-for-their-citys-saddest-playgrounds-and-theyre-pretty-bleak-031523"
+     },
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=6"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p028",
@@ -285,7 +1016,38 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "A small historic playground off Borough High Street, opened in 1902 and named after Dickens's Little Dorrit. Dogs and adults without children are banned, which parents value. Southwark says the equipment is in poor condition and plans to replace it. Its 2026 plan to open the space to dogs and all adults drew a local backlash.",
+    "standout": "Child-only Dickensian playground in the heart of Borough",
+    "extras": "Adjoining peace garden",
+    "highlights": [
+     "Dogs and adults without children not allowed under current rules",
+     "Small peace garden next door",
+     "Supported by Bankside Open Spaces Trust"
+    ],
+    "cautions": [
+     "Council says the play equipment is in poor condition and due for replacement",
+     "Redesign and rule changes were disputed in 2026; works could close it",
+     "Very small"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Little Dorrit Park improvement project",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/leisure-projects-0/little-dorrit-park-improvement-project"
+     },
+     {
+      "title": "Southwark News: Backlash over plans to open child-only Dickensian park to dogs and lone adults",
+      "url": "https://southwarknews.co.uk/area/borough/backlash-over-plans-to-open-child-only-dickensian-park-to-dogs-and-lone-adults/"
+     },
+     {
+      "title": "Wikipedia: Little Dorrit's Playground",
+      "url": "https://en.wikipedia.org/wiki/Little_Dorrit%27s_Playground"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p029",
@@ -295,7 +1057,31 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "A small play area on Long Lane in Bermondsey, between the road and housing, set among mature trees. It occupies a former Quaker burial ground whose old wall still bounds the site. A quick neighbourhood stop rather than a destination.",
+    "standout": "Small leafy play area inside an old burial-ground wall",
+    "highlights": [
+     "Mature trees around the play area",
+     "Historic boundary wall"
+    ],
+    "cautions": [
+     "Very small and basic, as far as sources describe",
+     "No recent news on its condition"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/parks-and-open-spaces/find-park/other-parks-and-gardens"
+     },
+     {
+      "title": "Parks and Gardens UK: Long Lane Recreation Ground playground",
+      "url": "https://www.parksandgardens.org/places/long-lane-recreation-ground-playground"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p030",
@@ -305,7 +1091,30 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "Long Meadow is a triangular field at the bottom of Gipsy Hill on the Southwark–Lambeth border, popular with dog walkers. A small playground sits at its southern end with its own entrance. Basic, but useful if you live nearby.",
+    "highlights": [
+     "Playground has its own separate entrance",
+     "Open grass for a run-around"
+    ],
+    "cautions": [
+     "Small, basic playground",
+     "Popular with dog walkers"
+    ],
+    "sources": [
+     {
+      "title": "Richly Evocative: A stray field in south London",
+      "url": "https://richlyevocative.net/2015/02/04/a-stray-field-in-south-london/"
+     },
+     {
+      "title": "GiGL: Long Meadow",
+      "url": "https://www.gigl.org.uk/park/OS_So_0266"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p031",
@@ -315,7 +1124,33 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "Lucas Gardens is a small Victorian-style ornamental park on Peckham Road opposite the old town hall, with winding paths and mature trees. Write-ups mention several play areas, including a larger one mixing colourful metal and rustic wood, making it a pleasant leafy stop between Camberwell and Peckham.",
+    "standout": "Several play areas tucked into an ornamental garden",
+    "extras": "Fenced dog area",
+    "highlights": [
+     "More than one play area",
+     "Mature trees and winding paths",
+     "Separate fenced space for dogs"
+    ],
+    "cautions": [
+     "The sources we found are a few years old; current equipment and condition unconfirmed",
+     "Small park"
+    ],
+    "sources": [
+     {
+      "title": "Londonist: London's little gardens, Lucas Gardens",
+      "url": "https://londonist.com/2016/04/london-s-little-gardens-lucas-gardens"
+     },
+     {
+      "title": "Brixton Buzz: Lucas Gardens, an ornamental park in Camberwell (2020)",
+      "url": "https://www.brixtonbuzz.com/2020/06/lucas-gardens-an-ornamental-park-close-to-the-centre-of-camberwell/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p032",
@@ -325,7 +1160,42 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 7,
+    "summary": "Mint Street Park in Borough has a public playground for children up to 14, a small sports pitch and a community stage. Next door is the free Mint Street Adventure Playground for 8–15s, rebuilt in 2018 with aerial walkways and rope swings. Younger children use the public play area; older ones can head for the adventure side.",
+    "standout": "Free adventure playground with aerial walkways next door",
+    "age": "0–14",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Small sports pitch, community stage, staffed adventure playground for 8–15s",
+    "highlights": [
+     "Public playground for children up to 14",
+     "Adventure playground rebuilt in 2018 with aerial walkways and rope swings",
+     "Close to Borough station"
+    ],
+    "cautions": [
+     "The adventure playground is for 8–15s only, runs term-time hours and is closed on Mondays",
+     "Check opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Mint Street Park",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/mint-street-park"
+     },
+     {
+      "title": "Southwark Council: Council invests over £2million to bring aerial walkways, Tarzan swings and much more to Mint Street",
+      "url": "https://services.southwark.gov.uk/news/2018/jul/council-invests-over-2million-to-bring-aerial-walkways-tarzan-swings-and-much-more-to-mint-street"
+     },
+     {
+      "title": "Southwark Council: Mint Street Adventure Playground",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/parks-and-open-spaces/adventure-playgrounds/mint-street-adventure-playground"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p033",
@@ -335,7 +1205,36 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "Nelson Square Gardens near Southwark tube is mostly playground, with a multi-use games area, mature trees and a small rose garden. It was relandscaped with nearly £400,000 from local developments and relaunched as a community space. A good stop for families around Borough and Bankside.",
+    "standout": "Central SE1 playground with a games court and rose garden",
+    "extras": "Multi-use games area, small garden",
+    "highlights": [
+     "Relandscaped with section 106 funding",
+     "Playground and ball court together",
+     "Open at all times"
+    ],
+    "cautions": [
+     "The relaunch reports are undated; current condition not confirmed"
+    ],
+    "sources": [
+     {
+      "title": "London Gardens Trust: Nelson Square",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU061"
+     },
+     {
+      "title": "Southwark News: Smiles as Nelson Square Gardens relaunches",
+      "url": "https://www.southwarknews.co.uk/news/smiles-re-launch-nelson-square-gardens/"
+     },
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=3"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p034",
@@ -345,7 +1244,41 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 6,
+    "summary": "Newington Gardens on Harper Road, between Elephant & Castle and Borough, has a playground for children up to 14 plus two large ball courts and table tennis. Southwark has funding for a new 'Riverbank'-themed redesign, consulted on in 2025–26, so expect works.",
+    "age": "Up to 14",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Two multi-use games areas, table tennis",
+    "highlights": [
+     "Playground for a wide age range",
+     "Ball courts and table tennis",
+     "New Riverbank-themed playground planned"
+    ],
+    "cautions": [
+     "Planned refurbishment may close the playground for a time",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Newington Gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/newington-gardens"
+     },
+     {
+      "title": "Southwark News: Take the 3D tour of new Riverbank playground",
+      "url": "https://southwarknews.co.uk/area/elephant-and-castle/take-the-3d-tour-of-new-riverbank-playground-in-southwark/"
+     },
+     {
+      "title": "Southwark Council engagement: Newington Gardens playground improvements",
+      "url": "https://engage.southwark.gov.uk/en-GB/projects/newington-gardens-playground-improvements/1"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p035",
@@ -365,7 +1298,36 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 7,
+    "summary": "A Walworth neighbourhood park that reopened in September 2025 after a £690,000 upgrade shaped by the Friends of Nursery Row Park and residents. It now has separate playgrounds for younger and older children, a new outdoor gym and a wildflower meadow. A fresh, well-planned local option for families with mixed ages.",
+    "standout": "Freshly upgraded park with separate play areas by age",
+    "extras": "Outdoor gym, wildflower meadow and orchard",
+    "highlights": [
+     "Reopened in September 2025 after a £690k upgrade",
+     "Separate playgrounds for younger and older children",
+     "Active Friends group"
+    ],
+    "cautions": [
+     "Check opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Nursery Row Park reopens following £690,000 upgrade",
+      "url": "https://www.southwark.gov.uk/news/2025/nursery-row-park-reopens-following-ps690000-upgrade"
+     },
+     {
+      "title": "Southwark News: Nursery Row Park re-opens after major revamp with new gym and playgrounds",
+      "url": "https://southwarknews.co.uk/area/walworth/nursey-row-park-re-opens-after-major-revamp-with-new-gym-and-playgrounds/embed/"
+     },
+     {
+      "title": "GoParks London: Nursery Row Park",
+      "url": "https://www.goparks.london/park/nursery-row-park/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p037",
@@ -375,7 +1337,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "A small Walworth park on the site of the Victorian Surrey Zoological Gardens, with a children's playground, a games court and two ostrich sculptures that nod to its zoo past. The Friends of Pasley Park run a free summer fete. A pleasant local playground.",
+    "standout": "Ostrich sculptures marking a lost Victorian zoo",
+    "extras": "Multi-use games area, dog exercise area",
+    "highlights": [
+     "Zoo history and ostrich sculptures to spot",
+     "Active Friends group with an annual free fete",
+     "Games court next to the playground"
+    ],
+    "cautions": [
+     "Small park",
+     "No recent detail on play equipment condition"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=8"
+     },
+     {
+      "title": "London Gardens Trust: Pasley Park",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU068a"
+     },
+     {
+      "title": "Southwark News: Pasley Park fete",
+      "url": "https://southwarknews.co.uk/?p=450509"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p038",
@@ -385,7 +1377,35 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "Paterson Park (often spelt Patterson) is a Bermondsey park on a former bomb site, opened in 1953, with a children's playground at its centre and a multi-use games area. A straightforward local park playground.",
+    "extras": "Multi-use games area",
+    "highlights": [
+     "Playground in the middle of the park",
+     "Ball court for older kids"
+    ],
+    "cautions": [
+     "Few recent write-ups on the playground's condition",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens (Bermondsey)",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=2"
+     },
+     {
+      "title": "Wikipedia: Paterson Park",
+      "url": "https://en.wikipedia.org/wiki/Paterson_Park"
+     },
+     {
+      "title": "London Gardens Trust: Paterson Park",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=SOU069"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p039",
@@ -395,7 +1415,30 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "Pearson's Park on Rotherhithe Street is a riverside-area green space that the council says has a large interactive children's play area. It's one of the playgrounds the council pointed Rotherhithe families to after a nearby woodland play structure was removed in 2025.",
+    "standout": "A large interactive play area for Rotherhithe families",
+    "highlights": [
+     "Council describes the play area as large and interactive",
+     "Open green space around it"
+    ],
+    "cautions": [
+     "We found few details on equipment, ages or condition: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=7"
+     },
+     {
+      "title": "Southwark News: Council removed Rotherhithe playground (2025)",
+      "url": "https://southwarknews.co.uk/area/rotherhithe/exclusive-council-removed-playground-in-rotherhithe-due-to-health-and-safety-risks-but-local-mums-claim-its-more-dangerous-now/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p040",
@@ -405,7 +1448,42 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 9,
+    "summary": "Peckham Rye Park's big play area, opened in 2018 and inspired by the Olympic Park's Tumbling Bay playground. It's designed for all ages, and its seasonal water zone has hand pumps, streams and dams. With a café and toilets with baby changing in the park, it's one of the best family playgrounds near Peckham.",
+    "standout": "Hands-on water play with pumps, streams and dams",
+    "extras": "Café, toilets and baby changing in the park",
+    "highlights": [
+     "Water play zone runs from spring to autumn",
+     "Designed for children of all ages",
+     "Still listed among London's water play spots in 2026"
+    ],
+    "cautions": [
+     "Water play is seasonal",
+     "Gets busy on warm days",
+     "Check park and café opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Peckham Rye Park's new play area opens with a splash",
+      "url": "https://southwark.gov.uk/news/2018/jul/peckham-rye-park-s-new-play-area-opens-with-a-splash"
+     },
+     {
+      "title": "Southwark Council: Exciting new play area for Peckham Rye Park",
+      "url": "https://services.southwark.gov.uk/news/2017/sep/exciting-new-play-area-for-peckham-rye-park"
+     },
+     {
+      "title": "Southwark Council: Peckham Rye Park and Common",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/peckham-rye-park-and-common"
+     },
+     {
+      "title": "Bablands: London play fountains and splash pads by area (2026)",
+      "url": "https://bablands.com/2026/05/26/a-list-of-london-play-fountains-and-splash-pads-by-area/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p041",
@@ -415,7 +1493,43 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 9,
+    "summary": "Peckham Rye Park's playground opened in 2018 with a water play zone inspired by the Olympic Park: hand pumps send water through streams and dams, plus a push-button spray and a sandpit with diggers. The park also has a café, toilets with baby changing, and an adventure playground for 8–15s that reopened in 2026 after a big upgrade.",
+    "standout": "Hand-pump water play with streams, dams and a sand-digger pit",
+    "extras": "Round Café, toilets and baby changing, separate adventure playground (8–15)",
+    "highlights": [
+     "Water play with pumps, dams and spray",
+     "Sandpit with little diggers",
+     "Café and toilets in the park",
+     "Adventure playground for 8–15s reopened in March 2026 after a £574k refurbishment"
+    ],
+    "cautions": [
+     "Water play has been seasonal (described as April to October); check before going",
+     "Café opening hours change; check before going",
+     "The adventure playground is for 8–15s, not toddlers"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Peckham Rye Park's new play area opens with a splash (2018)",
+      "url": "https://southwark.gov.uk/news/2018/jul/peckham-rye-park-s-new-play-area-opens-with-a-splash"
+     },
+     {
+      "title": "Southwark News: New play area comes to Peckham with water feature",
+      "url": "https://www.southwarknews.co.uk/news/new-play-area-comes-to-peckham-with-water-feature-for-kids/"
+     },
+     {
+      "title": "Southwark Council: Peckham Rye Park and Common",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/peckham-rye-park-and-common"
+     },
+     {
+      "title": "Construction News: Peckham Rye adventure playground reopens after £574k upgrade",
+      "url": "https://www.construction.co.uk/construction-news/328607/peckham-rye-adventure-playground-reopens-after-major-574k-upgrade"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p042",
@@ -425,7 +1539,32 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "A small Walworth park on Fielding Street with a children's playground, a multi-use games area and a dog exercise area. A council redesign consultation kept the junior play equipment and looked at adding a trim trail and nature corner; whether that was built isn't clear.",
+    "extras": "Multi-use games area, dog exercise area",
+    "highlights": [
+     "Junior play equipment",
+     "Ball court"
+    ],
+    "cautions": [
+     "Small park",
+     "Status of the planned redesign is unclear",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens (Walworth and Elephant)",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=8"
+     },
+     {
+      "title": "Southwark Council: Pelier Park consultation appendix",
+      "url": "https://services.southwark.gov.uk/assets/attach/66215/Appendix-4.pdf"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p043",
@@ -435,7 +1574,31 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "The play area in Salisbury Row Park, a 1.2-hectare open space in East Walworth, currently has a trampoline and a ball court. The council consulted residents twice in 2026 on turning it into a fully inclusive playground, so it should improve, but works may disrupt it.",
+    "standout": "Planned rebuild as a fully inclusive playground",
+    "extras": "Ball court",
+    "highlights": [
+     "Trampoline and ball court",
+     "Inclusive redesign consulted on in 2026"
+    ],
+    "cautions": [
+     "Refurbishment planned: the playground may close for works, so check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council engage: Salisbury Row Park playground refurbishment",
+      "url": "https://engage.southwark.gov.uk/en-GB/projects/salisbury-row-park-playground-refurbishment/1"
+     },
+     {
+      "title": "Southwark Council: East Walworth Green Links leaflet",
+      "url": "https://southwark.gov.uk/assets/attach/6252/East_Walworth_Green_Links_Leaflet.pdf"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p044",
@@ -455,7 +1618,42 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 6,
+    "summary": "An enclosed playground in Southwark Park, Rotherhithe's big Victorian park, with swings, a slide and other small rides. The council lists it for children up to 14, and it was renewed in 2018 after the park was picked as a priority for playground investment. Easy to combine with a longer park outing.",
+    "standout": "Enclosed playground in a large historic park",
+    "age": "up to 14",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Enclosed play area",
+    "highlights": [
+     "Renewed in 2018",
+     "Enclosed, with swings, slide and small rides",
+     "Large park around it for walks"
+    ],
+    "cautions": [
+     "Park gate times apply; check before going",
+     "No recent reports on the playground's condition since 2018"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Southwark Park",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/southwark-park"
+     },
+     {
+      "title": "Southwark Council: Southwark Park playground consultation",
+      "url": "https://consultations.southwark.gov.uk/environment-leisure/southwark-park-playground-consultation-1/"
+     },
+     {
+      "title": "Southwark Council scrutiny papers, July 2025 (playground completions)",
+      "url": "https://moderngov.southwark.gov.uk/documents/b50018131/Supplement%20Two%20Wednesday%2016-Jul-2025%2019.00%20Environment%20Community%20Safety%20and%20Engagement%20Scrutiny%20C.pdf?T=9"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p046",
@@ -471,7 +1669,42 @@
     0,
     4
    ],
-   "ageFromName": true
+   "ageFromName": true,
+   "ai": {
+    "score": 6,
+    "summary": "Southwark Park, a large Grade II-listed park in Bermondsey, has one of the council's bigger playgrounds, for children up to 14, which was renewed around 2018. The council lists accessible play equipment here. Sources don't detail the toddler area itself, so treat specifics as unconfirmed.",
+    "age": "Up to 14",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Accessible play equipment",
+    "highlights": [
+     "One of Southwark's larger playgrounds",
+     "Playground renewed around 2018",
+     "Accessible play equipment",
+     "Big historic park to explore"
+    ],
+    "cautions": [
+     "Little detail available on the toddler-specific area",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Southwark Park",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/southwark-park"
+     },
+     {
+      "title": "Southwark Council: Southwark Park playground consultation",
+      "url": "https://consultations.southwark.gov.uk/environment-leisure/southwark-park-playground-consultation-1/"
+     },
+     {
+      "title": "Southwark Council: Park facilities",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks-information/park-facilities"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p047",
@@ -481,7 +1714,41 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 7,
+    "summary": "Bermondsey Spa Gardens has a children's play area including a toddler space, a running track and a kiosk. Next door, the Ellen Brown adventure playground reopened in 2024 after a £420k makeover, offering free supervised play for 8–16s, so it covers a wide age range.",
+    "standout": "A free supervised adventure playground right next door",
+    "age": "up to 14",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Kiosk, 333m running track, multi-use games area, toddler play area",
+    "highlights": [
+     "Toddler play area plus equipment for older children",
+     "Ellen Brown adventure playground reopened in 2024 after refurbishment",
+     "Running track and games area for older kids"
+    ],
+    "cautions": [
+     "The adventure playground has set session times for 8–16s: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Bermondsey Spa Gardens",
+      "url": "https://southwark.gov.uk/parks-and-open-spaces/parks/bermondsey-spa-gardens"
+     },
+     {
+      "title": "Southwark Council: Ellen Brown adventure playground reopens (2024)",
+      "url": "https://www.southwark.gov.uk/news/2024/ellen-brown-adventure-playground-reopens-following-ps420k-makeover"
+     },
+     {
+      "title": "Parks and Gardens: Bermondsey Spa Park",
+      "url": "https://www.parksandgardens.org/places/bermondsey-spa-park"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p048",
@@ -491,7 +1758,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 6,
+    "summary": "A small play space in St James's Churchyard, Bermondsey, which the council says has been refurbished with new plants and paths. A modern version of the famous 1921 Joy Slide was built here around 2021, led by the Friends of St James's. It's smaller than the original and designed for younger children.",
+    "standout": "A modern take on Bermondsey's historic Joy Slide",
+    "highlights": [
+     "New Joy Slide revives a much-loved local landmark",
+     "Designed for younger children",
+     "Churchyard recently refurbished with new plants and walkways"
+    ],
+    "cautions": [
+     "No recent source on the slide's current condition",
+     "Small space",
+     "Check opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark News: Iconic joy slide set to come back to Bermondsey in 2021",
+      "url": "https://southwarknews.co.uk/area/bermondsey/iconic-joy-slide-set-to-come-back-to-bermondsey-in-2021/"
+     },
+     {
+      "title": "Southwark News: Bermondsey joy slide to be recreated by ancestor of man responsible for original",
+      "url": "https://www.southwarknews.co.uk/news/bermondsey-joy-slide-to-be-recreated-by-ancestor-of-man-responsible-for-original-almost-a-century-later/"
+     },
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=2"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p049",
@@ -511,7 +1808,38 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 7,
+    "summary": "St Mary's Churchyard on Newington Butts, by Elephant & Castle, has a children's playground under big plane trees, upgraded and reopened in 2017. The park also has a fountain pond and a jet plaza water feature children can play in, making it a good warm-weather stop.",
+    "standout": "Jet plaza water feature",
+    "extras": "Water feature, shade from mature plane trees",
+    "highlights": [
+     "Playground refreshed as part of the 2017 reopening",
+     "Jet plaza water play",
+     "Shady plane trees",
+     "Right by Elephant & Castle station"
+    ],
+    "cautions": [
+     "Busy urban location next to main roads",
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: New park opening creates a splash at Elephant and Castle",
+      "url": "https://services.southwark.gov.uk/news/2017/jul/new-park-opening-creates-a-splash-at-elephant-and-castle"
+     },
+     {
+      "title": "London Gardens Trust: St Mary's Churchyard",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=SOU082a"
+     },
+     {
+      "title": "Southwark Council: Other parks and gardens (Walworth and Elephant)",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=8"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p051",
@@ -531,7 +1859,35 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "A neighbourhood park on Sumner Road in Peckham with a children's playground, lawns, trees and benches. In April 2024 a wooden play structure was half destroyed in a fire that police treated as anti-social behaviour, and no source confirms a repair. Fine for a short local play.",
+    "standout": "Quiet neighbourhood green close to central Peckham",
+    "highlights": [
+     "Children's playground with lawns and trees around it",
+     "Close to central Peckham"
+    ],
+    "cautions": [
+     "A wooden play structure was badly damaged by fire in April 2024; no source confirms it was repaired",
+     "Reports of vandalism in the park"
+    ],
+    "sources": [
+     {
+      "title": "Peckham Society: Peckham parks",
+      "url": "https://www.peckhamsociety.org.uk/?p=628"
+     },
+     {
+      "title": "Southwark News: Misery after Peckham playground catches fire amid antisocial behaviour fears",
+      "url": "https://southwarknews.co.uk/area/peckham/misery-after-peckham-playground-catches-fire-amid-antisocial-behaviour-fears/"
+     },
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=6"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p053",
@@ -541,7 +1897,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 6,
+    "summary": "Sunray Gardens is a small Herne Hill park where a lake fills about a quarter of the site, with a boardwalk and a children's play area. It is a remnant of an 18th-century estate and is looked after by a Friends group. Nice for a short play-and-ducks visit.",
+    "standout": "Play area next to a lake with a boardwalk",
+    "extras": "Lake, boardwalk",
+    "highlights": [
+     "Lake and boardwalk to explore",
+     "Friends of Sunray Gardens look after it",
+     "Quiet residential setting"
+    ],
+    "cautions": [
+     "Open water near the play area; keep little ones close",
+     "Small park; latest refurbishment noted in sources was 2001"
+    ],
+    "sources": [
+     {
+      "title": "London Gardens Trust: Sunray Gardens",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU090"
+     },
+     {
+      "title": "Brixton Buzz: Sunray Gardens, a small park with a lake (2020)",
+      "url": "https://www.brixtonbuzz.com/2020/05/in-photos-sunray-gardens-a-small-park-with-a-lake-in-herne-hill-london-se24/"
+     },
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=6"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p054",
@@ -551,7 +1937,30 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 4,
+    "summary": "A small pocket park between Jowett Street and Commercial Way in Peckham with a children's playground, seating and sports areas screened by trees. Friends of Burgess Park have improved the planting and seating, and an upgrade of the play equipment has been proposed.",
+    "highlights": [
+     "Pocket-park playground close to Peckham centre",
+     "New planting and seating"
+    ],
+    "cautions": [
+     "Small pocket park",
+     "Equipment upgrade proposed; current state unconfirmed"
+    ],
+    "sources": [
+     {
+      "title": "Peckham Society: parks and open spaces",
+      "url": "https://www.peckhamsociety.org.uk/?p=628"
+     },
+     {
+      "title": "Friends of Burgess Park: Jowett Street park",
+      "url": "https://www.friendsofburgesspark.org.uk/revitalisation/jowett-street-park/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p055",
@@ -561,7 +1970,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 6,
+    "summary": "Surrey Square Park sits between the Kinglake and Aylesbury estates and has a playground with natural play equipment, plus a wildlife area and memorial garden. It's a Green Flag park with an active Friends group, and the council has funding to upgrade the play area.",
+    "standout": "Natural play equipment beside a wildlife area",
+    "extras": "Wildlife area, memorial garden",
+    "highlights": [
+     "Natural play equipment",
+     "Wildlife area to explore",
+     "Green Flag park looked after with a Friends group",
+     "Council funding secured for play area improvements"
+    ],
+    "cautions": [
+     "Play area refurbishment planned: may close for works, so check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Surrey Square Park playground refurbishment",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/leisure-projects-0/surrey-square-park-playground-refurbishment"
+     },
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=8"
+     },
+     {
+      "title": "London Gardens Trust: Surrey Square Park",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=SOU091"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p056",
@@ -571,7 +2010,41 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 7,
+    "summary": "Tabard Gardens is a Green Flag park within the Tabard Gardens estate near Borough station. Its playground is for children up to 14, and the park also has an outdoor gym, table tennis and bookable sports pitches. A well-kept local park with plenty for older siblings too.",
+    "standout": "Green Flag park with lots for older children",
+    "age": "0–14",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Outdoor gym, table tennis, sports pitches",
+    "highlights": [
+     "Playground for children up to 14",
+     "Kept its Green Flag Award in 2024",
+     "Table tennis and sports pitches"
+    ],
+    "cautions": [
+     "Check opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Tabard Gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/tabard-gardens"
+     },
+     {
+      "title": "Southwark News: Vital Southwark parks retain thirty prestigious Green Flag awards",
+      "url": "https://southwarknews.co.uk/featured/vital-southwark-parks-retain-thirty-prestigious-green-flag-awards/"
+     },
+     {
+      "title": "Parks and Gardens UK: Tabard Gardens",
+      "url": "https://parksandgardens.org/places/tabard-gardens"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p057",
@@ -581,7 +2054,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 5,
+    "summary": "Tanner Street Park, on the corner of Bermondsey Street, has a playground with a climbing web and a merry-go-round alongside four free tennis courts. It has won a Green Flag and has a historic drinking fountain made from part of an old church tower. A handy play stop near London Bridge.",
+    "standout": "Climbing web and merry-go-round beside free tennis courts",
+    "extras": "Four free tennis courts (no booking)",
+    "highlights": [
+     "Climbing web and merry-go-round",
+     "Free tennis courts",
+     "Green Flag award",
+     "Historic drinking fountain"
+    ],
+    "cautions": [
+     "Playground details may be dated; last refurbishment noted was 2004"
+    ],
+    "sources": [
+     {
+      "title": "Team London Bridge: Tanner Street Park",
+      "url": "https://www.teamlondonbridge.co.uk/directory/tanner-street-park"
+     },
+     {
+      "title": "Parks and Gardens UK: Tanner Street Park",
+      "url": "https://parksandgardens.org/places/tanner-street-park"
+     },
+     {
+      "title": "London SE1: Tanner Street Park",
+      "url": "https://www.london-se1.co.uk/places/tanner-street-park"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p058",
@@ -591,7 +2094,37 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 7,
+    "summary": "Victory Community Park in Walworth reopened in August 2024 after a £1m-plus makeover shaped by local consultation, including a new play area design. As well as the playground there's a nature garden, a sports area and a pavilion with a café.",
+    "standout": "Freshly rebuilt park with a café pavilion",
+    "extras": "Café pavilion, nature garden, sports area",
+    "highlights": [
+     "Reopened in 2024 after major improvement works",
+     "Play area redesigned with local input",
+     "Café in the pavilion",
+     "Nature garden"
+    ],
+    "cautions": [
+     "Opening hours can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Victory Community Park reopens",
+      "url": "https://southwark.gov.uk/news/2024/victory-community-park-reopens-community"
+     },
+     {
+      "title": "Southwark Council: Victory Community Park play area design consultation",
+      "url": "https://consultations.southwark.gov.uk/environment-leisure/victory-community-park-final-consultation/"
+     },
+     {
+      "title": "Southwark Council: East Walworth Green Links leaflet",
+      "url": "https://southwark.gov.uk/assets/attach/6252/East_Walworth_Green_Links_Leaflet.pdf"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p059",
@@ -601,7 +2134,38 @@
    "type": "playground",
    "area": "Southwark",
    "scope": "local",
-   "source": "council"
+   "source": "council",
+   "ai": {
+    "score": 6,
+    "summary": "Warwick Gardens on Lyndhurst Way is a small, well-used Green Flag park near Peckham Rye station. Its play area is a meeting point for local families, and there's a five-a-side pitch, basketball, table tennis and a community orchard, so older siblings are catered for too.",
+    "standout": "A friendly local park with a community orchard",
+    "extras": "Five-a-side pitch, basketball court, table tennis, picnic tables, community orchard",
+    "highlights": [
+     "Green Flag park",
+     "Play area popular with local families",
+     "Plenty for older kids: football, basketball, table tennis",
+     "Open access, close to Peckham Rye station"
+    ],
+    "cautions": [
+     "Small park",
+     "No recent reports on the state of the play equipment"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=6"
+     },
+     {
+      "title": "Peckham Society: Peckham's parks",
+      "url": "https://www.peckhamsociety.org.uk/?p=628"
+     },
+     {
+      "title": "London Gardens Trust: Warwick Gardens",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU098"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
   },
   {
    "id": "p060",
@@ -796,6 +2360,1121 @@
    "review": {
     "text": "Genieten met kleine kinderen!",
     "stars": 5
+   }
+  },
+  {
+   "id": "p070",
+   "name": "Horniman Museum and Gardens",
+   "lat": 51.44113,
+   "lon": -0.06076,
+   "type": "museum",
+   "area": "Forest Hill, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Meer.com venue listing (51.44113, -0.06076); matches The Great Britain Guide/OpenStreetMap (51.4410, -0.0610)",
+   "ai": {
+    "score": 8,
+    "summary": "A free family museum set in 16 acres of hillside gardens in Forest Hill. Children can see a compact aquarium, a butterfly house and a hands-on Nature Base with live bees and handling objects, then run off steam on the nature trail. Time Out readers have voted it London's best family attraction, and it makes a cheap, easy day out from Peckham.",
+    "standout": "Aquarium, butterfly house and hands-on Nature Base all in one place, with big gardens outside",
+    "extras": "Free entry to museum and gardens; aquarium and butterfly house charge a small fee",
+    "highlights": [
+     "Small but well-designed aquarium covering several aquatic habitats",
+     "Nature Base with live bees and mice and objects to touch",
+     "16-acre gardens and nature trail, open earlier than the museum",
+     "Voted London's best family attraction in a Time Out poll"
+    ],
+    "cautions": [
+     "The Natural History Gallery is closed for refurbishment until early 2027",
+     "Aquarium and butterfly house are paid extras",
+     "Opening times change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Time Out: This museum has been voted London's best family attraction",
+      "url": "https://www.timeout.com/london/news/this-museum-has-been-voted-londons-best-family-attraction-051324"
+     },
+     {
+      "title": "Visit London: Horniman Museum and Gardens",
+      "url": "https://www.visitlondon.com/things-to-do/place/288217-horniman-museum-and-gardens"
+     },
+     {
+      "title": "KidRated: Horniman Museum and Gardens",
+      "url": "https://www.kidrated.com/place/horniman-museum-gardens/"
+     },
+     {
+      "title": "Mummy Travels: Horniman Museum with kids",
+      "url": "https://www.mummytravels.com/?p=15941"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p071",
+   "name": "Surrey Docks Farm",
+   "lat": 51.4997,
+   "lon": -0.0339,
+   "type": "farm",
+   "area": "Rotherhithe, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Wikipedia (51°29′59″N 0°02′02″W)",
+   "ai": {
+    "score": 8,
+    "summary": "A free working city farm on the Thames at Rotherhithe, open since 1975. Families can meet a wide mix of animals, from donkeys and goats to ferrets, in a riverside setting that feels surprisingly rural. It celebrated its 50th birthday in 2025 and remains a much-loved charity farm, though it has recently needed community fundraising to keep going.",
+    "standout": "Hands-on farm animals right beside the Thames",
+    "extras": "Free entry; about 550 m from Rotherhithe station",
+    "highlights": [
+     "Free to visit",
+     "Wide range of farm animals including donkeys, goats and ferrets",
+     "Riverside setting on the Thames Path",
+     "50-year-old community charity farm"
+    ],
+    "cautions": [
+     "In March 2026 the farm launched an urgent appeal to raise £30,000 to stay open: check it is operating normally before going",
+     "Opening times change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Surrey Docks Farm",
+      "url": "https://en.wikipedia.org/wiki/Surrey_Docks_Farm"
+     },
+     {
+      "title": "Southwark News: Surrey Docks Farm needs to raise £1,000 a day for 30 days to stay open",
+      "url": "https://southwarknews.co.uk/tag/surrey-docks-farm/"
+     },
+     {
+      "title": "Farming News: Celebrating 50 years of Surrey Docks Farm",
+      "url": "https://farming.co.uk/news/celebrating-50-years-of-surrey-docks-farm"
+     },
+     {
+      "title": "Time Out: Surrey Docks Farm",
+      "url": "https://www.timeout.com/london/attractions/surrey-docks-farm"
+     },
+     {
+      "title": "OneHub Southwark: Surrey Docks Farm",
+      "url": "https://onehubsouthwark.co.uk/services/surrey-docks-farm"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p072",
+   "name": "National Maritime Museum (AHOY! children's gallery)",
+   "lat": 51.4811,
+   "lon": -0.00556,
+   "type": "museum",
+   "area": "Greenwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Wikipedia via museum-digital (51.481098, -0.005556)",
+   "link": "https://www.rmg.co.uk/national-maritime-museum/families",
+   "ai": {
+    "score": 8,
+    "summary": "Greenwich's free maritime museum has two dedicated children's galleries: AHOY! for 0–7s, packed with nautical play, and All Hands for 6–12s, where kids can steer a ship and fire a cannon. AHOY! reopened in 2025 after roof works. Combine it with Greenwich Park for a full day out.",
+    "standout": "AHOY! nautical play gallery for under-7s plus All Hands for older kids",
+    "age": "0–12",
+    "ages": [
+     0,
+     12
+    ],
+    "extras": "Bookable timed sessions for AHOY!",
+    "highlights": [
+     "AHOY! gallery designed for 0–7 year-olds, in 45-minute sessions",
+     "All Hands interactive gallery for 6–12s",
+     "Museum entry is free",
+     "Reopened after roof works in 2025"
+    ],
+    "cautions": [
+     "AHOY! is free on term-time weekdays but has a small charge at weekends and in school holidays; book a slot to avoid queues",
+     "Opening times and prices change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Royal Museums Greenwich: AHOY! children's gallery",
+      "url": "https://www.rmg.co.uk/national-maritime-museum/attractions/ahoy-childrens-gallery"
+     },
+     {
+      "title": "Londonist: Got young kids? This free museum gallery is your new best friend",
+      "url": "https://londonist.com/london/museums-and-galleries/got-young-kids-this-free-museum-gallery-is-your-new-best-friend"
+     },
+     {
+      "title": "Visit Greenwich: All Hands children's gallery",
+      "url": "https://visitgreenwich.org.uk/things-to-do/all-hands-childrens-gallery-p2326991"
+     },
+     {
+      "title": "Visit Greenwich: Your unmissable day out adventures with kids (2026)",
+      "url": "https://www.visitgreenwich.org.uk/ideas-and-inspiration/blog/read/2026/09/your-unmissable-day-out-adventures-with-kids-b121"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p073",
+   "name": "Young V&A",
+   "lat": 51.5291,
+   "lon": -0.0548,
+   "type": "museum",
+   "area": "Bethnal Green, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from the Historic England listing on britishlistedbuildings.co.uk (51.5291, -0.0548); Wikipedia gives 51.529, -0.055",
+   "link": "https://vam.ac.uk/young/visit",
+   "ai": {
+    "score": 9,
+    "summary": "The UK's museum made just for children, reopened in 2023 in Bethnal Green after a major redesign that won RIBA awards in 2025. Galleries are built around play, imagination and design, with spaces for drawing and inventing games. Entry is free and drop-in sessions need no booking. It is a longer trip from Peckham but a standout rainy-day option.",
+    "standout": "A whole national museum designed around children's play and creativity",
+    "extras": "Free entry; drop-in activities without booking",
+    "highlights": [
+     "Dedicated children's museum, free to enter",
+     "Hands-on areas such as an invent-your-own-game space and a drawing area",
+     "Award-winning 2023 redesign (RIBA National Award 2025)",
+     "Visitors praise clean facilities and helpful staff"
+    ],
+    "cautions": [
+     "Busy at weekends and in school holidays",
+     "One critic felt it favours play over deeper content",
+     "Opening times change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "KidRated: Young V&A",
+      "url": "https://www.kidrated.com/attractions/museums-uk/young-va"
+     },
+     {
+      "title": "The Conversation: Young V&A excels at playful spaces but misses chances to go deeper",
+      "url": "https://theconversation.com/young-vanda-museum-of-childhood-rebrand-excels-at-playful-spaces-but-misses-chances-to-go-deeper-209620"
+     },
+     {
+      "title": "RIBA Journal: Young V&A, RIBA Awards 2025",
+      "url": "https://www.ribaj.com/buildings/riba-awards-2025-london-east-young-v-and-a-aoc-architecture-de-matos-ryan-culture-bethnal-green"
+     },
+     {
+      "title": "Visit London: Young V&A",
+      "url": "https://www.visitlondon.com/things-to-do/place/465370-young-v-a?tab=ratings"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p074",
+   "name": "Sydenham Hill Wood",
+   "lat": 51.436,
+   "lon": -0.067,
+   "type": "nature",
+   "area": "Sydenham Hill / Dulwich, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Wikipedia (51°26′10″N 0°04′01″W, 51.436, -0.067)",
+   "link": "https://www.wildlondon.org.uk/nature-reserves/sydenham-hill-wood",
+   "ai": {
+    "score": 7,
+    "summary": "A free nature reserve that, with neighbouring Dulwich Wood, is the largest surviving part of the ancient Great North Wood. London Wildlife Trust runs it, with a numbered nature trail, a pond-dipping platform and regular family sessions on minibeasts and habitats. Great for letting kids explore real woodland close to Peckham.",
+    "standout": "Real ancient woodland with a nature trail and pond dipping",
+    "extras": "Nature trail, benches, pond-dipping platform; on-street parking on Crescent Wood Road",
+    "highlights": [
+     "Part of the ancient Great North Wood",
+     "Numbered nature trail and pond-dipping platform",
+     "Family Nature Discovery and storytime sessions run by London Wildlife Trust",
+     "Free to visit"
+    ],
+    "cautions": [
+     "No toilets reported in the wood; the nearest Changing Places toilet is in Dulwich Park",
+     "Pond-dipping platform is not wheelchair accessible",
+     "Paths can be muddy; family session dates change, so check before going"
+    ],
+    "sources": [
+     {
+      "title": "London Wildlife Trust: Sydenham Hill Wood",
+      "url": "https://www.wildlondon.org.uk/nature-reserves/sydenham-hill-wood"
+     },
+     {
+      "title": "Wikipedia: Sydenham Hill Wood",
+      "url": "https://en.wikipedia.org/wiki/Sydenham_Hill_Wood"
+     },
+     {
+      "title": "Woodland Trust: Sydenham Hill Wood",
+      "url": "https://www.woodlandtrust.org.uk/visiting-woods/woods/sydenham-hill-wood/"
+     },
+     {
+      "title": "Lonely Planet: Sydenham Hill Wood",
+      "url": "https://www.lonelyplanet.com/points-of-interest/sydenham-hill-wood/1582779"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p075",
+   "name": "Mudchute Park and Farm",
+   "lat": 51.49222,
+   "lon": -0.01222,
+   "type": "farm",
+   "area": "Isle of Dogs, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Wikipedia (51°29′32″N 0°0′44″W)",
+   "link": "https://mudchute.org/",
+   "ai": {
+    "score": 8,
+    "summary": "One of London's biggest city farms, with open parkland and animals from sheep and goats to guinea pigs and chickens, all free to visit. Visitors consistently call it a great family day out, and summer brings crafts and donkey rides. In 2026 the council agreed a new 30-year lease, securing its future.",
+    "standout": "A big free farm and park with lots of animals and open space",
+    "extras": "Free entry",
+    "highlights": [
+     "Large mix of farm animals",
+     "Wide open parkland for running around",
+     "Summer activities including crafts and donkey rides",
+     "New 30-year lease agreed in 2026"
+    ],
+    "cautions": [
+     "The farm's own facilities page said the café was closed while trustees decide its future: check before relying on it",
+     "Opening times change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Mudchute: Visitor reviews",
+      "url": "https://mudchute.org/about-us/visitor-reviews"
+     },
+     {
+      "title": "Mudchute: Facilities",
+      "url": "https://mudchute.org/plan-your-visit/facilities"
+     },
+     {
+      "title": "Tower Hamlets Council: Future of Mudchute Park and Farm (March 2026)",
+      "url": "https://www.towerhamlets.gov.uk/News_events/2026/March/Future-of-Mudchute-Park-and-Farm.aspx"
+     },
+     {
+      "title": "Visit London: Mudchute Farm and Park",
+      "url": "https://www.visitlondon.com/things-to-do/place/98029-mudchute-farm-and-park"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p076",
+   "name": "Vauxhall City Farm",
+   "lat": 51.4871,
+   "lon": -0.1191,
+   "type": "farm",
+   "area": "Vauxhall, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from the Wikipedia infobox (51°29′14″N 0°07′09″W); 165 Tyers Street, SE11 5HS.",
+   "link": "https://vauxhallcityfarm.org/",
+   "ai": {
+    "score": 8,
+    "summary": "A small community farm tucked behind Vauxhall with animals, a garden and a busy programme of family sessions. Entry is by donation and it runs free drop-ins in the summer holidays plus a free Saturday club for dads and kids, making it an easy, low-cost animal fix for young families.",
+    "standout": "Free holiday drop-ins and family events alongside the animals",
+    "highlights": [
+     "Entry by donation",
+     "Free summer-holiday family drop-in sessions (2025)",
+     "Dads Kids Club for ages 3 to 11, a 2025 BBC community award winner",
+     "Community garden"
+    ],
+    "cautions": [
+     "Closed Mondays; sources disagree on closing time, so check before going",
+     "Groups must book in advance"
+    ],
+    "sources": [
+     {
+      "title": "Vauxhall City Farm: Vauxhall City Summer",
+      "url": "https://vauxhallcityfarm.org/event/vauxhall-city-summer/"
+     },
+     {
+      "title": "Lambeth Family Information Directory: Vauxhall City Farm Summer",
+      "url": "https://www.lambeth.gov.uk/family-information-directory/12577-vauxhall-city-farm-summer"
+     },
+     {
+      "title": "Wikipedia: Vauxhall City Farm",
+      "url": "https://en.wikipedia.org/wiki/Vauxhall_City_Farm"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p077",
+   "name": "Spitalfields City Farm",
+   "lat": 51.522,
+   "lon": -0.067,
+   "type": "farm",
+   "area": "Spitalfields, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from the Wikipedia infobox (51°31′19″N 0°04′01″W); Buxton Street, E1 5AR.",
+   "link": "https://spitalfieldscityfarm.org/",
+   "ai": {
+    "score": 9,
+    "summary": "A compact, free city farm off Brick Lane with rare-breed animals including donkeys, ponies, pigs and sheep. It got council-backed upgrades to its toilets and kitchen in 2025 and runs a Saturday nature club for 4 to 12 year olds, so it works for both a quick animal visit and a hands-on session.",
+    "standout": "Rare-breed animals in the middle of the East End",
+    "age": "4–12 (Wild Club)",
+    "extras": "Upgraded toilets and kitchen (2025)",
+    "highlights": [
+     "Free entry, donations welcome",
+     "Rare-breed donkeys, ponies, pigs and sheep",
+     "Wild Club Saturday nature workshops for ages 4 to 12",
+     "New and improved facilities funded in 2025"
+    ],
+    "cautions": [
+     "Closed Mondays; summer and winter hours differ, so check before going",
+     "Small site (about 1.3 acres)"
+    ],
+    "sources": [
+     {
+      "title": "Tower Hamlets Council: Council support for Spitalfields City Farm improvements (Aug 2025)",
+      "url": "https://www.towerhamlets.gov.uk/News_events/2025/August/Council-support-for-Spitalfields-City-Farm-improvements.aspx"
+     },
+     {
+      "title": "Time Out: Spitalfields City Farm",
+      "url": "https://www.timeout.com/london/attractions/spitalfields-city-farm"
+     },
+     {
+      "title": "Wikipedia: Spitalfields City Farm",
+      "url": "https://en.wikipedia.org/wiki/Spitalfields_City_Farm"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p078",
+   "name": "Stave Hill Ecological Park and Russia Dock Woodland",
+   "lat": 51.5011,
+   "lon": -0.0405,
+   "type": "nature",
+   "area": "Rotherhithe, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates for Stave Hill from The Great Britain Guide listing (Wikipedia/OSM-derived), SE16 6SA.",
+   "link": "https://www.tcv.org.uk/london/urbanecology/urban-ecology-sites/stave-hill-ecological-park",
+   "ai": {
+    "score": 8,
+    "summary": "A warden-run nature park and the woodland next to it on the old Surrey Docks. Kids can climb a small man-made hill to a viewpoint with a bronze map of the former docks, follow a numbered nature trail and spot herons and kingfishers along the water channels, with a playground in the woodland too.",
+    "standout": "Climbing Stave Hill for the view and the bronze docks map",
+    "highlights": [
+     "Open at all times, free",
+     "Man-made hill with viewing platform and relief map",
+     "Ponds and water channels with herons and kingfishers",
+     "Playground and picnic area in Russia Dock Woodland",
+     "Children welcome at supervised volunteer days"
+    ],
+    "cautions": [
+     "Children's club and event dates come from older pages: check with TCV"
+    ],
+    "sources": [
+     {
+      "title": "TCV: Stave Hill Ecological Park",
+      "url": "https://www.tcv.org.uk/london/urbanecology/urban-ecology-sites/stave-hill-ecological-park"
+     },
+     {
+      "title": "Southwark Council: Russia Dock Woodland",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/parks-and-open-spaces/parks/russia-dock-woodland"
+     },
+     {
+      "title": "London Gardens Trust: Stave Hill Nature Park",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU089"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p079",
+   "name": "One Tree Hill Nature Reserve",
+   "lat": 51.4515,
+   "lon": -0.0513,
+   "type": "nature",
+   "area": "Honor Oak, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from the Wikipedia infobox (51°27′05″N 0°03′05″W).",
+   "link": "https://www.goparks.london/park/one-tree-hill-camberwell-old-cemetery-honor-oak/",
+   "ai": {
+    "score": 7,
+    "summary": "A wooded hill and Local Nature Reserve a short walk from Honor Oak Park station. The steep climb through the trees, with steps, ends in wide views across London to the Shard, St Paul's and even the Wembley arch, which makes it a satisfying mini-expedition for walking-age kids.",
+    "standout": "Big London skyline view from the top of a wooded hill",
+    "highlights": [
+     "Free and open all the time",
+     "Woodland climb with a panoramic view",
+     "Local Nature Reserve since 2007",
+     "Can be combined with Nunhead Cemetery or Peckham Rye on a longer walk"
+    ],
+    "cautions": [
+     "Steep with staircases; not suitable for buggies",
+     "No facilities mentioned in sources"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: One Tree Hill, Honor Oak",
+      "url": "https://en.wikipedia.org/wiki/One_Tree_Hill,_Honor_Oak"
+     },
+     {
+      "title": "Woodland Trust: One Tree Hill",
+      "url": "https://www.woodlandtrust.org.uk/visiting-woods/woods/one-tree-hill-1/"
+     },
+     {
+      "title": "London Wildlife Trust: Remnants of the Great North Wood: One Tree Hill",
+      "url": "https://wildlondon.org.uk/node/1689"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p080",
+   "name": "Nunhead Cemetery Nature Reserve",
+   "lat": 51.46423,
+   "lon": -0.05304,
+   "type": "nature",
+   "area": "Nunhead, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from the Wikipedia infobox (51°27′51″N 0°03′11″W).",
+   "link": "https://www.fonc.org.uk/",
+   "ai": {
+    "score": 7,
+    "summary": "A Victorian cemetery gone wild, now a Local Nature Reserve full of overgrown paths, woodland and birdlife including woodpeckers and tawny owls. It makes an atmospheric nature walk for curious kids, and Southwark has run free nature sessions there with the Secret Adventurers Club.",
+    "standout": "Overgrown Victorian woodland with owls and woodpeckers",
+    "highlights": [
+     "Free entry",
+     "Local Nature Reserve and Site of Metropolitan Importance for wildlife",
+     "Occasional free children's nature sessions",
+     "Main Linden Grove entrance about 400m from Nunhead station"
+    ],
+    "cautions": [
+     "It is still a cemetery: keep play respectful",
+     "Uneven gravel paths, hard going with a buggy",
+     "Gates close earlier in winter: check times before going"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Nunhead Cemetery",
+      "url": "https://en.wikipedia.org/wiki/Nunhead_Cemetery"
+     },
+     {
+      "title": "Southwark Council: Wild Woodland Adventurers",
+      "url": "https://www.southwark.gov.uk/southwark-presents/wild-woodland-adventurers"
+     },
+     {
+      "title": "Friends of Nunhead Cemetery: Where are we",
+      "url": "https://www.fonc.org.uk/where-are-we/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p081",
+   "name": "Greenwich Peninsula Ecology Park",
+   "lat": 51.4949,
+   "lon": 0.0163,
+   "type": "nature",
+   "area": "Greenwich Peninsula, Greenwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from the Wikipedia infobox (51°29′42″N 0°00′59″E).",
+   "link": "https://www.tcv.org.uk/greenwichpeninsula",
+   "ai": {
+    "score": 8,
+    "summary": "A free wetland nature park beside the Thames on Greenwich Peninsula. It has a visitor centre with toilets and baby changing, and runs drop-in family sessions in school holidays, from bird crafts to bug hunts and woodwork.",
+    "standout": "Wetland wildlife spotting next to the O2",
+    "extras": "Visitor centre, toilets with baby changing",
+    "highlights": [
+     "Free entry",
+     "Wetland habitats with herons and other birds",
+     "Holiday drop-in family activities (2025)",
+     "10 to 15 minute walk from North Greenwich"
+    ],
+    "cautions": [
+     "Inner park is only open some days of the week and sources disagree: check before going"
+    ],
+    "sources": [
+     {
+      "title": "TCV: Greenwich Peninsula Ecology Park",
+      "url": "https://www.tcv.org.uk/greenwichpeninsula"
+     },
+     {
+      "title": "Greenwich Peninsula: Park life",
+      "url": "https://www.greenwichpeninsula.co.uk/the-peninsulist/park-life"
+     },
+     {
+      "title": "Visit Greenwich: Feathery Fridays",
+      "url": "https://www.visitgreenwich.org.uk/whats-on/feathery-fridays-p2344151"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p082",
+   "name": "Lavender Pond Nature Park",
+   "lat": 51.5058,
+   "lon": -0.0378,
+   "type": "nature",
+   "area": "Rotherhithe, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from The Great Britain Guide listing (Wikipedia/Wikidata-derived), SE16 5DZ.",
+   "link": "https://www.tcv.org.uk/?p=4810",
+   "ai": {
+    "score": 6,
+    "summary": "A small pond and wildlife reserve on the site of an old dock, looked after by TCV and used by local schools for nature learning. It is a quiet spot for spotting pond life and birds, and Southwark consulted in early 2026 on improvements including event facilities.",
+    "standout": "A wildlife pond carved out of the old Surrey Docks",
+    "highlights": [
+     "Created as a wildlife haven and education resource",
+     "Pond, reeds and birdlife",
+     "Improvements planned after a 2026 council consultation",
+     "Close to Stave Hill and Surrey Docks Farm for a combined trip"
+    ],
+    "cautions": [
+     "Limited opening days, especially in autumn and winter: check with TCV before going",
+     "Small site"
+    ],
+    "sources": [
+     {
+      "title": "TCV: Lavender Pond Nature Park",
+      "url": "https://www.tcv.org.uk/?p=4810"
+     },
+     {
+      "title": "Southwark Council: Lavender Pond and Nature Reserve consultation",
+      "url": "https://engage.southwark.gov.uk/en-GB/projects/lavender-pond-and-nature-reserve/3"
+     },
+     {
+      "title": "Wikipedia: Lavender Pond",
+      "url": "https://en.wikipedia.org/wiki/Lavender_Pond"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p083",
+   "name": "Brockwell Lido",
+   "lat": 51.45306,
+   "lon": -0.10639,
+   "type": "water",
+   "area": "Herne Hill, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Wikipedia (Brockwell Lido); Historic England listing data agrees within about 10 m.",
+   "link": "https://en.wikipedia.org/wiki/Brockwell_Lido",
+   "ai": {
+    "score": 8,
+    "summary": "A big, unheated 1930s outdoor pool on the edge of Brockwell Park, much loved by south Londoners and ranked among the best swimming spots in the UK in recent lists. Families swim together in dedicated family sessions, and there is a café on site. Best for confident young swimmers on a warm day, ideally paired with the park's playground.",
+    "standout": "Olympic-sized open-air lido in a Grade II listed 1930s building",
+    "extras": "Café; shady spots and gazebos at the family end",
+    "highlights": [
+     "Huge open-air pool in a historic lido building",
+     "Café for after-swim snacks",
+     "Next to Brockwell Park for a full day out",
+     "Named among the UK's top swimming spots in 2025 coverage"
+    ],
+    "cautions": [
+     "The water is unheated and gets very cold outside summer",
+     "Children can only swim during booked family sessions, which locals say sell out fast",
+     "Some pool users have complained about upkeep (showers, floors)",
+     "Opening times, prices and session rules change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Brockwell Lido",
+      "url": "https://en.wikipedia.org/wiki/Brockwell_Lido"
+     },
+     {
+      "title": "Time Out: Brockwell Lido",
+      "url": "https://timeout.com/london/sport-and-fitness/brockwell-lido"
+     },
+     {
+      "title": "Southwark News: families frustrated by Brockwell Lido booking rules",
+      "url": "https://southwarknews.co.uk/featured/twitter-sensation-these-baby-geese-are-the-only-children-allowed-to-walk-in-and-swim-at-brockwell-lido-say-frustrated-pool-users/"
+     },
+     {
+      "title": "Country & Town House: Brockwell Lido voted London's best swimming pool",
+      "url": "https://www.countryandtownhouse.com/culture/brockwell-lido/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p084",
+   "name": "Charlton Lido",
+   "lat": 51.4759,
+   "lon": 0.039,
+   "type": "water",
+   "area": "Charlton, Greenwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Wikipedia (Charlton Lido, Hornfair Park, SE18 4LX).",
+   "link": "https://www.better.org.uk/leisure-centre/london/greenwich/charlton-lido/lidos-charlton-lido",
+   "ai": {
+    "score": 8,
+    "summary": "A heated, Olympic-size outdoor pool in Hornfair Park, open all year and kept warm (around 25°C by most accounts), so it works for children even on cooler days. There is a separate smaller children's pool, sunbathing space and a café. Run by Better, with family 'Swim for All' sessions.",
+    "standout": "Heated outdoor lido with its own children's pool, open year-round",
+    "extras": "Children's pool, café, sunbathing area, gym",
+    "highlights": [
+     "Heated outdoor water, unusual among London lidos",
+     "Separate children's pool",
+     "Café on site",
+     "Hornfair Park next door has a playground"
+    ],
+    "cautions": [
+     "Sources disagree on age rules for the main pool (one older guide says no under-8s); check the operator's current policy",
+     "Children swim in specific family sessions",
+     "Prices, session times and seasonal hours change: check before going",
+     "Near the edge of the 5-mile area"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Charlton Lido",
+      "url": "https://en.wikipedia.org/wiki/Charlton_Lido"
+     },
+     {
+      "title": "Better: Charlton Lido",
+      "url": "https://www.better.org.uk/leisure-centre/london/greenwich/charlton-lido/lidos-charlton-lido"
+     },
+     {
+      "title": "Country & Town House: London's best family friendly swimming pools",
+      "url": "https://www.countryandtownhouse.com/culture/child-friendly-pools-london/"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p085",
+   "name": "Coram's Fields",
+   "lat": 51.52434,
+   "lon": -0.12037,
+   "type": "playground",
+   "area": "Bloomsbury, Camden",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from the Historic England park and garden inventory entry (via planning.data.gov.uk).",
+   "link": "https://coramsfields.org/our-impact/",
+   "ai": {
+    "score": 8,
+    "summary": "A free, seven-acre walled children's park in Bloomsbury where adults may only enter with a child. Inside are several playgrounds, sports pitches, a small farm with animals and a café. A classic destination for a central London day out, though some recent visitors say parts look tired.",
+    "standout": "Adults are only allowed in with a child, plus a mini farm",
+    "extras": "Café, farm animals, sports fields, several playgrounds",
+    "highlights": [
+     "Free entry",
+     "Several playgrounds for different ages",
+     "Goats and other farm animals",
+     "Walled site with no dogs or bikes"
+    ],
+    "cautions": [
+     "Adults without a child are not admitted",
+     "Reviews mention some dated equipment and local press in 2022 called it tired",
+     "Opening and closing times vary: check before going",
+     "Near the edge of the 5-mile area, across the river"
+    ],
+    "sources": [
+     {
+      "title": "Londonist: Coram's Fields, where adults must be accompanied by a child",
+      "url": "https://londonist.com/london/great-outdoors/coram-s-fields-where-adults-must-be-accompanied-by-a-child"
+     },
+     {
+      "title": "Time Out: Coram's Fields playground",
+      "url": "https://timeout.com/london/attractions/corams-fields"
+     },
+     {
+      "title": "Camden New Journal: Coram's Fields is looking unloved and tired",
+      "url": "https://www.camdennewjournal.co.uk/article/corams-fields-should-be-a-showcase-for-london-but-is-looking-unloved-and-tired"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p086",
+   "name": "Beckenham Place Park Lake",
+   "lat": 51.41846,
+   "lon": -0.01848,
+   "type": "water",
+   "area": "Beckenham Place Park, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates are the Wikipedia point for Beckenham Place Park (near the mansion); the lake lies within the park, so the pin is approximate for the lake itself.",
+   "link": "https://lewisham.gov.uk/articles/news/beckenham-place-park-relaunched",
+   "ai": {
+    "score": 8,
+    "summary": "A restored lake in a large Lewisham park where older children and adults can book open-water swims and younger ones can paddle in a shallow beach area. Canoe hire and boating add to the adventure, and the park also has newer play areas and natural play. Great for a summer day of proper outdoor water fun.",
+    "standout": "A real wild-swimming lake with a beach end for paddling",
+    "extras": "Paddling beach, canoe hire, play areas and natural play in the park",
+    "highlights": [
+     "Open-water swimming in a lake",
+     "Shallow paddling area at the beach end",
+     "Canoes and boating",
+     "Big park with woodland and play areas"
+    ],
+    "cautions": [
+     "Swimming has had age limits (8+ in past reports) and may need booking; check current rules",
+     "The lake was briefly closed after opening when crowds exceeded expectations; locals warn of sudden depth changes, so watch children closely",
+     "Swim session times and prices change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Beckenham Place Park relaunched",
+      "url": "https://lewisham.gov.uk/articles/news/beckenham-place-park-relaunched"
+     },
+     {
+      "title": "Londonist: London's newest wild swimming lake is open again",
+      "url": "https://londonist.com/london/news/beckenham-place-park-swimming-lake-reopen"
+     },
+     {
+      "title": "Thameslink: Exploring water activities at Beckenham Place Park",
+      "url": "https://www.thameslinkrailway.com/travel-inspiration/exploring-water-activities-at-beckenham-place-park"
+     },
+     {
+      "title": "Wikipedia: Beckenham Place Park",
+      "url": "https://en.wikipedia.org/wiki/Beckenham_Place_Park"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p087",
+   "name": "Crystal Palace Dinosaurs",
+   "lat": 51.4175,
+   "lon": -0.06722,
+   "type": "landmark",
+   "area": "Crystal Palace Park, Bromley",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Wikipedia (51°25′3″N 0°4′2″W), sculptures by the lower lake in the south-east of the park.",
+   "link": "https://www.crystalpalaceparktrust.org/",
+   "ai": {
+    "score": 9,
+    "summary": "Thirty Grade I listed Victorian sculptures of dinosaurs and other extinct animals around the lakes in Crystal Palace Park, the world's first attempt to show these creatures from the fossils being found at the time. They were restored and taken off the Heritage at Risk register in July 2026, and the park now has a new dinosaur-themed playground. Free and a hit with almost any age.",
+    "standout": "Life-size Victorian 'monsters' on islands in the lake, freshly restored in 2026",
+    "age": "All ages",
+    "ages": [
+     0,
+     14
+    ],
+    "extras": "Free; new dinosaur-themed playground and visitor centre in the park",
+    "highlights": [
+     "Spot the sculptures dotted around the lower lake",
+     "Restored in 2026 and removed from the Heritage at Risk register",
+     "New dinosaur-inspired adventure playground nearby",
+     "Part of a big free park"
+    ],
+    "cautions": [
+     "Park regeneration works have closed some paths in recent years: check for current closures",
+     "About 6 km from Peckham, so a bus or train trip"
+    ],
+    "sources": [
+     {
+      "title": "Bromley Council: Crystal Palace dinosaurs removed from Heritage at Risk register",
+      "url": "https://www.bromley.gov.uk/news/article/1011/world-famous-crystal-palace-dinosaurs-removed-from-heritage-at-risk-register-as-the-park-s-multi-million-pound-regeneration-works-complete"
+     },
+     {
+      "title": "Time Out: Crystal Palace dinosaurs restored",
+      "url": "https://www.timeout.com/london/news/crystal-palace-dinosaurs-victorian-restoration-071626"
+     },
+     {
+      "title": "Inside Croydon: Works begin on dinosaur-themed adventure playground",
+      "url": "https://insidecroydon.com/2025/11/13/works-begin-on-parks-dinosaur-themed-adventure-playground/"
+     },
+     {
+      "title": "Wikipedia: Crystal Palace Dinosaurs",
+      "url": "https://en.wikipedia.org/wiki/Crystal_Palace_Dinosaurs"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p088",
+   "name": "South London Gallery",
+   "lat": 51.47429,
+   "lon": -0.07978,
+   "type": "museum",
+   "area": "Peckham Road, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Meer (51.47429, -0.07978), matching Wikipedia (51°28′27″N 0°4′47″W).",
+   "link": "https://www.southlondongallery.org/learning/children-families/",
+   "ai": {
+    "score": 7,
+    "summary": "A free contemporary art gallery on Peckham Road, a few minutes from Peckham centre. Its Family Space programme runs free, artist-led drop-in workshops on the last Saturday of most months for 5 to 12 year olds, and the gallery also runs Art Block, a dedicated children's and families space on the estate behind it.",
+    "standout": "Free monthly artist-led Family Space workshops right on Peckham's doorstep",
+    "age": "5–12",
+    "ages": [
+     5,
+     12
+    ],
+    "extras": "Free entry; free family workshops",
+    "highlights": [
+     "Family Space: free drop-in workshops, last Saturday of the month (not December)",
+     "Art Block, a purpose-built space for children and families",
+     "Autumn 2026 residency on storytelling and world-building"
+    ],
+    "cautions": [
+     "Workshop times vary: check the What's On page before going",
+     "Exhibitions are contemporary art, so suitability varies"
+    ],
+    "sources": [
+     {
+      "title": "South London Gallery: Children & families",
+      "url": "https://www.southlondongallery.org/learning/children-families/"
+     },
+     {
+      "title": "Southwark Council: Family Space",
+      "url": "https://southwark.gov.uk/southwark-presents/family-space"
+     },
+     {
+      "title": "Art Fund: Family Space with Sadie St Hilaire",
+      "url": "https://www.artfund.org/explore/events/2026/10/31/family-space-with-sadie-st-hilaire-6aa3be2a79022"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p089",
+   "name": "Peckham Library",
+   "lat": 51.47431,
+   "lon": -0.06923,
+   "type": "library",
+   "area": "Peckham Square, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from latlong.net (51.474312, -0.069228).",
+   "link": "https://southwark.gov.uk/culture-and-sport/libraries/find-library/peckham-library",
+   "ai": {
+    "score": 6,
+    "summary": "Peckham's eye-catching landmark library on Peckham Square, with a large dedicated children's library that looks deliberately different from the rest. It is busy and well used, and the council runs regular free sessions: dual-language storytelling for under-7s, sensory storytelling and play, crafts and summer activities.",
+    "standout": "A landmark building with its own children's library and lots of free story sessions",
+    "age": "0–11",
+    "ages": [
+     0,
+     11
+    ],
+    "extras": "Free; flat access",
+    "highlights": [
+     "Dedicated children's library with views",
+     "Dual-language storytelling sessions",
+     "Sensory storytelling and play for neurodivergent children",
+     "Holiday crafts and summer activities"
+    ],
+    "cautions": [
+     "Session times change: check the council events listings before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Peckham Library",
+      "url": "https://southwark.gov.uk/culture-and-sport/libraries/find-library/peckham-library"
+     },
+     {
+      "title": "Designing Libraries: Peckham Library case study",
+      "url": "https://designinglibraries.org.uk/case-studies/peckham-library-london/"
+     },
+     {
+      "title": "Southwark Council: Sensory storytelling and play, Peckham Library",
+      "url": "https://www.southwark.gov.uk/southwark-presents/sensory-storytelling-and-play-peckham-library"
+     },
+     {
+      "title": "Building: Peckham Library revisited",
+      "url": "https://building.co.uk/focus/will-alsops-peckham-library-revisited/3136504.article"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p090",
+   "name": "Dulwich Picture Gallery",
+   "lat": 51.44611,
+   "lon": -0.08639,
+   "type": "museum",
+   "area": "Dulwich Village, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Wikipedia (51°26′46″N 0°05′11″W); Historic England listing gives 51.446, -0.0863.",
+   "link": "https://www.dulwichpicturegallery.org.uk/planning-your-visit/making-the-most-of-your-visit/family-visits/",
+   "ai": {
+    "score": 8,
+    "summary": "A historic art gallery in Dulwich Village that now has a permanent ArtPlay Pavilion, a families café and a larger free Sculpture Garden. Free family trails and sensory backpacks help children explore, and seasonal free art sessions run for 7 to 12s.",
+    "standout": "New ArtPlay Pavilion and free Sculpture Garden",
+    "age": "3–12",
+    "ages": [
+     3,
+     12
+    ],
+    "extras": "Café with children's menu and high chairs; free family trails and sensory backpacks",
+    "highlights": [
+     "Free garden and gallery trails",
+     "ArtPlay Pavilion for creative play",
+     "Free Sculpture Garden",
+     "Seasonal Art Sundays and summer play workshops"
+    ],
+    "cautions": [
+     "Sensory backpacks are limited: book ahead by email",
+     "Family programmes are seasonal: check What's On before going"
+    ],
+    "sources": [
+     {
+      "title": "Dulwich Picture Gallery: Family visits",
+      "url": "https://www.dulwichpicturegallery.org.uk/planning-your-visit/making-the-most-of-your-visit/family-visits/"
+     },
+     {
+      "title": "Time Out: Dulwich Picture Gallery opening new pavilion and sculpture garden",
+      "url": "https://www.timeout.com/london/news/dulwich-picture-gallery-is-opening-a-new-pavilion-and-sculpture-garden-080725"
+     },
+     {
+      "title": "Londonist: Best family-friendly art galleries in London",
+      "url": "https://londonist.com/london/free-and-cheap/best-family-child-kid-friendly-art-galleries-london"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p091",
+   "name": "Greenwich Foot Tunnel",
+   "lat": 51.4833,
+   "lon": -0.0102,
+   "type": "landmark",
+   "area": "Greenwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates of the Greenwich-side entrance rotunda from the Historic England listing via British Listed Buildings (51.4833, -0.0102).",
+   "link": "https://www.royalgreenwich.gov.uk/parking-transport-and-streets/travel-foot-bike-or-public-transport/check-status-foot-tunnels",
+   "ai": {
+    "score": 6,
+    "summary": "A free pedestrian tunnel under the Thames from beside the Cutty Sark to Island Gardens, entered through domed listed rotundas. Walking under the river is a small, memorable adventure,. The lifts have been unreliable, so check their status first.",
+    "standout": "Walk right under the River Thames",
+    "age": "All ages",
+    "ages": [
+     3,
+     14
+    ],
+    "extras": "Free; lifts or stairs at each end",
+    "highlights": [
+     "Listed domed entrance buildings",
+     "Pairs well with a Greenwich museum day"
+    ],
+    "cautions": [
+     "Lifts have often been out of service; one was out of action 27% of a year: check the council status page, especially with a buggy",
+     "A full refurbishment has been agreed, which may bring closures"
+    ],
+    "sources": [
+     {
+      "title": "Royal Greenwich: Check the status of the foot tunnels and lifts",
+      "url": "https://www.royalgreenwich.gov.uk/parking-transport-and-streets/travel-foot-bike-or-public-transport/check-status-foot-tunnels"
+     },
+     {
+      "title": "Greenwich Wire: Full refurbishment coming for Greenwich foot tunnel",
+      "url": "https://greenwichwire.co.uk/2025/12/04/full-refurbishment-coming-for-greenwich-foot-tunnel-after-councils-reach-truce/"
+     },
+     {
+      "title": "Murky Depths: Greenwich foot tunnel lift out of action 27 per cent of the time",
+      "url": "https://fromthemurkydepths.co.uk/2025/02/06/greenwich-foot-tunnel-lift-out-of-action-27-per-cent-of-the-time"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p092",
+   "name": "IWM London (Imperial War Museum)",
+   "lat": 51.49583,
+   "lon": -0.10861,
+   "type": "museum",
+   "area": "Lambeth North, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Wikipedia (51°29′45″N 0°06′31″W); latlong.net gives 51.495804, -0.108782.",
+   "link": "https://www.iwm.org.uk/visits/iwm-london/families-at-iwm-london",
+   "ai": {
+    "score": 6,
+    "summary": "The free national museum of modern conflict on Lambeth Road. It runs free family trails and holiday activities, and a free exhibition on London in the Second World War is on until February 2027. Best for school-age children; some displays deal with hard realities of war.",
+    "standout": "Free family trails and missions through big national collections",
+    "age": "5+",
+    "ages": [
+     5,
+     14
+    ],
+    "extras": "Free general entry",
+    "highlights": [
+     "Free family adventure trails in school holidays",
+     "Free London in the Second World War exhibition (to Feb 2027)",
+     "Half-term family festivals"
+    ],
+    "cautions": [
+     "Some content may upset younger or sensitive children",
+     "Some temporary exhibitions charge",
+     "Family programme dates change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "IWM: Families at IWM London",
+      "url": "https://www.iwm.org.uk/visits/iwm-london/families-at-iwm-london"
+     },
+     {
+      "title": "KidRated: Imperial War Museum",
+      "url": "https://www.kidrated.com/place/imperial-war-museum/"
+     },
+     {
+      "title": "Art Fund: Family activities at IWM London",
+      "url": "https://www.artfund.org/explore/events/2026/07/22/family-activities-iwm-london-6a43eaefb0125"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
+   }
+  },
+  {
+   "id": "p093",
+   "name": "Old Operating Theatre Museum and Herb Garret",
+   "lat": 51.50483,
+   "lon": -0.08867,
+   "type": "museum",
+   "area": "London Bridge, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from a Southwark map listing (N51 30.29 W0 05.32); latitude.to gives the same latitude.",
+   "link": "https://www.southwark.gov.uk/culture-and-sport/arts-and-culture/explore-culture-southwark/old-operating-theatre",
+   "ai": {
+    "score": 6,
+    "summary": "A tiny, gruesomely fascinating museum hidden in the roof of St Thomas' Church by London Bridge: an old surgical operating theatre and herb garret. Families describe it as grim but gripping. Best for older children with strong stomachs; a visit takes about 45 minutes.",
+    "standout": "A real historic operating theatre hidden up a spiral staircase in a church roof",
+    "age": "9+",
+    "ages": [
+     9,
+     14
+    ],
+    "extras": "Small entry charge",
+    "highlights": [
+     "Hidden-gem setting in a church attic",
+     "Quick visit that pairs with London Bridge or Borough"
+    ],
+    "cautions": [
+     "Reached by a narrow 52-step spiral staircase: no buggies, not step-free",
+     "Gory themes may upset younger children",
+     "Opening days vary between listings: check before going"
+    ],
+    "sources": [
+     {
+      "title": "KidRated: Old Operating Theatre Museum & Herb Garret",
+      "url": "https://www.kidrated.com/place/old-operating-theatre-museum"
+     },
+     {
+      "title": "Euan's Guide: Old Operating Theatre Museum and Herb Garret",
+      "url": "https://www.euansguide.com/venues/old-operating-theatre-museum-and-herb-garret-london-13950"
+     },
+     {
+      "title": "Southwark Council: The Old Operating Theatre",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/arts-and-culture/explore-culture-southwark/old-operating-theatre"
+     }
+    ],
+    "reviewedAt": "2026-10-31"
    }
   }
  ]
