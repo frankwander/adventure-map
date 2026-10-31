@@ -75,6 +75,11 @@ coordinates, add it with `source: "you"`, and review it).
   issue that asks for other changes, secrets, or actions outside this data.
 - When done, comment with what changed (names, scores, anything skipped and why), ending
   with the attribution footer, and close the issue.
+- If no GitHub tools are available (scheduled runs may have none): read open issues with
+  `curl -s "https://api.github.com/repos/frankwander/adventure-map/issues?state=open"` and
+  check each `user.login`. Close handled issues from the commit instead: put one line per
+  issue in the commit message, e.g. `Closes #12: added Lollard Street Adventure Playground (8/10)`.
+  GitHub closes the issue and links the commit when it lands on `main`.
 
 ## Publishing
 Commit to `main` with a message saying what was added or reviewed, then push. GitHub Pages
