@@ -604,15 +604,6 @@
    "found": "2026-11-01"
   },
   {
-   "name": "Dulwich Upper Wood",
-   "lat": 51.42348,
-   "lon": -0.07866,
-   "cell": "x-1y-11",
-   "url": "https://www.tcv.org.uk/london/urbanecology/urban-ecology-sites/dulwich-upper-wood/",
-   "note": "2.4 ha Local Nature Reserve on Farquhar Road SE19, open at all times, numbered nature trail (Wikipedia, TCV, London Gardens Trust); only blocker is the pin: no coordinates or full postcode found, Farquhar Road street centre may be off by more than 150 m. Add once a pin is confirmed.",
-   "found": "2026-11-01"
-  },
-  {
    "name": "Oasis green space, Thessaly Road",
    "lat": 51.47705,
    "lon": -0.13844,
@@ -637,15 +628,6 @@
    "cell": "x+1y+9",
    "url": "https://www.towerhamlets.gov.uk/News_events/2025/June/400k-improvement-works-on-three-parks-completed.aspx",
    "note": "0.25 ha park on Bigland Street E1 with play areas for under-5s and 5+, MUGA and outdoor gym; play improved in 2025. Both sources are Tower Hamlets Council (parks A-Z and June 2025 news), so only one independent source. Pin is the Bigland Street street centre; exact position unknown.",
-   "found": "2026-11-01"
-  },
-  {
-   "name": "Jubilee Park, Canary Wharf",
-   "lat": 51.50494,
-   "lon": -0.0195,
-   "cell": "x+7y+7",
-   "url": "https://www.ianvisits.co.uk/blog/2018/11/29/londons-pocket-parks-jubilee-park-e14/",
-   "note": "1.25 ha Green Flag roof park over the Jubilee line station with a serpentine water channel and 22 fountains and pools (IanVisits, Time Out, Green Flag). Well sourced, but no trusted pin: only Time Out's generic E14 5AB postcode, which the gazetteer puts at North Colonnade, likely west of the park. A playground is mentioned only by a hotel guide. Find a precise location before adding.",
    "found": "2026-11-01"
   },
   {
@@ -745,6 +727,24 @@
    "cell": "x-5y-8",
    "url": "https://theediblebusstop.com/the-hoopla-garden/",
    "note": "Edible Bus Stop pocket garden (2011, later Mayor of London Pocket Park) on the 'Bollards' site by the former fire station, across the road from the Harpenden Road pocket garden (Norwood Forum walk). Exact position unknown: pin is Harpenden Road centre and may be 150 m+ off. Needs a firm address and a second independent source.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Doodle Bug Garden, Wavertree Road",
+   "lat": 51.44125,
+   "lon": -0.11994,
+   "cell": "x-7y-7",
+   "url": "https://www.lambeth.gov.uk/events/incredible-edible-lambeth-guided-walks-1",
+   "note": "Community garden on Wavertree Road, Streatham Hill (SW2 3SL, postcode pin), used as the meeting point for Incredible Edible Lambeth walks. Only one source; earlier described as an under-used fenced corner earmarked for redesign under Lambeth's Our Streets programme. Public access and whether there is anything for children are unconfirmed.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "ROA crane mural, Hanbury Street",
+   "lat": 51.52017,
+   "lon": -0.07074,
+   "cell": "x+0y+10",
+   "url": "https://streetartcities.com/cities/london/markers/5760",
+   "note": "Famous ROA crane (first planned as a heron) painted in 2010 on the side of a restaurant at the Hanbury Street / Brick Lane junction (Spitalfields Life, Londonist, Street Art Cities). Newest source is about 2020, so it is unconfirmed whether it survives. Pin is postcode E1 5JL, the gazetteer postcode at that junction.",
    "found": "2026-11-01"
   }
  ]

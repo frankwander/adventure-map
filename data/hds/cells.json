@@ -9043,10 +9043,12 @@
     "SW4 8",
     "SW4 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 4,
+   "finds": [
+    "p287"
+   ]
   },
   {
    "id": "x+7y+7",
@@ -9066,10 +9068,12 @@
     "E14 4",
     "E14 9"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p288"
+   ]
   },
   {
    "id": "x-7y+7",
@@ -9088,9 +9092,9 @@
     "WC2N 5",
     "SW1A 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
    "finds": []
   },
   {
@@ -9107,9 +9111,9 @@
     "SE6 2",
     "SE6 3"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
    "finds": []
   },
   {
@@ -9136,9 +9140,9 @@
     "SW2 3",
     "SW2 4"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 5,
    "finds": []
   },
   {
@@ -9174,10 +9178,12 @@
     "E1 6",
     "E1 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p289"
+   ]
   },
   {
    "id": "x+6y+8",
@@ -9210,9 +9216,9 @@
     "E14 6",
     "E14 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
    "finds": []
   },
   {
@@ -9240,9 +9246,9 @@
     "E22 3",
     "E14 0"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
    "finds": []
   },
   {
@@ -9265,10 +9271,12 @@
     "SW1A 0",
     "SW1H 0"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p290"
+   ]
   },
   {
    "id": "x-6y+8",
@@ -9285,10 +9293,12 @@
     "SE1 9",
     "WC2R 3"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
+   "finds": [
+    "p291"
+   ]
   },
   {
    "id": "x+10y+0",
@@ -9303,10 +9313,12 @@
     "SE10 8",
     "SE3 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p292"
+   ]
   },
   {
    "id": "x+0y-10",
@@ -9325,10 +9337,12 @@
    "sectors": [
     "SE26 6"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p293"
+   ]
   },
   {
    "id": "x-10y+0",
@@ -9349,10 +9363,12 @@
     "SW8 4",
     "SW8 3"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p294"
+   ]
   },
   {
    "id": "x-8y-6",
@@ -9383,9 +9399,9 @@
     "SW2 3",
     "SW2 5"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
    "finds": []
   },
   {
@@ -9405,9 +9421,9 @@
     "SE6 2",
     "SE6 1"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 1,
    "finds": []
   },
   {
@@ -9429,9 +9445,9 @@
     "SW2 3",
     "SW16 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
    "finds": []
   },
   {
