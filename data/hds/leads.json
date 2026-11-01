@@ -350,6 +350,60 @@
    "url": "https://www.brixtonbuzz.com/2020/08/in-photos-stockwells-secret-duck-pond-and-island-south-london/amp/",
    "note": "Local Wildlife Site pond with island on the Stockwell Park Estate, viewable only from adjacent paths (GiGL via search summary; Brixton Buzz 2020). Exact location on the estate not confirmed; pin = gazetteer centre of Stockwell Park Road, SW9.",
    "found": "2026-11-01"
+  },
+  {
+   "name": "Brixton Orchard",
+   "lat": 51.45905,
+   "lon": -0.11743,
+   "cell": "x-7y-3",
+   "url": "https://www.lambeth.gov.uk/parks/brixton-orchard",
+   "note": "Small community orchard at the corner of Brixton Hill and St Matthew's Road, open 24h per Lambeth (also Go Parks London). Sources say little beyond fruit trees, so unclear what's there for children. Pin = postcode SW2 1RH given by Lambeth (another source gives SW2 5RW).",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Kennington Play Project mural (Peter Sellers, by DMT), Bolton Crescent",
+   "lat": 51.48058,
+   "lon": -0.10774,
+   "cell": "x-5y+2",
+   "url": "https://boroughphotos.org/lambeth/?p=38952",
+   "note": "Lambeth borough photos archive (2005, 2008) show a commissioned mural by DMT depicting Peter Sellers on the Kennington Play Project building, Bolton Crescent. No recent source; may have been painted over. Pin = SE5 0SE (Bolton Crescent adventure playground postcode), same site not confirmed.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Spurgeon Estate Secret Garden, Stockwell",
+   "lat": 51.47657,
+   "lon": -0.12365,
+   "cell": "x-8y+1",
+   "url": "https://love.lambeth.gov.uk/spurgeon-secret-garden",
+   "note": "Residents' kitchen and woodland wildlife garden reopened 2019 in the centre of the Spurgeon Estate (Love Lambeth, Incredible Edible, London Gardens Trust Open Gardens 2025/2026). Seems open to estate residents and on open-garden days only; drop-in public access unconfirmed. Pin = nearest postcode SW8 1UL given by the source.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Ferranti Park",
+   "lat": 51.4801,
+   "lon": -0.02141,
+   "cell": "x+7y+1",
+   "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/ferranti-park",
+   "note": "Small (0.29 ha) Green Flag park on Creekside next to Sue Godfrey Nature Park (Lewisham, Wikipedia, GiGL). Sources don't confirm play equipment or anything for children. Pin = Berthon Street (an access point) street centre.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Confluence Place park, Lewisham Gateway",
+   "lat": 51.46529,
+   "lon": -0.0123,
+   "cell": "x+8y-2",
+   "url": "https://lewisham.gov.uk/inmyarea/regeneration/lewishamtowncentre/lewisham-gateway",
+   "note": "New park where the Ravensbourne and Quaggy meet, with children's play space per Lewisham Council; 2024 blog says public space beginning to open. Completion and current access unconfirmed. Pin = Station Road SE13 street centre (approximate).",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Forest Hill station mural (Artmongers)",
+   "lat": 51.43913,
+   "lon": -0.05345,
+   "cell": "x+2y-8",
+   "url": "https://www.foresthillsociety.com/mural",
+   "note": "Forest Hill Society mural by Patricio Forrester/Artmongers on a wall by the station and South Circular; painting started 28 Sep 2024. Only Forest Hill Society pages; completion not confirmed. Pin = postcode SE23 3HD (chosen by us, near the station).",
+   "found": "2026-11-01"
   }
  ]
 }

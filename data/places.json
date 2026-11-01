@@ -7574,6 +7574,663 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p191",
+   "name": "Greenwich Park",
+   "lat": 51.47669,
+   "lon": 0.00013,
+   "type": "park",
+   "area": "Greenwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Park reference point from latlong.net (51.476688, 0.000130), consistent with Wikipedia's 51°28′38″N 0°00′00″E. The playground is in the park's north-east corner.",
+   "link": "https://www.royalparks.org.uk/visit/parks/greenwich-park",
+   "ai": {
+    "score": 9,
+    "summary": "A huge Royal Park on a hill above the Thames, with big views over Canary Wharf, deer, wide lawns and woods. Its north-east corner has a large, inclusive playground with a maritime theme and a sandpit, upgraded in phases with new equipment. A full-day outing for all ages, easily combined with the Maritime Museum.",
+    "standout": "A maritime-themed inclusive playground and sandpit in a World Heritage Site park with sweeping river views",
+    "extras": "Children's toilets (some accessible), baby change, water fountain and picnic tables near the playground",
+    "highlights": [
+     "Inclusive maritime-themed playground in the north-east corner, refurbished with new equipment",
+     "Free Play in the Park activity sessions for children run in the park",
+     "Panoramic view from the General Wolfe statue at the top of the hill",
+     "Green Flag Award park"
+    ],
+    "cautions": [
+     "Very busy in summer: the playground draws over 400,000 visits a year",
+     "Steep hill between the river side and the observatory, hard work with a buggy",
+     "Gate and playground opening times vary by season: check before going"
+    ],
+    "sources": [
+     {
+      "title": "The Royal Parks: Greenwich Park playground",
+      "url": "https://www.royalparks.org.uk/visit/parks/greenwich-park/greenwich-park-playground"
+     },
+     {
+      "title": "Visit Greenwich: Greenwich Park Playground",
+      "url": "https://visitgreenwich.org.uk/things-to-do/greenwich-park-playground-p2033921"
+     },
+     {
+      "title": "Wikipedia: Greenwich Park",
+      "url": "https://en.wikipedia.org/wiki/Greenwich_Park"
+     },
+     {
+      "title": "From the Murky Depths: Children's playground upgraded in Greenwich Park (2019)",
+      "url": "https://www.fromthemurkydepths.co.uk/2019/07/25/childrens-playground-upgraded-in-greenwich-park/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p192",
+   "name": "Cockpit Craft Garden, Deptford",
+   "lat": 51.47905,
+   "lon": -0.02039,
+   "type": "landmark",
+   "area": "Deptford, Greenwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Cockpit Deptford, 18–22 Creekside, SE8 3DZ (postcode from search results), geocoded with the HDS gazetteer.",
+   "link": "https://cockpitstudios.org/journal/cockpit-craft-garden-official-opening/",
+   "ai": {
+    "score": 5,
+    "summary": "A small public courtyard garden at Cockpit's craft studios on Creekside, opened in 2024 on a former run-down yard. Designer Sebastian Cox set oak and sweet chestnut furniture into a planted landscape inspired by Deptford Creek's plants. A quiet, curious stop with a café on a walk between the Creekside Discovery Centre and Deptford High Street.",
+    "standout": "Sculpted wooden benches and seats set into a creekside-style planting, billed as London's first craft garden",
+    "extras": "Café and open foyer in the building",
+    "highlights": [
+     "Opened 2024 as part of a refurbishment by Cooke Fawcett Architects",
+     "Handmade oak and sweet chestnut furniture by Sebastian Cox",
+     "Public art at the new entrance made with the Deptford community"
+    ],
+    "cautions": [
+     "Small courtyard: a short stop rather than a destination",
+     "Opening hours not stated in sources: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Cockpit: Cockpit Craft Garden official opening",
+      "url": "https://cockpitstudios.org/journal/cockpit-craft-garden-official-opening/"
+     },
+     {
+      "title": "Wallpaper: Cockpit Deptford is a new home for the arts and crafts in south London",
+      "url": "https://www.wallpaper.com/architecture/cockpit-deptford-london-uk"
+     },
+     {
+      "title": "Architecture Today: Cockpit Deptford",
+      "url": "https://architecturetoday.co.uk/cockpit-deptford-cooke-fawcett-makersapce/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p193",
+   "name": "Cornmill Gardens",
+   "lat": 51.46401,
+   "lon": -0.01449,
+   "type": "park",
+   "area": "Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Council says the gardens are just off Loampit Vale; pinned to postcode SE13 7FY on Cornmill Lane beside the gardens (HDS gazetteer), chosen by us, not from a source.",
+   "link": "https://www.lewisham.gov.uk/inmyarea/openspaces/parks/cornmill-gardens-and-river-mill-park",
+   "ai": {
+    "score": 6,
+    "summary": "A small modern park in Lewisham town centre, opened in 2007 on the site of an old mill, where the River Ravensbourne was freed from its concrete channel and now runs in a more natural bed. There is a children's play area right by the river, plus lawns. A handy stop near Lewisham station that adds a bit of river-watching to a town-centre trip.",
+    "standout": "A children's play area beside a restored, natural-looking stretch of the River Ravensbourne",
+    "highlights": [
+     "River Ravensbourne released from concrete walls and opened for public access",
+     "Play area bordered by the river",
+     "Lawns for picnics; River Mill Park overlooks it"
+    ],
+    "cautions": [
+     "Open river edge next to the play area: keep an eye on small children",
+     "Small town-centre park beside busy Loampit Vale"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Cornmill Gardens and River Mill Park",
+      "url": "https://www.lewisham.gov.uk/inmyarea/openspaces/parks/cornmill-gardens-and-river-mill-park"
+     },
+     {
+      "title": "BDP: Cornmill Gardens",
+      "url": "https://www.bdp.com/projects/cornmill-gardens"
+     },
+     {
+      "title": "Wikipedia: River Ravensbourne",
+      "url": "https://en.wikipedia.org/wiki/River_Ravensbourne"
+     },
+     {
+      "title": "Londonist: Weekend walks, the River Ravensbourne from Catford to the Thames",
+      "url": "https://londonist.com/london/great-outdoors/weekend-walks-the-river-ravensbourne-from-catford-to-the-thames"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p194",
+   "name": "Oasis Children's Nature Garden",
+   "lat": 51.47348,
+   "lon": -0.12815,
+   "type": "nature",
+   "area": "Stockwell, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Corner of Larkhall Lane and Studley Road, SW4 6SP (postcode from Lambeth Council listing), geocoded with the HDS gazetteer.",
+   "link": "https://www.lambeth.gov.uk/oasis-nature-garden",
+   "ai": {
+    "score": 8,
+    "summary": "A children's nature garden in Stockwell run by Oasis Children's Venture, a play charity going since 1972. Children play freely around wildlife habitats, with a mud kitchen, treehouse, woodland, veg patch, greenhouse and sandpit, guided by playworkers. Sessions include community Saturdays and a term-time under-5s forest group, so it suits families who want wild, hands-on outdoor play.",
+    "standout": "Child-led wild play with a treehouse, mud kitchen and woodland, run by playworkers",
+    "age": "5–12 (under-5s with a carer)",
+    "ages": [
+     5,
+     12
+    ],
+    "highlights": [
+     "Mud kitchen, treehouse, sandpit, woodland and veg patch",
+     "Tuesday under-5s Forest Foragers group in term time",
+     "Community Saturday sessions; summer holiday programme",
+     "Same charity runs the Oasis adventure playground on Larkhall Lane"
+    ],
+    "cautions": [
+     "Opens for set sessions rather than all day: check times before going",
+     "Sources differ on the age range (5–12 or 5–16)",
+     "Pay-and-display parking on Larkhall Lane"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Oasis Nature Garden",
+      "url": "https://www.lambeth.gov.uk/oasis-nature-garden"
+     },
+     {
+      "title": "AccessAble: Oasis Nature Garden access guide",
+      "url": "https://www.accessable.co.uk/london-borough-of-lambeth/access-guides/oasis-nature-garden"
+     },
+     {
+      "title": "Hoop: Oasis Children's Nature Garden community Saturdays",
+      "url": "https://hoop.co.uk/oasis-childrens-nature-garden/xO4cjW-community-saturdays"
+     },
+     {
+      "title": "Lambeth Family Information Directory: Oasisplay Nature Garden summer programme",
+      "url": "https://lambeth.gov.uk/family-information-directory/12216-oasisplay-nature-garden-summer-programme"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p195",
+   "name": "Vauxhall Park and model village",
+   "lat": 51.48257,
+   "lon": -0.12331,
+   "type": "park",
+   "area": "Vauxhall, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Fentiman Road, SW8 1QY (postcode from search results), geocoded with the HDS gazetteer.",
+   "link": "https://www.lambeth.gov.uk/parks/vauxhall-park",
+   "ai": {
+    "score": 8,
+    "summary": "A neighbourhood park near the Oval with a surprise: a small mock-Tudor model village made by Edgar Wilson in the 1940s, moved here from Brockwell Park and restored in 2001. Lambeth's refurbishment gave it a new playground with a wide range of equipment, plus a lavender field, sensory garden, human sundial and a café. Great for a short outing with toddlers and young children.",
+    "standout": "A tiny vintage model village to peer into, next to a refurbished playground",
+    "extras": "Café, tennis court, MUGA, sensory and ornamental gardens",
+    "highlights": [
+     "1940s model village by Edgar Wilson, restored and reopened in 2001",
+     "Refurbished playground with new equipment",
+     "Lavender field tended by local residents",
+     "Human sundial and water feature"
+    ],
+    "cautions": [
+     "The model village is small: only a handful of houses",
+     "Sources differ on the village's date (1943 or 1949)",
+     "Opening times not given in sources: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Vauxhall Park",
+      "url": "https://www.lambeth.gov.uk/parks/vauxhall-park"
+     },
+     {
+      "title": "Love Lambeth: Vauxhall Park ready to welcome the community back",
+      "url": "https://love.lambeth.gov.uk/vauxhall-park-restoration"
+     },
+     {
+      "title": "Wikipedia: Vauxhall Park",
+      "url": "https://en.wikipedia.org/wiki/Vauxhall_Park"
+     },
+     {
+      "title": "Guided Walks in London: London's only model village, a charming surprise in Vauxhall Park",
+      "url": "https://guidedwalksinlondon.co.uk/blog/read_114431/londons-only-model-village-a-charming-surprise-in-vauxhall-park.html"
+     },
+     {
+      "title": "Time Out: Vauxhall Park",
+      "url": "https://www.timeout.com/london/attractions/vauxhall-park"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p196",
+   "name": "Island Gardens",
+   "lat": 51.48667,
+   "lon": -0.01177,
+   "type": "park",
+   "area": "Isle of Dogs, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Pinned to the Ferry Street, E14 street centre (HDS gazetteer), which runs along the park; the north entrance of the Greenwich Foot Tunnel is inside the park.",
+   "link": "https://www.goparks.london/park/island-gardens/",
+   "ai": {
+    "score": 6,
+    "summary": "A small riverside park at the southern tip of the Isle of Dogs, laid out in 1895 to protect the famous view across the Thames to the Old Royal Naval College and Greenwich Park, the scene Canaletto painted. The Greenwich Foot Tunnel comes up here, so children can walk under the river and pop out to this view. Picnic tables, a café and DLR next door make it an easy stop.",
+    "standout": "The classic Canaletto view of Greenwich, reached by walking under the Thames through the foot tunnel",
+    "extras": "Café/kiosk, picnic tables and benches",
+    "highlights": [
+     "Protected viewpoint straight across to the Old Royal Naval College and Queen's House",
+     "North entrance of the Greenwich Foot Tunnel",
+     "Free entry, children welcome",
+     "Island Gardens DLR station next to the park"
+    ],
+    "cautions": [
+     "Small park with no play area confirmed in recent sources",
+     "Café hours vary: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Island Gardens",
+      "url": "https://en.wikipedia.org/wiki/Island_Gardens"
+     },
+     {
+      "title": "Enjoy Royal Greenwich: Island Gardens",
+      "url": "https://www.enjoyroyalgreenwich.org.uk/things-to-do/island-gardens-p1397641"
+     },
+     {
+      "title": "Go Parks London: Island Gardens",
+      "url": "https://www.goparks.london/park/island-gardens/"
+     },
+     {
+      "title": "Historic England: Island Gardens (Register of Parks and Gardens)",
+      "url": "https://historicengland.org.uk/listing/the-list/list-entry/1000815"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p197",
+   "name": "Millwall Park",
+   "lat": 51.49059,
+   "lon": -0.00803,
+   "type": "park",
+   "area": "Isle of Dogs, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Isle of Dogs Family Hub in the park, Stebondale Street, E14 3BX (postcode from Tower Hamlets event listings), geocoded with the HDS gazetteer.",
+   "link": "https://towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Millwall_Park.aspx",
+   "ai": {
+    "score": 6,
+    "summary": "A big open park on the Isle of Dogs right next to Mudchute farm, with lots of grass, an adventure playground near the One O'Clock Club and a smaller playground by the bowling green. The council's family hub in the park runs free weekly play sessions for under-5s. Pair it with the animals at Mudchute for a full day.",
+    "standout": "Playgrounds and free under-5s sessions right beside Mudchute farm",
+    "extras": "Outdoor gym, basketball court, family hub",
+    "highlights": [
+     "Adventure playground near the One O'Clock Club",
+     "Small playground beside the bowling green",
+     "Free Play Together sessions for 18 months to under 5 at the Isle of Dogs Family Hub",
+     "Next to Mudchute Park and Farm; Island Gardens and Mudchute DLR nearby"
+    ],
+    "cautions": [
+     "Mostly open amenity grass and sports space",
+     "No recent source on the condition of the play equipment",
+     "Session times change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Tower Hamlets: Walk of the month, Island Gardens and Mudchute",
+      "url": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/walking/walks/east_end_life_featured_walks/island_gardens_and_mudchute.aspx"
+     },
+     {
+      "title": "Tower Hamlets: Millwall Park",
+      "url": "https://towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Millwall_Park.aspx"
+     },
+     {
+      "title": "Tower Hamlets: Play Together, IOD Family Hub (2024)",
+      "url": "https://www.towerhamlets.gov.uk/News_events/Events/2024/July/Play-Together-IOD-Family-Hub-29-July.aspx"
+     },
+     {
+      "title": "Go Parks London: Millwall Park",
+      "url": "https://www.goparks.london/park/millwall-park/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p198",
+   "name": "Sir John McDougall Gardens",
+   "lat": 51.49829,
+   "lon": -0.02592,
+   "type": "park",
+   "area": "Millwall, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Park lies between the Thames and Westferry Road; pinned to the Westferry Road, E14 street centre beside it (HDS gazetteer).",
+   "link": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Sir_John_McDougall_Gardens.aspx",
+   "ai": {
+    "score": 6,
+    "summary": "A Green Flag riverside park of about six acres on the west side of the Isle of Dogs, opened in 1968 on bomb-damaged land. It has separate play areas for toddlers and juniors, a games court and an outdoor gym, with the Thames Path running along the river edge. A good playground stop with river views on a walk round the island.",
+    "standout": "Toddler and junior play areas right on the Thames riverside",
+    "extras": "Multi-use games area, outdoor gym",
+    "highlights": [
+     "Toddler (under 5) and junior (5+) play areas",
+     "Riverside Thames Path walkway",
+     "Green Flag Award park",
+     "Footbridge over Westferry Road"
+    ],
+    "cautions": [
+     "Sources vary in date: check current play equipment",
+     "Opening times not given: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Sir John McDougall Gardens",
+      "url": "https://en.wikipedia.org/wiki/Sir_John_McDougall_Gardens"
+     },
+     {
+      "title": "Tower Hamlets: Sir John McDougall Gardens",
+      "url": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Sir_John_McDougall_Gardens.aspx"
+     },
+     {
+      "title": "Tower Hamlets: Playgrounds and inclusive play",
+      "url": "https://towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Playgrounds-and-Inclusive-Play.aspx"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p199",
+   "name": "Red Cross Garden",
+   "lat": 51.50375,
+   "lon": -0.09375,
+   "type": "nature",
+   "area": "Borough, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "50 Redcross Way, SE1; pinned to the Redcross Way street centre (HDS gazetteer), within about 150 m.",
+   "link": "https://www.goparks.london/park/red-cross-garden/",
+   "ai": {
+    "score": 6,
+    "summary": "A small Victorian garden laid out in 1887 by Octavia Hill, co-founder of the National Trust, and restored by Bankside Open Spaces Trust in the 2000s. It has lawns, a bandstand, a maypole and a wildlife pond where frogs, toads and newts live. A calm, free pocket of green a few minutes from Borough Market, good for a picnic and pond-spotting with small children.",
+    "standout": "A wildlife pond with frogs and newts in a restored Victorian garden",
+    "highlights": [
+     "Wildlife pond with frogs, toads and newts",
+     "Bandstand, lawns and maypole",
+     "Green Flag Award (2016); managed by Bankside Open Spaces Trust",
+     "20th anniversary of the restoration celebrated in June 2026"
+    ],
+    "cautions": [
+     "Small garden, no play equipment",
+     "Listed as open 9am to dusk daily: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Go Parks London: Red Cross Garden",
+      "url": "https://www.goparks.london/park/red-cross-garden/"
+     },
+     {
+      "title": "London Gardens Trust inventory: Red Cross Garden (SOU074)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU074"
+     },
+     {
+      "title": "Bankside Open Spaces Trust: Celebrating Octavia Hill's Red Cross Garden",
+      "url": "https://bost.org.uk/?p=2917"
+     },
+     {
+      "title": "RHS Britain in Bloom: Red Cross Garden",
+      "url": "https://www.rhs.org.uk/get-involved/britain-in-bloom/red-cross-garden"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p200",
+   "name": "Golden Hinde",
+   "lat": 51.50615,
+   "lon": -0.0903,
+   "type": "landmark",
+   "area": "Bankside, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Moored in St Mary Overie Dock at the end of Cathedral Street; pinned to the Cathedral Street, SE1 street centre (HDS gazetteer), within about 100 m.",
+   "link": "https://goldenhinde.co.uk/",
+   "ai": {
+    "score": 7,
+    "summary": "A full-size working replica of Sir Francis Drake's Elizabethan galleon, built by hand in Devon and launched in 1973, moored in a tiny dock between Southwark Cathedral and the Clink since 1996. Children can gaze up at the masts and rigging for free from the dockside; going aboard, storytelling and family events are ticketed. A great surprise on a walk along Bankside.",
+    "standout": "A real-size Tudor sailing ship squeezed into a little dock in the middle of the city",
+    "highlights": [
+     "Full-size replica of Drake's ship, moored here since 1996",
+     "Free to view from the dockside",
+     "Family events, re-enactments and storytelling sessions on board",
+     "Refurbishment and a memory project for its 30th anniversary in the dock"
+    ],
+    "cautions": [
+     "Going aboard costs money, and prices vary between sources: check before going",
+     "Opening hours differ by season: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Golden Hinde",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/arts-and-culture/explore-culture-southwark/golden-hinde"
+     },
+     {
+      "title": "Golden Hinde: A Southwark home for the Golden Hinde",
+      "url": "https://goldenhinde.co.uk/blog/396-local-history-month-a-southwark-home-for-the-golden-hinde"
+     },
+     {
+      "title": "Time Out: The Golden Hinde is getting a big makeover to celebrate its 30th anniversary",
+      "url": "https://www.timeout.com/london/news/the-golden-hinde-is-getting-a-big-makeover-to-celebrate-its-30th-anniversary-111425"
+     },
+     {
+      "title": "Londonist: Have you spotted this replica of Sir Francis Drake's ship?",
+      "url": "https://londonist.com/london/videos/golden-hinde"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p201",
+   "name": "Waterloo Millennium Green",
+   "lat": 51.50214,
+   "lon": -0.11055,
+   "type": "park",
+   "area": "Waterloo, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Baylis Road, SE1 7AA (address given by Bankside Open Spaces Trust/Lambeth), geocoded with the HDS gazetteer. GiGL gives a different postcode.",
+   "link": "https://lambeth.gov.uk/parks/waterloo-millennium-green",
+   "ai": {
+    "score": 7,
+    "summary": "A community green at the corner of Waterloo Road and Baylis Road, run by Bankside Open Spaces Trust. Besides a playground and ball pitch it has a pond, wildflower planting, sculptures, climbing logs and a woodland trail, and the trust added a nature and play trail to draw in more families. A handy wild-ish play stop near Waterloo station and the Old Vic.",
+    "standout": "A nature and play trail with climbing logs and a pond, minutes from Waterloo station",
+    "extras": "Playground, floodlit multi-use games pitch, seating",
+    "highlights": [
+     "Nature and play trail installed by Bankside Open Spaces Trust",
+     "Playground plus pond and wildflower areas",
+     "Sculptures and a short woodland trail",
+     "Managed by a local charity"
+    ],
+    "cautions": [
+     "Playground age range and condition not stated in sources",
+     "Busy central location beside main roads",
+     "Opening times not given: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Waterloo Millennium Green (managed by BOST)",
+      "url": "https://lambeth.gov.uk/parks/waterloo-millennium-green"
+     },
+     {
+      "title": "Horticulture Week: Charity opens play trail at Waterloo Millennium Green",
+      "url": "https://www.hortweek.com/charity-opens-play-trail-waterloo-millennium-green/landscape/article/1715356"
+     },
+     {
+      "title": "Go Parks London: Waterloo Millennium Green",
+      "url": "https://goparks.london/park/waterloo-millennium-green"
+     },
+     {
+      "title": "GiGL Space to Visit: Waterloo Millennium Green",
+      "url": "https://www.gigl.org.uk/?p=63466"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p202",
+   "name": "Ufford Street Gardens",
+   "lat": 51.50206,
+   "lon": -0.10666,
+   "type": "playground",
+   "area": "Waterloo, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Ufford Street, SE1 8QD (postcode from search results), geocoded with the HDS gazetteer.",
+   "link": "https://www.lambeth.gov.uk/parks/ufford-street-gardens",
+   "ai": {
+    "score": 5,
+    "summary": "A small Green Flag park in the back streets between Waterloo and The Cut, restored with lottery money in 2008 and looked after since 2017 by a friends group. It has a dog-free children's playground with equipment for under-7s and 7–13s, a games court and wildlife-friendly planting. A useful local play stop rather than a destination.",
+    "standout": "A quiet dog-free playground tucked away near Waterloo",
+    "age": "0–13",
+    "ages": [
+     0,
+     13
+    ],
+    "extras": "Games court, seating",
+    "highlights": [
+     "Play equipment for under-7s and 7–13 year olds",
+     "Dog-free playground",
+     "Green Flag Award park",
+     "Friends of Ufford Street Gardens volunteer group"
+    ],
+    "cautions": [
+     "Small park",
+     "Opening times differ between sources (council says from 10am): check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Ufford Street Gardens",
+      "url": "https://www.lambeth.gov.uk/parks/ufford-street-gardens"
+     },
+     {
+      "title": "London Gardens Trust inventory: Ufford Street Gardens (LAM058)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LAM058"
+     },
+     {
+      "title": "GiGL Space to Visit: Ufford Street Gardens",
+      "url": "https://www.gigl.org.uk/park/OS_La_0294"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p203",
+   "name": "Children at Play mural (Stephen Pusey), Brixton",
+   "lat": 51.46601,
+   "lon": -0.11499,
+   "type": "landmark",
+   "area": "Brixton, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "On the rear wall of the O2 Academy facing Stockwell Park Walk; pinned to the Stockwell Park Walk, SW9 street centre (HDS gazetteer).",
+   "link": "https://en.wikipedia.org/wiki/Children_at_Play",
+   "ai": {
+    "score": 6,
+    "summary": "A huge 1981–82 mural by Stephen Pusey on the back of the Brixton Academy, commissioned by Lambeth after the 1981 riots to celebrate racial harmony. It shows children of different backgrounds playing together, and locals nickname it the 'Zombie Children'. Children enjoy spotting themselves in it; a good stop on a Brixton murals walk.",
+    "standout": "A giant wall of painted children playing, one of Brixton's best-known murals",
+    "highlights": [
+     "Painted 1981–82 in long-lasting Keim silicate paints",
+     "Design chosen with Stockwell Park Estate residents",
+     "On TfL's Brixton art map"
+    ],
+    "cautions": [
+     "Viewed from the street; sources differ on its exact size"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Children at Play",
+      "url": "https://en.wikipedia.org/wiki/Children_at_Play"
+     },
+     {
+      "title": "Londonist: These are the murals of Brixton",
+      "url": "https://londonist.com/london/art-and-photography/brixtons-murals"
+     },
+     {
+      "title": "For Walls With Tongues: 'Kids', Brixton 1981–82",
+      "url": "https://www.forwallswithtongues.org.uk/projects/children-at-play-brixton-1981-82/"
+     },
+     {
+      "title": "TfL: Brixton Art Map",
+      "url": "https://art.tfl.gov.uk/wp-content/uploads/2018/09/SH-289-Brixton-Art-Map-online-LR.pdf"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p204",
+   "name": "Bolton Crescent Adventure Playground (Oasisplay)",
+   "lat": 51.48058,
+   "lon": -0.10774,
+   "type": "playground",
+   "area": "Kennington, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "64 Bolton Crescent, SE5 0SE (postcode from Lambeth directory; one listing gives no. 65), geocoded with the HDS gazetteer.",
+   "link": "https://lambeth.gov.uk/family-information-directory/12217-oasisplay-bolton-crescent-adventure-playgound",
+   "ai": {
+    "score": 8,
+    "summary": "A staffed adventure playground in Kennington run by the play charity Oasis Children's Venture, with free, child-led open-access sessions funded by Lambeth. There is a zip line, rope and tyre swings, a bridge, sand and natural play, den building and a forest garden, plus indoor soft play. It was developed with disabled children in mind, with new fencing for a safe space.",
+    "standout": "Zip line, rope swings and den building in a staffed, free adventure playground",
+    "age": "6–16",
+    "ages": [
+     6,
+     16
+    ],
+    "extras": "Indoor soft play and ball pit, sports area",
+    "highlights": [
+     "Free open-access play sessions run by playworkers",
+     "Zip line, tyre and rope swings, bridge and forest garden",
+     "Inclusive: developed with disabled children in mind",
+     "Children bring a packed lunch for Saturday sessions"
+    ],
+    "cautions": [
+     "Session days and times change: check before going",
+     "Ages 6–16 for open access, per the booking listing"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Family Information Directory: Oasisplay Bolton Crescent Adventure Playground",
+      "url": "https://lambeth.gov.uk/family-information-directory/12217-oasisplay-bolton-crescent-adventure-playgound"
+     },
+     {
+      "title": "EEQU: Oasisplay Bolton Crescent",
+      "url": "https://eequ.org/book/oasisplay-bolton-crescent-with-oasis-childrens-venture-16673"
+     },
+     {
+      "title": "Lambeth Council: Oasis Children's Venture, Bolton Crescent",
+      "url": "https://www.lambeth.gov.uk/children-young-people-and-families/special-educational-needs-and-disabilities/social-care-and-health-disabled-children-and-young-people/social-care-and-5/oasis-childrens-venture-bolton-crescent"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }
