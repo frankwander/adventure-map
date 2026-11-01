@@ -521,6 +521,42 @@
    "url": "https://www.brockwellgreenhouses.org.uk/visit-us/",
    "note": "2 sources; pin is a postcode at the park edge a few hundred metres from the greenhouses: find a precise location",
    "found": "2026-11-01"
+  },
+  {
+   "name": "Stockwell Hall of Fame (Aytoun Road graffiti enclosure)",
+   "lat": 51.4686,
+   "lon": -0.11648,
+   "cell": "x-7y-1",
+   "url": "https://boroughphotos.org/lambeth/woskerski-street-art-stockwell-hall-of-fame-aytoun-road/",
+   "note": "Former playground enclosure on the Stockwell Park Estate used as a tolerated graffiti wall since 1993; only source is the Lambeth borough photo archive (photos 2008-2018). Current status unconfirmed. Pin is the Aytoun Road street centre.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Huggins Corner (Roupell Road garden and mural)",
+   "lat": 51.44394,
+   "lon": -0.11865,
+   "cell": "x-7y-7",
+   "url": "https://lambeth.gov.uk/bee-roads-near-you/huggins-corner-bee-road",
+   "note": "Small public wildflower garden (about 400 m2) with a 55 m mural on its back wall and bollards painted by Streatham Wells pupils. Only one source (Lambeth Council). Pin is a Roupell Road street centre; Roupell Road is several hundred metres long, so find the exact corner.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Pearl and Mizanur's Memorial Garden, Shadwell",
+   "lat": 51.5113,
+   "lon": -0.05877,
+   "cell": "x+1y+8",
+   "url": "https://londongardenstrust.org/log2026/gardens/Pearl.html",
+   "note": "Resident-run garden between Cornwall Street and Cable Street on the Tarling West Estate, nearest postcode E1 2QW. Only source is the London Open Gardens listing; unclear whether it is open outside open-garden weekends.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Leake Street Pocket Park / Baylis Road Pocket Park",
+   "lat": 51.50107,
+   "lon": -0.11025,
+   "cell": "x-6y+6",
+   "url": "https://www.nla.london/index.php/projects/baylis-road-pocket-park",
+   "note": "Two small Waterloo pocket parks (Baylis Road, SE1 7AY, built 2020; Leake Street, opened 2015). Planting only in sources; unclear there is anything for children.",
+   "found": "2026-11-01"
   }
  ]
 }

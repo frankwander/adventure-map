@@ -9867,6 +9867,261 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p243",
+   "name": "Leake Street graffiti tunnel",
+   "lat": 51.50178,
+   "lon": -0.11591,
+   "type": "landmark",
+   "area": "Waterloo, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE1 7NN given by Wikipedia and listings, geocoded offline (York Road end of the tunnel).",
+   "link": "https://en.wikipedia.org/wiki/Leake_Street",
+   "ai": {
+    "score": 7,
+    "summary": "A road tunnel under Waterloo station where graffiti is allowed, so the walls are covered in colourful, constantly changing street art. It became famous after Banksy's Cans Festival in 2008. Free and open to walk through, it is a quick, memorable detour for children who like art, two minutes from Waterloo and the South Bank.",
+    "standout": "Legal graffiti walls that change from week to week, often with artists painting as you walk through",
+    "highlights": [
+     "Free to walk through, a couple of minutes from Waterloo station",
+     "Artwork changes constantly, so every visit is different",
+     "Links up easily with the South Bank and Jubilee Gardens"
+    ],
+    "cautions": [
+     "It is a working road tunnel with some traffic and strong paint fumes when artists are spraying",
+     "Content of the art is not curated, so some pieces may not suit young children",
+     "Bars and venues in the arches get busy in the evening; daytime visits suit families best"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Leake Street",
+      "url": "https://en.wikipedia.org/wiki/Leake_Street"
+     },
+     {
+      "title": "The Gingerbread House: Re-visiting Leake Street Tunnel with kids",
+      "url": "https://the-gingerbread-house.co.uk/?p=56821"
+     },
+     {
+      "title": "Time Out: Leake Street",
+      "url": "https://www.timeout.com/london/art/leake-street"
+     },
+     {
+      "title": "Atlas Obscura: Leake Street Graffiti Tunnel",
+      "url": "https://www.atlasobscura.com/places/leake-street-graffiti-tunnel"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p244",
+   "name": "Whittington Garden",
+   "lat": 51.51105,
+   "lon": -0.09204,
+   "type": "landmark",
+   "area": "City of London",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "On College Street beside St Michael Paternoster Royal; pin is the street centre of this short street, geocoded offline.",
+   "link": "https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/whittington-garden",
+   "ai": {
+    "score": 5,
+    "summary": "A small City garden named after Richard Whittington, the real Lord Mayor behind the Dick Whittington pantomime story, next to the church where he was buried. It has a fountain, shady lawns, planted beds and two curious bronze horsemen given by the Italian President in 2005. A nice story stop for children on a City or riverside walk.",
+    "standout": "The real-life Dick Whittington link, with odd horse-and-rider sculptures",
+    "highlights": [
+     "Named after Richard Whittington of the Dick Whittington story",
+     "Fountain and two bronze horsemen sculptures",
+     "Benches and shaded grass near Cannon Street station"
+    ],
+    "cautions": [
+     "Small, mostly paved garden with no play equipment",
+     "City gardens can have limited hours; check before going"
+    ],
+    "sources": [
+     {
+      "title": "City of London: Whittington Garden",
+      "url": "https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/whittington-garden"
+     },
+     {
+      "title": "IanVisits: London's Pocket Parks, Whittington Garden",
+      "url": "https://www.ianvisits.co.uk/blog/2017/11/07/londons-pocket-gardens-whittington-garden/"
+     },
+     {
+      "title": "Exploring London: Whittington Garden",
+      "url": "https://exploring-london.com/tag/whittington-garden/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p245",
+   "name": "Catford Cat",
+   "lat": 51.44587,
+   "lon": -0.02077,
+   "type": "landmark",
+   "area": "Catford, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Sources place it over the Catford Centre entrance between 154 and 158 Rushey Green; no postcode given, so I chose SE6 4JU (Rushey Green / Winslade Way, the shopping centre street) and geocoded it offline.",
+   "link": "https://batch.artuk.org/discover/artworks/catford-centre-cat-282964",
+   "ai": {
+    "score": 5,
+    "summary": "A giant fibreglass cat perched on the Catford Centre sign over the shopping centre entrance on Rushey Green, there since 1974, with a paw reaching down towards the letters. Locals petitioned to keep it when the council proposed removing it in 2017. A fun spot-it landmark for children on a trip through Catford.",
+    "standout": "A huge cat climbing over a shop sign, Catford's unofficial mascot",
+    "highlights": [
+     "Giant fibreglass cat looming over the Catford Centre sign",
+     "Saved by a local petition in 2017",
+     "Free to see from the street, next to Catford's shops and buses"
+    ],
+    "cautions": [
+     "Catford town centre is being redeveloped, so check the cat is still in place",
+     "Busy main road beneath it"
+    ],
+    "sources": [
+     {
+      "title": "Art UK: Catford Centre Cat",
+      "url": "https://batch.artuk.org/discover/artworks/catford-centre-cat-282964"
+     },
+     {
+      "title": "Atlas Obscura: The Catford Cat",
+      "url": "https://www.atlasobscura.com/places/the-catford-cat"
+     },
+     {
+      "title": "Wikipedia: List of public art in the London Borough of Lewisham",
+      "url": "https://en.wikipedia.org/wiki/List_of_public_art_in_the_London_Borough_of_Lewisham"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p246",
+   "name": "Mayow Park",
+   "lat": 51.42988,
+   "lon": -0.05159,
+   "type": "park",
+   "area": "Sydenham, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE26 4SS given by Time Out and Go Parks London, geocoded offline (Silverdale side of the park).",
+   "link": "https://www.lewisham.gov.uk/inmyarea/openspaces/parks/mayow-park",
+   "ai": {
+    "score": 7,
+    "summary": "Lewisham's oldest public park, on Mayow Road in Sydenham. Its playground was recently refurbished as an inclusive play space, opened by the Mayor of Lewisham with the Friends of Mayow Park and local schools. Local parents rate the playground highly, and the park is a good everyday stop for families around Forest Hill and Sydenham.",
+    "standout": "Newly refurbished inclusive playground in the borough's oldest park",
+    "highlights": [
+     "Refurbished inclusive playground designed with something for everybody",
+     "Active Friends of Mayow Park group since 1993",
+     "Historic park, the oldest in Lewisham"
+    ],
+    "cautions": [
+     "Local forum posts mention past vandalism of play equipment",
+     "Check opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Mayor of Lewisham opens new playground at Mayow Park",
+      "url": "https://lewisham.gov.uk/articles/news/mayor-of-lewisham-opens-new-playground-at-mayow-park"
+     },
+     {
+      "title": "Wikipedia: Mayow Park",
+      "url": "https://en.wikipedia.org/wiki/Mayow_Park"
+     },
+     {
+      "title": "Go Parks London: Mayow Park",
+      "url": "https://goparks.london/park/mayow-park"
+     },
+     {
+      "title": "London Gardens Trust: Mayow Park (LEW037)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW037"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p247",
+   "name": "Big Splash mural, Glenelg Road",
+   "lat": 51.45835,
+   "lon": -0.12578,
+   "type": "landmark",
+   "area": "Brixton, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Corner of Glenelg Road and Strathleven Road; postcode SW2 5LA (20 Strathleven Road) given by a source, geocoded offline.",
+   "link": "https://www.brixtonbuzz.com/2014/12/big-splash-mural-of-glenelg-road-brixton/",
+   "ai": {
+    "score": 5,
+    "summary": "A large 1985 community mural by Christine Thomas, helped by Dave Bangs and Diane O'Leary, on a house end at the corner of Glenelg Road and Strathleven Road. It shows the hidden River Effra flowing through a rural scene, with nods to the women who worked at Lambeth's Doulton factory and faces of local residents. Time Out once rated it among London's top ten murals.",
+    "standout": "A hidden underground river painted back into the open on a Brixton house end",
+    "highlights": [
+     "One of Brixton's classic 1980s community murals",
+     "Tells the story of the River Effra, which now runs underground",
+     "Free to see from the street; can be part of a Brixton mural walk"
+    ],
+    "cautions": [
+     "Most sources are several years old; the paint may have faded",
+     "Residential street: look from the pavement"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Brixton murals",
+      "url": "https://en.wikipedia.org/wiki/Brixton_murals"
+     },
+     {
+      "title": "Brixton Buzz: Big Splash mural of Glenelg Road, Brixton",
+      "url": "https://www.brixtonbuzz.com/2014/12/big-splash-mural-of-glenelg-road-brixton/"
+     },
+     {
+      "title": "Londonist: These are the murals of Brixton",
+      "url": "https://londonist.com/london/art-and-photography/brixtons-murals"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p248",
+   "name": "Bessborough Gardens dolphin fountain",
+   "lat": 51.4888,
+   "lon": -0.12998,
+   "type": "landmark",
+   "area": "Pimlico, Westminster",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Garden square at the Pimlico end of Vauxhall Bridge; pin is the street centre of Bessborough Gardens, the short street around the square, geocoded offline.",
+   "link": "https://westminster.gov.uk/parks-and-open-spaces/bessborough-gardens",
+   "ai": {
+    "score": 4,
+    "summary": "A small Westminster garden square just over Vauxhall Bridge from Lambeth, with lawns, mature trees and planted borders. Its centrepiece is a 1980 fountain by Sir Peter Shepheard with fish figures, usually called the dolphin fountain, cast from an older Vulliamy design. A pleasant short stop with something to look at on a walk across the river.",
+    "standout": "The fish fountain, known locally as the dolphin fountain",
+    "highlights": [
+     "Fountain with fish sculptures",
+     "Central lawn and mature trees",
+     "Close to Vauxhall Bridge and the Thames path"
+    ],
+    "cautions": [
+     "Small garden with no play equipment",
+     "Busy roads around the square; check opening times before going"
+    ],
+    "sources": [
+     {
+      "title": "Westminster City Council: Bessborough Gardens",
+      "url": "https://westminster.gov.uk/parks-and-open-spaces/bessborough-gardens"
+     },
+     {
+      "title": "London Gardens Trust: Bessborough Gardens (WST006)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=WST006"
+     },
+     {
+      "title": "Wikipedia: List of public art in Pimlico",
+      "url": "https://en.wikipedia.org/wiki/List_of_public_art_in_Pimlico"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }
