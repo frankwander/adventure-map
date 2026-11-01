@@ -665,6 +665,24 @@
    "url": "https://www.ianvisits.co.uk/articles/londons-pocket-parks-bernie-spain-gardens-se1-66155/",
    "note": "Coin Street riverside gardens either side of Upper Ground between Gabriel's Wharf and Oxo Tower Wharf; West 8's pollinator redesign of the north garden had planning and work had begun by 2023, but completion and any play features are unconfirmed. Mostly lawns at present. Pin is the middle Upper Ground street-centre segment, approximate.",
    "found": "2026-11-01"
+  },
+  {
+   "name": "Dacres Wood Nature Reserve",
+   "lat": 51.43379,
+   "lon": -0.05176,
+   "cell": "x+2y-9",
+   "url": "https://lewisham.gov.uk/inmyarea/openspaces/nature-reserves/dacres-wood-nature-reserve",
+   "note": "Lewisham Local Nature Reserve with pond, dipping platform and Croydon Canal relic (Wikipedia, Lewisham Council, Brixton Buzz 2024). Kept locked except open days on the last Saturday of each month, so access is limited. Pin is Dacres Road SE23 street centre; entrance via Honeyfield Mews off Dacres Road (not in gazetteer).",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Nine Elms Park (Thames City section, nature-inspired playground)",
+   "lat": 51.48193,
+   "lon": -0.13325,
+   "cell": "x-9y+2",
+   "url": "https://www.timeout.com/london/news/this-leafy-new-park-just-opened-in-south-london-090723",
+   "note": "Phase 1 of Nine Elms Park at Thames City opened 2023 with Great Lawn and a nature-inspired children's playground (Time Out 2023, Gillespies press release). Linear park is long; exact position of the playground not found. Pin is Ponton Road SW11 street centre.",
+   "found": "2026-11-01"
   }
  ]
 }

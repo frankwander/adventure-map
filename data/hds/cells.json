@@ -8044,9 +8044,9 @@
     "SE21 8",
     "SE21 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
    "finds": []
   },
   {
@@ -8076,9 +8076,9 @@
     "SE26 4",
     "SE23 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 5,
    "finds": []
   },
   {
@@ -8119,9 +8119,9 @@
     "SW1X 9",
     "SW1Y 5"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 4,
    "finds": []
   },
   {
@@ -8142,9 +8142,9 @@
     "SE3 0",
     "SE13 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
    "finds": []
   },
   {
