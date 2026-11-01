@@ -710,6 +710,42 @@
    "url": "https://natureconservationlewisham.co.uk/tag/springbank-road/",
    "note": "2+ sources (Mayor of London pocket park with a pond), but the pin may be ~200 m off: sources disagree on postcode SE13 6SS vs by the station bus stop",
    "found": "2026-11-01"
+  },
+  {
+   "name": "Peacock feature, corner of Aylward Street and Senrab Street",
+   "lat": 51.51491,
+   "lon": -0.04603,
+   "cell": "x+3y+9",
+   "url": "https://spitalfieldslife.com/?p=103959",
+   "note": "Only a reader comment mentions a peacock feature at the corner of Aylward Street and Senrab Street; no description, unknown if it still exists. Pin is Senrab Street centre (approximate).",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Causton Street play area (Millbank Estate)",
+   "lat": 51.49042,
+   "lon": -0.13106,
+   "cell": "x-9y+4",
+   "url": "https://westminster.gov.uk/westminster-parks-and-open-spaces/playgrounds-and-green-gyms",
+   "note": "Only Westminster Council's playground list found: two-area playground behind Tate Britain on the Millbank Estate, Causton Street SW1P 4AT (postcode geocoded). Need a second source and a description of equipment.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Tate Britain (family activities)",
+   "lat": 51.49087,
+   "lon": -0.12718,
+   "cell": "x-8y+4",
+   "url": "https://www.tate.org.uk/whats-on/tate-britain/zineb-sedira/family-film-week",
+   "note": "Free national gallery with free family tours, Story Space and Tate Draw (tate.org.uk only so far). Big museum rather than a small place; needs an independent second source. Pin: postcode SW1P 4RG (Millbank), chosen by Claude.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Hoopla Garden, West Norwood",
+   "lat": 51.43644,
+   "lon": -0.1072,
+   "cell": "x-5y-8",
+   "url": "https://theediblebusstop.com/the-hoopla-garden/",
+   "note": "Edible Bus Stop pocket garden (2011, later Mayor of London Pocket Park) on the 'Bollards' site by the former fire station, across the road from the Harpenden Road pocket garden (Norwood Forum walk). Exact position unknown: pin is Harpenden Road centre and may be 150 m+ off. Needs a firm address and a second independent source.",
+   "found": "2026-11-01"
   }
  ]
 }

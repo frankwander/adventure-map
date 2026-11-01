@@ -11267,6 +11267,529 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p275",
+   "name": "Stepney City Farm",
+   "lat": 51.51714,
+   "lon": -0.04284,
+   "type": "farm",
+   "area": "Stepney, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode E1 3DG (Stepney Way) given by Tower Hamlets Council, geocoded with hds.py.",
+   "link": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/farms_in_tower_hamlets/stepney_city_farm.aspx",
+   "ai": {
+    "score": 8,
+    "summary": "A free community farm beside Stepney Green with goats, pigs, ducks and donkeys and a wildlife pond. Good for toddlers and school-age children who want to meet animals, and there is a Saturday farmers' market. Free blacksmith and carpentry demonstrations for children have been reported on many weekends.",
+    "standout": "Free-to-enter working city farm with farm animals in the middle of the East End",
+    "highlights": [
+     "Free entry, no booking needed according to the council",
+     "Goats, pigs, ducks and donkeys",
+     "Wildlife pond",
+     "Saturday farmers' market",
+     "Takes part in events such as Open Farm Sunday"
+    ],
+    "cautions": [
+     "Opening days and hours change (reported closed on Mondays): check before going",
+     "Some activities and events may charge"
+    ],
+    "sources": [
+     {
+      "title": "Tower Hamlets Council: Stepney City Farm",
+      "url": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/farms_in_tower_hamlets/stepney_city_farm.aspx"
+     },
+     {
+      "title": "Visit London: best city farms in London",
+      "url": "https://visitlondon.com/things-to-do/openspace/farm"
+     },
+     {
+      "title": "Kidrated: City farms in and around London",
+      "url": "https://www.kidrated.com/things-to-do/londons-best-city-farms/"
+     },
+     {
+      "title": "LEAF Open Farm Sunday: Stepney City Farm",
+      "url": "https://farmsunday.org/visit-a-farm/shareEvent/84207"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p276",
+   "name": "Arbour Square Gardens and Shepherd Boy fountain",
+   "lat": 51.51393,
+   "lon": -0.04757,
+   "type": "landmark",
+   "area": "Stepney, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode E1 0PS, which a council tree survey gives for Arbour Square Gardens, geocoded with hds.py.",
+   "ai": {
+    "score": 5,
+    "summary": "A small formal garden square in Stepney with mature trees, edged by early 19th-century houses. At its north end stands a Victorian drinking fountain topped by a 'Shepherd Boy' statue, put up in 1903. A quiet stop for a short walk and a statue hunt, not a play destination.",
+    "standout": "1903 drinking fountain topped by the Shepherd Boy statue",
+    "highlights": [
+     "Shepherd Boy statue on a Victorian drinking fountain",
+     "Mature trees and planting in a historic square",
+     "Listed in the council's parks list"
+    ],
+    "cautions": [
+     "Small formal garden: no play equipment was mentioned in sources"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Arbour Square",
+      "url": "https://en.wikipedia.org/wiki/Arbour_Square"
+     },
+     {
+      "title": "London Gardens Trust: Arbour Square Gardens (THM005)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=THM005"
+     },
+     {
+      "title": "Tower Hamlets Council: A to Z of parks",
+      "url": "https://towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/a_-_z_of_parks.aspx"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p277",
+   "name": "Guildhall Art Gallery and London's Roman Amphitheatre",
+   "lat": 51.5155,
+   "lon": -0.09263,
+   "type": "museum",
+   "area": "City of London",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Centre of Guildhall Yard (short street), where the gallery stands; geocoded with hds.py.",
+   "link": "https://www.cityoflondon.gov.uk/things-to-do/attractions-museums-entertainment/guildhall-art-gallery/visit-guildhall-art-gallery",
+   "ai": {
+    "score": 7,
+    "summary": "A free City of London gallery whose basement holds the remains of Roman London's amphitheatre, which children can see up close. On the second Saturday of each month there are free drop-in family activities for ages 3 to 13. Smaller and quieter than the big national museums.",
+    "standout": "The real remains of Roman London's amphitheatre in the basement",
+    "age": "3–13",
+    "ages": [
+     3,
+     13
+    ],
+    "highlights": [
+     "Free entry (booking a free ticket encouraged, walk-ins possible)",
+     "Roman amphitheatre remains",
+     "Second Saturday free family activity days",
+     "Free family guides and family bags at the front desk"
+    ],
+    "cautions": [
+     "The amphitheatre is in a dim basement, which some small children may find spooky",
+     "Opening hours vary, including holiday changes: check before going"
+    ],
+    "sources": [
+     {
+      "title": "City of London: Visit Guildhall Art Gallery",
+      "url": "https://www.cityoflondon.gov.uk/things-to-do/attractions-museums-entertainment/guildhall-art-gallery/visit-guildhall-art-gallery"
+     },
+     {
+      "title": "City of London: Second Saturday family days",
+      "url": "https://www.cityoflondon.gov.uk/events/second-saturday"
+     },
+     {
+      "title": "Visit London: Guildhall Art Gallery & Roman Amphitheatre",
+      "url": "https://www.visitlondon.com/things-to-do/place/157999-guildhall-art-gallery-and-roman-amphitheatre"
+     },
+     {
+      "title": "YHA: Guildhall Art Gallery",
+      "url": "https://www.yha.org.uk/experience/guildhall-art-gallery"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p278",
+   "name": "London Mithraeum (Bloomberg SPACE)",
+   "lat": 51.51242,
+   "lon": -0.09055,
+   "type": "museum",
+   "area": "City of London",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "12 Walbrook; postcode EC4N 8AA chosen by Claude for this address, geocoded with hds.py.",
+   "link": "https://www.londonmithraeum.com/",
+   "ai": {
+    "score": 7,
+    "summary": "The Roman Temple of Mithras, shown underground beneath a modern City office building at 12 Walbrook. Free with a timed booking. A short, atmospheric visit that suits curious school-age children, with family days and Young Archaeologists' Club events at times through the year.",
+    "standout": "A Roman temple hidden beneath a modern office block",
+    "highlights": [
+     "Free entry with a timed slot",
+     "Occasional free family and Young Archaeologists' Club days for ages 5–11",
+     "Daily quiet hour for visitors with sensory needs"
+    ],
+    "cautions": [
+     "Book a timed slot for the temple; opening days and hours vary (reported closed Mondays): check before going"
+    ],
+    "sources": [
+     {
+      "title": "London Mithraeum: What's on",
+      "url": "https://www.londonmithraeum.com/whats-on/"
+     },
+     {
+      "title": "Time Out: London Mithraeum Bloomberg Space",
+      "url": "https://www.timeout.com/london/attractions/the-london-mithraeum-bloomberg-space"
+     },
+     {
+      "title": "Young Archaeologists' Club: London Mithraeum Bloomberg SPACE",
+      "url": "https://www.yac-uk.org/?p=2578"
+     },
+     {
+      "title": "World History Encyclopedia: Visiting the London Mithraeum",
+      "url": "https://www.worldhistory.org/article/1444"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p279",
+   "name": "Bank of England Museum",
+   "lat": 51.51419,
+   "lon": -0.08862,
+   "type": "museum",
+   "area": "City of London",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Museum entrance is on Bartholomew Lane; postcode EC2R 8AH chosen by Claude (Bank of England, Threadneedle Street), geocoded with hds.py.",
+   "link": "https://www.bankofengland.co.uk/museum",
+   "ai": {
+    "score": 7,
+    "summary": "A free museum inside the Bank of England telling the story of money and the Bank. The big draw for children is trying to lift a real gold bar of around 13 kg in the Rotunda. Activity sheets and school-holiday family events make it an easy, short City outing for school-age children.",
+    "standout": "Try to lift a real gold bar",
+    "highlights": [
+     "Free entry",
+     "Lift a real gold bar",
+     "Age-appropriate activity sheets",
+     "Family events in school holidays",
+     "Changing exhibitions (Building the Bank runs into spring 2027)"
+    ],
+    "cautions": [
+     "Opening days and hours vary: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Bank of England: Inside the museum",
+      "url": "https://www.bankofengland.co.uk/museum/plan-your-visit/inside-the-museum"
+     },
+     {
+      "title": "Girl Gone London: Bank of England Museum review (2026)",
+      "url": "https://girlgonelondon.com/bank-of-england-museum-review/"
+     },
+     {
+      "title": "IanVisits: New exhibition reveals secrets of the Bank of England's 1920s rebuild",
+      "url": "https://www.ianvisits.co.uk/articles/new-exhibition-reveals-secrets-of-the-bank-of-englands-1920s-rebuild-84029/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p280",
+   "name": "Manor House Gardens",
+   "lat": 51.45732,
+   "lon": 0.00451,
+   "type": "park",
+   "area": "Lee, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE13 5SY given by the London Gardens Trust inventory and Open House, geocoded with hds.py; this is by the main Old Road entrance.",
+   "link": "https://lewisham.gov.uk/inmyarea/openspaces/parks/manor-house-gardens",
+   "ai": {
+    "score": 8,
+    "summary": "A historic Green Flag park in Lee with an 18th-century ornamental lake (island and fountain), the River Quaggy, a children's playground and a café. Its Grade II listed underground ice house from the 1770s opens on some Sunday afternoons in spring and summer, run by the Lee Manor Society. A good all-round park for families with a bit of history to explore.",
+    "standout": "A restored 1770s underground ice house you can go inside on open days",
+    "extras": "Playground, café, lake, tennis courts, multi-sports court",
+    "highlights": [
+     "Ornamental lake with island and fountain",
+     "Children's playground",
+     "Café",
+     "Ice house open on selected Sunday afternoons (first and third Sundays, spring and summer)",
+     "Repeated Green Flag Award winner"
+    ],
+    "cautions": [
+     "Ice house opening dates are limited and visitors have found it locked: check the Lee Manor Society page before going",
+     "Ice house is reached by steps"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Manor House Gardens",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/manor-house-gardens"
+     },
+     {
+      "title": "Wikipedia: Manor House Gardens",
+      "url": "https://en.wikipedia.org/wiki/Manor_House_Gardens"
+     },
+     {
+      "title": "Lee Manor Society: The Ice House",
+      "url": "https://leemanorsociety.org/the-ice-house/"
+     },
+     {
+      "title": "London Gardens Trust: Manor House Gardens (LEW034)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW034"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p281",
+   "name": "Tritton Vale Pocket Garden",
+   "lat": 51.43275,
+   "lon": -0.09353,
+   "type": "nature",
+   "area": "West Dulwich, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Love Lambeth places it at the corner of Tritton Road and Vale Street; postcode SE21 8DE given in the Mayor of London's National Park City Week event listing, geocoded with hds.py. (One Norwood Forum walk guide says Vale Street and Tivoli Road instead; the two council/GLA sources agree on Tritton Road.)",
+   "link": "https://love.lambeth.gov.uk/tritton-vale",
+   "ai": {
+    "score": 4,
+    "summary": "A small community pocket garden on a street corner in West Dulwich, made by local volunteers in 2016 on a neglected strip of land and funded through a crowdfunder. It won a Community in Bloom award and is described as open all the time. A quick nature stop for little ones rather than a destination.",
+    "standout": "Neighbour-made corner garden that won a Community in Bloom award",
+    "highlights": [
+     "Volunteer-built pocket garden, open 24/7 according to its organisers",
+     "Has hosted free family community days",
+     "Featured in Lambeth's Blooming Lambeth scheme"
+    ],
+    "cautions": [
+     "Very small with no facilities",
+     "Most sources date from 2016–2018: check it is still looked after before making a special trip"
+    ],
+    "sources": [
+     {
+      "title": "Love Lambeth: New Community Garden for West Dulwich",
+      "url": "https://love.lambeth.gov.uk/community-garden-west-dulwich"
+     },
+     {
+      "title": "Love Lambeth: Blooming Lambeth, Tritton Vale Pocket Garden",
+      "url": "https://love.lambeth.gov.uk/tritton-vale"
+     },
+     {
+      "title": "Spacehive: Tritton Vale Pocket Garden",
+      "url": "https://www.spacehive.com/tvpg"
+     },
+     {
+      "title": "Richly Evocative: A glimmer of hope on a street corner",
+      "url": "https://richlyevocative.net/2016/10/11/a-glimmer-of-hope-on-a-street-corner-tritton-vale-pocket-garden/"
+     },
+     {
+      "title": "Mayor of London: London National Park City Week events, Sunday 29 July 2018",
+      "url": "https://www.london.gov.uk/events/2018-07-21/london-national-park-city-week-events-2018/sunday-29-july"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p282",
+   "name": "St George's Square Garden and Pimlico Gardens statues",
+   "lat": 51.4876,
+   "lon": -0.13532,
+   "type": "park",
+   "area": "Pimlico, Westminster",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Centre of St George's Square (the garden fills the middle of the square), from the hds.py gazetteer; Pimlico Gardens with the statues is at the square's southern, riverside end.",
+   "ai": {
+    "score": 5,
+    "summary": "A long Grade II registered garden square in Pimlico, open to the public from 8am to dusk, with fine trees, birds and squirrels and a table tennis table. At its riverside end, Pimlico Gardens holds a marble statue of William Huskisson and a bronze 'Helmsman'. A calm spot for a ping-pong break and a statue hunt.",
+    "standout": "Table tennis under big trees, with statues by the Thames at the end",
+    "highlights": [
+     "Open daily to the public",
+     "Table tennis",
+     "Birds, squirrels and mature trees",
+     "Huskisson statue and The Helmsman bronze in Pimlico Gardens"
+    ],
+    "cautions": [
+     "No playground mentioned in sources",
+     "Opening times can change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "GoParks London: St George's Square (south)",
+      "url": "https://goparks.london/park/st-george-s-square-south-"
+     },
+     {
+      "title": "London Gardens Trust: St George's Square (WST101)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=WST101"
+     },
+     {
+      "title": "Wikipedia: St George's Square",
+      "url": "https://en.wikipedia.org/wiki/St_George%27s_Square"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p283",
+   "name": "St James's Gardens, Ratcliff",
+   "lat": 51.51225,
+   "lon": -0.04046,
+   "type": "park",
+   "area": "Limehouse, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "London Gardens Trust places it at Butcher Row/Branch Road, E1. Pinned at the centre of Ratcliffe Lane (short street) from the hds.py gazetteer, which lies between the Butcher Row and Branch Road centres, about 100 m from each.",
+   "ai": {
+    "score": 6,
+    "summary": "A small historic park laid out in 1913 on the old St James's churchyard near Limehouse DLR. It is mostly grass under mature trees, and recent re-landscaping added new paths and a children's playground. Looked after by a friends group with community planters: a handy local play stop.",
+    "standout": "A 1913 churchyard park re-landscaped with a new playground",
+    "highlights": [
+     "Children's playground",
+     "Open without restriction",
+     "Mature trees and lawns",
+     "Community planters tended by local volunteers"
+    ],
+    "cautions": [
+     "Small local park: no toilets or café mentioned in sources"
+    ],
+    "sources": [
+     {
+      "title": "London Gardens Trust: St James's Gardens (THM042)",
+      "url": "https://londongardenstrust.org/site-record?ID=THM042"
+     },
+     {
+      "title": "Tideway: Staff help maintain community gardens in Limehouse",
+      "url": "https://www.tideway.london/news/site-news/2018/october/staff-help-maintain-community-gardens-in-limehouse"
+     },
+     {
+      "title": "GoodGym: Friends of St James' Gardens",
+      "url": "https://www.goodgym.org/v3/organisations/friends-of-st-james-gardens"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p284",
+   "name": "Paternoster: Shepherd and Sheep sculpture (Elisabeth Frink)",
+   "lat": 51.51464,
+   "lon": -0.09879,
+   "type": "landmark",
+   "area": "City of London",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Centre of Paternoster Square (small pedestrian square) from the hds.py gazetteer; sources place the sculpture at the square's north end.",
+   "ai": {
+    "score": 5,
+    "summary": "A bronze by Elisabeth Frink of a shepherd walking behind a small flock of sheep, unveiled in 1975 and kept when Paternoster Square was rebuilt. The sheep recall the Newgate meat market that once stood here, right beside St Paul's Cathedral. A fun free stop for small children to count the sheep on a St Paul's walk.",
+    "standout": "Bronze shepherd and sheep to count beside St Paul's",
+    "highlights": [
+     "Free to see at any time in a pedestrian square",
+     "Linked to the site's past as Newgate Meat Market",
+     "Combines easily with St Paul's and the One New Change roof terrace"
+    ],
+    "cautions": [
+     "A single sculpture: a short stop, not a destination"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Paternoster (sculpture)",
+      "url": "https://en.wikipedia.org/wiki/Paternoster_(sculpture)"
+     },
+     {
+      "title": "City of London: Paternoster Square",
+      "url": "https://www.cityoflondon.gov.uk/things-to-do/architecture/modern-architecture/paternoster-square"
+     },
+     {
+      "title": "London Gardens Trust: Paternoster Square (COL050)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=COL050"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p285",
+   "name": "One New Change roof terrace",
+   "lat": 51.51362,
+   "lon": -0.09595,
+   "type": "landmark",
+   "area": "City of London",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode EC4M 9AF for One New Change, chosen by Claude, geocoded with hds.py (matches the New Change street centre within 60 m).",
+   "ai": {
+    "score": 6,
+    "summary": "A free public roof terrace on the sixth floor of the One New Change shopping centre, reached by a lift in the middle of the building. It looks straight across at the dome of St Paul's Cathedral. One visitor described their grandchildren as wowed, and it fits easily into a St Paul's outing.",
+    "standout": "Free close-up view of St Paul's dome from a rooftop",
+    "highlights": [
+     "Free, no booking",
+     "Lift up through the shopping centre to the roof",
+     "Uninterrupted view of St Paul's dome",
+     "A minute's walk from St Paul's Tube"
+    ],
+    "cautions": [
+     "Opening hours reported as long but may change or close for events: check before going",
+     "No information on child facilities on the terrace; keep close watch near the edges"
+    ],
+    "sources": [
+     {
+      "title": "Urban75: Get a great free view of London from One New Change",
+      "url": "https://urban75.org/blog/get-a-great-free-view-of-london-from-one-new-change-st-pauls"
+     },
+     {
+      "title": "Free Tours by Foot: One New Change London",
+      "url": "https://freetoursbyfoot.com/one-new-change-london/"
+     },
+     {
+      "title": "Londonist: One New Change roof terrace",
+      "url": "https://londonist.com/london/videos/one-new-change-roof-terrace"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p286",
+   "name": "St Paul's Cathedral Gardens and Festival Gardens",
+   "lat": 51.51328,
+   "lon": -0.09846,
+   "type": "park",
+   "area": "City of London",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Centre of St Paul's Church Yard from the hds.py gazetteer, on the cathedral's south side; Festival Gardens is at the south-east corner, about 100 m east.",
+   "link": "https://www.visitlondon.com/things-to-do/place/31530010-st-pauls-cathedral-gardens-and-festival-gardens",
+   "ai": {
+    "score": 5,
+    "summary": "Free public gardens wrapped around St Paul's Cathedral: lawns, flowerbeds and trees in the churchyard, and Festival Gardens, laid out for the 1951 Festival of Britain, with a central lawn, a fountain and Georg Ehrlich's bronze 'The Young Lovers'. Nearby are a shiny stainless steel Paul Mount sculpture and a statue of Queen Anne. A green place to run about and picnic on a St Paul's visit.",
+    "standout": "Lawns, a fountain and sculptures in the shadow of St Paul's dome",
+    "highlights": [
+     "Free to enter",
+     "Festival Gardens lawn and fountain",
+     "Sculptures to spot, including The Young Lovers and Amicale",
+     "Statue of Queen Anne in front of the cathedral"
+    ],
+    "cautions": [
+     "Busy city-centre gardens; no play equipment mentioned in sources",
+     "Garden opening times may vary: check before going"
+    ],
+    "sources": [
+     {
+      "title": "London Gardens Trust: Festival Gardens (COL026)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=COL026"
+     },
+     {
+      "title": "London Gardens Trust: St Paul's Cathedral Churchyard (COL096)",
+      "url": "https://londongardenstrust.org/inventory/site-record?ID=COL096"
+     },
+     {
+      "title": "Visit London: St Paul's Cathedral Gardens and Festival Gardens",
+      "url": "https://www.visitlondon.com/things-to-do/place/31530010-st-pauls-cathedral-gardens-and-festival-gardens"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }
