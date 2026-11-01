@@ -242,6 +242,33 @@
    "url": "https://mccs-journalism.gold.ac.uk/wp/nettle/?p=613",
    "note": "Kingfisher mural on a building on Lordship Lane, East Dulwich; one undated student article, no building number or artist. Pin is Lordship Lane, SE22 street centre.",
    "found": "2026-11-01"
+  },
+  {
+   "name": "The Garden SE8 (Lower Road community garden)",
+   "lat": 51.49082,
+   "lon": -0.04095,
+   "cell": "x+4y+4",
+   "url": "https://southwarknews.co.uk/news/community/surrey-quays-group-fundraising-for-lower-road-garden/",
+   "note": "Garden at Lower Road Community Association crowdfunding (Spacehive) to turn a derelict strip on Lower Road just north of Croft Street into a community garden with a pond and fruit trees. Not known whether it is built or open to the public. Pin is Croft Street, SE8 street centre.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "King Alfred statue, Trinity Church Square",
+   "lat": 51.49893,
+   "lon": -0.09322,
+   "cell": "x-3y+6",
+   "url": "https://en.wikipedia.org/wiki/Statue_of_Alfred_the_Great,_Southwark",
+   "note": "Contender for London's oldest outdoor statue (part Roman, found in the 2021 restoration) in the middle of the Trinity Church Square garden. The garden is locked; unclear how well it can be seen from the street. Pin is Trinity Church Square, SE1 street centre.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Paper Garden (Global Generation), Canada Water",
+   "lat": 51.49613,
+   "lon": -0.04346,
+   "cell": "x+4y+5",
+   "url": "https://www.globalgeneration.org.uk/paper-garden",
+   "note": "Charity-run community garden and handcrafted classroom at Teredo Street SE16 7LD (postcode not in gazetteer; pin is Teredo Street centre). Visits seem to be booked or event-based (Southwark guided visits from Canada Water Library, family celebration days), so drop-in public access is unclear.",
+   "found": "2026-11-01"
   }
  ]
 }

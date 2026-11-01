@@ -5677,6 +5677,350 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p147",
+   "name": "Sayes Court Park",
+   "lat": 51.48406,
+   "lon": -0.03025,
+   "type": "park",
+   "area": "Deptford, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE8 3LN from the London Gardens Trust inventory record (Sayes Court Street/Grove Street), geocoded with hds.py.",
+   "link": "https://lewisham.gov.uk/inmyarea/openspaces/parks/sayes-court",
+   "ai": {
+    "score": 7,
+    "summary": "A small Deptford park on what was left of diarist John Evelyn's Sayes Court estate. In the middle stands a gnarled old mulberry tree linked to Evelyn's garden, and the refurbished playground has a big wooden ship modelled on the Golden Hind, a nod to Deptford's maritime past. Good for a short play with a story attached.",
+    "standout": "A wooden Golden Hind ship to play on, next to a very old mulberry tree",
+    "extras": "Children's playground",
+    "highlights": [
+     "Playground refurbished by Lewisham Council with a wooden Golden Hind ship",
+     "Ancient mulberry tree tied to John Evelyn's garden, still fruiting",
+     "Historic site: Evelyn's family gave the land to the public in 1886"
+    ],
+    "cautions": [
+     "Small park",
+     "Lewisham lists opening as 8am to sunset; check before going",
+     "Access via Sayes Court Street and Grove Street"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: New playground opens at Sayes Court Park",
+      "url": "https://lewisham.gov.uk/articles/news/new-playground-opens-at-sayes-court-park"
+     },
+     {
+      "title": "Lewisham Council: Sayes Court",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/sayes-court"
+     },
+     {
+      "title": "Atlas Obscura: Evelyn's Mulberry",
+      "url": "https://www.atlasobscura.com/places/evelyn-s-mulberry"
+     },
+     {
+      "title": "London Gardens Trust: Sayes Court Park (Lewisham)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW049"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p148",
+   "name": "Canada Water Library",
+   "lat": 51.49781,
+   "lon": -0.04915,
+   "type": "library",
+   "area": "Canada Water, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "21 Surrey Quays Road, SE16 7AR (Southwark Council), geocoded with hds.py.",
+   "link": "https://www.southwark.gov.uk/culture-and-sport/libraries/find-library/canada-water-library",
+   "ai": {
+    "score": 7,
+    "summary": "Southwark's striking upside-down-pyramid library beside Canada Water dock, designed by Piers Gough. It runs a busy free programme for children: under-fives rhyme times, sensory storytelling for neurodivergent children, crafts and a Chatterbooks reading club, plus a small theatre. Easy to pair with the new Canada Dock boardwalk next door.",
+    "standout": "An eye-catching building with a full programme of free children's sessions",
+    "age": "0–11",
+    "ages": [
+     0,
+     11
+    ],
+    "highlights": [
+     "Little Buds under-fives storytime and rhymes",
+     "Free monthly sensory storytelling and play for ages 3–11",
+     "Chatterbooks reading group for ages 7–11",
+     "Right next to Canada Water dock and the boardwalk"
+    ],
+    "cautions": [
+     "Session days and times change by term: check Southwark's listings before going",
+     "Some events need booking"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Canada Water Library",
+      "url": "https://www.southwark.gov.uk/culture-and-sport/libraries/find-library/canada-water-library"
+     },
+     {
+      "title": "Southwark Presents: Sensory storytelling and play, Canada Water Library",
+      "url": "https://southwark.gov.uk/southwark-presents/sensory-storytelling-and-play-canada-water-library"
+     },
+     {
+      "title": "RIBA Journal: Piers Gough's new Canada Water Library",
+      "url": "https://ribaj.com/culture/icon-alert-piers-goughs-new-canada-water-library"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p149",
+   "name": "Canada Dock Boardwalk and wetland",
+   "lat": 51.4972,
+   "lon": -0.0491,
+   "type": "nature",
+   "area": "Canada Water, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates of the Deal Porters sculpture on an island in Canada Dock, as listed (from OpenStreetMap) by thegreatbritainguide.com; the boardwalk crosses the same dock beside Canada Water Library.",
+   "ai": {
+    "score": 7,
+    "summary": "Canada Dock at Canada Water has been turned into an urban wetland crossed by a bright red 170 m boardwalk by Asif Khan, opened in 2024. London Wildlife Trust helped create reed beds, wetland islands and shallow edges for dragonflies, frogs and water birds, with steps down to the water and an educational dipping pond. The 7 m Deal Porters sculpture stands on an island in the dock.",
+    "standout": "A floating red boardwalk through reed beds in the middle of the city",
+    "highlights": [
+     "170 m red boardwalk over the water",
+     "Reed beds, wetland islands and planting with London Wildlife Trust",
+     "Steps to the water's edge and an educational dipping pond",
+     "Deal Porters sculpture (Bews and Gorvin, 1990), returned to the dock after the works"
+    ],
+    "cautions": [
+     "Open water: keep small children close",
+     "Some residents raised concerns about wildlife disturbance during the works",
+     "Pond-dipping is likely only during organised sessions; check before going"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Canada Dock boardwalk opens with nature-themed party",
+      "url": "https://southwark.gov.uk/news/2024/canada-dock-boardwalk-opens-nature-themed-party"
+     },
+     {
+      "title": "Dezeen: Asif Khan boardwalk at Canada Dock",
+      "url": "https://www.dezeen.com/2024/11/14/asif-khan-boardwalk-canada-dock-london/"
+     },
+     {
+      "title": "Architecture Today: Canada Dock Boardwalk",
+      "url": "https://architecturetoday.co.uk/canada-dock-boardwalk/"
+     },
+     {
+      "title": "Bews Gorvin: Deal Porters sculpture",
+      "url": "https://bewsgorvin.co.uk/sculpture-deal-porters-sculpture.html"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p150",
+   "name": "Village Orchard, Dulwich",
+   "lat": 51.44655,
+   "lon": -0.08617,
+   "type": "nature",
+   "area": "Dulwich Village, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Gallery Road next to the Old Grammar School, postcode SE21 7AE, geocoded with hds.py.",
+   "link": "https://www.thedulwichestate.org.uk/whats-happening/village-orchard-dulwich/",
+   "ai": {
+    "score": 5,
+    "summary": "A small apple orchard on Gallery Road, planted by the Dulwich Estate in 2019 with 38 heritage apple trees and run with London Wildlife Trust as a quiet nature spot. The Trust and the Estate hold free nature events there, from tree days to spring walks. A peaceful stop on the way to Dulwich Picture Gallery or Dulwich Park.",
+    "standout": "38 heritage apple varieties in a hidden village orchard",
+    "highlights": [
+     "Heritage apple trees from the national collection",
+     "Free nature-themed events with London Wildlife Trust",
+     "Close to Dulwich Picture Gallery and Dulwich Park"
+    ],
+    "cautions": [
+     "Sources disagree on opening (weekdays 9–5 in 2019, later weekdays and weekends): check before going",
+     "Small and quiet, no play equipment"
+    ],
+    "sources": [
+     {
+      "title": "Dulwich Estate: New orchard and heritage trail open in Dulwich",
+      "url": "https://www.thedulwichestate.org.uk/whats-happening/new-orchard-and-heritage-trail-open-in-dulwich/"
+     },
+     {
+      "title": "Southwark News: New orchard and heritage trail open in Dulwich",
+      "url": "https://www.southwarknews.co.uk/news/new-orchard-and-heritage-trail-open-in-dulwich/"
+     },
+     {
+      "title": "London Wildlife Trust: Spring in the Orchard at the Village Orchard Dulwich",
+      "url": "https://www.wildlondon.org.uk/node/5315"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p151",
+   "name": "Crofton Park Railway Garden",
+   "lat": 51.45492,
+   "lon": -0.03551,
+   "type": "nature",
+   "area": "Crofton Park, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Entrance on Marnock Road, SE4 1AZ (Nature Conservation Lewisham), geocoded with hds.py; another listing gives SE4 1EU.",
+   "ai": {
+    "score": 5,
+    "summary": "A volunteer-run pocket park on leftover railway land beside platform one at Crofton Park station, finished in 2019 and designed by Gardeners' World presenter Mark Lane. Raised beds, fruit trees and seating make it a small green stop, and the Friends group welcomes help. Best combined with a train ride or a visit to Hilly Fields.",
+    "standout": "A community garden right beside the platform at Crofton Park station",
+    "extras": "Seating",
+    "highlights": [
+     "Raised beds and fruit trees",
+     "Run by the Friends of Crofton Park Railway Garden",
+     "Opened in 2019 on former railway land"
+    ],
+    "cautions": [
+     "A listing gives Monday to Saturday 9am–5pm, closed Sundays and holidays: check before going",
+     "Small"
+    ],
+    "sources": [
+     {
+      "title": "GiGL Space to Visit: Crofton Park Railway Garden",
+      "url": "https://www.gigl.org.uk/?p=80990"
+     },
+     {
+      "title": "Nature Conservation Lewisham: Crofton Park Railway Garden",
+      "url": "https://natureconservationlewisham.co.uk/2019/03/21/latest-crofton-park-railway-garden/"
+     },
+     {
+      "title": "RailAdvent: Crofton Park Railway Garden officially opened",
+      "url": "https://railadvent.co.uk/?p=25755"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p152",
+   "name": "Brockley and Ladywell Cemeteries",
+   "lat": 51.45825,
+   "lon": -0.03393,
+   "type": "nature",
+   "area": "Brockley, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Brockley Road gate, postcode SE4 2QY (London Gardens Trust and an access guide), geocoded with hds.py; the Ladywell Road gate is SE13 7HY.",
+   "ai": {
+    "score": 6,
+    "summary": "Two joined Victorian cemeteries, about 15 hectares, now heavily wooded and a Borough Grade I wildlife site with free public access to most of it. The Friends group runs nature and bird walks, bat walks with London Wildlife Trust and a free summer open day with tours. A wild, shady place for older children who like trees, birds and history.",
+    "standout": "A wooded Victorian cemetery that has become a wildlife haven",
+    "highlights": [
+     "Borough Grade I Site of Importance for Nature Conservation",
+     "Guided wildlife walks and a bird-watching guide from the Friends",
+     "Annual summer open day with tours (free in past years)"
+    ],
+    "cautions": [
+     "A working cemetery: be respectful",
+     "Gates close at set times; check before going",
+     "No play facilities"
+    ],
+    "sources": [
+     {
+      "title": "GiGL: Brockley and Ladywell Cemeteries Local Wildlife Site",
+      "url": "https://www.gigl.org.uk/sinc/LeBI01/"
+     },
+     {
+      "title": "Friends of Brockley and Ladywell Cemeteries: wildlife and nature guided walk",
+      "url": "https://foblc.org.uk/posts/wildlife-nature-guided-walk-sunday-13th-april-1030am-1200-noon-led-by-tom-moulton-and-peter-robinson/"
+     },
+     {
+      "title": "Ladywell Live: Brockley & Ladywell Cemeteries open day",
+      "url": "https://ladywell-live.org/2022/07/04/brockley-ladywell-cemeteries-open-day-a-host-of-guided-tours-community-stalls-refreshments-and-free-admission"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p153",
+   "name": "Herne Hill station underpass mural",
+   "lat": 51.45322,
+   "lon": -0.10235,
+   "type": "landmark",
+   "area": "Herne Hill, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Underpass between Station Square and Milkwood Road at Herne Hill station; pin is postcode SE24 0JW (Railton Road/Milkwood Road/Dulwich Road at the station), geocoded with hds.py: the postcode itself is not from a source.",
+   "ai": {
+    "score": 5,
+    "summary": "A 40-metre colour-by-numbers mural by local artist Victor Szepessy lining the underpass at Herne Hill station. Thousands of local people, many of them children, coloured it in for a 2018 world-record attempt organised by the Herne Hill Forum, and it has since been renovated. A cheerful spot for children to hunt for details on the way to Brockwell Park.",
+    "standout": "A huge community colour-by-numbers mural that local children helped paint",
+    "highlights": [
+     "40 m mural designed by Victor Szepessy",
+     "Coloured in by the community in a world-record attempt",
+     "Renovated with Lambeth Council and community funding"
+    ],
+    "cautions": [
+     "It's an underpass: a quick look rather than a destination",
+     "Some reports mention a dispute between the artist and the organisers"
+    ],
+    "sources": [
+     {
+      "title": "Southwark News: Herne Hill underpass to be transformed in September",
+      "url": "https://southwarknews.co.uk/news/herne-hill-underpass-to-be-transformed-in-september/"
+     },
+     {
+      "title": "Love Lambeth: Help Herne Hill mural win Guinness World Record",
+      "url": "https://love.lambeth.gov.uk/herne-hill-mural-win-guinness-world-record"
+     },
+     {
+      "title": "Herne Hill Forum: Mural renovation",
+      "url": "https://www.hernehillforum.org.uk/?p=3753"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p154",
+   "name": "Elephant Park (Elephant Springs)",
+   "lat": 51.49243,
+   "lon": -0.09469,
+   "type": "water",
+   "area": "Elephant and Castle, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "The park lies just north of Heygate Street (planning record); pin is postcode SE17 1FQ (Heygate Street/Walworth Road), geocoded with hds.py, so it is approximate. Victory Community Park's playground (already on the map) is nearby.",
+   "ai": {
+    "score": 8,
+    "summary": "The new park at the heart of the Elephant Park development, on the old Heygate Estate. Its centrepiece, Elephant Springs, is a rocky water world of fountains, cascades, ambush jets and sandy beaches that children can splash through, designed to be fully accessible. Free, and a strong pick on a hot day.",
+    "standout": "Elephant Springs: rocks, waterfalls, jets and sand to splash in",
+    "highlights": [
+     "Fountains, cascades and ambush jets fed by a long underground pipe system",
+     "Sandy beach areas",
+     "Designed to be accessible to wheelchair users",
+     "Free to visit"
+    ],
+    "cautions": [
+     "The water runs seasonally and has been off on some hot days: check before going",
+     "Bring a change of clothes"
+    ],
+    "sources": [
+     {
+      "title": "Londonist: Elephant Springs water feature reopens for the season",
+      "url": "https://Londonist.Com/london/things-to-do/elephant-springs-water-feature-reopens-for-the-season"
+     },
+     {
+      "title": "Time Out: There's an amazing new Zone 1 park with waterfalls and slides",
+      "url": "https://www.timeout.com/london/news/hot-theres-an-amazing-new-zone-1-park-with-waterfalls-and-slides-060821"
+     },
+     {
+      "title": "Gillespies: The park at the heart of Elephant Park opens",
+      "url": "https://www.gillespies.co.uk/news/the-park-at-the-heart-of-elephant-park-opens"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }
