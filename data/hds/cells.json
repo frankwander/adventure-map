@@ -6128,9 +6128,9 @@
     "SE13 7",
     "SE13 6"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
    "finds": []
   },
   {
@@ -6154,9 +6154,9 @@
     "SE16 5",
     "SE16 6"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 5,
    "finds": []
   },
   {
@@ -6180,10 +6180,12 @@
    "sectors": [
     "SE21 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 5,
+   "finds": [
+    "p219"
+   ]
   },
   {
    "id": "x-1y-8",
@@ -6196,9 +6198,9 @@
    "sectors": [
     "SE21 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
    "finds": []
   },
   {
@@ -6218,9 +6220,9 @@
     "SE23 1",
     "SE23 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
    "finds": []
   },
   {
@@ -6247,10 +6249,12 @@
     "SE26 4",
     "SE26 6"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p220"
+   ]
   },
   {
    "id": "x-7y-4",
@@ -6279,10 +6283,12 @@
     "SW2 4",
     "SW2 3"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 5,
+   "finds": [
+    "p221"
+   ]
   },
   {
    "id": "x-8y-1",
@@ -6314,9 +6320,9 @@
     "SW9 9",
     "SW4 6"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
    "finds": []
   },
   {
@@ -6349,10 +6355,12 @@
     "SW8 1",
     "SW8 4"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p222"
+   ]
   },
   {
    "id": "x+2y+8",
@@ -6378,10 +6386,12 @@
     "E1 2",
     "E1W 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p223"
+   ]
   },
   {
    "id": "x+8y+2",
@@ -6410,10 +6420,12 @@
     "SE10 9",
     "SE10 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p226"
+   ]
   },
   {
    "id": "x-2y+8",
@@ -6455,10 +6467,13 @@
     "EC4R 9",
     "EC4N 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
+   "finds": [
+    "p224",
+    "p225"
+   ]
   },
   {
    "id": "x+8y-2",
@@ -6484,10 +6499,12 @@
     "SE13 6",
     "SE8 4"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p227"
+   ]
   },
   {
    "id": "x-2y-8",
@@ -6504,10 +6521,12 @@
     "SE21 7",
     "SE21 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
+   "finds": [
+    "p228"
+   ]
   },
   {
    "id": "x+2y-8",
@@ -6534,9 +6553,9 @@
     "SE23 1",
     "SE26 4"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
    "finds": []
   },
   {
@@ -6562,10 +6581,12 @@
     "SW11 7",
     "SW8 4"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p229"
+   ]
   },
   {
    "id": "x-8y-2",

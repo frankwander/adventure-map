@@ -422,6 +422,42 @@
    "url": "https://www.teamlondonbridge.co.uk/project/new-community-garden-near-guys-hospital/",
    "note": "New volunteer-built community garden near Guy's Hospital (March 2026, Team London Bridge). One source only; public access and exact site not confirmed. Pin is the Newcomen Street street centre (offline gazetteer).",
    "found": "2026-11-01"
+  },
+  {
+   "name": "Sydenham Garden (Wynell Road community garden and nature reserve)",
+   "lat": 51.43302,
+   "lon": -0.04507,
+   "cell": "x+3y-9",
+   "url": "https://www.timeout.com/london/attractions/sydenham-garden",
+   "note": "Postcode SE23 2LW from Time Out. Wellbeing charity garden; a forum post says it opens to the public only on certain days (Wednesdays and some Saturdays). Current public opening not confirmed.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Rush Common Woodland Walk playground, Brixton Hill",
+   "lat": 51.44585,
+   "lon": -0.12301,
+   "cell": "x-7y-6",
+   "url": "https://www.lambeth.gov.uk/parks/rush-common",
+   "note": "Lambeth describes a tree-covered Woodland Walk with a children's playground along Brixton Hill (opposite Lambeth College). Rush Common is almost a mile long; pin is Lambeth's listed postcode SW2 3RN, not the playground itself. Brixton Orchard (already on the map) is part of Rush Common.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Cable Street Community Gardens",
+   "lat": 51.51181,
+   "lon": -0.04936,
+   "cell": "x+3y+9",
+   "url": "https://londongardenstrust.org/log2026/gardens/CableSt.html",
+   "note": "Resident-run garden with ponds and wildlife areas; entrance Hardinge Street, postcode E1 0EL. Sources show it opening on Open Gardens weekends (and Sunday hours listed there); not clear it is open to the public at other times.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Welland Street playspace (Meridian Estate)",
+   "lat": 51.48176,
+   "lon": -0.01154,
+   "cell": "x+8y+2",
+   "url": "https://www.royalgreenwich.gov.uk/events/welland-street-playspace-workshop",
+   "note": "Royal Greenwich is refurbishing the play space between Welland Street and Thames Street (design workshop March 2026). Pin is the Welland Street street centre. Check whether the new playground has opened.",
+   "found": "2026-11-01"
   }
  ]
 }
