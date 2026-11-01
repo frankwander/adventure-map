@@ -7053,6 +7053,527 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p179",
+   "name": "Ladywell Fields",
+   "lat": 51.45293,
+   "lon": -0.02181,
+   "type": "park",
+   "area": "Ladywell, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Pin is the gazetteer centre of SE13 7XE, the postcode Lewisham's youth service gives for the adventure playground at the end of Malyons Road (middle field). The park runs a mile south from Ladywell Road (council address SE13 7HU).",
+   "link": "https://lewisham.gov.uk/organizations/ladywell-fields",
+   "ai": {
+    "score": 8,
+    "summary": "A mile-long park of three fields with the River Ravensbourne re-channelled through it, so children can get close to a real river. The northern field has a playground and skate park, the middle field an adventure playground and water pumps, and the southern field a toddler play area. Great for a long day out from toddlers to teens.",
+    "standout": "A restored river running through the park, with water pumps and an adventure playground",
+    "age": "0–16",
+    "ages": [
+     0,
+     16
+    ],
+    "extras": "Café, playgrounds in each field, skate/BMX park, tennis courts",
+    "highlights": [
+     "River Ravensbourne restored and re-channelled through the park (2011)",
+     "Adventure playground and water pumps in the middle field",
+     "Separate play area for young children in the southern field",
+     "Waterlink Way cycle path runs through it"
+    ],
+    "cautions": [
+     "Open 8am to sunset per the council: check before going",
+     "Adventure playground sessions are run by Lewisham youth services: check times",
+     "River banks are unfenced in places"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Ladywell Fields",
+      "url": "https://en.wikipedia.org/wiki/Ladywell_Fields"
+     },
+     {
+      "title": "Lewisham Council: Ladywell Fields",
+      "url": "https://lewisham.gov.uk/organizations/ladywell-fields"
+     },
+     {
+      "title": "Lewisham youth: Ladywell Fields Adventure Playground",
+      "url": "https://youth.lewisham.gov.uk/p/open-access/ladywell-fields-adventure-playground"
+     },
+     {
+      "title": "London Gardens Trust: Ladywell Fields",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW030"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p180",
+   "name": "Deal Porters sculpture, Canada Water",
+   "lat": 51.49759,
+   "lon": -0.04964,
+   "type": "landmark",
+   "area": "Canada Water, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "The sculpture stands on a landscaped island in the Canada Water basin (former Canada Dock). Pin is the gazetteer centre of Surrey Quays Road, beside the basin; approximate.",
+   "ai": {
+    "score": 5,
+    "summary": "A 7-metre sculpture of two bronze dock workers balancing on oak timber beams, standing on an island in the Canada Water basin. It remembers the deal porters who carried timber across the Surrey Docks. A striking thing to spot and talk about on a walk round the basin, the boardwalk and the library.",
+    "standout": "Two bronze timber porters balancing high on oak beams above the water",
+    "highlights": [
+     "Large cast bronze figures on oak trestles, about 7 m high",
+     "A way into the story of the Surrey Docks",
+     "Next to Canada Water Library and the dock boardwalk"
+    ],
+    "cautions": [
+     "Viewed from the water's edge only",
+     "The area around Canada Water is being redeveloped, so the setting may change"
+    ],
+    "sources": [
+     {
+      "title": "Bews Gorvin: Deal Porters sculpture",
+      "url": "https://bewsgorvin.co.uk/sculpture-deal-porters-sculpture.html"
+     },
+     {
+      "title": "Wikipedia: Deal porter",
+      "url": "https://en.wikipedia.org/wiki/Deal_porter"
+     },
+     {
+      "title": "sjhoward.co.uk: Deal Porters",
+      "url": "https://sjhoward.co.uk/deal-porters/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p181",
+   "name": "Brixton Windmill and Windmill Gardens",
+   "lat": 51.45422,
+   "lon": -0.12315,
+   "type": "landmark",
+   "area": "Brixton Hill, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Pin is the gazetteer centre of SW2 5DA, the postcode Lambeth Council gives for Windmill Gardens (100 Blenheim Gardens). Listed-building record gives latitude 51.4532.",
+   "link": "https://www.lambeth.gov.uk/parks/windmill-gardens",
+   "ai": {
+    "score": 7,
+    "summary": "A real windmill from 1816, with its sails restored, standing in a small park off Brixton Hill. Windmill Gardens has a children's playground, mature trees and seating, and on summer open weekends you can go inside the mill. A surprising sight in the middle of the city.",
+    "standout": "A working-looking 19th-century windmill with sails, right in Brixton",
+    "highlights": [
+     "Grade II listed windmill with restored sails",
+     "Children's playground in Windmill Gardens",
+     "Open weekends and family events in summer to see inside"
+    ],
+    "cautions": [
+     "Inside of the windmill only on open days: check before going",
+     "Park is normally open 7.30am to dusk per Lambeth: check before going",
+     "About a 20-minute walk uphill from Brixton station"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Windmill Gardens",
+      "url": "https://www.lambeth.gov.uk/parks/windmill-gardens"
+     },
+     {
+      "title": "Lambeth Council: Brixton Windmill",
+      "url": "https://www.lambeth.gov.uk/better-fairer-lambeth/projects/brixton-windmill"
+     },
+     {
+      "title": "Time Out: Brixton Windmill",
+      "url": "https://www.timeout.com/london/attractions/brixton-windmill"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p182",
+   "name": "Hermitage Riverside Memorial Garden",
+   "lat": 51.50495,
+   "lon": -0.06615,
+   "type": "landmark",
+   "area": "Wapping, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Riverside garden on Hermitage Quay (former Hermitage Wharf) off Wapping High Street. Pin is the gazetteer centre of Hermitage Wall, E1W, the street beside it; approximate.",
+   "ai": {
+    "score": 5,
+    "summary": "A small riverside garden in Wapping with views of Tower Bridge and the Shard, centred on Wendy Taylor's 2008 Blitz memorial: a steel sculpture with a dove-shaped hole cut through it, remembering East End civilians killed in the Second World War. A calm stop on a Thames Path walk, and a gentle way to talk about history.",
+    "standout": "A sculpture where the dove is the empty space, framing the river",
+    "highlights": [
+     "Thames-side views of Tower Bridge and the Shard",
+     "Wendy Taylor's cut-out dove Blitz memorial (2008)",
+     "On the Thames Path, near Wendy Taylor's 'Voyager' sculpture"
+    ],
+    "cautions": [
+     "Small: combine with a riverside walk",
+     "Unfenced river edge nearby"
+    ],
+    "sources": [
+     {
+      "title": "Tower Hamlets Council: Wapping walk",
+      "url": "https://www.towerhamlets.gov.uk/Documents/Leisure-and-culture/Leisure-promotion/walks/WAPPING-WALK-5.pdf"
+     },
+     {
+      "title": "War Memorials Online: WWII Civilians Memorial",
+      "url": "https://www.warmemorialsonline.org.uk/memorial/166517/"
+     },
+     {
+      "title": "GiGL: Hermitage Riverside Memorial Garden",
+      "url": "https://www.gigl.org.uk/?p=62397"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p183",
+   "name": "Jamrach's Tiger statue (Boy Saved from Tiger)",
+   "lat": 51.50873,
+   "lon": -0.06302,
+   "type": "landmark",
+   "area": "Wapping, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "At the north (Pennington Street) entrance of Tobacco Dock. Pin is the gazetteer centre of Pennington Street, E1W; approximate.",
+   "ai": {
+    "score": 5,
+    "summary": "A 2.1 m bronze of a small boy face to face with a tiger, at the entrance to Tobacco Dock. It marks a true story from 1857, when a tiger bound for Charles Jamrach's animal shop escaped and grabbed a nine-year-old boy, who was rescued when Jamrach forced the tiger to let go. A great story to tell children on the spot.",
+    "standout": "A life-size boy and tiger telling a real Victorian escape story",
+    "highlights": [
+     "Bronze boy and tiger, about 7 ft tall",
+     "Real 1857 story of John Wade and Charles Jamrach",
+     "Close to the Thames Path and Wapping"
+    ],
+    "cautions": [
+     "One statue: combine with a Wapping walk",
+     "Tobacco Dock itself is an events venue, not always open"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Tobacco Dock",
+      "url": "https://en.wikipedia.org/wiki/Tobacco_Dock"
+     },
+     {
+      "title": "Exploring London: Jamrach's Tiger",
+      "url": "https://exploring-london.com/tag/jamrachs-tiger/"
+     },
+     {
+      "title": "Londonist: 8 Secrets of Tobacco Dock",
+      "url": "https://londonist.com/london/features/secrets-of-tobacco-dock"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p184",
+   "name": "Potters Fields Park",
+   "lat": 51.50407,
+   "lon": -0.07729,
+   "type": "park",
+   "area": "Bermondsey / London Bridge, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Riverside park on Tooley Street between City Hall and Tower Bridge. Pin is the gazetteer centre of SE1 2SG (the units on the park edge); the park's own satnav postcode SE1 2AA is not in the gazetteer.",
+   "link": "https://pottersfields.co.uk",
+   "ai": {
+    "score": 6,
+    "summary": "A lawned riverside park right beside Tower Bridge, with a children's play area, outdoor table tennis, boules and new wildlife beds. It hosts free family festivals in summer. A handy place to let children run about while seeing one of London's most famous views.",
+    "standout": "A play area with Tower Bridge right next to it",
+    "age": "2–12",
+    "ages": [
+     2,
+     12
+    ],
+    "highlights": [
+     "Children's play area set in landscaped grounds",
+     "Table tennis, boules and big lawns",
+     "Free festivals and events through the year"
+    ],
+    "cautions": [
+     "Very busy with tourists, especially at weekends",
+     "Events can close parts of the lawn: check the park's website before going"
+    ],
+    "sources": [
+     {
+      "title": "Potters Fields Park",
+      "url": "https://pottersfields.co.uk"
+     },
+     {
+      "title": "Southwark Council: Other parks and gardens",
+      "url": "https://services.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=3"
+     },
+     {
+      "title": "Wikipedia: Potters Fields Park",
+      "url": "https://en.wikipedia.org/wiki/Potters_Fields_Park"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p185",
+   "name": "Tibetan Peace Garden",
+   "lat": 51.49601,
+   "lon": -0.10833,
+   "type": "landmark",
+   "area": "Kennington / Elephant & Castle, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Inside Geraldine Mary Harmsworth Park beside the Imperial War Museum. Pin is the gazetteer centre of SE1 6HZ (Lambeth Road / St George's Road, by the park), a postcode chosen by us; approximate.",
+   "ai": {
+    "score": 5,
+    "summary": "A circular garden opened by the Dalai Lama in 1999, with a bronze Kalachakra mandala at its centre, eight stone seats and carved pillars. It sits in Geraldine Mary Harmsworth Park next to the Imperial War Museum and its playground. A quiet, unusual corner to explore, and a peaceful contrast to the museum.",
+    "standout": "A bronze Tibetan mandala in the middle of a London park",
+    "highlights": [
+     "Kalachakra mandala designed with Tibetan monks",
+     "Free and in an always-open park",
+     "Next to IWM London and the park playground"
+    ],
+    "cautions": [
+     "Meant as a quiet contemplative space",
+     "Southwark Council lists park hours: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Geraldine Mary Harmsworth Park",
+      "url": "https://en.wikipedia.org/wiki/Geraldine_Mary_Harmsworth_Park"
+     },
+     {
+      "title": "Exploring London: Tibetan Peace Garden",
+      "url": "https://exploring-london.com/2022/08/03/10-unusual-parks-or-gardens-in-london5-tibetan-peace-garden-imperial-war-museum/"
+     },
+     {
+      "title": "Hamish Horsley: The Tibetan Peace Garden",
+      "url": "https://www.hamishhorsley.com/the-tibetan-peace-garden"
+     },
+     {
+      "title": "tibet.net: clean-up at the Tibetan Peace Garden",
+      "url": "https://tibet.net/tibetan-community-in-britain-leads-compassion-inspired-clean-up-at-the-tibetan-peace-garden-in-london/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p186",
+   "name": "Stockwell Skatepark",
+   "lat": 51.46601,
+   "lon": -0.11499,
+   "type": "activity",
+   "area": "Stockwell / Brixton, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "At the corner of Stockwell Park Walk and Stockwell Road (Wikipedia). Pin is the gazetteer centre of Stockwell Park Walk, SW9; approximate.",
+   "ai": {
+    "score": 7,
+    "summary": "One of London's best-known concrete skateparks, open since 1978 and resurfaced and updated by Betongpark in 2022. Its smooth bowls and banks draw skaters, scooter riders and BMXers of all levels, and it's a great place for older children to watch or have a go. Open all day per Lambeth.",
+    "standout": "A legendary 1978 concrete bowl park, refurbished in 2022",
+    "age": "6–18",
+    "ages": [
+     6,
+     18
+    ],
+    "highlights": [
+     "Historic concrete skatepark (1978)",
+     "Resurfaced and updated in 2022",
+     "Free and open-access"
+    ],
+    "cautions": [
+     "Gets busy with experienced skaters: younger children best at quiet times",
+     "Bring helmet and pads",
+     "No facilities stated in the sources"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Stockwell Skatepark",
+      "url": "https://en.wikipedia.org/wiki/Stockwell_Skatepark"
+     },
+     {
+      "title": "Lambeth Council: Skateboarding facilities",
+      "url": "https://www.lambeth.gov.uk/parks-sports-leisure/parks/sports-facilities-parks-open-spaces/skateboarding-facilities"
+     },
+     {
+      "title": "Love Lambeth: Stockwell Skatepark to be refurbished",
+      "url": "https://love.lambeth.gov.uk/stockwell-skatepark-refurbished"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p187",
+   "name": "Cox's Walk and Pissarro footbridge",
+   "lat": 51.44164,
+   "lon": -0.06624,
+   "type": "nature",
+   "area": "Dulwich, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Cox's Walk runs from the Lordship Lane / Dulwich Common junction up to Sydenham Hill Wood. Not in the gazetteer by name; pin is the centre of Highwood Close, SE22, which sits beside it in the same grid square; approximate.",
+   "ai": {
+    "score": 6,
+    "summary": "An old oak-lined footpath from the 1740s climbing from Lordship Lane into Sydenham Hill Wood. Halfway up, a restored Victorian footbridge crosses the old railway cutting: the spot where Camille Pissarro painted Lordship Lane Station around 1871. The bridge reopened after restoration in 2025, making a fine woodland walk with a story.",
+    "standout": "Stand where Pissarro painted, on a restored bridge in the woods",
+    "highlights": [
+     "Ancient oak avenue leading into Sydenham Hill Wood",
+     "Restored footbridge reopened in 2025",
+     "Pissarro's painting of the view hangs at the Courtauld"
+    ],
+    "cautions": [
+     "Steep, muddy path in wet weather",
+     "No facilities on the path"
+    ],
+    "sources": [
+     {
+      "title": "Southwark Council: Cox's Walk footbridge reopens",
+      "url": "https://www.southwark.gov.uk/news/2025/coxs-walk-footbridge-reopens"
+     },
+     {
+      "title": "Woodland Trust: Cox's Walk",
+      "url": "https://www.woodlandtrust.org.uk/visiting-woods/woods/coxs-walk/"
+     },
+     {
+      "title": "Wikipedia: Sydenham Hill Wood",
+      "url": "https://en.wikipedia.org/wiki/Sydenham_Hill_Wood"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p188",
+   "name": "Creekside Discovery Centre",
+   "lat": 51.47662,
+   "lon": -0.02189,
+   "type": "nature",
+   "area": "Deptford, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "14 Creekside, SE8 4SA (the centre's own address); pin is the gazetteer centre of SE8 4SA.",
+   "link": "https://www.creeksidecentre.org.uk/",
+   "ai": {
+    "score": 8,
+    "summary": "A small nature reserve and education centre on Deptford Creek. Its famous low-tide walks put families in waders and out into the tidal creek bed to river-dip with nets and meet the wildlife, finishing with a 'River Walking Licence'. A truly unusual muddy adventure for older children.",
+    "standout": "Walking in waders up the bed of a tidal creek at low tide",
+    "age": "8–14",
+    "ages": [
+     8,
+     14
+    ],
+    "highlights": [
+     "Family low-tide walks with waders and nets provided",
+     "Nature reserve on the Deptford Creek foreshore",
+     "Also runs wildflower walks and events at Sue Godfrey Nature Park"
+    ],
+    "cautions": [
+     "Paid walks that must be booked and often sell out",
+     "Family walks are for children 8+ and need tide timing: check dates before going",
+     "Must be able to wear waders and walk for up to an hour"
+    ],
+    "sources": [
+     {
+      "title": "Creekside Discovery Centre: Family Low Tide Walk",
+      "url": "https://www.creeksidecentre.org.uk/events/family-low-tide-walk-8~478/"
+     },
+     {
+      "title": "Wikipedia: Creekside Discovery Centre",
+      "url": "https://en.wikipedia.org/wiki/Creekside_Discovery_Centre"
+     },
+     {
+      "title": "Memoirs of a Metro Girl: Deptford Creek low tide walk",
+      "url": "https://memoirsofametrogirl.com/2019/08/07/creekside-discovery-centre-low-tide-walk-deptford-creek-review/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p189",
+   "name": "Sue Godfrey Nature Park",
+   "lat": 51.4801,
+   "lon": -0.02141,
+   "type": "nature",
+   "area": "Deptford, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Bounded by Bronze Street and Berthon Street, opposite St Paul's Church, next to Ferranti Park. Pin is the gazetteer centre of Berthon Street, SE8 (Bronze Street is not in the gazetteer); approximate.",
+   "link": "https://lewisham.gov.uk/inmyarea/openspaces/nature-reserves/sue-godfrey-nature-park",
+   "ai": {
+    "score": 6,
+    "summary": "A small Local Nature Reserve in the middle of Deptford, open freely all year from all four sides. Rough grassland and scrub hold around 200 kinds of wild flowers, shrubs and trees, buzzing with butterflies, grasshoppers and crickets in summer. New paths make it wheelchair and buggy friendly, and the Creekside Centre runs wildflower events here.",
+    "standout": "Grasshopper and butterfly hunting in a wild meadow in central Deptford",
+    "age": "2–12",
+    "ages": [
+     2,
+     12
+    ],
+    "highlights": [
+     "Free open access all year",
+     "Around 200 plant species and lots of insects",
+     "New accessible footpaths and wildlife scrapes"
+    ],
+    "cautions": [
+     "Wild space with no play equipment (Ferranti Park next door)",
+     "No facilities stated in the sources"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Sue Godfrey Nature Park",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/nature-reserves/sue-godfrey-nature-park"
+     },
+     {
+      "title": "Wikipedia: Sue Godfrey Nature Park",
+      "url": "https://en.wikipedia.org/wiki/Sue_Godfrey_Nature_Park"
+     },
+     {
+      "title": "Creekside Centre: Sue Godfrey Nature Park updates",
+      "url": "https://www.creeksidecentre.org.uk/blog/post/creekside-chronicles-andy-sue-godfrey-nature-park-updates"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p190",
+   "name": "Greenland Dock",
+   "lat": 51.49423,
+   "lon": -0.04248,
+   "type": "water",
+   "area": "Surrey Quays, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Pin is the midpoint of the gazetteer centres of Brunswick Quay and Greenland Quay, SE16, the quays on its north and south sides; approximate.",
+   "ai": {
+    "score": 5,
+    "summary": "London's oldest riverside wet dock, begun in the 1690s and later home to Arctic whaling ships, now a big open water basin used for watersports. A free walk round the dockside gives boats, birds and views, and the Thames Path and a river bus pier are close by. Easy to combine with Surrey Docks Farm and Russia Dock Woodland.",
+    "standout": "A huge old whaling dock now full of sailing boats",
+    "highlights": [
+     "Free public access around the dock",
+     "Watersports centre on the dock",
+     "Pier with river boats to Canary Wharf and Greenwich",
+     "Local Wildlife Site for water birds"
+    ],
+    "cautions": [
+     "Deep open water with unfenced edges: keep small children close",
+     "Watersports sessions are separate and paid: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Greenland Dock",
+      "url": "https://en.wikipedia.org/wiki/Greenland_Dock"
+     },
+     {
+      "title": "GiGL: Greenland Dock Local Wildlife Site",
+      "url": "https://www.gigl.org.uk/?p=59239"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }

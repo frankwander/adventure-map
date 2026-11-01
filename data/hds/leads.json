@@ -314,6 +314,42 @@
    "url": "https://en.wikipedia.org/wiki/Brixton_murals",
    "note": "Mural on St George's Residence, Railton Road, seen from Effra Parade; said to be a 1988 London Wall Mural Group work, recently rediscovered. Only Wikipedia's Brixton murals list (citation needed). Pin is the Effra Parade street centre.",
    "found": "2026-11-01"
+  },
+  {
+   "name": "The Hithe community garden (Albion Street)",
+   "lat": 51.50077,
+   "lon": -0.0511,
+   "cell": "x+2y+6",
+   "url": "https://www.southwark.gov.uk/events-culture-and-heritage/63421/66298/63421",
+   "note": "Meanwhile community garden/hub at 71-75 Albion Street SE16 7JA (pin = gazetteer SE16 7JA). Family events and half-term activities, but no regular public opening times found and the site is earmarked for redevelopment.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Earth Tenders community garden, Dulwich Park",
+   "lat": 51.44313,
+   "lon": -0.07098,
+   "cell": "x+0y-7",
+   "url": "https://www.southwark.gov.uk/southwark-presents/visit-dulwich-park-earth-tenders-community-garden",
+   "note": "Community food garden behind Rosebery Lodge in Dulwich Park (SE21 7EX, gazetteer centre; approximate). Family events held, but unclear whether open to drop-in visitors outside sessions.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Elba Place Nature Garden",
+   "lat": 51.49297,
+   "lon": -0.09337,
+   "cell": "x-3y+4",
+   "url": "https://www.gigl.org.uk/?p=59271",
+   "note": "Small nature area with pond, wildflower bank and raised beds in the centre of Victory Community Park (Walworth). GiGL says free access but Southwark lists the nature area as open by appointment. Pin = gazetteer centre of Elba Place, SE17.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Stockwell Park Estate fish pond (duck pond and island)",
+   "lat": 51.47063,
+   "lon": -0.11647,
+   "cell": "x-7y-1",
+   "url": "https://www.brixtonbuzz.com/2020/08/in-photos-stockwells-secret-duck-pond-and-island-south-london/amp/",
+   "note": "Local Wildlife Site pond with island on the Stockwell Park Estate, viewable only from adjacent paths (GiGL via search summary; Brixton Buzz 2020). Exact location on the estate not confirmed; pin = gazetteer centre of Stockwell Park Road, SW9.",
+   "found": "2026-11-01"
   }
  ]
 }
