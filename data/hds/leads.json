@@ -253,15 +253,6 @@
    "found": "2026-11-01"
   },
   {
-   "name": "King Alfred statue, Trinity Church Square",
-   "lat": 51.49893,
-   "lon": -0.09322,
-   "cell": "x-3y+6",
-   "url": "https://en.wikipedia.org/wiki/Statue_of_Alfred_the_Great,_Southwark",
-   "note": "Contender for London's oldest outdoor statue (part Roman, found in the 2021 restoration) in the middle of the Trinity Church Square garden. The garden is locked; unclear how well it can be seen from the street. Pin is Trinity Church Square, SE1 street centre.",
-   "found": "2026-11-01"
-  },
-  {
    "name": "Paper Garden (Global Generation), Canada Water",
    "lat": 51.49613,
    "lon": -0.04346,
@@ -286,6 +277,42 @@
    "cell": "x+5y+0",
    "url": "https://www.goparks.london/park/florence-green/",
    "note": "Residents' road-island garden on Florence Road SE14 with bug hotel, public art and a nature trail (groups formed 2023); only one source, small verge.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Breakspears Mews Community Garden",
+   "lat": 51.46772,
+   "lon": -0.02855,
+   "cell": "x+6y-1",
+   "url": "https://brockleysociety.org.uk/?p=2565",
+   "note": "Volunteer-run Brockley Society food/flower garden off Ashby Road SE4 (street-centre pin for Breakspears Mews). Only Brockley Society pages; last stated public opening was Sundays 11am-1pm (Nov 2021). Need a second, recent source and current opening.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Three Perpetual Chords (Conrad Shawcross), Dulwich Park",
+   "lat": 51.4465,
+   "lon": -0.0795,
+   "cell": "x-1y-6",
+   "url": "https://contemporaryartsociety.org/node/18624",
+   "note": "Three cast-iron sculptures (2015) along a path at the northern end of Dulwich Park, replacing the stolen Hepworth. Well sourced (Contemporary Art Society, Londonist 2015, Dulwich Park Friends) but sources are from 2015 and the exact spot is not given; pin is an approximate point at the north of the park. Confirm the location and that they are still in place.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Devonshire Road Nature Reserve",
+   "lat": 51.44479,
+   "lon": -0.05134,
+   "cell": "x+2y-6",
+   "url": "https://lewisham.gov.uk/inmyarea/openspaces/nature-reserves/devonshire-road-nature-reserve",
+   "note": "Lewisham nature reserve at 170 Devonshire Road SE23 3SZ, locked except open days (council: last Sunday of the month 2-5pm). Pinned to postcode SE23 3SZ (gazetteer). Limited opening, so recorded as a lead.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "The Boat mural, St George's Residence, Railton Road",
+   "lat": 51.45687,
+   "lon": -0.10935,
+   "cell": "x-6y-4",
+   "url": "https://en.wikipedia.org/wiki/Brixton_murals",
+   "note": "Mural on St George's Residence, Railton Road, seen from Effra Parade; said to be a 1988 London Wall Mural Group work, recently rediscovered. Only Wikipedia's Brixton murals list (citation needed). Pin is the Effra Parade street centre.",
    "found": "2026-11-01"
   }
  ]
