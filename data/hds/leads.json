@@ -269,6 +269,24 @@
    "url": "https://www.globalgeneration.org.uk/paper-garden",
    "note": "Charity-run community garden and handcrafted classroom at Teredo Street SE16 7LD (postcode not in gazetteer; pin is Teredo Street centre). Visits seem to be booked or event-based (Southwark guided visits from Canada Water Library, family celebration days), so drop-in public access is unclear.",
    "found": "2026-11-01"
+  },
+  {
+   "name": "Greenwood Theatre pocket park (Zandra Rhodes / Joe Swift)",
+   "lat": 51.50229,
+   "lon": -0.08567,
+   "cell": "x-2y+6",
+   "url": "https://www.cityplanter.co.uk/zandra-rhodes-designed-pocket-park-opens/",
+   "note": "Linear colourful planted pocket park on Greenwood Theatre walls, corner of Weston Street and Snowsfields SE1; sources from 2014-15 only, current state unknown and little for children.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Florence Green (Florence Road verge garden)",
+   "lat": 51.4735,
+   "lon": -0.03017,
+   "cell": "x+5y+0",
+   "url": "https://www.goparks.london/park/florence-green/",
+   "note": "Residents' road-island garden on Florence Road SE14 with bug hotel, public art and a nature trail (groups formed 2023); only one source, small verge.",
+   "found": "2026-11-01"
   }
  ]
 }

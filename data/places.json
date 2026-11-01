@@ -6021,6 +6021,628 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p155",
+   "name": "Jacob the dray horse statue",
+   "lat": 51.50227,
+   "lon": -0.07567,
+   "type": "landmark",
+   "area": "Shad Thames, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "At The Circle on Queen Elizabeth Street; pin is the gazetteer street centre of Queen Elizabeth Street, SE1.",
+   "ai": {
+    "score": 5,
+    "summary": "A life-size bronze dray horse by Shirley Pace (1987) standing in the middle of The Circle, a housing development near Tower Bridge. It remembers the Courage brewery horses once stabled here. A fun surprise for horse-loving children on a Shad Thames or Tower Bridge walk.",
+    "standout": "A full-size bronze working horse hidden in a residential circle",
+    "highlights": [
+     "Grade II listed bronze by Shirley Pace",
+     "Tells the story of the brewery dray horses stabled on the site",
+     "Short walk from Tower Bridge and Shad Thames"
+    ],
+    "cautions": [
+     "Just a statue: pair it with a riverside walk",
+     "It stands in a residential development, so be considerate of residents"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: List of public art in the London Borough of Southwark",
+      "url": "https://en.wikipedia.org/wiki/List_of_public_art_in_the_London_Borough_of_Southwark"
+     },
+     {
+      "title": "Exploring London: 10 (lesser known) monuments featuring animals – Jacob the horse",
+      "url": "https://exploring-london.com/tag/jacob/"
+     },
+     {
+      "title": "Londonist: Around London in 11 horses",
+      "url": "https://londonist.com/london/great-outdoors/around-london-in-11-horses"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p156",
+   "name": "Dr Salter's Daydream statues",
+   "lat": 51.50064,
+   "lon": -0.05905,
+   "type": "landmark",
+   "area": "Bermondsey, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "On the riverside at Bermondsey Wall East beside the Angel pub; pin is the gazetteer centre of the pub's postcode SE16 4NB.",
+   "ai": {
+    "score": 6,
+    "summary": "Life-size bronzes by Diane Gorvin by the Thames: Dr Alfred Salter on a bench, his wife Ada with a spade, their daughter Joyce leaning on the river wall and the family cat. The Salters transformed health and housing in Bermondsey. Children love finding the cat, and the riverside views are great.",
+    "standout": "A bronze family, cat included, gazing at the Thames",
+    "highlights": [
+     "Life-size figures children can sit beside",
+     "The family cat watching Joyce",
+     "Next to the ruins of Edward III's manor house and the Thames Path"
+    ],
+    "cautions": [
+     "Original statue was stolen in 2011; the group was recast and returned in 2014",
+     "Riverside wall: keep an eye on small children"
+    ],
+    "sources": [
+     {
+      "title": "Living London History: Dr Salter's Daydream, a very moving set of statues",
+      "url": "https://livinglondonhistory.com/dr-salters-daydream-a-very-moving-set-of-statues"
+     },
+     {
+      "title": "London Remembers: Dr Salter's Daydream",
+      "url": "https://www.londonremembers.com/memorials/8801"
+     },
+     {
+      "title": "Look Up London: Bermondsey's Dr Salter sculpture",
+      "url": "https://lookup.london/dr-salter-sculpture/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p157",
+   "name": "King Edward III's manor house ruins",
+   "lat": 51.50017,
+   "lon": -0.05895,
+   "type": "landmark",
+   "area": "Rotherhithe, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Corner of Bermondsey Wall East and Cathay Street; pin placed between the gazetteer centre of postcode SE16 4NB (Angel pub, next door) and Cathay Street.",
+   "ai": {
+    "score": 6,
+    "summary": "The low stone foundations of a riverside manor house built for King Edward III around 1350, uncovered in 1985 and now laid out in a small grassy space by the Thames. Free and open at all times, it is a great place for children to trace the walls of a real royal house and imagine the moat.",
+    "standout": "Walk round the foundations of a 14th-century royal manor",
+    "highlights": [
+     "Scheduled Monument, free and always open",
+     "Visible foundation walls in a grassy riverside space",
+     "Next to Dr Salter's Daydream statues and the Thames Path"
+    ],
+    "cautions": [
+     "Ruins are low walls only: bring the story with you",
+     "Riverside setting: watch small children"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: King Edward III manor house",
+      "url": "https://en.wikipedia.org/wiki/King_Edward_III_manor_house"
+     },
+     {
+      "title": "Secret London: King Edward III manor house ruins, Rotherhithe",
+      "url": "https://secretldn.com/king-edward-iii-manor-house-ruins-rotherhithe/"
+     },
+     {
+      "title": "Historic UK: Edward III's Manor House, Rotherhithe",
+      "url": "https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Edward-IIIs-Manor-House-Rotherhithe/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p158",
+   "name": "Slade Gardens Adventure Playground",
+   "lat": 51.47218,
+   "lon": -0.11494,
+   "type": "playground",
+   "area": "Stockwell, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "In Slade Gardens at the corner of Stockwell Park Road and Lorn Road; pin is the gazetteer centre of postcode SW9 0AD (Lorn Road / Stockwell Park Road).",
+   "link": "https://www.lambeth.gov.uk/slade-gardens-adventure-playground",
+   "ai": {
+    "score": 7,
+    "summary": "A staffed adventure playground in Slade Gardens, Stockwell, run by a local charity for 7 to 19 year olds, with over an acre of space and two play huts. The surrounding park adds a children's playground, outdoor gym and a nature area, plus a 1983 community mural.",
+    "standout": "Over an acre of staffed adventure play in the middle of Stockwell",
+    "age": "7–19",
+    "ages": [
+     7,
+     19
+    ],
+    "extras": "Park playground for younger children, outdoor gym, nature conservation area",
+    "highlights": [
+     "Run by Slade Gardens Community Play Association since 1999",
+     "Two play huts and big open play space",
+     "Park around it has a playground, outdoor gym and nature area"
+    ],
+    "cautions": [
+     "Staffed adventure playground for 7–19s: opening sessions vary, check before going",
+     "Younger children use the park playground instead"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Slade Gardens Adventure Playground",
+      "url": "https://www.lambeth.gov.uk/slade-gardens-adventure-playground"
+     },
+     {
+      "title": "Lambeth Council: Slade Gardens park",
+      "url": "https://www.lambeth.gov.uk/parks/slade-gardens"
+     },
+     {
+      "title": "London Gardens Trust: Slade Gardens (LAM047)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LAM047"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p159",
+   "name": "Harleyford Road Community Garden",
+   "lat": 51.48522,
+   "lon": -0.11969,
+   "type": "nature",
+   "area": "Vauxhall, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Entrances on Harleyford Road and through Bonnington Square; pin is the gazetteer street centre of Harleyford Road, SE11.",
+   "ai": {
+    "score": 6,
+    "summary": "A shady volunteer-run nature garden made from a derelict strip in 1986, next to Bonnington Square near the Oval. Sources describe a pond, swings, benches, small lawns and shrubberies, and schools use it for nature study. A calm wildlife stop for little explorers.",
+    "standout": "A pond and swings hidden in a volunteer-made nature garden",
+    "highlights": [
+     "Local Wildlife Site with a pond",
+     "Swings and benches",
+     "Pair with Bonnington Square Pleasure Garden next door"
+    ],
+    "cautions": [
+     "Volunteer-run: opening times can vary, check before going",
+     "Small"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Harleyford Road Community Garden",
+      "url": "https://en.wikipedia.org/wiki/Harleyford_Road_Community_Garden"
+     },
+     {
+      "title": "London Gardens Trust: Harleyford Road Community Garden (LAM017)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LAM017"
+     },
+     {
+      "title": "Londonist: Nature-ist: Harleyford Road and Bonnington Square",
+      "url": "https://londonist.com/2011/07/nature-ist-harleyford-road-and-bonnington-square"
+     },
+     {
+      "title": "GiGL: Local Wildlife Site",
+      "url": "https://www.gigl.org.uk/?p=59135"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p160",
+   "name": "Bonnington Square Pleasure Garden",
+   "lat": 51.48444,
+   "lon": -0.12053,
+   "type": "park",
+   "area": "Vauxhall, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "2-12 Bonnington Square; pin is the gazetteer centre of postcode SW8 1TE.",
+   "link": "https://bonningtonsquaregarden.org.uk/about/",
+   "ai": {
+    "score": 6,
+    "summary": "A lush residents' garden on a former bomb site in Bonnington Square, open to everyone by day. It has a children's play area, seats and a rescued 1860s industrial wheel from a local marble works peeking through jungly planting. A lovely hidden stop near Vauxhall.",
+    "standout": "A rescued Victorian wheel in a jungly garden square",
+    "extras": "Play area, seating",
+    "highlights": [
+     "Children's play area",
+     "1860s wheel from a nearby marble factory",
+     "Next to Harleyford Road Community Garden"
+    ],
+    "cautions": [
+     "Locked at night: open morning to evening, check before going",
+     "Small"
+    ],
+    "sources": [
+     {
+      "title": "Bonnington Square Garden: About",
+      "url": "https://bonningtonsquaregarden.org.uk/about/"
+     },
+     {
+      "title": "London Gardens Trust: Bonnington Square (LAM006)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LAM006"
+     },
+     {
+      "title": "Living London History: Vauxhall's secret jungle neighbourhood",
+      "url": "https://livinglondonhistory.com/the-fascinating-story-of-vauxhalls-secret-jungle-neighbourhood"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p161",
+   "name": "Brookmill Park",
+   "lat": 51.47094,
+   "lon": -0.0219,
+   "type": "nature",
+   "area": "Deptford, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Beside Brookmill Road along the River Ravensbourne; pin is the gazetteer street centre of Brookmill Road, SE8.",
+   "link": "https://lewisham.gov.uk/inmyarea/openspaces/parks/brookmill-park",
+   "ai": {
+    "score": 7,
+    "summary": "A small park and nature reserve along the River Ravensbourne near Deptford Bridge, re-landscaped when the DLR was built so the river runs in a natural channel. There is a children's playground, a lake and water feature, and a separate nature reserve across the river. Part of the Waterlink Way walking and cycling route.",
+    "standout": "A natural river channel with fish and wildlife right beside a playground",
+    "extras": "Children's playground, lake, ornamental garden, cycle route",
+    "highlights": [
+     "River Ravensbourne runs through, with stone loach and freshwater shrimp recorded",
+     "Children's playground and lake",
+     "Local Wildlife Site; on the Waterlink Way"
+    ],
+    "cautions": [
+     "Open water and river: watch small children",
+     "Opening times change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Brookmill Park",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/brookmill-park"
+     },
+     {
+      "title": "Wikipedia: Brookmill Park",
+      "url": "https://en.wikipedia.org/wiki/Brookmill_Park"
+     },
+     {
+      "title": "GiGL: Local Wildlife Site (Brookmill Park)",
+      "url": "https://www.gigl.org.uk/sinc/LeBII14"
+     },
+     {
+      "title": "London Gardens Trust: Brookmill Park (LEW009)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW009"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p162",
+   "name": "Friendly Gardens",
+   "lat": 51.46957,
+   "lon": -0.02523,
+   "type": "park",
+   "area": "Brockley, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Two areas either side of the railway, entrances on Friendly Street, Oscar Street, Lucas Street, Thornville Street and Albyn Road; council address is Ashmead Road, pin is the gazetteer street centre of Ashmead Road, SE8.",
+   "link": "https://www.lewisham.gov.uk/inmyarea/openspaces/parks/friendly-gardens",
+   "ai": {
+    "score": 5,
+    "summary": "A small neighbourhood park in two parts split by the railway between Deptford and Brockley, with a children's playground. A handy local stop for a play on the way to Brookmill Park or Hilly Fields rather than a destination in itself.",
+    "standout": "A tucked-away playground beside the railway",
+    "extras": "Children's playground",
+    "highlights": [
+     "Children's playground",
+     "Several entrances from surrounding streets",
+     "Short walk to Brookmill Park"
+    ],
+    "cautions": [
+     "Sources disagree on dog areas: check signs",
+     "Closing times vary through the year: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Friendly Gardens",
+      "url": "https://www.lewisham.gov.uk/inmyarea/openspaces/parks/friendly-gardens"
+     },
+     {
+      "title": "GiGL Space to Visit: Friendly Gardens",
+      "url": "https://www.gigl.org.uk/park/OS_Le_0097"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p163",
+   "name": "Crossfield Open Space (Deptford Church Street)",
+   "lat": 51.47913,
+   "lon": -0.02477,
+   "type": "park",
+   "area": "Deptford, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Triangle by Crossfield Street and Deptford Church Street, between St Joseph's Primary School and St Paul's Church; pin is the gazetteer street centre of Crossfield Street, SE8.",
+   "ai": {
+    "score": 6,
+    "summary": "A new public green space opened in December 2025 on the former Tideway super sewer site next to St Paul's Church, Deptford. It has a natural play area with boulders, a slide, swing, balance blocks and wobbly sheep, wildflower turf, and artwork by Studio Weave with poems about Deptford on the ventilation columns.",
+    "standout": "Wobbly sheep and poem-covered columns on a brand-new park",
+    "extras": "Natural play area, level access",
+    "highlights": [
+     "Opened December 2025 after eight years of works",
+     "Play boulders, slide, swing and wobbly sheep",
+     "Studio Weave artwork and Dorothea Smartt poems"
+    ],
+    "cautions": [
+     "Small, new space: facilities beyond the play area not confirmed",
+     "Busy Deptford Church Street alongside"
+    ],
+    "sources": [
+     {
+      "title": "Tideway: New public park opens in Deptford after super sewer works complete",
+      "url": "https://tideway.london/news/site-news/2025/december/new-public-park-opens-in-deptford-after-super-sewer-works-complete/"
+     },
+     {
+      "title": "Tideway: Deptford Church Street",
+      "url": "https://www.tideway.london/locations/deptford-church-street/"
+     },
+     {
+      "title": "From the Murky Depths: Deptford green space plans approved on Thames Tideway site",
+      "url": "https://www.fromthemurkydepths.co.uk/2022/12/17/deptford-green-space-plans-approved-on-thames-tideway-site/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p164",
+   "name": "Deptford Anchor",
+   "lat": 51.47478,
+   "lon": -0.02516,
+   "type": "landmark",
+   "area": "Deptford, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "At the south end of Deptford High Street by Deptford Broadway; pin is the gazetteer street centre of Deptford Broadway, SE8.",
+   "ai": {
+    "score": 5,
+    "summary": "A huge ship's anchor at the bottom of Deptford High Street, given by Chatham Dockyard in 1988 to mark Deptford's naval shipbuilding past. It was removed in 2013 and brought back after a local campaign. A quick, climb-on-it-with-your-eyes photo stop before exploring the market.",
+    "standout": "A giant naval anchor in the middle of the high street",
+    "highlights": [
+     "Remembers Deptford's royal dockyard",
+     "Brought back after a public campaign",
+     "Next to Deptford Market and the His and Hers mural"
+    ],
+    "cautions": [
+     "Just a landmark: pair it with Deptford Market or Brookmill Park",
+     "Busy street"
+    ],
+    "sources": [
+     {
+      "title": "Atlas Obscura: Deptford Anchor",
+      "url": "https://atlasobscura.com/places/deptford-anchor"
+     },
+     {
+      "title": "Wikipedia: Deptford High Street",
+      "url": "https://en.wikipedia.org/wiki/Deptford_High_Street"
+     },
+     {
+      "title": "Homegirl London: Ten things to do in Deptford",
+      "url": "https://homegirllondon.com/ten-things-to-do-in-deptford-london-se8/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p165",
+   "name": "Max Roach Park",
+   "lat": 51.46744,
+   "lon": -0.11122,
+   "type": "park",
+   "area": "Brixton, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Council address Villa Road, SW9 7ND; pin is the gazetteer centre of postcode SW9 7ND. The park runs in four parts up the east side of Brixton Road towards Angell Town.",
+   "link": "https://www.lambeth.gov.uk/parks/max-roach-park",
+   "ai": {
+    "score": 6,
+    "summary": "A string of small green spaces along Brixton Road, renamed in 1986 after jazz drummer Max Roach, who came to the ceremony. It has a children's playground refreshed in late 2025 with new equipment for 4 to 7 year olds, a nature trail and wildlife areas, plus a One O'Clock Club and adventure playground with their own hours.",
+    "standout": "A newly refreshed playground in a park named after a jazz legend",
+    "extras": "Children's playground, nature trail, One O'Clock Club and adventure playground (separate hours)",
+    "highlights": [
+     "Playground refurbished in 2025 with three new pieces of equipment",
+     "Nature trail and wildlife areas",
+     "New Friends group planting and improving the park in 2026"
+    ],
+    "cautions": [
+     "Adventure playground and One O'Clock Club have restricted, supervised hours: check before going",
+     "Beside busy Brixton Road"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Max Roach Park",
+      "url": "https://www.lambeth.gov.uk/parks/max-roach-park"
+     },
+     {
+      "title": "Brixton Buzz: Max Roach Park and Norwood Park get refurbished playgrounds (Dec 2025)",
+      "url": "https://www.brixtonbuzz.com/2025/12/max-roach-park-in-brixton-and-norwood-park-in-west-norwood-get-refurbished-playgrounds/"
+     },
+     {
+      "title": "Love Lambeth: Lambeth boosts play facilities at Max Roach Park",
+      "url": "https://love.lambeth.gov.uk/lambeth-boosts-play-facilities-at-max-roach-park"
+     },
+     {
+      "title": "Wikipedia: Max Roach Park",
+      "url": "https://en.wikipedia.org/wiki/Max_Roach_Park"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p166",
+   "name": "Van Gogh Walk",
+   "lat": 51.47721,
+   "lon": -0.11625,
+   "type": "landmark",
+   "area": "Stockwell, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "The former Isabel Street, postal address SW9 0HD; pin is the gazetteer centre of postcode SW9 0HD.",
+   "link": "https://www.lambeth.gov.uk/parks/van-gogh-walk",
+   "ai": {
+    "score": 5,
+    "summary": "A residents' street garden in Stockwell, renamed in 2013 for Vincent van Gogh, who lodged on nearby Hackford Road in 1873. Cars give way to people, with trees, raised planters inspired by his paintings, sculptures and quotes from his letters carved around the beds. A fun art-and-plants stroll for curious children.",
+    "standout": "A street planted like a Van Gogh painting, with his words carved in stone",
+    "highlights": [
+     "Planting inspired by Van Gogh's paintings",
+     "Sculptures and carved quotes from his letters",
+     "Open 24 hours; won a New London Award in 2013"
+    ],
+    "cautions": [
+     "A street, not a park: some vehicles still use it",
+     "Small: combine with a walk past 87 Hackford Road"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Van Gogh Walk",
+      "url": "https://www.lambeth.gov.uk/parks/van-gogh-walk"
+     },
+     {
+      "title": "Hardscape: Van Gogh Walk case study",
+      "url": "https://hardscape.co.uk/case-studies/van-gogh-walk/"
+     },
+     {
+      "title": "Brixton Buzz: Isabel Street to be renamed and relaunched as Van Gogh Walk",
+      "url": "https://www.brixtonbuzz.com/2013/02/isabel-street-in-brixton-to-be-renamed-relaunched-as-van-gogh-walk-with-a-street-party-on-saturday-30th-march/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p167",
+   "name": "Burbage Road railway bridge murals",
+   "lat": 51.45023,
+   "lon": -0.09405,
+   "type": "landmark",
+   "area": "Herne Hill, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Under the railway bridge on Burbage Road (towards the Herne Hill end); pin is the gazetteer street centre of Burbage Road, SE24, so walk along the road to the bridge.",
+   "ai": {
+    "score": 5,
+    "summary": "Two facing murals by Lionel Stanhope under the railway bridge on Burbage Road. One honours Shakespearean actor Richard Burbage, the road's namesake; the other (2020) celebrates local sport: cricket, croquet, squash, tennis, hockey, Herne Hill Velodrome cycling and Dulwich Hamlet. A colourful spot-the-sport stop near the velodrome.",
+    "standout": "Spot every sport in a giant railway-bridge mural",
+    "highlights": [
+     "Two murals facing each other under the bridge",
+     "Sports scenes including the Herne Hill Velodrome",
+     "Network Rail-backed artwork by Lionel Stanhope"
+    ],
+    "cautions": [
+     "Road tunnel with traffic: hold hands while looking",
+     "Just murals: pair with Brockwell Park or the velodrome"
+    ],
+    "sources": [
+     {
+      "title": "Dulwich On View: Burbage Road Mural",
+      "url": "https://dulwichonview.org.uk/2021/05/03/burbage-road-mural"
+     },
+     {
+      "title": "Brixton Buzz: Lionel Stanhope celebrates the sporting history of Dulwich with Burbage Road mural",
+      "url": "https://www.brixtonbuzz.com/2020/06/street-artist-lionel-stanhope-celebrates-the-rich-sporting-history-of-dulwich-with-colourful-burbage-road-mural/amp/"
+     },
+     {
+      "title": "Network Rail: Mural by Lionel Stanhope highlighting the sporting history of Dulwich",
+      "url": "https://www.networkrailmediacentre.co.uk/news/network-rail-sponsors-mural-by-celebrated-street-artist-lionel-stanhope-highlighting-the-rich-sporting-history-of-dulwich"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p168",
+   "name": "The Library at Deptford Lounge",
+   "lat": 51.47748,
+   "lon": -0.02357,
+   "type": "library",
+   "area": "Deptford, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "9 Giffin Street; council pages give SE8 4RJ (one says SE8 4RH); pin is the gazetteer centre of SE8 4RJ.",
+   "link": "https://lewisham.gov.uk/myservices/libraries/branches/the-library-at-deptford-lounge",
+   "ai": {
+    "score": 6,
+    "summary": "Lewisham's public library in the modern Deptford Lounge building on Giffin Square, with a dedicated children's and youth library. Free sessions have included Under 5s Rhymes and Stories, a Saturday craft club for 5+ and family film screenings. A good rainy-day stop off Deptford High Street.",
+    "standout": "A purpose-built children's library with free weekend sessions",
+    "highlights": [
+     "Dedicated children's and youth library",
+     "Free rhyme times, craft club and family films",
+     "Opens onto Giffin Square, near Deptford Market"
+    ],
+    "cautions": [
+     "Opening hours and event times change: check before going",
+     "Closed Sundays per the council listing"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: The Library at Deptford Lounge",
+      "url": "https://lewisham.gov.uk/myservices/libraries/branches/the-library-at-deptford-lounge"
+     },
+     {
+      "title": "Lewisham Libraries: The Library at Deptford Lounge",
+      "url": "https://libraries.lewisham.gov.uk/digital-content/libraries/the-library-at-deptford-lounge"
+     },
+     {
+      "title": "Lewisham Libraries: Craft Club event",
+      "url": "https://libraries.lewisham.gov.uk/events/130571"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p169",
+   "name": "His and Hers mural, Deptford",
+   "lat": 51.47824,
+   "lon": -0.02624,
+   "type": "landmark",
+   "area": "Deptford, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "End wall at 104 Deptford High Street (junction with Giffin Street), SE8 4NS per a listing; pin is the gazetteer centre of SE8 4NS.",
+   "ai": {
+    "score": 4,
+    "summary": "A witty 2002 mural by Patricio Forrester (Artmongers) for the Deptford X festival: a painted tie and pearl necklace turn the chimneys on a plain end wall into a his-and-hers couple. Restored in 2016. A quick look-up-and-giggle moment on a walk down Deptford High Street.",
+    "standout": "Chimneys dressed up with a painted tie and pearls",
+    "highlights": [
+     "Playful trompe-l'oeil on a house end wall",
+     "Restored by the artist",
+     "Short walk from the Deptford Anchor and Deptford Lounge library"
+    ],
+    "cautions": [
+     "One small artwork: combine with the market or the anchor",
+     "Busy high street"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Deptford and New Cross public art",
+      "url": "https://lewisham.gov.uk/inmyarea/arts/your-local-arts/visual-art/galleries/public-art/deptford-and-new-cross-public-art"
+     },
+     {
+      "title": "Thatsup: His and Hers",
+      "url": "https://thatsup.co.uk/london/landmark/his-and-hers/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }
