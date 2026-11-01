@@ -433,15 +433,6 @@
    "found": "2026-11-01"
   },
   {
-   "name": "Rush Common Woodland Walk playground, Brixton Hill",
-   "lat": 51.44585,
-   "lon": -0.12301,
-   "cell": "x-7y-6",
-   "url": "https://www.lambeth.gov.uk/parks/rush-common",
-   "note": "Lambeth describes a tree-covered Woodland Walk with a children's playground along Brixton Hill (opposite Lambeth College). Rush Common is almost a mile long; pin is Lambeth's listed postcode SW2 3RN, not the playground itself. Brixton Orchard (already on the map) is part of Rush Common.",
-   "found": "2026-11-01"
-  },
-  {
    "name": "Cable Street Community Gardens",
    "lat": 51.51181,
    "lon": -0.04936,
@@ -457,15 +448,6 @@
    "cell": "x+8y+2",
    "url": "https://www.royalgreenwich.gov.uk/events/welland-street-playspace-workshop",
    "note": "Royal Greenwich is refurbishing the play space between Welland Street and Thames Street (design workshop March 2026). Pin is the Welland Street street centre. Check whether the new playground has opened.",
-   "found": "2026-11-01"
-  },
-  {
-   "name": "South London Botanical Institute garden",
-   "lat": 51.44345,
-   "lon": -0.10467,
-   "cell": "x-5y-7",
-   "url": "https://www.lambeth.gov.uk/family-information-directory/10564-south-london-botanical-institute",
-   "note": "Botanical garden and herbarium at 323 Norwood Road SE24 9AQ (postcode pin). Free on open days, but drop-in opening seems limited (Thursdays 11am-4pm per one source, plus Sunday events, some ticketed). Children's workshops exist. Access pattern unclear for families.",
    "found": "2026-11-01"
   },
   {
@@ -556,6 +538,78 @@
    "cell": "x-6y+6",
    "url": "https://www.nla.london/index.php/projects/baylis-road-pocket-park",
    "note": "Two small Waterloo pocket parks (Baylis Road, SE1 7AY, built 2020; Leake Street, opened 2015). Planting only in sources; unclear there is anything for children.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Ladywell Physic Garden",
+   "lat": 51.45666,
+   "lon": -0.01689,
+   "cell": "x+7y-4",
+   "url": "https://ladywell-live.org/2026/07/28/a-herbalists-garden-inspired-by-the-history-of-the-lady-well-to-find-permanent-home-in-ladywell-after-sandringham-flower-show/",
+   "note": "Award-winning herbalist garden due to open by end of Aug 2026 near St Mary's church, Ladywell; one source, opening not confirmed, exact site unknown (pin is Ladywell Road east street centre).",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Playtower gates mural (Barnie XYZ), Ladywell",
+   "lat": 51.45666,
+   "lon": -0.01689,
+   "cell": "x+7y-4",
+   "url": "https://ladywell-live.org/2026/05/17/ladywell-society-funds-brockly-max-mural-on-playtower-gates-and-will-screen-two-local-films-in-st-marys-church-as-part-of-community-festival/",
+   "note": "2026 mural on the Ladywell Playtower gates funded by the Ladywell Society; one source, completion and exact position unconfirmed (pin is Ladywell Road street centre).",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Peabody Hill Wood",
+   "lat": 51.44325,
+   "lon": -0.10193,
+   "cell": "x-5y-7",
+   "url": "https://www.brixtonbuzz.com/2020/05/a-walk-around-peabody-hill-wood-a-little-known-green-space-close-to-brockwell-park-south-london/",
+   "note": "Small steep woodland between Peabody Hill and Rosendale estates with a play/exercise area at the top; only a 2020 blog describes it (Wikipedia just names it); pin is Peabody Hill street centre, wood position not fixed.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Iona Close Orchard",
+   "lat": 51.44759,
+   "lon": -0.02814,
+   "cell": "x+6y-6",
+   "url": "https://natureconservationlewisham.co.uk/tag/catford",
+   "note": "Borough SINC (LeL10) described by Nature Conservation Lewisham as an undisturbed wildlife pocket behind Bournville Road, Catford; public access and current state unclear; pin is Iona Close street centre.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Pencil Park (Endymion Road)",
+   "lat": 51.45111,
+   "lon": -0.11935,
+   "cell": "x-7y-5",
+   "url": "https://film.lambeth.gov.uk/locations/parks-open-spaces/rush-common",
+   "note": "Resident-made and resident-managed green space on Rush Common just south of the Woodland Walk; only Lambeth pages and the London Gardens Trust Rush Common record mention it, nothing on what's there or access; pin is Endymion Road street centre.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Dexters Adventure Playground",
+   "lat": 51.4566,
+   "lon": -0.10608,
+   "cell": "x-5y-4",
+   "url": "https://www.lambeth.gov.uk/dexters-adventure-playground",
+   "note": "Railton Road (2-30), run by BIGKID Foundation as a community hub with youth club and adventure play; current public play sessions/ages unclear (latest independent source 2021); pin is Railton Road street centre, too imprecise (site is at the north end near Brixton).",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Hare and Billet Pond, Blackheath",
+   "lat": 51.46964,
+   "lon": -0.00118,
+   "cell": "x+9y-1",
+   "url": "https://natureconservationlewisham.co.uk/2012/10/05/natures-gym-at-hare-billet-pond-blackheath/",
+   "note": "Most natural of the Blackheath ponds, volunteer-managed for wildlife (GiGL SINC); sources dated 2012-2018, not confirmed as kid-worthy; pin is Hare and Billet Road street centre, not the pond.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Dulwich Upper Wood",
+   "lat": 51.42348,
+   "lon": -0.07866,
+   "cell": "x-1y-11",
+   "url": "https://www.tcv.org.uk/london/urbanecology/urban-ecology-sites/dulwich-upper-wood/",
+   "note": "2.4 ha Local Nature Reserve on Farquhar Road SE19, open at all times, numbered nature trail (Wikipedia, TCV, London Gardens Trust); only blocker is the pin: no coordinates or full postcode found, Farquhar Road street centre may be off by more than 150 m. Add once a pin is confirmed.",
    "found": "2026-11-01"
   }
  ]
