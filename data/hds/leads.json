@@ -791,6 +791,60 @@
    "url": "https://londonist.com/london/art-and-photography/the-sidney-street-mural-digging-into-the-details",
    "note": "Large heritage mural painted April 2025 and unveiled by Sir Ian McKellen (Tower Hamlets 'Our East End' June 2025 + Londonist 2025): Siege of Sidney Street, Whitechapel Bell Foundry, Jack Cohen and more. Two sources, but only 'towards the lower end of the street' is given; Sidney Street is ~600 m long, so the pin (street centre) is not within 150 m. Add once the exact wall is found.",
    "found": "2026-11-01"
+  },
+  {
+   "name": "Bandstand Beds community garden, Clapham Common",
+   "lat": 51.45759,
+   "lon": -0.14504,
+   "cell": "x-11y-4",
+   "url": "https://www.londongardenstrust.org/features/bandstandbeds.htm",
+   "note": "Volunteer food-growing garden off Windmill Drive near the bandstand, with family events (Lambeth, Capital Growth, Clapham Common sources). Exact pin unsure (SW4 9DE is approximate) and regular public opening not confirmed.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Edith Nesbit Gardens, Lee Green",
+   "lat": 51.45326,
+   "lon": 0.01404,
+   "cell": "x+12y-4",
+   "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/edith-nesbit-gardens",
+   "note": "Small Lewisham town garden with a children's playground, entrances on Leyland Road and Osberton Road, open 8am to sunset (Lewisham Council; Parks and Gardens UK). Two sources, but pin is Leyland Road centre (road ~550 m long) and Osberton Road is not in the gazetteer, so position not within 150 m.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Peregrine Park (West Norwood Health and Leisure Centre grounds)",
+   "lat": 51.43066,
+   "lon": -0.10199,
+   "cell": "x-5y-10",
+   "url": "https://love.lambeth.gov.uk/peregrine-park-officially-named-by-contest-winner",
+   "note": "Green space with a playground and table tennis tables beside West Norwood Health and Leisure Centre, named by a children's contest in July 2023. Only Lambeth Council sources; no postcode found in results, so the pin is only the Norwood High Street street centre (hds.py) and must be re-geocoded.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Stepney Green Park",
+   "lat": 51.52033,
+   "lon": -0.04522,
+   "cell": "x+3y+10",
+   "url": "https://www.goparks.london/park/stepney-green-park/",
+   "note": "4.6 ha Tower Hamlets park re-landscaped in 2000; GoParks lists playgrounds for younger and older children, outdoor gym and all-weather pitch (also Wikipedia, London Gardens Trust THM054). Couldn't pin it: side gate on Garden Street, which is not in the gazetteer. Pin is Beaumont Square centre, a placeholder only.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Gipsy Hill Community Station Garden",
+   "lat": 51.42457,
+   "lon": -0.08482,
+   "cell": "x-2y-11",
+   "url": "https://www.spacehive.com/friends-rejuvenation-of-gipsy-hill",
+   "note": "Volunteer garden on a former railway siding by Platform 1 of Gipsy Hill station, next to Sainsbury Road, with a Network Rail mural outside (Spacehive, Norwood Forum, Lambeth). Unclear whether it is open to the public outside the station and whether there is anything for children; pin is Sainsbury Road centre.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Sydenham Community Library",
+   "lat": 51.42643,
+   "lon": -0.04147,
+   "cell": "x+4y-10",
+   "url": "https://libraries.lewisham.gov.uk/digital-content/libraries-/sydenham-community-library",
+   "note": "Community library at Sydenham Road SE26 5SE (postcode pin) run by Calico Libraries for Lewisham, with free term-time Rhyme Time and under-5s storytime (2025 listings). Only Lewisham Council / Lewisham Libraries sources found, so it needs a second independent source.",
+   "found": "2026-11-01"
   }
  ]
 }
