@@ -9468,9 +9468,9 @@
     "SE6 3",
     "SE6 4"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 4,
    "finds": []
   },
   {
@@ -9502,9 +9502,9 @@
     "E1 5",
     "E1 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 5,
    "finds": []
   },
   {
@@ -9543,10 +9543,12 @@
     "EC2M 3",
     "EC2A 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p296"
+   ]
   },
   {
    "id": "x-10y-1",
@@ -9584,10 +9586,12 @@
     "SW8 4",
     "SW8 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p299"
+   ]
   },
   {
    "id": "x+10y+1",
@@ -9603,10 +9607,12 @@
     "SE3 7",
     "SE10 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p297"
+   ]
   },
   {
    "id": "x-1y-10",
@@ -9625,9 +9631,9 @@
     "SE21 7",
     "SE21 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
    "finds": []
   },
   {
@@ -9655,9 +9661,9 @@
     "SE26 6",
     "SE26 4"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
    "finds": []
   },
   {
@@ -9678,10 +9684,12 @@
    "sectors": [
     "SE3 0"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 5,
+   "finds": [
+    "p298"
+   ]
   },
   {
    "id": "x-10y+1",
@@ -9707,9 +9715,9 @@
     "SW8 5",
     "SW11 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
    "finds": []
   },
   {
@@ -9744,9 +9752,9 @@
     "E1 5",
     "E1W 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
    "finds": []
   },
   {
@@ -9797,10 +9805,13 @@
     "EC2N 4",
     "EC3A 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p300",
+    "p301"
+   ]
   },
   {
    "id": "x+10y+2",
@@ -9830,10 +9841,12 @@
     "SE3 7",
     "SE10 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 3,
+   "finds": [
+    "p302"
+   ]
   },
   {
    "id": "x+10y-2",
@@ -9860,10 +9873,12 @@
     "SE3 0",
     "SE13 5"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
+   "finds": [
+    "p303"
+   ]
   },
   {
    "id": "x-2y-10",
@@ -9888,10 +9903,12 @@
     "SE19 1",
     "SE27 9"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
+   "finds": [
+    "p304"
+   ]
   },
   {
    "id": "x+2y-10",
@@ -9916,9 +9933,9 @@
     "SE26 5",
     "SE26 6"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 2,
    "finds": []
   },
   {
@@ -9935,10 +9952,12 @@
    "sectors": [
     "SW11 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-01",
+   "queries": 1,
+   "finds": [
+    "p305"
+   ]
   },
   {
    "id": "x-10y-2",

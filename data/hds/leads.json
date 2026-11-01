@@ -746,6 +746,51 @@
    "url": "https://streetartcities.com/cities/london/markers/5760",
    "note": "Famous ROA crane (first planned as a heron) painted in 2010 on the side of a restaurant at the Hanbury Street / Brick Lane junction (Spitalfields Life, Londonist, Street Art Cities). Newest source is about 2020, so it is unconfirmed whether it survives. Pin is postcode E1 5JL, the gazetteer postcode at that junction.",
    "found": "2026-11-01"
+  },
+  {
+   "name": "Vallance Gardens",
+   "lat": 51.51992,
+   "lon": -0.06359,
+   "cell": "x+1y+10",
+   "url": "https://www.towerhamlets.gov.uk/News_events/2025/June/400k-improvement-works-on-three-parks-completed.aspx",
+   "note": "Tower Hamlets park (0.55 ha, former Quaker burial ground) whose old playground was replaced in 2025 with inclusive play equipment for all ages (council news + Survey of London/Parks & Gardens). Two sources, but no postcode or coordinates found; pin is the southern Vallance Road street centre, which is a long road, so position is uncertain.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Cato Road playspace (cow mural)",
+   "lat": 51.46313,
+   "lon": -0.13102,
+   "cell": "x-9y-2",
+   "url": "https://boroughphotos.org/lambeth/?p=41361",
+   "note": "Lambeth archive photo of a children's playspace on Cato Road, Clapham (former No. 47) with a cow mural by Anchor Designs; undated archive only, no current source that it or the mural still exists. Pin is Cato Road street centre.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Westcombe Woodlands",
+   "lat": 51.48245,
+   "lon": 0.00663,
+   "cell": "x+10y+2",
+   "url": "https://goparks.london/park/blackheath-society-conservation-area",
+   "note": "Nature reserve (woodland, orchard, pond, bee hives; SINC) entered from Restell Close, SE3 7RD (postcode pin). Run by Friends of Westcombe Woodlands / Blackheath Society; access restricted to volunteer and open days, roughly one weekend day a month, so not added.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Greyhound mural, Sydenham (behind The Greyhound pub, Kirkdale)",
+   "lat": 51.42716,
+   "lon": -0.05556,
+   "cell": "x+2y-10",
+   "url": "https://www.thegreatbritainguide.com/place/greyhound-mural/",
+   "note": "Large colourful greyhound mural listed at SE26 4BA (postcode pin); Sydenham Arts street-art walks started 'behind The Greyhound pub on Kirkdale' (2022). Only a listing site and forum threads describe it; no second independent source on what it shows now.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Whitechapel Stories mural (Frank Creber), Sidney Street",
+   "lat": 51.51719,
+   "lon": -0.0552,
+   "cell": "x+2y+10",
+   "url": "https://londonist.com/london/art-and-photography/the-sidney-street-mural-digging-into-the-details",
+   "note": "Large heritage mural painted April 2025 and unveiled by Sir Ian McKellen (Tower Hamlets 'Our East End' June 2025 + Londonist 2025): Siege of Sidney Street, Whitechapel Bell Foundry, Jack Cohen and more. Two sources, but only 'towards the lower end of the street' is given; Sidney Street is ~600 m long, so the pin (street centre) is not within 150 m. Add once the exact wall is found.",
+   "found": "2026-11-01"
   }
  ]
 }
