@@ -9303,6 +9303,570 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p230",
+   "name": "William Blake mosaics (Centaur Street tunnels)",
+   "lat": 51.49804,
+   "lon": -0.11419,
+   "type": "landmark",
+   "area": "Lambeth North / Waterloo, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Mosaics line the railway arches of Centaur Street, Virgil Street and Carlisle Lane; pin is the Centaur Street, SE1 street centre (HDS gazetteer).",
+   "link": "https://blakesociety.org/blake-mosaics/",
+   "ai": {
+    "score": 7,
+    "summary": "About 70 colourful mosaics of William Blake's pictures and poems line three railway tunnels near Lambeth North, close to where Blake lived on Hercules Road. Made by Southbank Mosaics with volunteers over several years, with sound boxes reading his poems. A free, quick treasure hunt for curious kids on the way to Archbishop's Park.",
+    "standout": "Dozens of glittering Blake mosaics in a railway tunnel, some with audio of his poems",
+    "highlights": [
+     "Around 70 mosaics across Centaur Street, Virgil Street and Carlisle Lane",
+     "Sound boxes with residents reading Blake's poems",
+     "Next to Archbishop's Park and its playground"
+    ],
+    "cautions": [
+     "Street tunnels under the railway with traffic: hold hands",
+     "Audio boxes may not always work"
+    ],
+    "sources": [
+     {
+      "title": "Blake Society: Paradise Restored, Blake's Lambeth Mosaics",
+      "url": "https://blakesociety.org/blake-mosaics/"
+     },
+     {
+      "title": "Londonist: Spot These Gorgeous William Blake Mosaics, Hiding In Lambeth",
+      "url": "https://londonist.com/london/art-and-photography/gorgeous-william-blake-mosaics-hiding-in-lambeth"
+     },
+     {
+      "title": "Atlas Obscura: William Blake Mosaics",
+      "url": "https://www.atlasobscura.com/places/william-blake-mosaics-lambeth"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p231",
+   "name": "Archbishop's Park",
+   "lat": 51.49793,
+   "lon": -0.11519,
+   "type": "park",
+   "area": "Lambeth North / Waterloo, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Lambeth gives the address as Carlisle Lane, SE1 7LE; pin is the Carlisle Lane, SE1 street centre (HDS gazetteer) by the Carlisle Lane entrance. The SE1 7LE postcode centroid falls on Lambeth Road at the park's south edge.",
+   "link": "https://www.lambeth.gov.uk/parks/archbishops-park",
+   "ai": {
+    "score": 7,
+    "summary": "SE1's largest green space, opened in 1901 from the old Lambeth Palace gardens. Lambeth calls its children's playground large and popular; it was expanded into zones for toddlers up to older children. Good for a run-around near Waterloo, with the Blake mosaics just outside.",
+    "standout": "Big zoned playground beside the old Lambeth Palace grounds",
+    "extras": "Playground, toilets near the Carlisle Lane entrance, community garden, tennis courts",
+    "highlights": [
+     "Large children's playground with areas for different age groups",
+     "Community garden on the Carlisle Lane side",
+     "William Blake mosaics in the tunnels next door"
+    ],
+    "cautions": [
+     "Opening hours vary with sunset: check before going",
+     "Accessibility guide says the toilet does not have level access"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Archbishop's Park",
+      "url": "https://www.lambeth.gov.uk/parks/archbishops-park"
+     },
+     {
+      "title": "London SE1: Archbishop's Park playground expansion",
+      "url": "https://www.london-se1.co.uk/news/view/2297"
+     },
+     {
+      "title": "London Gardens Trust: Archbishop's Park",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LAM004"
+     },
+     {
+      "title": "AccessAble: Archbishop's Park",
+      "url": "https://www.accessable.co.uk/london-borough-of-lambeth/access-guides/archbishop-s-park"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p232",
+   "name": "Lambeth Walk Doorstep Green",
+   "lat": 51.49359,
+   "lon": -0.1147,
+   "type": "park",
+   "area": "Kennington / Lambeth Walk, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE11 6DY from the London Gardens Trust record, geocoded with the HDS gazetteer (Fitzalan Street / Lambeth Walk).",
+   "link": "https://www.lambeth.gov.uk/parks/lambeth-walk-doorstep-green",
+   "ai": {
+    "score": 6,
+    "summary": "A small neighbourhood park between Lambeth Walk, Fitzalan Street and Kennington Road. Part of it is a wildlife garden run by the charity Roots and Shoots, and it's a local nature conservation site. Lambeth says a new play area for 7 to 12 year olds has a sensory dome, bucket swing and seesaw.",
+    "standout": "Play area plus a wildlife garden run by Roots and Shoots",
+    "age": "7–12",
+    "ages": [
+     7,
+     12
+    ],
+    "extras": "Play area, wildlife garden, wildflower meadow",
+    "highlights": [
+     "Roots and Shoots wildlife garden",
+     "Play area with sensory dome and bucket swing",
+     "Wildflower meadow on Lambeth's Bee Road"
+    ],
+    "cautions": [
+     "Opening times differ between sources (7.30am or 8am to dusk): check before going",
+     "Play area is aimed at older children"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Lambeth Walk Doorstep Green",
+      "url": "https://www.lambeth.gov.uk/parks/lambeth-walk-doorstep-green"
+     },
+     {
+      "title": "London Gardens Trust: Lambeth Walk Doorstep Green",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LAM027a"
+     },
+     {
+      "title": "Roots and Shoots: Lambeth Walk Doorstep Green bee meadow",
+      "url": "https://www.rootsandshoots.org.uk/blog/lwdg-bee-meadow-announcement"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p233",
+   "name": "Ravensbourne Park Gardens",
+   "lat": 51.4459,
+   "lon": -0.03007,
+   "type": "park",
+   "area": "Catford, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Lewisham says entry is via Ravensbourne Park and Ravensbourne Park Crescent; pin is the Ravensbourne Park Crescent, SE6 street centre (HDS gazetteer).",
+   "link": "https://lewisham.gov.uk/inmyarea/openspaces/parks/ravensbourne-park-gardens",
+   "ai": {
+    "score": 4,
+    "summary": "A small residential park of about 0.8 hectares near St Dunstan's College, a short walk from Catford Bridge station. Tall London plane trees and ornamental trees, with a set of children's swings. A quiet spot for a swing and a run rather than a destination.",
+    "standout": "Big old plane trees and a set of swings in a hidden residential garden",
+    "highlights": [
+     "Set of children's swings",
+     "Mature London plane and ornamental trees",
+     "Unrestricted opening per the London Gardens Trust"
+    ],
+    "cautions": [
+     "Very basic play provision",
+     "Not next to the River Ravensbourne despite the name"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Ravensbourne Park Gardens",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/ravensbourne-park-gardens"
+     },
+     {
+      "title": "London Gardens Trust: Ravensbourne Park Gardens",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW043"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p234",
+   "name": "Portsoken Street Garden",
+   "lat": 51.51169,
+   "lon": -0.07444,
+   "type": "playground",
+   "area": "Aldgate / Tower Hill, City of London",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "City of London gives Portsoken Street, E1 8BN; that postcode is missing from the gazetteer, so the pin is the Portsoken Street, E1 street centre (HDS gazetteer).",
+   "link": "https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/portsoken-street-garden",
+   "ai": {
+    "score": 5,
+    "summary": "The smallest King George's Field in the country, set up in 1936, tucked between Aldgate and Tower Hill. Redesigned in 2010 around natural play, with jumping discs, balancing steps and a sandpit. Handy for a play break on a Tower of London day.",
+    "standout": "Tiny natural-play garden with a sandpit, minutes from the Tower of London",
+    "extras": "Sandpit, smoke-free play area",
+    "highlights": [
+     "Natural play: jumping discs, balancing steps, sandpit",
+     "Smallest King George's Field in the country",
+     "Near Tower Gateway, Tower Hill and Aldgate stations"
+    ],
+    "cautions": [
+     "One listing gives weekday-only hours (Monday to Friday 8am to 7pm or dusk): check before going at weekends",
+     "Small space"
+    ],
+    "sources": [
+     {
+      "title": "City of London Family Information: Portsoken Street Gardens",
+      "url": "https://www.fis.cityoflondon.gov.uk/directory/portsoken-street-gardens"
+     },
+     {
+      "title": "London Gardens Trust: King George's Field (City of London)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=COL039"
+     },
+     {
+      "title": "City of London: Portsoken Street Garden",
+      "url": "https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/portsoken-street-garden"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p235",
+   "name": "Roman wall and Trajan statue, Tower Hill",
+   "lat": 51.50951,
+   "lon": -0.07641,
+   "type": "landmark",
+   "area": "Tower Hill, City of London",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Beside Tower Hill tube station; pin is the Tower Hill, EC3N street centre (HDS gazetteer). A second stretch of wall is up Cooper's Row (51.51088, -0.07707).",
+   "link": "https://en.wikipedia.org/wiki/Statue_of_Trajan,_Tower_Hill",
+   "ai": {
+    "score": 6,
+    "summary": "A tall surviving stretch of London's Roman city wall stands by Tower Hill station, with a bronze statue said to be Emperor Trajan in front. Kids can spot the lines of red Roman tiles in the stonework. Another big section, with medieval arrow slits, hides in a courtyard off Cooper's Row nearby.",
+    "standout": "Real Roman city wall you can touch, with an emperor statue",
+    "age": "5–18",
+    "ages": [
+     5,
+     18
+    ],
+    "highlights": [
+     "Look for the red tile bands that mark the Roman courses",
+     "Bronze statue of an emperor, probably Trajan",
+     "Second section with arrow slits in a courtyard off Cooper's Row"
+    ],
+    "cautions": [
+     "Busy junction by the station and Tower Hill road",
+     "The Cooper's Row section is reached through a hotel entrance area"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Statue of Trajan, Tower Hill",
+      "url": "https://en.wikipedia.org/wiki/Statue_of_Trajan,_Tower_Hill"
+     },
+     {
+      "title": "Londonist: Weekend Walk, Follow London's Roman Walls",
+      "url": "https://londonist.com/london/great-outdoors/weekend-walk-follow-london-s-roman-walls"
+     },
+     {
+      "title": "Living London History: London's Roman Wall, a self-guided walk",
+      "url": "https://livinglondonhistory.com/londons-ancient-roman-and-medieval-walls-a-self-guided-walk"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p236",
+   "name": "All Hallows by the Tower crypt museum",
+   "lat": 51.50933,
+   "lon": -0.07918,
+   "type": "museum",
+   "area": "Tower Hill, City of London",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Church on Byward Street, EC3R 5BJ (postcode from the Charity Commission and parish listings); geocoded with the HDS gazetteer.",
+   "link": "https://londonist.com/london/museums-and-galleries/the-fascinating-crypt-museum-next-to-the-tower-of-london",
+   "ai": {
+    "score": 6,
+    "summary": "A free little museum in the crypt of the City's oldest church, next to the Tower of London. It holds a Roman mosaic floor from a 2nd-century house, a 1928 model of Roman London and Roman and Saxon finds. Best for history-curious older children; younger ones may find the glass cases slow.",
+    "standout": "A real Roman house floor under a church, plus a model of Roman London",
+    "age": "7–18",
+    "ages": [
+     7,
+     18
+    ],
+    "highlights": [
+     "Late 2nd-century Roman tessellated pavement",
+     "1928 model of Roman London",
+     "Saxon arch in the church"
+    ],
+    "cautions": [
+     "Open during church hours, which vary: check before going",
+     "Mostly glass-case displays, better for older children"
+    ],
+    "sources": [
+     {
+      "title": "Londonist: Where to see the oldest bit of church in London",
+      "url": "https://londonist.com/london/museums-and-galleries/the-fascinating-crypt-museum-next-to-the-tower-of-london"
+     },
+     {
+      "title": "Living London History: The hidden treasures of All Hallows by the Tower",
+      "url": "https://livinglondonhistory.com/the-hidden-treasures-of-all-hallows-by-the-tower"
+     },
+     {
+      "title": "National Churches Trust: All Hallows by the Tower",
+      "url": "https://www.nationalchurchestrust.org/church/all-hallows-tower-city-london"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p237",
+   "name": "The Point, Greenwich (Point Hill viewpoint)",
+   "lat": 51.4744,
+   "lon": -0.00979,
+   "type": "landmark",
+   "area": "West Greenwich, Greenwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Small open space at the top of Point Hill; pin is the Point Hill, SE10 street centre (HDS gazetteer). A travel guide gives postcode SE10 8SY, whose centroid (51.47368, -0.01176) is lower down on Maidenstone Hill.",
+   "link": "https://en.wikipedia.org/wiki/The_Point,_Greenwich",
+   "ai": {
+    "score": 5,
+    "summary": "A small grassy viewpoint about 50 metres up on the edge of Blackheath, with a protected view across the Thames to the City: skyscrapers, Tower Bridge and St Paul's. Not a park with play equipment, but a quiet spot for a picnic and a game of spotting landmarks, a few minutes from Greenwich Park.",
+    "standout": "Spot St Paul's, Tower Bridge and the City towers from a hilltop lawn",
+    "highlights": [
+     "Panoramic protected view of London",
+     "Start point of a Lewisham council Blackheath walk",
+     "Short walk to Greenwich Park and Blackheath"
+    ],
+    "cautions": [
+     "No play equipment or facilities",
+     "Steep streets to get up there"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: The Point, Greenwich",
+      "url": "https://en.wikipedia.org/wiki/The_Point,_Greenwich"
+     },
+     {
+      "title": "Exploring London: View from Point Hill, Greenwich",
+      "url": "https://exploring-london.com/tag/point-hill/"
+     },
+     {
+      "title": "The Great Britain Guide: The Point",
+      "url": "https://thegreatbritainguide.com/place/the-point-3/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p238",
+   "name": "Lewisham Park",
+   "lat": 51.45295,
+   "lon": -0.01566,
+   "type": "park",
+   "area": "Lewisham, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE13 6QW from Lewisham listings, geocoded with the HDS gazetteer (Lewisham High Street side). Another listing gives SE13 6QZ (51.45192, -0.01247).",
+   "link": "https://lewisham.gov.uk/inmyarea/openspaces/parks/lewisham-park",
+   "ai": {
+    "score": 6,
+    "summary": "A Green Flag town garden off Lewisham High Street with fine trees, flower borders, a wilder corner of trees and shrubs, and a large circular sunken garden ringed by plane trees. Lewisham Council opened a new playground here, paid for with a £167,000 upgrade, with the residents' association involved.",
+    "standout": "New playground next to a big sunken garden ringed with plane trees",
+    "extras": "Children's playground",
+    "highlights": [
+     "New playground from a £167,000 upgrade",
+     "Large sunken garden",
+     "Green Flag park near Ladywell station"
+    ],
+    "cautions": [
+     "Opening stated as 8am to sunset: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Lewisham Park",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/lewisham-park"
+     },
+     {
+      "title": "Lewisham Council news: Lewisham Park playground",
+      "url": "https://lewisham.gov.uk/articles/news/lewishamparkplayground"
+     },
+     {
+      "title": "Go Parks London: Lewisham Park",
+      "url": "https://goparks.london/park/lewisham-park"
+     },
+     {
+      "title": "London Gardens Trust: Lewisham Park",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW033"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p239",
+   "name": "Old Paradise Gardens",
+   "lat": 51.49334,
+   "lon": -0.11999,
+   "type": "park",
+   "area": "Lambeth / Vauxhall, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Between Lambeth High Street and Old Paradise Street; pin is the Lambeth High Street, SE1 street centre (HDS gazetteer).",
+   "link": "https://lambeth.gov.uk/parks/old-paradise-gardens",
+   "ai": {
+    "score": 5,
+    "summary": "A small green space near Lambeth Palace on a former burial ground, with old gravestones along its listed boundary wall. Lambeth lists a children's playground, wildlife features and quiet seating; about £108,000 of developer money went into play equipment. A neighbourhood stop near the Garden Museum.",
+    "standout": "A playground inside an old graveyard wall lined with historic tombs",
+    "extras": "Children's playground",
+    "highlights": [
+     "Children's playground funded through Section 106",
+     "Historic gravestones and chest tombs in the boundary wall",
+     "Wildlife features"
+    ],
+    "cautions": [
+     "Small space",
+     "Opening times not confirmed: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Old Paradise Gardens",
+      "url": "https://lambeth.gov.uk/parks/old-paradise-gardens"
+     },
+     {
+      "title": "Wikipedia: Old Paradise Gardens",
+      "url": "https://en.wikipedia.org/wiki/Old_Paradise_Gardens"
+     },
+     {
+      "title": "IanVisits: London's Pocket Parks, Old Paradise Gardens SE11",
+      "url": "https://www.ianvisits.co.uk/articles/londons-pocket-parks-old-paradise-gardens-se11-65006/"
+     },
+     {
+      "title": "London Gardens Trust: Old Paradise Gardens",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LAM026"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p240",
+   "name": "Pedlar's Park",
+   "lat": 51.49146,
+   "lon": -0.12053,
+   "type": "playground",
+   "area": "Vauxhall, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Salamanca Street runs through the park; pin is the Salamanca Street, SE1 street centre (HDS gazetteer).",
+   "link": "https://www.lambeth.gov.uk/parks/pedlars-park",
+   "ai": {
+    "score": 5,
+    "summary": "A neighbourhood park laid out in 1968 on the site of a Victorian school and extended in 2006 across Salamanca Street. Lambeth tendered a refurbishment in 2022 with new play equipment, fencing, surfacing and planting, and lists about £250,000 of developer money for play. Useful for local families near Lambeth Bridge.",
+    "standout": "Neighbourhood play area with a planned playground renewal",
+    "extras": "Children's play area, central garden with pergolas",
+    "highlights": [
+     "Play area, with a 2022 tender for new equipment",
+     "Central garden and pergolas",
+     "Two halves either side of Salamanca Street"
+    ],
+    "cautions": [
+     "No source confirms the playground renewal is finished: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Pedlar's Park",
+      "url": "https://www.lambeth.gov.uk/parks/pedlars-park"
+     },
+     {
+      "title": "London Gardens Trust: Pedlar's Park",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LAM034a"
+     },
+     {
+      "title": "IanVisits: London's Pocket Parks, Pedlar's Park SE11",
+      "url": "https://www.ianvisits.co.uk/articles/londons-pocket-parks-pedlars-park-se11-63479/"
+     },
+     {
+      "title": "Bidstats: Pedlars Park refurbishment and playground renewal tender (2022)",
+      "url": "https://bidstats.uk/tenders/2022/W21/775291200"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p241",
+   "name": "St George's Gardens, St George in the East",
+   "lat": 51.51202,
+   "lon": -0.06124,
+   "type": "park",
+   "area": "Shadwell / St George in the East, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Tower Hamlets gives the address as Cannon Street Road, E1, with entrances on The Highway and Cable Street; pin is the Cannon Street Road, E1 street centre (HDS gazetteer), approximate.",
+   "link": "https://towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/st_georges_gardens.aspx",
+   "ai": {
+    "score": 5,
+    "summary": "The old churchyard of Hawksmoor's St George in the East, opened as a public garden in 1875 and restored in 2008. A peaceful, walled Local Wildlife Site of about 1.2 hectares with a play area, old headstones stacked along the walls, and the shell of a 1904 children's nature study museum. Near the Cable Street Mural.",
+    "standout": "A wildlife-rich walled churchyard garden with a play area and a long-closed nature museum",
+    "highlights": [
+     "Play area",
+     "Local Wildlife Site with mature trees",
+     "Ruined former nature study museum building and listed memorials"
+    ],
+    "cautions": [
+     "Sources give no detail on the play equipment",
+     "Opening times not confirmed: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Tower Hamlets: St George's Gardens",
+      "url": "https://towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/st_georges_gardens.aspx"
+     },
+     {
+      "title": "London Gardens Trust: St George's-in-the-East Churchyard",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=THM041"
+     },
+     {
+      "title": "GiGL: Local Wildlife Site St George's Gardens",
+      "url": "https://www.gigl.org.uk/sinc/THL01"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p242",
+   "name": "St Katharine Docks",
+   "lat": 51.50646,
+   "lon": -0.07171,
+   "type": "water",
+   "area": "St Katharine's / Tower Bridge, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Pin is the St Katharine's Way, E1W street centre (HDS gazetteer), beside the marina next to Tower Bridge.",
+   "link": "https://en.wikipedia.org/wiki/St_Katharine_Docks",
+   "ai": {
+    "score": 6,
+    "summary": "Central London's marina, a short walk from Tower Bridge, where you can stroll the quaysides looking at yachts, barges and classic boats. A free classic boat festival is held in September, when visitors can sometimes step aboard. A calm, traffic-free wander to pair with the Tower of London.",
+    "standout": "A marina full of boats right next to Tower Bridge",
+    "highlights": [
+     "Walk around the basins looking at boats",
+     "Classic Boat Festival in September (free to enter)",
+     "Next to Tower Bridge and the Thames Path"
+    ],
+    "cautions": [
+     "Open water and lock edges with few barriers: keep hold of little ones",
+     "Festival dates change each year: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: St Katharine Docks",
+      "url": "https://en.wikipedia.org/wiki/St_Katharine_Docks"
+     },
+     {
+      "title": "Time Out: St Katharine Docks Classic Boat Festival",
+      "url": "https://www.timeout.com/london/things-to-do/st-katharine-docks-classic-boat-festival"
+     },
+     {
+      "title": "Timeless Travel Steps: St Katharine Docks, the City's secret marina",
+      "url": "https://timelesstravelsteps.com/?p=124023"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }

@@ -458,6 +458,69 @@
    "url": "https://www.royalgreenwich.gov.uk/events/welland-street-playspace-workshop",
    "note": "Royal Greenwich is refurbishing the play space between Welland Street and Thames Street (design workshop March 2026). Pin is the Welland Street street centre. Check whether the new playground has opened.",
    "found": "2026-11-01"
+  },
+  {
+   "name": "South London Botanical Institute garden",
+   "lat": 51.44345,
+   "lon": -0.10467,
+   "cell": "x-5y-7",
+   "url": "https://www.lambeth.gov.uk/family-information-directory/10564-south-london-botanical-institute",
+   "note": "Botanical garden and herbarium at 323 Norwood Road SE24 9AQ (postcode pin). Free on open days, but drop-in opening seems limited (Thursdays 11am-4pm per one source, plus Sunday events, some ticketed). Children's workshops exist. Access pattern unclear for families.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "William Mitchell murals, Foxborough Gardens",
+   "lat": 51.45202,
+   "lon": -0.02726,
+   "cell": "x+6y-5",
+   "url": "https://c20society.org.uk/?p=46432",
+   "note": "1957-63 decorative entrance murals by William Mitchell on two LCC blocks at Foxborough Gardens SE4 1HT (postcode pin); C20 Society and Lewisham libraries talk (2024) say they fell into disrepair and residents campaign to restore them. Unclear if visible from public paths or restored.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Wildcat Wilderness (Rushey Green Time Bank)",
+   "lat": 51.43886,
+   "lon": -0.02836,
+   "cell": "x+6y-8",
+   "url": "https://www.happity.co.uk/venues/baby-groups-london-wildcat-wilderness",
+   "note": "Community green space and food-growing garden by the river, gate at 53 River View Park Road SE6 4PL (postcode pin). Run by Rushey Green Time Bank; listings mention Wed/Fri/Sat sessions but no public opening hours confirmed.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Conor Harrington mural, Trafalgar Road",
+   "lat": 51.48413,
+   "lon": 0.00099,
+   "cell": "x+10y+2",
+   "url": "https://globalstreetart.com/public-art/pure-art/conor-harrington-x-trafalgar-road-greenwich",
+   "note": "Large 2020 London Mural Festival wall at 71 Trafalgar Road SE10 9TS (postcode pin), overlooking a car park earmarked for development; sources from 2020 only, so it may be gone.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "All Hallows Churchyard (Copperfield Street Community Garden)",
+   "lat": 51.50307,
+   "lon": -0.09926,
+   "cell": "x-4y+7",
+   "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU003",
+   "note": "Resident-run community garden around a bombed church, supported by BOST; LGT says open, unrestricted. Little documented for children, and an undated SE1 report says the cathedral once padlocked the gates. Pin is Copperfield Street, SE1 street centre.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Crossbones Graveyard and Garden of Remembrance",
+   "lat": 51.50417,
+   "lon": -0.09361,
+   "cell": "x-3y+7",
+   "url": "https://bost.org.uk/news/crossbones-day-of-dance",
+   "note": "Volunteer-run memorial garden on Redcross Way SE1 1TA (postcode pin; entrance on Union Street). Open only Wed-Fri plus first Saturday 12-2pm per BOST (other sources differ). Limited opening and sombre theme.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Brockwell Park Community Greenhouses",
+   "lat": 51.4495,
+   "lon": -0.10883,
+   "cell": "x-6y-5",
+   "url": "https://www.brockwellgreenhouses.org.uk/visit-us/",
+   "note": "2 sources; pin is a postcode at the park edge a few hundred metres from the greenhouses: find a precise location",
+   "found": "2026-11-01"
   }
  ]
 }
