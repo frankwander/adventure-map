@@ -611,6 +611,60 @@
    "url": "https://www.tcv.org.uk/london/urbanecology/urban-ecology-sites/dulwich-upper-wood/",
    "note": "2.4 ha Local Nature Reserve on Farquhar Road SE19, open at all times, numbered nature trail (Wikipedia, TCV, London Gardens Trust); only blocker is the pin: no coordinates or full postcode found, Farquhar Road street centre may be off by more than 150 m. Add once a pin is confirmed.",
    "found": "2026-11-01"
+  },
+  {
+   "name": "Oasis green space, Thessaly Road",
+   "lat": 51.47705,
+   "lon": -0.13844,
+   "cell": "x-10y+1",
+   "url": "https://wandsworth.gov.uk/news/news-july-2024/new-start-for-forgotten-battersea-green-space",
+   "note": "About 3,100 m2 of grass, mounds and mature trees beside the Yvonne Carr Centre at the top of Thessaly Road SW8 (Wandsworth Council). Council began unlocking it for community use in 2024 after years of closure; no later source on current access or anything for children. Pin is the north Thessaly Road street-centre segment (approximate).",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Thorparch Road Pocket Park",
+   "lat": 51.47619,
+   "lon": -0.13164,
+   "cell": "x-9y+1",
+   "url": "https://www.lambeth.gov.uk/parks/thorparch-road-pocket-park",
+   "note": "Small Lambeth open space that doubles as flood storage and is described as attractive to wildlife, open 24 hours. Only Lambeth Council's page; nothing for children described. Pin is the SW8 4RH postcode Lambeth gives.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Gosling Gardens",
+   "lat": 51.5128,
+   "lon": -0.05956,
+   "cell": "x+1y+9",
+   "url": "https://www.towerhamlets.gov.uk/News_events/2025/June/400k-improvement-works-on-three-parks-completed.aspx",
+   "note": "0.25 ha park on Bigland Street E1 with play areas for under-5s and 5+, MUGA and outdoor gym; play improved in 2025. Both sources are Tower Hamlets Council (parks A-Z and June 2025 news), so only one independent source. Pin is the Bigland Street street centre; exact position unknown.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Jubilee Park, Canary Wharf",
+   "lat": 51.50494,
+   "lon": -0.0195,
+   "cell": "x+7y+7",
+   "url": "https://www.ianvisits.co.uk/blog/2018/11/29/londons-pocket-parks-jubilee-park-e14/",
+   "note": "1.25 ha Green Flag roof park over the Jubilee line station with a serpentine water channel and 22 fountains and pools (IanVisits, Time Out, Green Flag). Well sourced, but no trusted pin: only Time Out's generic E14 5AB postcode, which the gazetteer puts at North Colonnade, likely west of the park. A playground is mentioned only by a hotel guide. Find a precise location before adding.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "South Quay Plaza park and play trail",
+   "lat": 51.50038,
+   "lon": -0.01832,
+   "cell": "x+7y+6",
+   "url": "https://www.hta.co.uk/news-description/htas-landscape-team-completes-biophilic-public-realm-south-quay-plaza-phase-3",
+   "note": "About 3 acres of public green space at the Berkeley South Quay Plaza scheme (185-189 Marsh Wall E14), with natural play equipment and a play trail of Cornish boulders (HTA Landscape, British Homes Awards 2022). Exact public extent, completion of later phases and the play trail's location are unclear. Pin is a Marsh Wall street centre (a long road), approximate.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Bernie Spain Gardens",
+   "lat": 51.50748,
+   "lon": -0.10968,
+   "cell": "x-6y+8",
+   "url": "https://www.ianvisits.co.uk/articles/londons-pocket-parks-bernie-spain-gardens-se1-66155/",
+   "note": "Coin Street riverside gardens either side of Upper Ground between Gabriel's Wharf and Oxo Tower Wharf; West 8's pollinator redesign of the north garden had planning and work had begun by 2023, but completion and any play features are unconfirmed. Mostly lawns at present. Pin is the middle Upper Ground street-centre segment, approximate.",
+   "found": "2026-11-01"
   }
  ]
 }
