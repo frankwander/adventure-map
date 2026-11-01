@@ -10952,6 +10952,321 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p268",
+   "name": "Riverview Walk and River Pool Linear Park",
+   "lat": 51.43305,
+   "lon": -0.03452,
+   "type": "nature",
+   "area": "Catford / Bell Green, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Lewisham Council gives the address as Selworthy Road, SE6 (no postcode); pin is the Selworthy Road street centre from the offline gazetteer (road about 330 m long, beside the park). The park runs north to an entrance on Catford Hill.",
+   "link": "https://lewisham.gov.uk/inmyarea/openspaces/parks/riverview-walk-and-river-pool-linear-park",
+   "ai": {
+    "score": 6,
+    "summary": "A long, leafy linear park following the River Pool, one of the few south London rivers still above ground, from Southend Lane up to Catford Hill. Riverview Walk is created wildlife habitat (a Local Wildlife Site) and the Waterlink Way path runs through it, so it suits a nature walk, scoot or bike ride with river-spotting along the way.",
+    "standout": "An open river you can walk beside for well over a kilometre, with a chance of spotting kingfishers",
+    "highlights": [
+     "River Pool stays above ground through a wooded linear park",
+     "Part of the traffic-free Waterlink Way walking and cycling route",
+     "Borough Grade I Site of Importance for Nature Conservation with free public access",
+     "Local naturalists recommend the Bell Green to Catford Bridge stretch for kingfishers"
+    ],
+    "cautions": [
+     "No toilets on site, according to the access guide",
+     "Riverview Walk section is open in daylight hours only; check before going",
+     "Narrow bollard gap (about 120 cm) at the Catford Hill entrance",
+     "Long, linear site: plan where you'll start and finish"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Riverview Walk and River Pool Linear Park",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/riverview-walk-and-river-pool-linear-park"
+     },
+     {
+      "title": "GiGL: Pool River Linear Park Local Wildlife Site (LeBI04)",
+      "url": "https://www.gigl.org.uk/sinc/LeBI04"
+     },
+     {
+      "title": "AccessAble: Waterlink Way, Riverview Walk and River Pool Linear Park route plan",
+      "url": "https://www.accessable.co.uk/venues/waterlink-way-riverview-walk-and-river-pool-linear-park-route-plan"
+     },
+     {
+      "title": "Bad Witch's Blog: Green London, Riverview Walk and River Pool Linear Park (Sept 2023)",
+      "url": "https://www.badwitch.co.uk/2023/09/green-london-riverview-walk-river-pool.html"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p269",
+   "name": "Holmewood Gardens",
+   "lat": 51.44704,
+   "lon": -0.12149,
+   "type": "park",
+   "area": "Brixton Hill / Tulse Hill, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Pin is the street centre of Holmewood Gardens, SW2 (offline gazetteer), the short road around this small triangular park. Lambeth gives SW2 2SJ and GiGL SW2 3RS; both are within about 150 m.",
+   "link": "https://www.lambeth.gov.uk/parks/holmewood-gardens",
+   "ai": {
+    "score": 6,
+    "summary": "A small triangular Victorian garden square off Brixton Hill, now a Green Flag park. The north end has a children's playground that Lambeth has upgraded; the south end has a wildflower meadow and a community orchard looked after by local residents. A good neighbourhood stop for younger children.",
+    "standout": "Playground at one end, meadow and community orchard at the other",
+    "highlights": [
+     "Refurbished children's playground in the northern section",
+     "Wildflower meadow and community orchard in the southern section",
+     "Green Flag Award winner since 2021",
+     "Protected London square dating from the 1890s, cared for with a residents' association"
+    ],
+    "cautions": [
+     "Small park with a dog exercise area in the southern part",
+     "Opening hours are set by the council (daylight hours); check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Holmewood Gardens",
+      "url": "https://www.lambeth.gov.uk/parks/holmewood-gardens"
+     },
+     {
+      "title": "London Gardens Trust inventory: Holmewood Gardens (LAM019)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LAM019"
+     },
+     {
+      "title": "Brixton Buzz: In photos, Holmewood Gardens (2020)",
+      "url": "https://www.brixtonbuzz.com/2020/06/in-photos-holmewood-gardens-a-triangular-brixton-park-dating-back-to-the-victorian-era/"
+     },
+     {
+      "title": "Love Lambeth: Two new Lambeth sites fly the Green Flag",
+      "url": "https://love.lambeth.gov.uk/two-new-lambeth-sites-fly-the-green-flag-for-best-uk-parks-and-green-spaces"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p270",
+   "name": "Grafton Square",
+   "lat": 51.46431,
+   "lon": -0.13953,
+   "type": "playground",
+   "area": "Clapham Old Town, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SW4 0DE given by Lambeth Council and the London Gardens Trust, geocoded with the offline gazetteer.",
+   "link": "https://www.lambeth.gov.uk/parks/grafton-square",
+   "ai": {
+    "score": 5,
+    "summary": "A small Victorian garden square in Clapham Old Town whose southern half is a children's playground, with separate areas for under-7s and 7 to 13s. The rest is lawn, paths, benches and big old trees, so it works as a quick neighbourhood play stop near Clapham Common.",
+    "standout": "Playground with separate areas for younger and older children, inside a protected Victorian square",
+    "age": "0–13",
+    "ages": [
+     0,
+     13
+    ],
+    "extras": "Benches, lawns, mature trees",
+    "highlights": [
+     "Play areas for under 7s and for 7 to 13 year olds",
+     "Protected London square, in public ownership since 1953",
+     "Shady mature trees and lawns for a picnic"
+    ],
+    "cautions": [
+     "Small, local square rather than a destination",
+     "Opening hours are set by the council (roughly daylight hours); check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Grafton Square",
+      "url": "https://www.lambeth.gov.uk/parks/grafton-square"
+     },
+     {
+      "title": "London Gardens Trust inventory: Grafton Square (LAM015)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LAM015"
+     },
+     {
+      "title": "GiGL Space to Visit: Grafton Square",
+      "url": "https://www.gigl.org.uk/park/OS_La_0101"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p271",
+   "name": "Eden Nature Garden, St Paul's Churchyard",
+   "lat": 51.46819,
+   "lon": -0.13974,
+   "type": "nature",
+   "area": "Clapham, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SW4 0DZ (St Paul's Church, Rectory Grove) as given by the charity listing, geocoded with the offline gazetteer; other sources give SW4 0DR or SW4 0SA, all within about 300 m on Rectory Grove.",
+   "link": "https://www.lambeth.gov.uk/parks/st-pauls-churchyard-eden-nature-garden",
+   "ai": {
+    "score": 6,
+    "summary": "A free community wildlife garden made in 2000 from spare land around St Paul's Church in Clapham. It has a pond with frogs, native planting and a bee-keeping enclosure, and the lower churchyard has a small children's play area. A calm little nature stop for curious young children.",
+    "standout": "A frog pond and bee enclosure tucked behind an old Clapham church",
+    "highlights": [
+     "Wildlife pond (listed as a dipping pond) with frogs",
+     "Bee-keeping enclosure and native, organic planting",
+     "Children's play area in the lower part of the churchyard",
+     "Green Flag Community Award; a Local Wildlife Site"
+    ],
+    "cautions": [
+     "Small site reached by steps from Wandsworth Road via Matrimony Place",
+     "Sources give different opening times; check before going",
+     "Supervise children near the pond"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: St Paul's Churchyard and Eden Nature Garden",
+      "url": "https://www.lambeth.gov.uk/parks/st-pauls-churchyard-eden-nature-garden"
+     },
+     {
+      "title": "St Paul's Clapham: Eden Nature Garden",
+      "url": "https://stpaulsclapham.org/eden-nature-garden"
+     },
+     {
+      "title": "AccessAble: St Paul's Churchyard and Eden Community Garden",
+      "url": "https://www.accessable.co.uk/london-borough-of-lambeth/access-guides/st-paul-s-churchyard-and-eden-community-garden"
+     },
+     {
+      "title": "London Gardens Trust inventory: St Paul's Churchyard and Eden Nature Garden (LAM046)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LAM046"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p272",
+   "name": "St John's Park, Isle of Dogs",
+   "lat": 51.49761,
+   "lon": -0.01152,
+   "type": "playground",
+   "area": "Cubitt Town, Isle of Dogs, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode E14 3LN (Plevna Street) from Tennis Tower Hamlets, geocoded with the offline gazetteer; other listings give E14 3PE or E14 3LP, all within about 100 m.",
+   "link": "https://towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Playgrounds-and-Inclusive-Play.aspx",
+   "ai": {
+    "score": 6,
+    "summary": "A neighbourhood park of about a hectare between Manchester Road and Plevna Street, a short walk from Crossharbour DLR. Tower Hamlets lists its playground among those with inclusive play equipment, with separate areas for toddlers and juniors, and there are floodlit tennis courts too.",
+    "standout": "Inclusive play equipment, with toddler and junior areas",
+    "highlights": [
+     "Playground with inclusive equipment and separate toddler and junior areas",
+     "Two floodlit public tennis courts",
+     "About 0.2 miles from Crossharbour DLR; buses 135 and D7 stop outside"
+    ],
+    "cautions": [
+     "A tennis listing has mentioned a temporary court closure; check before going",
+     "Local park rather than a destination"
+    ],
+    "sources": [
+     {
+      "title": "Tower Hamlets Council: Playgrounds and inclusive play",
+      "url": "https://towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Playgrounds-and-Inclusive-Play.aspx"
+     },
+     {
+      "title": "GiGL Space to Visit: St John's Park",
+      "url": "https://www.gigl.org.uk/?p=62379"
+     },
+     {
+      "title": "Tennis Tower Hamlets: St John's Park",
+      "url": "https://tennistowerhamlets.com/book/courts/st-johns-park"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p273",
+   "name": "Another Time (Antony Gormley figure), Limehouse",
+   "lat": 51.50855,
+   "lon": -0.03299,
+   "type": "landmark",
+   "area": "Limehouse, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "The figure stands in the Thames behind The Grapes, 76 Narrow Street; pin is The Grapes' postcode E14 8BP (given by CAMRA, Time Out and Londonist), geocoded with the offline gazetteer.",
+   "link": "https://en.wikipedia.org/wiki/The_Grapes,_Limehouse",
+   "ai": {
+    "score": 5,
+    "summary": "A life-size cast-iron man by Antony Gormley standing in the tidal Thames behind The Grapes pub in Limehouse, installed in 2013 and owned by Sir Ian McKellen. At high tide he seems to walk on the water; at low tide he stands well clear of it. A fun one to spot with children from the river or the opposite bank.",
+    "standout": "A Gormley iron man who appears to walk on the Thames at high tide",
+    "highlights": [
+     "Antony Gormley sculpture from the 'Another Time' series, installed 2013",
+     "Changes with the tide: on the water at high tide, on the foreshore at low tide",
+     "Can be seen from the Rotherhithe bank of the Thames Path, near Pageants Stairs and Lavender Dock"
+    ],
+    "cautions": [
+     "Hard to see from the Limehouse side: a 2026 report says a gate blocks the riverside path before the viewpoint",
+     "Best viewed from across the river or a boat; check tide times before going",
+     "It is behind a pub, so the closest view is from private premises"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: The Grapes, Limehouse",
+      "url": "https://en.wikipedia.org/wiki/The_Grapes,_Limehouse"
+     },
+     {
+      "title": "Tower Hamlets Slice: Antony Gormley's submerging Thameside sculpture",
+      "url": "https://towerhamletsslice.co.uk/?p=60134"
+     },
+     {
+      "title": "The Shady Old Lady's Guide to London: Another Time",
+      "url": "https://shadyoldlady.com/location/3101"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p274",
+   "name": "West Norwood Cemetery",
+   "lat": 51.43208,
+   "lon": -0.10191,
+   "type": "nature",
+   "area": "West Norwood, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE27 9JU (Visitor Centre, main gate on Norwood Road) as given by the Friends of West Norwood Cemetery, geocoded with the offline gazetteer.",
+   "link": "https://www.fownc.org/",
+   "ai": {
+    "score": 6,
+    "summary": "A large Victorian cemetery on Norwood Road, looked after with help from an active Friends group. Older children who like history can explore its paths and monuments, and the Friends run regular guided tours plus occasional nature events such as botany walks and moth trapping. There are catacombs too, shown on special tours and an online 3D tour.",
+    "standout": "Victorian monuments and hidden catacombs, with expert guided tours",
+    "highlights": [
+     "Victorian monuments to spot along the cemetery paths",
+     "Friends' guided tours, usually on the first Sunday of the month",
+     "Occasional wildlife events such as botany walks and moth trapping",
+     "Tours start at the main gate on Norwood Road"
+    ],
+    "cautions": [
+     "A working cemetery: keep visits quiet and respectful",
+     "Tour days and times change; check with the Friends before going",
+     "The Friends' night tours are not for children",
+     "Catacombs are shown on special tours or a 3D online tour, not open to wander"
+    ],
+    "sources": [
+     {
+      "title": "Friends of West Norwood Cemetery: Tours",
+      "url": "https://www.fownc.org/tours/"
+     },
+     {
+      "title": "Lambeth Council: Night Tour of West Norwood Cemetery",
+      "url": "https://www.lambeth.gov.uk/events/night-tour-west-norwood-cemetery-walk-0"
+     },
+     {
+      "title": "Significant Cemeteries: West Norwood Cemetery, London",
+      "url": "https://www.significantcemeteries.org/2011/11/west-norwood-cemetery-london-united.html"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }

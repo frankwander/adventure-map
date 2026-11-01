@@ -683,6 +683,33 @@
    "url": "https://www.timeout.com/london/news/this-leafy-new-park-just-opened-in-south-london-090723",
    "note": "Phase 1 of Nine Elms Park at Thames City opened 2023 with Great Lawn and a nature-inspired children's playground (Time Out 2023, Gillespies press release). Linear park is long; exact position of the playground not found. Pin is Ponton Road SW11 street centre.",
    "found": "2026-11-01"
+  },
+  {
+   "name": "Holbeach Road mural (The Holbeach People's Parade), 120 Rushey Green",
+   "lat": 51.44726,
+   "lon": -0.02211,
+   "cell": "x+7y-6",
+   "url": "https://lewisham.gov.uk/articles/news/local-artists-invited-to-design-new-mural-for-holbeach-road",
+   "note": "Lewisham Council commissioned a large mural on the north wall of 120 Rushey Green at the Holbeach Road corner; an Instagram repost says Cai Bellis's design was chosen, but no source confirms it has been painted. Pin is the Holbeach Road street centre (short pedestrianised street); the mural is at its Rushey Green end.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Bell Green Pond",
+   "lat": 51.43462,
+   "lon": -0.02984,
+   "cell": "x+5y-9",
+   "url": "https://www.goparks.london/park/bell-green-pond/",
+   "note": "Small (0.47 ha) Lewisham semi-natural site on Winsford Road, SE6 4BZ (postcode pin), listed by GoParks London as an always-open nature reserve; no description of the pond, wildlife or access found, and Lewisham's own study lists it only as a semi-natural site.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Springbank Road Community Garden",
+   "lat": 51.4495,
+   "lon": 0.00077,
+   "cell": "x+10y-5",
+   "url": "https://natureconservationlewisham.co.uk/tag/springbank-road/",
+   "note": "2+ sources (Mayor of London pocket park with a pond), but the pin may be ~200 m off: sources disagree on postcode SE13 6SS vs by the station bus stop",
+   "found": "2026-11-01"
   }
  ]
 }
