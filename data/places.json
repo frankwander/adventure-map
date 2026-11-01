@@ -7910,49 +7910,6 @@
    }
   },
   {
-   "id": "p198",
-   "name": "Sir John McDougall Gardens",
-   "lat": 51.49829,
-   "lon": -0.02592,
-   "type": "park",
-   "area": "Millwall, Tower Hamlets",
-   "scope": "local",
-   "source": "ai",
-   "locationNote": "Park lies between the Thames and Westferry Road; pinned to the Westferry Road, E14 street centre beside it (HDS gazetteer).",
-   "link": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Sir_John_McDougall_Gardens.aspx",
-   "ai": {
-    "score": 6,
-    "summary": "A Green Flag riverside park of about six acres on the west side of the Isle of Dogs, opened in 1968 on bomb-damaged land. It has separate play areas for toddlers and juniors, a games court and an outdoor gym, with the Thames Path running along the river edge. A good playground stop with river views on a walk round the island.",
-    "standout": "Toddler and junior play areas right on the Thames riverside",
-    "extras": "Multi-use games area, outdoor gym",
-    "highlights": [
-     "Toddler (under 5) and junior (5+) play areas",
-     "Riverside Thames Path walkway",
-     "Green Flag Award park",
-     "Footbridge over Westferry Road"
-    ],
-    "cautions": [
-     "Sources vary in date: check current play equipment",
-     "Opening times not given: check before going"
-    ],
-    "sources": [
-     {
-      "title": "Wikipedia: Sir John McDougall Gardens",
-      "url": "https://en.wikipedia.org/wiki/Sir_John_McDougall_Gardens"
-     },
-     {
-      "title": "Tower Hamlets: Sir John McDougall Gardens",
-      "url": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Sir_John_McDougall_Gardens.aspx"
-     },
-     {
-      "title": "Tower Hamlets: Playgrounds and inclusive play",
-      "url": "https://towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Playgrounds-and-Inclusive-Play.aspx"
-     }
-    ],
-    "reviewedAt": "2026-11-01"
-   }
-  },
-  {
    "id": "p199",
    "name": "Red Cross Garden",
    "lat": 51.50375,
@@ -8227,6 +8184,638 @@
      {
       "title": "Lambeth Council: Oasis Children's Venture, Bolton Crescent",
       "url": "https://www.lambeth.gov.uk/children-young-people-and-families/special-educational-needs-and-disabilities/social-care-and-health-disabled-children-and-young-people/social-care-and-5/oasis-childrens-venture-bolton-crescent"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p205",
+   "name": "Horniman Triangle",
+   "lat": 51.43954,
+   "lon": -0.06257,
+   "type": "playground",
+   "area": "Forest Hill",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Sydenham Rise street centre (offline gazetteer); the park lies between London Road, Sydenham Rise and Sydenham Hill opposite the Horniman Museum (Lewisham Council).",
+   "link": "https://www.lewisham.gov.uk/inmyarea/openspaces/parks/horniman-s-triangle",
+   "ai": {
+    "score": 6,
+    "summary": "A small Lewisham park across the road from the Horniman Museum, with a meadow, a mature wooded corner and a children's playground with a sandpit (once a paddling pool), climbing area and swings added in 2012. Handy as a free extra stop for little ones on a Horniman day.",
+    "standout": "Sandpit playground in a meadow and woodland setting right by the Horniman",
+    "extras": "Playground with sandpit, climbing area and swings; meadow; café listed by the London Gardens Trust",
+    "highlights": [
+     "Playground with sandpit and climbing area",
+     "Swings funded through the Forest Hill Society in 2012",
+     "Meadow and mature wooded section",
+     "Easy to combine with the Horniman Museum and Gardens"
+    ],
+    "cautions": [
+     "Opening hours (listed as 8am to sunset) can change: check before going",
+     "Most detailed sources are several years old; the café listing may be out of date"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Horniman's Triangle",
+      "url": "https://www.lewisham.gov.uk/inmyarea/openspaces/parks/horniman-s-triangle"
+     },
+     {
+      "title": "London Gardens Trust inventory: Horniman's Triangle (LEW028)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW028"
+     },
+     {
+      "title": "Forest Hill Society: swinging in the Triangle",
+      "url": "https://www.foresthillsociety.com/2012/02/swinging-in-triangle.html"
+     },
+     {
+      "title": "Time Out: Horniman Triangle",
+      "url": "https://www.timeout.com/london/attractions/horniman-triangle"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p206",
+   "name": "Tulse Hill Nature Garden and Harmony Garden",
+   "lat": 51.45028,
+   "lon": -0.11544,
+   "type": "nature",
+   "area": "Tulse Hill",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Converted from the OS grid reference TQ 310 740 in Lambeth's 2022 SINC list (100 m square, centre used); on the Tulse Hill Estate near Brockwell Park.",
+   "link": "https://www.gigl.org.uk/sinc/LaL08",
+   "ai": {
+    "score": 5,
+    "summary": "A small free-to-enter wildlife garden on the Tulse Hill Estate, set up as a nature garden in 1982, with the Harmony Garden next door adding a winding path, seating and pollinator planting. A quiet spot to look for butterflies and nesting birds on the way to or from Brockwell Park.",
+    "standout": "An estate nature garden from 1982, kept wild for butterflies and birds",
+    "highlights": [
+     "Local Wildlife Site with free public access",
+     "Nettle patches that feed common butterfly caterpillars",
+     "Harmony Garden's winding path and pollinator planting",
+     "Close to Brockwell Park"
+    ],
+    "cautions": [
+     "Small (0.27 ha) and basic: no play equipment",
+     "Exact entrance within the estate not confirmed; pin is approximate",
+     "No recent sources on its condition: check before making a special trip"
+    ],
+    "sources": [
+     {
+      "title": "GiGL Local Wildlife Site: Tulse Hill Nature Garden and Harmony Garden (LaL08)",
+      "url": "https://www.gigl.org.uk/sinc/LaL08"
+     },
+     {
+      "title": "Love Lambeth: Tulse Hill turns on the tap to change (2017)",
+      "url": "https://love.lambeth.gov.uk/tulse-hill-gardens-2017"
+     },
+     {
+      "title": "Lambeth SINC list 2022",
+      "url": "https://lambeth.gov.uk/sites/default/files/2022-03/Lambeth%20SINC%20List%202022_0.pdf"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p207",
+   "name": "Crofton Park Library",
+   "lat": 51.45583,
+   "lon": -0.03602,
+   "type": "library",
+   "area": "Crofton Park",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE4 2AG from the sources (375 Brockley Road), offline gazetteer.",
+   "link": "https://libraries.lewisham.gov.uk/digital-content/libraries/crofton-park-community-library",
+   "ai": {
+    "score": 5,
+    "summary": "A community-run Lewisham library on Brockley Road with a children's library, free drop-in story times for 4 to 7 year olds and baby drop-ins. A small, friendly rainy-day stop for families in Crofton Park and Brockley.",
+    "standout": "Free weekly story time in the children's library",
+    "age": "0–7",
+    "ages": [
+     0,
+     7
+    ],
+    "extras": "Children's library, Wi-Fi, PCs, study space",
+    "highlights": [
+     "Free story time for ages 4 to 7, no booking",
+     "Baby and toddler drop-in listings",
+     "Community-run branch of Lewisham libraries"
+    ],
+    "cautions": [
+     "Opening hours are short on some days and change: check before going",
+     "Event listings found are from late 2025 and early 2026; confirm current sessions"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Libraries: Crofton Park Community Library",
+      "url": "https://libraries.lewisham.gov.uk/digital-content/libraries/crofton-park-community-library"
+     },
+     {
+      "title": "Lewisham Council: Crofton Park community library service",
+      "url": "https://lewisham.gov.uk/myservices/libraries/branches/crofton-park-community-library-service"
+     },
+     {
+      "title": "Happity: Crofton Park Library",
+      "url": "https://www.happity.co.uk/venues/baby-groups-london-crofton-park-library"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p208",
+   "name": "Tradescant Family Memorial",
+   "lat": 51.47848,
+   "lon": -0.1223,
+   "type": "landmark",
+   "area": "South Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Sources place it on St Stephen's Terrace opposite the end of Tradescant Road; St Stephen's Terrace is missing from the gazetteer, so the Tradescant Road street centre is used (pin may be ~100 m off).",
+   "ai": {
+    "score": 4,
+    "summary": "A tall stone-and-steel sculpture by Hilary Cartmel, unveiled by David Bellamy in 1988, remembering the Tradescants, the royal gardeners and plant collectors whose garden was nearby. A curious street-corner find to pair with Vauxhall Park and talk about plants from around the world.",
+    "standout": "A 4-metre sculpture honouring London's famous 17th-century plant hunters",
+    "highlights": [
+     "Public sculpture by Hilary Cartmel (1988)",
+     "Unveiled by David Bellamy",
+     "Nearby Tradescant Road links to a residents' planting project"
+    ],
+    "cautions": [
+     "Just a sculpture on a residential street: best as a stop on a walk",
+     "Pin is approximate"
+    ],
+    "sources": [
+     {
+      "title": "Art UK: Tradescant Family Memorial",
+      "url": "https://batch.artuk.org/discover/artworks/tradescant-family-memorial-311457"
+     },
+     {
+      "title": "Geograph: Tradescant memorial, South Lambeth",
+      "url": "https://www.geograph.org.uk/photo/794858"
+     },
+     {
+      "title": "PSSA: Hilary Cartmel",
+      "url": "https://pssauk.org/public-sculpture-of-britain/biography/cartmel-hilary/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p209",
+   "name": "Stockwell Memorial Gardens",
+   "lat": 51.47386,
+   "lon": -0.12279,
+   "type": "landmark",
+   "area": "Stockwell",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SW8 1UQ from Lambeth Council's park page (other listings give SW9 0QD, which geocodes ~70 m away), offline gazetteer.",
+   "link": "https://www.lambeth.gov.uk/parks/stockwell-memorial-gardens",
+   "ai": {
+    "score": 5,
+    "summary": "A small triangular garden next to Stockwell station, open 24 hours, around a white clock-tower war memorial. It holds the Bronze Woman statue, described as the first public statue of a black woman on permanent display in England, and a painted ventilation shaft mural remembering local wartime heroine Violette Szabo.",
+    "standout": "The Bronze Woman statue and the Violette Szabo mural side by side",
+    "highlights": [
+     "Bronze Woman statue (2008), inspired by Cécile Nobrega's poem",
+     "Stockwell War Memorial Mural by Brian Barnes and Marya Harris, designed with local schoolchildren",
+     "Grade II listed clock-tower memorial",
+     "Seats, grass and roses; open 24 hours"
+    ],
+    "cautions": [
+     "Small and beside busy roads at a station junction: hold little hands",
+     "No play equipment"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Stockwell Memorial Gardens",
+      "url": "https://www.lambeth.gov.uk/parks/stockwell-memorial-gardens"
+     },
+     {
+      "title": "London Gardens Trust inventory: Stockwell Memorial Garden (LAM050)",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LAM050"
+     },
+     {
+      "title": "Inspiring City: Stockwell War Memorial mural with Violette Szabo",
+      "url": "https://inspiringcity.com/2020/11/25/stockwell-war-memorial-mural-with-violet-szabo/"
+     },
+     {
+      "title": "Londonist: Black London sculptures, murals and plaques",
+      "url": "https://londonist.com/london/things-to-do/black-london-statues-plaques"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p210",
+   "name": "Oasis Stockwell Adventure Playground",
+   "lat": 51.47346,
+   "lon": -0.12895,
+   "type": "playground",
+   "area": "Stockwell",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SW8 2PD from the sources (Larkhall Lane / Priory Grove), offline gazetteer; one listing gives 40 Larkhall Lane.",
+   "link": "https://www.lambeth.gov.uk/oasis-stockwell-adventure-playground",
+   "ai": {
+    "score": 8,
+    "summary": "A charity-run adventure playground in Stockwell with free, child-led open-access sessions for school-age children, supervised by playworkers. Next door the same charity runs the Right Track youth go-kart track, and the grounds have a cycle track for pedal go-karts.",
+    "standout": "Free supervised adventure play, with go-karts on site",
+    "age": "6–16",
+    "ages": [
+     6,
+     16
+    ],
+    "highlights": [
+     "Free open-access play sessions after school, Saturdays and holidays",
+     "Cycle track with pedal go-karts",
+     "Right Track Project karting run by the same charity",
+     "Run by Oasis Children's Venture, a Stockwell charity"
+    ],
+    "cautions": [
+     "Sessions run at set times only: check before going",
+     "Age range varies between listings (6–16 per Lambeth)",
+     "Karting sessions have their own rules and ages"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Oasis Stockwell Adventure Playground",
+      "url": "https://www.lambeth.gov.uk/oasis-stockwell-adventure-playground"
+     },
+     {
+      "title": "Lambeth Family Information Directory: Oasisplay Stockwell Adventure Playground",
+      "url": "https://lambeth.gov.uk/family-information-directory/12218-oasisplay-stockwell-adventure-playground"
+     },
+     {
+      "title": "Eequ: Oasisplay Stockwell Adventure Playground",
+      "url": "https://eequ.org/book/stockwell-adventure-playground-with-oasis-childrens-venture-16650"
+     },
+     {
+      "title": "Time Out: Oasis go-kart track",
+      "url": "https://www.timeout.com/london/kids/oasis-go-kart-track"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p211",
+   "name": "SS Great Eastern launch ramp",
+   "lat": 51.48823,
+   "lon": -0.02097,
+   "type": "landmark",
+   "area": "Millwall, Isle of Dogs",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Napier Avenue street centre (offline gazetteer); sources say the preserved slipway timbers are on display at Napier Avenue, Burrells Wharf.",
+   "link": "https://thebrunelmuseum.com/visiting-us/great-eastern-launch-site",
+   "ai": {
+    "score": 5,
+    "summary": "The preserved timbers of the slipway from which Brunel's giant steamship the Great Eastern was launched sideways in 1858, with an information board and a huge chain, on a housing estate near the river at Millwall. A quick, free history stop for curious kids on a walk to Island Gardens and the foot tunnel.",
+    "standout": "Real remains of the launch ramp of Brunel's record-breaking ship",
+    "highlights": [
+     "Preserved timber and concrete slipway sections",
+     "Information board and a very large chain",
+     "Ten-minute walk from Island Gardens DLR, near Masthouse Terrace pier"
+    ],
+    "cautions": [
+     "Small and on a residential estate: it is a short stop, not a destination",
+     "Not visible from the river; sources differ on how much of the timber is on show"
+    ],
+    "sources": [
+     {
+      "title": "Brunel Museum: Great Eastern launch site",
+      "url": "https://thebrunelmuseum.com/visiting-us/great-eastern-launch-site"
+     },
+     {
+      "title": "Historic UK: The SS Great Eastern's launch ramp",
+      "url": "https://historic-uk.com/HistoryMagazine/DestinationsUK/SS-Great-Easterns-Launch-Ramp"
+     },
+     {
+      "title": "The Unfinished City: SS Great Eastern launch ramp (2022)",
+      "url": "https://www.theunfinishedcity.co.uk/2022/04/ss-great-eastern-launch-ramp.html"
+     },
+     {
+      "title": "Wikipedia: Millwall Iron Works",
+      "url": "https://en.wikipedia.org/wiki/Millwall_Iron_Works"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p212",
+   "name": "Lollard Street Adventure Playground",
+   "lat": 51.49224,
+   "lon": -0.11362,
+   "type": "playground",
+   "area": "Kennington",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Lollard Street street centre (offline gazetteer); sources give 102 Lollard Street without a postcode.",
+   "link": "https://www.lambeth.gov.uk/lollard-street-adventure-playground",
+   "ai": {
+    "score": 8,
+    "summary": "Often called the UK's oldest adventure playground, built on a bomb site in 1955 and reopened by the Kennington Association in 2013. Free supervised sessions for 6 to 16 year olds include a zip wire, big swings, a bike workshop, arts and crafts and sport, indoors and out.",
+    "standout": "Britain's oldest adventure playground, with zip wire and big swings",
+    "age": "6–16",
+    "ages": [
+     6,
+     16
+    ],
+    "highlights": [
+     "Free play sessions run by playworkers",
+     "Zip wire, big swings and a bike workshop",
+     "Won London's 'coolest place to play' award in 2015",
+     "Rich history going back to 1955"
+    ],
+    "cautions": [
+     "Sessions are for 6–16s living or at school in North Lambeth, per one source: check eligibility",
+     "Opening times vary by term and holidays: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Lollard Street Adventure Playground",
+      "url": "https://www.lambeth.gov.uk/lollard-street-adventure-playground"
+     },
+     {
+      "title": "Love Lambeth: Lollard Street, London's coolest place to play",
+      "url": "https://love.lambeth.gov.uk/lambeths-lollard-street-playground-londons-coolest-place-play"
+     },
+     {
+      "title": "Eequ: Lollard Street activities",
+      "url": "https://eequ.org/book/lollard-street-activities-with-lollard-st-adventure-playground-17167"
+     },
+     {
+      "title": "Community RePaint: Lollard Street Adventure Playground gets a recolour",
+      "url": "https://communityrepaint.org.uk/news_and_stories/lollard-street-adventure-playground-gets-recolour/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p213",
+   "name": "Albion Millennium Green",
+   "lat": 51.43556,
+   "lon": -0.05458,
+   "type": "nature",
+   "area": "Forest Hill / Sydenham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE23 3HU given for the park entrance (a 2015 notice gives SE26 4DB, ~70 m away); offline gazetteer. Entrance from Albion Villas Road and the Railway Path.",
+   "link": "https://www.goparks.london/park/albion-millennium-green/",
+   "ai": {
+    "score": 7,
+    "summary": "About a hectare of woodland, meadow and ponds between the end of Albion Villas Road and the railway, made from an old tennis club for the millennium and cared for by a charitable trust and friends group. Good for pond-peering, birdwatching and bug hunting, with an orchard project and an open-air performance space.",
+    "standout": "A tiny wild wood with ponds, tucked beside the railway",
+    "highlights": [
+     "Ponds, woodland and meadow paths",
+     "Orchard project and open-air performance area",
+     "Regular volunteer workdays, bug-hotel building and events",
+     "Green Flag recognition reported locally"
+    ],
+    "cautions": [
+     "Privately owned by a trust but open to the public; check access times before going",
+     "Small and informal: no playground or toilets mentioned"
+    ],
+    "sources": [
+     {
+      "title": "Go Parks London: Albion Millennium Green",
+      "url": "https://www.goparks.london/park/albion-millennium-green/"
+     },
+     {
+      "title": "Nature Conservation Lewisham: workdays at Albion Millennium Green",
+      "url": "https://natureconservationlewisham.co.uk/2016/05/05/workdays-at-albion-millennium-green/"
+     },
+     {
+      "title": "Forest Hill Society (Friends of Albion Millennium Green post, 2019)",
+      "url": "https://www.foresthillsociety.com/2019/03/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p214",
+   "name": "Brixton Orchard",
+   "lat": 51.45905,
+   "lon": -0.11743,
+   "type": "nature",
+   "area": "Brixton Hill",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SW2 1RH from Lambeth Council's listing (Brixton Hill, opposite St Matthew's Church / Lambeth Town Hall), offline gazetteer.",
+   "link": "https://www.lambeth.gov.uk/parks/brixton-orchard",
+   "ai": {
+    "score": 5,
+    "summary": "A community orchard planted in 2017 on a strip of Rush Common on Brixton Hill, with around 35 fruit trees and edible hedges, open 24 hours. Weekly volunteer sessions and workshops (like wildlife box building) run through the year, and in summer 2026 there were cherries and mulberries to try.",
+    "standout": "Fruit trees to visit through the seasons right on Brixton Hill",
+    "highlights": [
+     "About 35 fruit trees and edible hedging",
+     "Open to the public 24 hours",
+     "Weekly Thursday volunteer sessions and workshops",
+     "Plans for a bog garden, wildflower meadow and mushroom garden (2026)"
+    ],
+    "cautions": [
+     "Beside a very busy, polluted main road: hold little hands",
+     "Small with no play equipment"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Brixton Orchard",
+      "url": "https://www.lambeth.gov.uk/parks/brixton-orchard"
+     },
+     {
+      "title": "Go Parks London: Brixton Orchard",
+      "url": "https://goparks.london/park/brixton-orchard"
+     },
+     {
+      "title": "Brixton Buzz: Brixton Orchard volunteering every Thursday (2026)",
+      "url": "https://www.brixtonbuzz.com/2026/08/drop-into-the-brixton-orchard-volunteering-session-every-thursday-afternoon/amp/"
+     },
+     {
+      "title": "Brixton BID newsletter, August 2026",
+      "url": "https://brixtonbid.co.uk/wp-content/uploads/2026/09/BID-printed-newsletter-August-2026.pdf"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p215",
+   "name": "Cable Street Mural",
+   "lat": 51.51093,
+   "lon": -0.06004,
+   "type": "landmark",
+   "area": "Shadwell",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode E1 0BL for St George's Town Hall, 236 Cable Street (Wikipedia, Tower Hamlets 2026 listing), offline gazetteer.",
+   "link": "https://en.wikipedia.org/wiki/Cable_Street_Mural",
+   "ai": {
+    "score": 6,
+    "summary": "A huge painted mural covering the end wall of St George's Town Hall, showing the 1936 Battle of Cable Street when East Enders stopped a fascist march. Designed by David Binnington with Ray Walker, Desmond Rochfort and Paul Butler, it is packed with faces and detail to spot and a good way into a big history story with older children.",
+    "standout": "A giant, crowded history painting of East Enders standing together",
+    "highlights": [
+     "Around 3,500 sq ft of painted wall",
+     "Tells the story of the 1936 Battle of Cable Street",
+     "Restored several times, most recently for the 2011 anniversary"
+    ],
+    "cautions": [
+     "Conservation work is planned or under way: parts may be covered, so check before going",
+     "Shows a street fight: talk it through with younger children",
+     "On a busy road with no play space"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Cable Street Mural",
+      "url": "https://en.wikipedia.org/wiki/Cable_Street_Mural"
+     },
+     {
+      "title": "London Remembers: Cable Street mural",
+      "url": "https://londonremembers.com/memorials/9273"
+     },
+     {
+      "title": "For Walls With Tongues: Cable Street",
+      "url": "https://www.forwallswithtongues.org.uk/?p=921"
+     },
+     {
+      "title": "Tower Hamlets: Wapping walk 5",
+      "url": "https://www.towerhamlets.gov.uk/Documents/Leisure-and-culture/Leisure-promotion/walks/WAPPING-WALK-5.pdf"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p216",
+   "name": "King Edward Memorial Park",
+   "lat": 51.50933,
+   "lon": -0.05065,
+   "type": "park",
+   "area": "Shadwell",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Glamis Road street centre (offline gazetteer); the park lies just east of Glamis Road on the Thames at Shadwell.",
+   "link": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/King_Edward_Memorial_Park.aspx",
+   "ai": {
+    "score": 7,
+    "summary": "A riverside park in Shadwell opened in 1922 on the site of the old fish market. Tideway built a new playground there in 2017–18 during the super sewer works, and in 2026 the new King Edward Memorial Park Foreshore opened as a riverside public space. Good for Thames views, play and a riverside walk.",
+    "standout": "Thames-side park with a new riverside foreshore space opened in 2026",
+    "highlights": [
+     "New playground built by Tideway (opened 2018)",
+     "New riverside foreshore space opened 2026",
+     "Views along the Thames"
+    ],
+    "cautions": [
+     "Facilities and opening details after the works are not confirmed: check before going",
+     "Riverside edges: keep an eye on little ones"
+    ],
+    "sources": [
+     {
+      "title": "Tideway: new riverside space opens in Wapping following super sewer works (2026)",
+      "url": "https://tideway.london/news/site-news/2026/august/new-riverside-space-opens-in-wapping-following-super-sewer-works/"
+     },
+     {
+      "title": "Tideway: River Times East, summer 2018",
+      "url": "https://tideway.london/media/1825/river-times-east-summer-2018.pdf"
+     },
+     {
+      "title": "Tower Hamlets: King Edward Memorial Park",
+      "url": "https://towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/King_Edward_Memorial_Park.aspx"
+     },
+     {
+      "title": "Wikipedia: King Edward Memorial Park",
+      "url": "https://en.wikipedia.org/wiki/King_Edward_Memorial_Park"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p217",
+   "name": "Wapping Gardens",
+   "lat": 51.50468,
+   "lon": -0.06144,
+   "type": "park",
+   "area": "Wapping",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Tench Street street centre (offline gazetteer); sources place the park on Tench Street.",
+   "ai": {
+    "score": 5,
+    "summary": "A 1.3-hectare local park on Tench Street in Wapping with a children's playground, inside the Wapping Pierhead conservation area and listed as a nature conservation area of local importance. A handy play stop on a walk along the Wapping riverside.",
+    "standout": "Neighbourhood playground in a leafy Wapping park",
+    "extras": "Playground",
+    "highlights": [
+     "Children's playground",
+     "Local nature conservation designation",
+     "Close to the Thames Path and Wapping High Street"
+    ],
+    "cautions": [
+     "Opening hours (listed as 8am to dusk) can change: check before going",
+     "No recent sources describing the playground's condition"
+    ],
+    "sources": [
+     {
+      "title": "London Gardens Trust inventory: Wapping Gardens (THM067)",
+      "url": "https://londongardenstrust.org/site-record?ID=THM067"
+     },
+     {
+      "title": "Parks & Gardens UK: Wapping Gardens",
+      "url": "https://parksandgardens.org/places/wapping-gardens"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p218",
+   "name": "The Navigators sculpture, Hay's Galleria",
+   "lat": 51.50576,
+   "lon": -0.08436,
+   "type": "landmark",
+   "area": "London Bridge",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Hay's Lane street centre (offline gazetteer); the sculpture stands in the middle of Hay's Galleria off Tooley Street.",
+   "link": "https://www.atlasobscura.com/places/the-navigators",
+   "ai": {
+    "score": 6,
+    "summary": "David Kemp's 18-metre bronze sculpture of a half-man, half-ship in the pool at the heart of Hay's Galleria, installed in the late 1980s. It is a kinetic machine with fountains, and when it runs its oars move through the water. A fun, free surprise on a riverside walk between London Bridge and Tower Bridge.",
+    "standout": "A giant steampunk ship-man whose oars can move in the water",
+    "highlights": [
+     "18 m kinetic bronze sculpture with fountains",
+     "Coins thrown in the pool go to charity",
+     "Halfway between London Bridge and Tower Bridge on the river"
+    ],
+    "cautions": [
+     "The moving parts and fountains don't always run: don't count on seeing them",
+     "Inside a busy shopping and dining arcade"
+    ],
+    "sources": [
+     {
+      "title": "Atlas Obscura: The Navigators",
+      "url": "https://www.atlasobscura.com/places/the-navigators"
+     },
+     {
+      "title": "David Kemp: The Navigators, London Bridge",
+      "url": "https://www.davidkemp.uk.com/the-navigatorslondon-bridge/"
+     },
+     {
+      "title": "Team London Bridge: The Navigators",
+      "url": "https://www.teamlondonbridge.co.uk/directory/the-navigators"
+     },
+     {
+      "title": "London Bridge City: Estate art",
+      "url": "https://www.londonbridgecity.co.uk/art"
      }
     ],
     "reviewedAt": "2026-11-01"

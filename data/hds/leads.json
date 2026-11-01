@@ -352,15 +352,6 @@
    "found": "2026-11-01"
   },
   {
-   "name": "Brixton Orchard",
-   "lat": 51.45905,
-   "lon": -0.11743,
-   "cell": "x-7y-3",
-   "url": "https://www.lambeth.gov.uk/parks/brixton-orchard",
-   "note": "Small community orchard at the corner of Brixton Hill and St Matthew's Road, open 24h per Lambeth (also Go Parks London). Sources say little beyond fruit trees, so unclear what's there for children. Pin = postcode SW2 1RH given by Lambeth (another source gives SW2 5RW).",
-   "found": "2026-11-01"
-  },
-  {
    "name": "Kennington Play Project mural (Peter Sellers, by DMT), Bolton Crescent",
    "lat": 51.48058,
    "lon": -0.10774,
@@ -403,6 +394,33 @@
    "cell": "x+2y-8",
    "url": "https://www.foresthillsociety.com/mural",
    "note": "Forest Hill Society mural by Patricio Forrester/Artmongers on a wall by the station and South Circular; painting started 28 Sep 2024. Only Forest Hill Society pages; completion not confirmed. Pin = postcode SE23 3HD (chosen by us, near the station).",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Sir John McDougall Gardens",
+   "lat": 51.49829,
+   "lon": -0.02592,
+   "cell": "x+6y+5",
+   "url": "https://en.wikipedia.org/wiki/Sir_John_McDougall_Gardens",
+   "note": "Verified by 2 sources (riverside toddler and junior play), but the pin was the Westferry Road street centre, which may be hundreds of metres off: find a postcode or stated coordinates",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Wall of Heroes mural, West Dulwich station",
+   "lat": 51.44091,
+   "lon": -0.09065,
+   "cell": "x-3y-7",
+   "url": "https://londonist.com/london/art-and-photography/have-you-found-this-wall-of-heroes-in-dulwich",
+   "note": "Marlon Brown's 2011 mural (Attenborough, Rosalind Franklin, plus the 'Wild Wall' with Darwin and Wallace) on a shop by the station entrance. Only a 2018 Londonist article; not confirmed it still exists. Pin is station postcode SE21 8HN.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Newcomen Street community garden",
+   "lat": 51.50274,
+   "lon": -0.09008,
+   "cell": "x-3y+7",
+   "url": "https://www.teamlondonbridge.co.uk/project/new-community-garden-near-guys-hospital/",
+   "note": "New volunteer-built community garden near Guy's Hospital (March 2026, Team London Bridge). One source only; public access and exact site not confirmed. Pin is the Newcomen Street street centre (offline gazetteer).",
    "found": "2026-11-01"
   }
  ]
