@@ -145,15 +145,6 @@
    "found": "2026-10-31"
   },
   {
-   "name": "Brockley Station community garden",
-   "lat": 51.46419,
-   "lon": -0.0371,
-   "cell": "x+4y-2",
-   "url": "https://walks.gojauntly.com/walks/brockley-bimble-walking-trail-5182631582422471152",
-   "note": "Garden by Brockley station kept by Brockley Cross Action Group; one walking-trail source only. Pin is Coulgate Street, SE4 street centre.",
-   "found": "2026-10-31"
-  },
-  {
    "name": "New Cross Gate Cutting",
    "lat": 51.46862,
    "lon": -0.04003,
@@ -224,6 +215,33 @@
    "url": "https://www.ipernity.com/tag/philsutters/keyword/1041775",
    "note": "Only a photographer's caption names it on Flint Street, SE17. No sculptor, date or exact spot found; may be on a school building. Flint Street street centre used",
    "found": "2026-10-31"
+  },
+  {
+   "name": "Rothsay Street mural (Barnie and Matlakas)",
+   "lat": 51.49665,
+   "lon": -0.08415,
+   "cell": "x-2y+5",
+   "url": "https://southwarknews.co.uk/area/bermondsey/local-artists-paint-mural-inspired-by-the-sights-and-sounds-of-bermondsey/",
+   "note": "Community mural by Emma Barnie and Riccardo Matlakas off Tower Bridge Road, Sept 2023; one source only, exact wall unknown. Pin is Rothsay Street, SE1 street centre.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Dream Garden pocket park (Tanner Street)",
+   "lat": 51.50056,
+   "lon": -0.07568,
+   "cell": "x-1y+6",
+   "url": "https://www.london.gov.uk/programmes-and-strategies/environment-and-climate-change/parks-green-spaces-and-biodiversity/plant-tree/tree-planting-week-events/tree-planting-dream-garden-bermondsey",
+   "note": "Pocket park between Tanner Street and Coxson Way (SE1 2XB) used by Avant-Gardening; only GLA event listings from c.2019, no facilities or current access info. Pin is the SE1 2XB postcode.",
+   "found": "2026-11-01"
+  },
+  {
+   "name": "Kingfisher mural, Lordship Lane",
+   "lat": 51.44924,
+   "lon": -0.07442,
+   "cell": "x-1y-5",
+   "url": "https://mccs-journalism.gold.ac.uk/wp/nettle/?p=613",
+   "note": "Kingfisher mural on a building on Lordship Lane, East Dulwich; one undated student article, no building number or artist. Pin is Lordship Lane, SE22 street centre.",
+   "found": "2026-11-01"
   }
  ]
 }

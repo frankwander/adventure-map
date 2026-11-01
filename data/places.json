@@ -5368,6 +5368,315 @@
     ],
     "reviewedAt": "2026-11-01"
    }
+  },
+  {
+   "id": "p140",
+   "name": "Loughborough Park",
+   "lat": 51.4613,
+   "lon": -0.1057,
+   "type": "park",
+   "area": "Brixton, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Geocoded from the park's postcode SW9 8UB (Moorland Road), given by Lambeth's family information directory.",
+   "link": "https://www.lambeth.gov.uk/parks/loughborough-park",
+   "ai": {
+    "score": 5,
+    "summary": "A medium-sized Brixton park with winding paths linking a children's playground, a games pitch, a community garden with a volunteer-planted food forest, and wildlife areas. It is a local Site of Importance for Nature Conservation. Good for a nature-flavoured play stop; the old adventure playground and community centre have been closed for years.",
+    "standout": "A volunteer-planted food forest garden inside a nature-conservation site",
+    "highlights": [
+     "Children's playground and multi-use games pitch",
+     "Community garden and food forest planted with local volunteers (2022)",
+     "Local Site of Importance for Nature Conservation with wildlife areas",
+     "Regular volunteering sessions run by local groups"
+    ],
+    "cautions": [
+     "The adventure playground and community centre were reported closed after Kids Company folded in 2015 and in disrepair in 2020; no source confirms reopening",
+     "Opening hours set by the council: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Loughborough Park",
+      "url": "https://www.lambeth.gov.uk/parks/loughborough-park"
+     },
+     {
+      "title": "Lambeth Family Information Directory: Loughborough Park",
+      "url": "https://www.lambeth.gov.uk/family-information-directory/10648-loughborough-park"
+     },
+     {
+      "title": "Brixton Buzz: Loughborough Park's new food forest garden (2022)",
+      "url": "https://www.brixtonbuzz.com/2022/06/loughborough-parks-new-food-forest-garden-provides-a-serene-haven-under-the-trees/"
+     },
+     {
+      "title": "Brixton Buzz: Lambeth leaves Loughborough Park in disrepair (2020)",
+      "url": "https://www.brixtonbuzz.com/2020/01/lambeth-council-leaves-loughborough-park-in-disrepair-while-spending-612000-on-security-for-the-empty-community-centre/amp/"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p141",
+   "name": "Margaret McMillan Park",
+   "lat": 51.47725,
+   "lon": -0.02915,
+   "type": "park",
+   "area": "Deptford, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Placed between the gazetteer street centres of Douglas Way and Glenville Grove, both named as entrances by Lewisham Council (the stated postcode SE8 4BA geocodes elsewhere).",
+   "link": "https://lewisham.gov.uk/inmyarea/openspaces/parks/margaret-mcmillan-park",
+   "ai": {
+    "score": 5,
+    "summary": "A small Deptford park opened in 1954 and named after Margaret and Rachel McMillan, pioneers of nursery education and outdoor play. Lewisham lists a children's playground, and the park was improved with a new playground in a scheme finished around 2010. A simple neighbourhood play stop near Deptford market.",
+    "standout": "Named after the McMillan sisters, pioneers of open-air nursery education",
+    "highlights": [
+     "Children's playground",
+     "Named after Margaret and Rachel McMillan, champions of children's outdoor play",
+     "Close to Douglas Way and Deptford market"
+    ],
+    "cautions": [
+     "Small neighbourhood park",
+     "Opening hours set by the council (8am to sunset per Lewisham): check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Margaret McMillan Park",
+      "url": "https://lewisham.gov.uk/inmyarea/openspaces/parks/margaret-mcmillan-park"
+     },
+     {
+      "title": "London Gardens Trust: Margaret McMillan Park",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=LEW036"
+     },
+     {
+      "title": "Parks and Gardens UK: Margaret McMillan Park",
+      "url": "https://parksandgardens.org/places/margaret-mcmillan-park"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p142",
+   "name": "Brockley Common",
+   "lat": 51.46419,
+   "lon": -0.0371,
+   "type": "nature",
+   "area": "Brockley, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Next to Brockley station; pin is the gazetteer street centre of Coulgate Street, SE4, beside the station.",
+   "ai": {
+    "score": 4,
+    "summary": "A small community garden beside Brockley station, turned from a weedy wasteland by the Brockley Cross Action Group with Lewisham Council and the rail operator. Volunteers keep an edible garden and mini meadow areas. A pleasant few minutes of green to look at bugs and flowers on the way to or from the train.",
+    "standout": "A volunteer-made station garden with a mini meadow",
+    "highlights": [
+     "Created and kept by Brockley Cross Action Group volunteers",
+     "Edible garden and mini meadow areas replanted with the Brockley Society",
+     "Right by Brockley station"
+    ],
+    "cautions": [
+     "Very small: a stop-off rather than a destination",
+     "Next to a busy road junction and railway"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Brockley",
+      "url": "https://en.wikipedia.com/wiki/Brockley"
+     },
+     {
+      "title": "East London Lines: Brockley Common",
+      "url": "https://www.eastlondonlines.co.uk/?p=9366"
+     },
+     {
+      "title": "Brockley Society",
+      "url": "https://brockleysociety.org.uk/?p=2565"
+     },
+     {
+      "title": "Go Jauntly: Brockley Bimble walking trail",
+      "url": "https://walks.gojauntly.com/walks/brockley-bimble-walking-trail-5182631582422471152"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p143",
+   "name": "Hilly Fields",
+   "lat": 51.4615,
+   "lon": -0.026,
+   "type": "park",
+   "area": "Brockley, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Estimated centre of the park from gazetteer street centres of Montague Avenue, Adelaide Avenue and Cliffview Road around it.",
+   "ai": {
+    "score": 8,
+    "summary": "A hilltop park in Brockley with big views, a Millennium stone circle of granite stones, and a playground that local parents rate highly, including a mud kitchen for little ones. There is a café, Pistachios in the Park, plus tennis and basketball courts and sports pitches. A proper half-day out for all ages.",
+    "standout": "A Millennium stone circle on top of the hill",
+    "extras": "Café, playground, sports courts",
+    "highlights": [
+     "Stone circle of twelve granite stones and two shadow-casting stones, put up in 2000",
+     "Popular playground with a mud kitchen for younger children",
+     "Café (Pistachios in the Park)",
+     "Tennis and basketball courts, football and cricket pitches"
+    ],
+    "cautions": [
+     "Steep hill: hard work with a buggy",
+     "Café and opening hours change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Hilly Fields, Lewisham",
+      "url": "https://en.wikipedia.org/wiki/Hilly_Fields,_Lewisham"
+     },
+     {
+      "title": "London Gardens Trust: Hilly Fields",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW024"
+     },
+     {
+      "title": "AccessAble: Hilly Fields Park",
+      "url": "https://www.accessable.co.uk/london-borough-of-lewisham/access-guides/hilly-fields-park"
+     },
+     {
+      "title": "Go Jauntly: Hidden green gems of south east London",
+      "url": "https://www.gojauntly.com/blog/hidden-gems-south-east-london"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p144",
+   "name": "Wyck Gardens",
+   "lat": 51.4644,
+   "lon": -0.10651,
+   "type": "park",
+   "area": "Loughborough Junction, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Geocoded from the park's postcode SW9 7JD (Millbrook Road), given by Parks and Gardens UK / GoParks; the street itself is missing from the gazetteer.",
+   "link": "https://www.lambeth.gov.uk/parks/wyck-gardens",
+   "ai": {
+    "score": 8,
+    "summary": "A small linear Green Flag park by Loughborough Junction with a children's play area updated for a wider age range, an all-weather games pitch, a community garden and an edible avenue of volunteer-planted fruit trees. The Platform Café and the Ebony Horse Club riding centre are in the park too, so children may spot horses.",
+    "standout": "Orchard avenue and a riding centre in a small city park",
+    "extras": "Play area, café, games pitch, orchard, community garden",
+    "highlights": [
+     "Play area with equipment updated for a wider range of ages",
+     "Orchard of 27 volunteer-planted fruit trees",
+     "Community garden created in 2018",
+     "Platform Café and the Ebony Horse Club in the park",
+     "All-weather games pitch"
+    ],
+    "cautions": [
+     "The horse club runs its own sessions; seeing or riding horses is not guaranteed",
+     "Opening and café hours change: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Wyck Gardens",
+      "url": "https://www.lambeth.gov.uk/parks/wyck-gardens"
+     },
+     {
+      "title": "Love Lambeth: Lambeth adds extra playtime to Wyck Gardens",
+      "url": "https://love.lambeth.gov.uk/lambeth-adds-extra-playtime-to-wyck-gardens"
+     },
+     {
+      "title": "GoParks London: Wyck Gardens",
+      "url": "https://www.goparks.london/park/wyck-gardens/"
+     },
+     {
+      "title": "Parks and Gardens UK: Wyck Gardens",
+      "url": "https://www.parksandgardens.org/places/wyck-gardens"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p145",
+   "name": "Kennington Park",
+   "lat": 51.4839,
+   "lon": -0.109,
+   "type": "park",
+   "area": "Kennington, Lambeth",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Estimated inside the park, just west of the gazetteer street centres of St Agnes Place, Kennington Park Place and Kennington Park Gardens, which border it.",
+   "link": "https://www.lambeth.gov.uk/parks/kennington-park",
+   "ai": {
+    "score": 8,
+    "summary": "A big Victorian Green Flag park in Kennington with a new playground funded by the Friends of Kennington Park, offering more challenging equipment and a wildlife area. Its restored 1930s Flower Garden has a sundial and a water feature. Lots of space, well looked after, and good for a range of ages.",
+    "standout": "Friends-funded playground with challenging equipment and a wildlife area",
+    "extras": "Playground, flower garden, wildlife area",
+    "highlights": [
+     "New playground with more challenging equipment and a wildlife area, paid for by Friends fundraising",
+     "Restored 1931 Flower Garden with sundial and water feature",
+     "Green Flag Award for several years",
+     "Active Friends group running projects"
+    ],
+    "cautions": [
+     "Busy roads on several sides",
+     "Opening hours set by the council: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Lambeth Council: Kennington Park",
+      "url": "https://www.lambeth.gov.uk/parks/kennington-park"
+     },
+     {
+      "title": "Friends of Kennington Park: achievements",
+      "url": "https://www.kenningtonpark.org/achievements"
+     },
+     {
+      "title": "Love Lambeth: Kennington Park's Flower Garden reopens",
+      "url": "https://love.lambeth.gov.uk/kennington-parks-flower-garden-reopens"
+     },
+     {
+      "title": "London Gardens Trust: Kennington Park",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LAM022"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
+  },
+  {
+   "id": "p146",
+   "name": "Hartley Garden",
+   "lat": 51.49665,
+   "lon": -0.08415,
+   "type": "park",
+   "area": "Bermondsey, Southwark",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "On the former Hartley's jam factory chimney site off Rothsay Street; pin is the gazetteer street centre of Rothsay Street, SE1.",
+   "ai": {
+    "score": 5,
+    "summary": "A little pocket park on the old Hartley's jam factory site just off Tower Bridge Road, saved by residents from housebuilding. Behind a tall hedge and gate are a small play area, a lawn and seating linked by a winding path. Looks private, but it is open to the public: a quiet surprise for a short play.",
+    "standout": "A hidden garden behind a hedge on the old jam factory site",
+    "highlights": [
+     "Small play area, lawn and seating",
+     "Saved by residents from development",
+     "Tucked just off Tower Bridge Road"
+    ],
+    "cautions": [
+     "Easy to miss: the entrance is a gate in a tall hedge",
+     "Planning terms set daylight-hours public access: check before going",
+     "Very small"
+    ],
+    "sources": [
+     {
+      "title": "IanVisits: London's Pocket Parks: The Hartley Garden, SE1",
+      "url": "https://www.ianvisits.co.uk/articles/londons-pocket-parks-the-hartley-garden-se1-69394/"
+     },
+     {
+      "title": "London SE1: Jam Factory chimney site garden planning decision",
+      "url": "https://www.london-se1.co.uk/news/view/3424"
+     }
+    ],
+    "reviewedAt": "2026-11-01"
+   }
   }
  ]
 }
