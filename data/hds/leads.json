@@ -685,15 +685,6 @@
    "found": "2026-11-01"
   },
   {
-   "name": "Springbank Road Community Garden",
-   "lat": 51.4495,
-   "lon": 0.00077,
-   "cell": "x+10y-5",
-   "url": "https://natureconservationlewisham.co.uk/tag/springbank-road/",
-   "note": "2+ sources (Mayor of London pocket park with a pond), but the pin may be ~200 m off: sources disagree on postcode SE13 6SS vs by the station bus stop",
-   "found": "2026-11-01"
-  },
-  {
    "name": "Peacock feature, corner of Aylward Street and Senrab Street",
    "lat": 51.51491,
    "lon": -0.04603,
@@ -847,15 +838,6 @@
    "found": "2026-11-01"
   },
   {
-   "name": "Manor Park, Lee (Quaggy river wetland park)",
-   "lat": 51.4548,
-   "lon": -0.00036,
-   "cell": "x+10y-4",
-   "url": "https://parksandgardens.org/places/manor-park-lee",
-   "note": "Parks and Gardens UK: redesigned 2007 under the Quaggy flood scheme with Mediterranean gardens, wildflower meadow, riverside wetland, pond, woodland and a children's play area; GiGL lists River Quaggy and Manor Park as a free-access wildlife site; walking guides agree. Only blocker is the pin: 'Manor Park' is also a long road, and the park's exact position wasn't found; placeholder is the road's centre.",
-   "found": "2026-11-02"
-  },
-  {
    "name": "Barbican Wildlife Garden (Fann Street)",
    "lat": 51.52167,
    "lon": -0.09576,
@@ -934,6 +916,51 @@
    "cell": "x-9y+4",
    "url": "https://westminster.gov.uk/event/rhyme-time-pimlico-library",
    "note": "Westminster Council lists weekly term-time Rhyme Time for under-5s; library shares the Pimlico Academy campus with adult education (Art Rabbit). Street address not seen in sources: pin is Rampayne Street centre, which is my assumption and needs confirming.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Alexandra Recreation Ground, Penge",
+   "lat": 51.41622,
+   "lon": -0.04935,
+   "cell": "x+3y-13",
+   "url": "https://londongardenstrust.org/conservation/inventory/site-record?ID=BRO001",
+   "note": "Bromley SINC review (Sept 2023) says it has an under-12s playground, bowling green and football; London Gardens Trust has a record. Pin is the Parish Lane street centre only; need the park's postcode/entrance to place it, and check kid appeal beyond a standard playground.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "West Norwood station mural (Lionel Stanhope)",
+   "lat": 51.43208,
+   "lon": -0.10191,
+   "cell": "x-5y-9",
+   "url": "https://norwoodforum.org/node/1867",
+   "note": "Norwood Forum says Station to Station BID organised a Lionel Stanhope mural at West Norwood station on Knights Hill (planned early 2021, later completed). Only one source; subject of the mural unknown; pin approximate (West Norwood centre), needs the station's exact location.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Westcombe Woodlands (Blackheath Society Conservation Area)",
+   "lat": 51.48245,
+   "lon": 0.00663,
+   "cell": "x+10y+2",
+   "url": "https://goparks.london/park/blackheath-society-conservation-area",
+   "note": "Existing lead; new info: GoParks says the gate at the end of Restell Close / Seren Park Gardens (SE3 7RD) opens on the first Saturday or Sunday of each month, GIGL says access 'at limited times'; RBG lists an Apple Day there. Woodland, orchard, pond, bee hives. Still only open on limited days, so not added.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Blackheath Village Community Library",
+   "lat": 51.46554,
+   "lon": 0.00949,
+   "cell": "x+11y-2",
+   "url": "https://libraries.lewisham.gov.uk/digital-content/libraries/blackheath-village-community-library",
+   "note": "Lewisham community library hosted by Age Exchange at The Reminiscence Centre, 11 Blackheath Village, SE3 9LA (postcode geocoded). Open only when the community café is open and not always staffed; no children's offer found. Check whether it has a children's section before adding.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Mile End Park Ecology Park and Ecology Pavilion",
+   "lat": 51.51946,
+   "lon": -0.03587,
+   "cell": "x+5y+10",
+   "url": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/mile_end_park/mile_end_ecology_pavilion.aspx",
+   "note": "Ponds and reed beds with a wooden boardwalk ('Lovely Lake') to the grass-roofed Ecology Pavilion; dragonflies (Tower Hamlets, Gardenvisit, London Gardens Trust THM030). Blocker: exact position within Mile End Park not found in sources; placeholder is the Ragged School Museum postcode nearby. Also check it is distinct enough from the existing Mile End Children's Park entry.",
    "found": "2026-11-02"
   }
  ]

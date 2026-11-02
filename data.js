@@ -13871,6 +13871,604 @@ window.PLACES = [
    ],
    "reviewedAt": "2026-11-02"
   }
+ },
+ {
+  "id": "p333",
+  "name": "Crystal Palace Park Farm",
+  "lat": 51.41732,
+  "lon": -0.06914,
+  "type": "farm",
+  "area": "Crystal Palace Park, Bromley",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SE19 2BS from Time Out and thatsup listings (The Croft, Ledrington Road), geocoded with hds.py. Capel Manor says the farm is between Crystal Palace station and the Dinosaur Park, about 200 m from the station, which agrees with the postcode centre to within about 100 m.",
+  "link": "https://www.capel.ac.uk/community/crystal-palace-park-farm",
+  "ai": {
+   "score": 7,
+   "summary": "A small children's farm inside Crystal Palace Park, run by Capel Manor College as a teaching farm. It is free to visit and pairs easily with the dinosaurs and the maze on the same day. Good for toddlers and primary-age children who want to see farm animals up close.",
+   "standout": "Free farm animals a short walk from the Crystal Palace dinosaurs",
+   "age": "1–10",
+   "ages": [
+    1,
+    10
+   ],
+   "highlights": [
+    "Free entry",
+    "Run by an environmental college, with school visits and education sessions",
+    "Combine with the dinosaurs, maze and playground in the same park"
+   ],
+   "cautions": [
+    "Opening hours are limited and sources say it is closed on Wednesdays: check before going",
+    "Park improvement works may affect access, so check the Crystal Palace Park Trust website"
+   ],
+   "sources": [
+    {
+     "title": "Capel Manor College: Crystal Palace Park Farm",
+     "url": "https://www.capel.ac.uk/community/crystal-palace-park-farm"
+    },
+    {
+     "title": "Time Out: Crystal Palace Park Farm",
+     "url": "https://www.timeout.com/london/outdoor/crystal-palace-park-farm"
+    },
+    {
+     "title": "Crystal Palace Park Trust: Crystal Palace Park Farm",
+     "url": "https://www.crystalpalaceparktrust.org/pages/crystal-palace-park-farm"
+    },
+    {
+     "title": "thatsup: Crystal Palace Park Farm",
+     "url": "https://thatsup.co.uk/london/activity/crystal-palace-park-farm/"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p334",
+  "name": "Blackheath Library (Old Dover Road)",
+  "lat": 51.47667,
+  "lon": 0.0213,
+  "type": "library",
+  "area": "Blackheath / Westcombe Park, Greenwich",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SE3 7BT from the Royal Greenwich directory entry (Old Dover Road), geocoded with hds.py.",
+  "link": "https://www.better.org.uk/library/london/greenwich/blackheath-library",
+  "ai": {
+   "score": 5,
+   "summary": "A small Royal Greenwich public library on Old Dover Road, run by Better (GLL). It has a children's section and weekly sessions for families, including a baby rhyme time and a Lego and games club. A useful rainy-day stop for families on the Greenwich side of Blackheath.",
+   "standout": "Weekly baby rhyme time and a Lego and games club",
+   "age": "0–11",
+   "ages": [
+    0,
+    11
+   ],
+   "highlights": [
+    "Children's book section",
+    "Baby rhyme time on Monday mornings, according to the library's events page",
+    "Weekly Lego and games club"
+   ],
+   "cautions": [
+    "Session days and opening hours change: check the library's What's On page before going",
+    "Not to be confused with Blackheath Village Community Library (Lewisham) in Blackheath Village"
+   ],
+   "sources": [
+    {
+     "title": "Royal Borough of Greenwich: Blackheath Library",
+     "url": "https://royalgreenwich.gov.uk/directory_record/1615/blackheath_library"
+    },
+    {
+     "title": "Better: Blackheath Library what's on",
+     "url": "https://www.better.org.uk/library/london/greenwich/blackheath-library/whats-on"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p335",
+  "name": "Manor Park, Lee",
+  "lat": 51.45482,
+  "lon": -0.00082,
+  "type": "park",
+  "area": "Lee / Hither Green, Lewisham",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SE13 5RL from Time Out's listing (Leahurst Road), geocoded with hds.py; the postcode covers Leahurst Road, Manor Park and Hither Green Lane, which border the park.",
+  "link": "https://lewisham.gov.uk/organizations/manor-park",
+  "ai": {
+   "score": 7,
+   "summary": "A small neighbourhood park in Lee, redesigned in 2007 under the River Quaggy flood scheme, so the river crosses its southern end with a riverside wetland and wildflower meadow. There is a children's playground and a water feature, plus an arts café that runs workshops and events. Good for a short nature-and-play stop with younger children.",
+   "standout": "The restored River Quaggy and wetland running through a small local park",
+   "age": "1–10",
+   "ages": [
+    1,
+    10
+   ],
+   "extras": "Playground, water feature, café",
+   "highlights": [
+    "Children's playground",
+    "River Quaggy and riverside wetland",
+    "Wildflower meadow",
+    "Arts café with workshops and events"
+   ],
+   "cautions": [
+    "Water feature and café opening times vary: check before going",
+    "Fencing and planting limit access to the river itself, according to a local river group"
+   ],
+   "sources": [
+    {
+     "title": "Lewisham Council: Manor Park",
+     "url": "https://lewisham.gov.uk/organizations/manor-park"
+    },
+    {
+     "title": "Time Out: Manor Park",
+     "url": "https://www.timeout.com/london/attractions/manor-park"
+    },
+    {
+     "title": "Parks and Gardens UK: Manor Park, Lee",
+     "url": "https://parksandgardens.org/places/manor-park-lee"
+    },
+    {
+     "title": "Quaggy Waterways Action Group: Manor Park flood scheme",
+     "url": "https://qwag.org.uk/?p=739"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p336",
+  "name": "Springbank Road Community Garden",
+  "lat": 51.4495,
+  "lon": 0.00077,
+  "type": "nature",
+  "area": "Hither Green, Lewisham",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SE13 6SS given by Nature Conservation Lewisham, geocoded with hds.py; it matches the Springbank Road street centre within about 30 m. The garden sits in front of modern flats by the 225 bus stop on Springbank Road.",
+  "link": "https://natureconservationlewisham.co.uk/tag/springbank-road/",
+  "ai": {
+   "score": 4,
+   "summary": "A small volunteer-run community garden on Springbank Road in Hither Green, listed on the Mayor of London's pocket parks map. Volunteers added a little wildlife pond and gravel path. A quick stop for young children to look for bugs and plants, rather than a destination.",
+   "standout": "A tiny pocket park with a wildlife pond, looked after by local volunteers",
+   "age": "2–8",
+   "ages": [
+    2,
+    8
+   ],
+   "highlights": [
+    "Mayor of London pocket park",
+    "Small wildlife pond",
+    "Volunteer gardening sessions, reported as the second Saturday of the month"
+   ],
+   "cautions": [
+    "Very small",
+    "Most sources are a few years old: check volunteer session dates before going"
+   ],
+   "sources": [
+    {
+     "title": "Nature Conservation Lewisham: Springbank Road Community Garden",
+     "url": "https://natureconservationlewisham.co.uk/tag/springbank-road/"
+    },
+    {
+     "title": "Mayor of London: Pocket parks map",
+     "url": "https://www.london.gov.uk/WHAT-WE-DO/environment/parks-green-spaces-and-biodiversity/pocket-parks-map"
+    },
+    {
+     "title": "GoodGym: Tend to the community garden on Springbank Road",
+     "url": "https://www.goodgym.org/happenings/tend-to-the-community-garden-on-springbank-road"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p337",
+  "name": "The Tide, Greenwich Peninsula",
+  "lat": 51.50062,
+  "lon": 0.00488,
+  "type": "landmark",
+  "area": "Greenwich Peninsula, Greenwich",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Pinned at the Peninsula Square street centre (hds.py geocode), where sources say the walkway starts, by North Greenwich station; the route then runs about 1 km to the riverside by Olympian Way.",
+  "link": "https://www.visitgreenwich.org.uk/things-to-do/the-tide-p1397821",
+  "ai": {
+   "score": 7,
+   "summary": "An elevated linear park on Greenwich Peninsula: a walkway 9 metres up among trees, running from Peninsula Square by North Greenwich station to the Thames. Giant sculptures line it, including Damien Hirst's Mermaid and Hydra & Kali. Free, and a fun walk for children who like big statues and river views; easy to combine with Quantum Cloud and the Ecology Park.",
+   "standout": "Walking among treetops past giant Damien Hirst sculptures above the Thames",
+   "age": "3–16",
+   "ages": [
+    3,
+    16
+   ],
+   "highlights": [
+    "Raised walkway with views over the river and the peninsula",
+    "Giant sculptures by Damien Hirst and Allen Jones",
+    "Leads on to Antony Gormley's Quantum Cloud and towards the Ecology Park",
+    "Free, next to North Greenwich station"
+   ],
+   "cautions": [
+    "No play equipment: it is a walk with art, not a playground",
+    "The route is being extended in phases, so sections may be closed for works: check before going"
+   ],
+   "sources": [
+    {
+     "title": "Visit Greenwich: The Tide",
+     "url": "https://www.visitgreenwich.org.uk/things-to-do/the-tide-p1397821"
+    },
+    {
+     "title": "Dezeen: The Tide by Diller Scofidio + Renfro",
+     "url": "https://www.dezeen.com/2019/05/13/the-tide-park-greenwich-london-diller-scofidio-renfro/amp/"
+    },
+    {
+     "title": "Greenwich Peninsula: Art itinerary",
+     "url": "https://greenwichpeninsula.co.uk/the-peninsulist/art-itinerary"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p338",
+  "name": "Doddington and Rollo Community Roof Garden",
+  "lat": 51.47383,
+  "lon": -0.15223,
+  "type": "nature",
+  "area": "Battersea, Wandsworth",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SW11 5HD from GoodGym listings (entrance behind Tesco on Battersea Park Road, across the square and up the stairs), geocoded with hds.py; London Design Festival's address (33 Charlotte Despard Avenue, SW11 5JE) geocodes within about 50 m.",
+  "link": "https://londongardenstrust.org/log2026/gardens/Doddington.html",
+  "ai": {
+   "score": 6,
+   "summary": "A community garden built on the roof of a former car park in the middle of the Doddington and Rollo estates in Battersea, divided into five themed 'garden rooms'. Local news says visitors can drop in for free at set times each week, and volunteers run a kids' club there. A surprising green hideaway for children who like growing things.",
+   "standout": "A secret garden on top of an old car park roof",
+   "age": "3–12",
+   "ages": [
+    3,
+    12
+   ],
+   "highlights": [
+    "Five themed garden rooms on a rooftop",
+    "Free to visit during weekly open sessions",
+    "Volunteer-run kids' club and gardening sessions"
+   ],
+   "cautions": [
+    "Only open at set times (reported as Saturdays and Wednesday afternoons): check before going",
+    "Reached up stairs from the square behind Tesco on Battersea Park Road"
+   ],
+   "sources": [
+    {
+     "title": "London Gardens Trust, London Open Gardens 2026: Doddington and Rollo Community Roof Garden",
+     "url": "https://londongardenstrust.org/log2026/gardens/Doddington.html"
+    },
+    {
+     "title": "South West Londoner: Doddington and Rollo roof garden",
+     "url": "https://swlondoner.co.uk/?p=118069"
+    },
+    {
+     "title": "London Design Festival: A garden for everyone",
+     "url": "https://londondesignfestival.com/activities/a-garden-for-everyone-a-gold-medal-garden-fit-for-the-community"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p339",
+  "name": "Bethnal Green Nature Reserve",
+  "lat": 51.52899,
+  "lon": -0.05832,
+  "type": "nature",
+  "area": "Bethnal Green, Tower Hamlets",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode E2 9RR (Middleton Street) from the reserve's own site, geocoded with hds.py; the postcode centre is within about 150 m of the reserve.",
+  "link": "https://bethnalgreennaturereserve.org/visit-us",
+  "ai": {
+   "score": 6,
+   "summary": "A small community nature reserve on a hidden site in Bethnal Green, with ponds, woodland, a medicine garden and a mushroom farm. It opens to the public on set days and runs Forest Fridays, a free weekly forest school for local children and families. A good little wild space for curious kids, as long as you check the opening times first.",
+   "standout": "Free after-school forest school sessions in a hidden urban woodland",
+   "age": "3–12",
+   "ages": [
+    3,
+    12
+   ],
+   "highlights": [
+    "Ponds, woodland, medicine garden and mushroom farm",
+    "Forest Fridays: free weekly forest school for children and families (spring to autumn, book by email)",
+    "Free entry; nature walks and events through the year"
+   ],
+   "cautions": [
+    "Only open on set days and at limited times, which vary between sources: check the reserve's calendar before going",
+    "Uneven ground, which the London Open Gardens listing says is challenging for visitors with limited mobility"
+   ],
+   "sources": [
+    {
+     "title": "Bethnal Green Nature Reserve: Visit us",
+     "url": "https://bethnalgreennaturereserve.org/visit-us"
+    },
+    {
+     "title": "Bethnal Green Nature Reserve: Forest Fridays",
+     "url": "https://bethnalgreennaturereserve.org/projects/forest-fridays"
+    },
+    {
+     "title": "London Gardens Trust, London Open Gardens 2026: Bethnal Green Nature Reserve",
+     "url": "https://londongardenstrust.org/log2026/gardens/BethnalGNR.html"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p340",
+  "name": "Shoreditch Park Adventure Playground",
+  "lat": 51.5332,
+  "lon": -0.0865,
+  "type": "playground",
+  "area": "Hoxton / Shoreditch, Hackney",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode N1 5EF (Shoreditch Park, Mintern Street) from the Hackney Short Breaks listing, geocoded with hds.py.",
+  "link": "https://www.shortbreaks.hackney.gov.uk/things-to-do/shoreditch-park-adventure-playground",
+  "ai": {
+   "score": 7,
+   "summary": "A staffed, free, open-access adventure playground in Shoreditch Park, where children can come and go as they choose. Hackney Council has funded a redesign, with plans shaped by children's own designs. A proper adventure playground for school-age children, next to a park that has had its own recent revamp.",
+   "standout": "A free staffed adventure playground where children helped design the new play centre",
+   "extras": "Shoreditch Park next door with a play area and sports court",
+   "highlights": [
+    "Free and open access",
+    "Staffed by playworkers after school, on Saturdays and in the holidays (listed hours)",
+    "Redesign planned with children's designs approved by planners",
+    "Shoreditch Park around it was recently revamped with a new play area"
+   ],
+   "cautions": [
+    "Staffed hours change and the redesign may close parts of the site: check with the playground before going",
+    "Ages are not stated in the sources: ask the playworkers on arrival"
+   ],
+   "sources": [
+    {
+     "title": "Hackney Short Breaks: Shoreditch Park Adventure Playground",
+     "url": "https://www.shortbreaks.hackney.gov.uk/things-to-do/shoreditch-park-adventure-playground"
+    },
+    {
+     "title": "Hackney Citizen: Children's designs for Shoreditch Park play centre given thumbs-up by planners",
+     "url": "https://www.hackneycitizen.co.uk/?p=253138"
+    },
+    {
+     "title": "Hackney Council news: Playful plans afoot for Shoreditch Adventure Playground",
+     "url": "https://news.hackney.gov.uk/playful-plans-afoot-for-shoreditch-adventure-playground"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p341",
+  "name": "Ragged School Museum",
+  "lat": 51.51946,
+  "lon": -0.03587,
+  "type": "museum",
+  "area": "Mile End, Tower Hamlets",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode E3 4RR (46-50 Copperfield Road) from the Charity Commission record and listings, geocoded with hds.py.",
+  "link": "https://www.ianvisits.co.uk/venues/ragged-school-museum/",
+  "ai": {
+   "score": 7,
+   "summary": "A small museum in three canalside warehouses beside Mile End Park, in the building where Dr Barnardo ran a Victorian ragged school for poor children. It reopened in June 2023 after a three-year, lottery-funded restoration, and its displays tell what growing up in the Victorian East End was like. Good for primary-age children learning about the Victorians, and easy to combine with Mile End Park.",
+   "standout": "Learning what school was like for poor Victorian children, in a real ragged school building",
+   "age": "5–14",
+   "ages": [
+    5,
+    14
+   ],
+   "highlights": [
+    "Reopened in 2023 after a major restoration",
+    "Permanent exhibition on 19th-century East End childhood",
+    "Activities for families and children",
+    "Beside the Regent's Canal and Mile End Park"
+   ],
+   "cautions": [
+    "Small entry charge reported (family tickets listed at £10 in 2023): check current prices",
+    "Listed as open Wednesday to Sunday, but check opening times before going"
+   ],
+   "sources": [
+    {
+     "title": "Romford Recorder: Ragged School Museum reopens with National Lottery makeover",
+     "url": "https://www.romfordrecorder.co.uk/news/23630862.ragged-school-museum-reopens-national-lottery-makeover"
+    },
+    {
+     "title": "Roman Road London: The Ragged School Museum in Mile End Park reopens after three years of renovation",
+     "url": "https://romanroadlondon.com/?p=40902"
+    },
+    {
+     "title": "ianVisits: Ragged School Museum",
+     "url": "https://www.ianvisits.co.uk/venues/ragged-school-museum/"
+    },
+    {
+     "title": "Wikipedia: Ragged School Museum",
+     "url": "https://en.wikipedia.org/wiki/Ragged_School_Museum"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p342",
+  "name": "Golden Boy of Pye Corner",
+  "lat": 51.51691,
+  "lon": -0.10162,
+  "type": "landmark",
+  "area": "Smithfield, City of London",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "On the corner of Giltspur Street and Cock Lane (per sources). Pinned at the Giltspur Street street centre (hds.py geocode); it is a short street (about 200 m), so the pin is within about 100 m.",
+  "ai": {
+   "score": 5,
+   "summary": "A small gilded figure of a plump boy high on a building at the corner of Giltspur Street and Cock Lane, marking where the Great Fire of London of 1666 is said to have stopped. Its inscription blames the fire on gluttony: it began in Pudding Lane and ended at Pye Corner. A fun spot-it stop for children learning about the Great Fire, near Postman's Park.",
+   "standout": "The golden 'fat boy' that marks where the Great Fire of London stopped",
+   "age": "5–14",
+   "ages": [
+    5,
+    14
+   ],
+   "highlights": [
+    "Great Fire story: started in Pudding Lane, ended at Pye Corner",
+    "Grade II listed figure, gilded in the late 19th century",
+    "Pairs well with the Monument for a Great Fire trail"
+   ],
+   "cautions": [
+    "It is small and high up on a building: bring sharp eyes",
+    "Busy streets with traffic around Smithfield"
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Golden Boy of Pye Corner",
+     "url": "https://en.wikipedia.org/wiki/Golden_Boy_of_Pye_Corner"
+    },
+    {
+     "title": "ianVisits: The story of the Golden Boy of Pye Corner",
+     "url": "https://www.ianvisits.co.uk/articles/the-story-of-the-golden-boy-of-pye-corner-5861/"
+    },
+    {
+     "title": "Historic UK: The Golden Boy of Pye Corner",
+     "url": "https://www.historic-uk.com/HistoryMagazine/DestinationsUK/The-Golden-Boy-of-Pye-Corner/"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p343",
+  "name": "Smithfield Rotunda Garden (West Smithfield Garden)",
+  "lat": 51.5181,
+  "lon": -0.1019,
+  "type": "park",
+  "area": "Smithfield, City of London",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "In the middle of the West Smithfield circus. Estimated from the gazetteer postcodes around the circus (EC1A 9HQ, 9HX, 9HY, 9JU, 9LB), within about 100 m.",
+  "link": "https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/smithfield-rotunda-garden",
+  "ai": {
+   "score": 5,
+   "summary": "A small round City of London garden in the middle of West Smithfield, laid out in 1872 around a drinking fountain topped by a bronze statue of 'Peace'. A circular path runs past benches and natural play equipment, added in 2010. Beneath it was once an underground railway station, whose old ramp can still be seen. A handy play-and-picnic stop near St Bartholomew's.",
+   "standout": "Natural play equipment around a Victorian 'Peace' statue fountain",
+   "age": "2–8",
+   "ages": [
+    2,
+    8
+   ],
+   "highlights": [
+    "Natural play area (opened 2010)",
+    "Bronze 'Peace' statue on a Grade II listed drinking fountain",
+    "Look for the old ramp to the vanished underground station"
+   ],
+   "cautions": [
+    "Small garden ringed by roads: keep young children close",
+    "Busy area with building works nearby at times: check access"
+   ],
+   "sources": [
+    {
+     "title": "City of London: Smithfield Rotunda Garden",
+     "url": "https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/smithfield-rotunda-garden"
+    },
+    {
+     "title": "London Gardens Trust: West Smithfield Garden (COL120)",
+     "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=COL120"
+    },
+    {
+     "title": "Parks and Gardens UK: West Smithfield Garden",
+     "url": "https://www.parksandgardens.org/places/west-smithfield-garden"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p344",
+  "name": "Holborn Viaduct statues and winged lions",
+  "lat": 51.51695,
+  "lon": -0.10471,
+  "type": "landmark",
+  "area": "Holborn / Farringdon, City of London",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Where the viaduct crosses Farringdon Street: postcode EC1A 2BN (streets Farringdon Street and Holborn Viaduct) chosen by me from the gazetteer and geocoded with hds.py.",
+  "ai": {
+   "score": 5,
+   "summary": "The Victorian bridge that carries Holborn over Farringdon Street, opened in 1869 and decorated with four bronze statues of women representing Agriculture, Commerce, Fine Art and Science, plus four bronze winged lions. Children can hunt for the hidden details, such as each figure's crown and the objects they hold. A free street-art-history stop on a walk between Smithfield and St Paul's.",
+   "standout": "Four bronze winged lions guarding a Victorian bridge in the City",
+   "age": "5–14",
+   "ages": [
+    5,
+    14
+   ],
+   "highlights": [
+    "Four bronze statues: Agriculture, Commerce, Fine Art and Science",
+    "Four bronze winged lions",
+    "Free, and close to the Golden Boy of Pye Corner and Postman's Park"
+   ],
+   "cautions": [
+    "Busy roads on and under the bridge: keep children close"
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Holborn Viaduct",
+     "url": "https://en.wikipedia.org/wiki/Holborn_Viaduct"
+    },
+    {
+     "title": "Lonely Planet: Holborn Viaduct",
+     "url": "https://www.lonelyplanet.com/england/london/attractions/holborn-viaduct/a/poi-sig/371017/1321940"
+    },
+    {
+     "title": "London Remembers: Holborn Viaduct",
+     "url": "https://www.londonremembers.com/memorials/993"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
+ },
+ {
+  "id": "p345",
+  "name": "Upper Norwood Library Hub",
+  "lat": 51.41988,
+  "lon": -0.0821,
+  "type": "library",
+  "area": "Upper Norwood / Crystal Palace, Lambeth / Croydon",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SE19 1TQ (39 Westow Hill) from the Lambeth events listing and Croydon's page, geocoded with hds.py.",
+  "ai": {
+   "score": 5,
+   "summary": "The library hub at the top of Westow Hill in Crystal Palace, run by the Upper Norwood Library Trust and listed by both Lambeth and Croydon councils. It has a children's library with free Wriggle and Rhyme and under-5s storytime sessions led by librarians, and it takes part in Croydon's summer holiday programme for 5 to 11-year-olds. A good rainy-day stop near the Crystal Palace triangle.",
+   "standout": "Free librarian-led wriggle-and-rhyme sessions in a children's library at the top of Crystal Palace",
+   "age": "0–11",
+   "ages": [
+    0,
+    11
+   ],
+   "highlights": [
+    "Children's library",
+    "Free Wriggle and Rhyme and under-5s storytime",
+    "Holiday activities for 5 to 11-year-olds in Croydon's summer programme"
+   ],
+   "cautions": [
+    "Session days and times change: check Lambeth's events listings or call the library before going"
+   ],
+   "sources": [
+    {
+     "title": "Lambeth Council: Wriggle and Rhyme at Upper Norwood Library",
+     "url": "https://www.lambeth.gov.uk/events/wriggle-rhyme-4"
+    },
+    {
+     "title": "Croydon Council HAF summer programme 2026: Upper Norwood Library Trust",
+     "url": "https://www.croydon.gov.uk/children-young-people-and-families/croydons-haf-summer-programme-2026/upper-norwood-library-trust"
+    }
+   ],
+   "reviewedAt": "2026-11-02"
+  }
  }
 ];
-window.HDS = {"cellMeters":500,"cells":[[51.4734,-0.069,1,1],[51.47789,-0.069,1,1],[51.4734,-0.06179,1,0],[51.46891,-0.069,1,4],[51.4734,-0.07621,1,0],[51.47789,-0.06179,1,0],[51.46891,-0.06179,1,1],[51.46891,-0.07621,1,0],[51.47789,-0.07621,1,0],[51.48238,-0.069,1,0],[51.4734,-0.05458,1,0],[51.46442,-0.069,1,0],[51.4734,-0.08342,1,0],[51.47789,-0.05458,1,0],[51.46891,-0.05458,1,0],[51.48238,-0.06179,1,0],[51.46442,-0.06179,1,1],[51.46442,-0.07621,1,0],[51.47789,-0.08342,1,0],[51.48238,-0.07621,1,1],[51.46891,-0.08342,1,0],[51.48238,-0.05458,1,0],[51.46442,-0.05458,1,0],[51.48238,-0.08342,1,1],[51.46442,-0.08342,1,2],[51.48687,-0.069,1,1],[51.4734,-0.04737,1,2],[51.45993,-0.069,1,0],[51.4734,-0.09063,1,1],[51.47789,-0.09063,1,0],[51.48687,-0.07621,1,1],[51.48687,-0.06179,1,2],[51.46891,-0.04737,1,1],[51.47789,-0.04737,1,3],[51.45993,-0.06179,1,1],[51.45993,-0.07621,1,1],[51.46891,-0.09063,1,1],[51.48687,-0.08342,1,1],[51.48238,-0.04737,1,2],[51.45993,-0.08342,1,1],[51.46442,-0.04737,1,0],[51.45993,-0.05458,1,0],[51.48687,-0.05458,1,0],[51.48238,-0.09063,1,1],[51.46442,-0.09063,1,0],[51.49137,-0.069,1,0],[51.4734,-0.04016,1,1],[51.45543,-0.069,1,0],[51.4734,-0.09784,1,0],[51.49137,-0.07621,1,0],[51.49137,-0.06179,1,0],[51.46891,-0.04016,1,0],[51.47789,-0.04016,1,1],[51.47789,-0.09784,1,0],[51.45543,-0.06179,1,2],[51.45543,-0.07621,1,0],[51.46891,-0.09784,1,1],[51.48687,-0.04737,1,1],[51.45993,-0.04737,1,1],[51.48687,-0.09063,1,0],[51.45993,-0.09063,1,1],[51.49137,-0.08342,1,0],[51.49137,-0.05458,1,1],[51.48238,-0.04016,1,1],[51.46442,-0.04016,1,1],[51.45543,-0.05458,1,1],[51.48238,-0.09784,1,1],[51.45543,-0.08342,1,0],[51.46442,-0.09784,1,3],[51.49137,-0.04737,1,0],[51.49586,-0.069,1,1],[51.49137,-0.09063,1,0],[51.48687,-0.09784,1,0],[51.48687,-0.04016,1,1],[51.4734,-0.03295,1,1],[51.45543,-0.04737,1,0],[51.45543,-0.09063,1,0],[51.45094,-0.069,1,0],[51.45993,-0.09784,1,2],[51.45993,-0.04016,1,1],[51.4734,-0.10505,1,0],[51.49586,-0.07621,1,0],[51.47789,-0.10505,1,0],[51.47789,-0.03295,1,2],[51.46891,-0.03295,1,2],[51.45094,-0.06179,1,1],[51.49586,-0.06179,1,0],[51.45094,-0.07621,1,0],[51.46891,-0.10505,1,2],[51.49586,-0.08342,1,1],[51.48238,-0.10505,1,1],[51.48238,-0.03295,1,1],[51.49586,-0.05458,1,0],[51.45094,-0.08342,1,1],[51.45094,-0.05458,1,0],[51.46442,-0.10505,1,0],[51.46442,-0.03295,1,0],[51.49137,-0.09784,1,1],[51.49137,-0.04016,1,0],[51.45543,-0.09784,1,1],[51.45543,-0.04016,1,1],[51.49586,-0.09063,1,0],[51.48687,-0.10505,1,0],[51.45993,-0.03295,1,1],[51.48687,-0.03295,1,0],[51.45094,-0.04737,1,0],[51.49586,-0.04737,1,2],[51.45094,-0.09063,1,2],[51.45993,-0.10505,1,0],[51.50035,-0.069,1,0],[51.4734,-0.11227,1,1],[51.4734,-0.02573,1,2],[51.44645,-0.069,1,0],[51.50035,-0.07621,1,1],[51.46891,-0.02573,1,1],[51.44645,-0.07621,1,0],[51.50035,-0.06179,1,2],[51.44645,-0.06179,1,0],[51.47789,-0.02573,1,3],[51.46891,-0.11227,1,1],[51.47789,-0.11227,1,1],[51.50035,-0.08342,1,0],[51.48238,-0.11227,1,2],[51.46442,-0.02573,1,0],[51.50035,-0.05458,1,1],[51.44645,-0.08342,1,0],[51.44645,-0.05458,1,0],[51.48238,-0.02573,1,2],[51.46442,-0.11227,1,1],[51.49586,-0.09784,1,0],[51.49137,-0.10505,1,0],[51.45543,-0.03295,1,0],[51.49586,-0.04016,1,0],[51.49137,-0.03295,1,1],[51.45094,-0.09784,1,1],[51.45094,-0.04016,1,1],[51.45543,-0.10505,1,0],[51.48687,-0.02573,1,0],[51.50035,-0.09063,1,1],[51.48687,-0.11227,1,0],[51.45993,-0.02573,1,1],[51.50035,-0.04737,1,1],[51.44645,-0.09063,1,0],[51.44645,-0.04737,1,1],[51.45993,-0.11227,1,2],[51.50484,-0.069,1,1],[51.4734,-0.01852,1,0],[51.4734,-0.11948,1,1],[51.44196,-0.069,1,1],[51.50484,-0.06179,1,1],[51.49586,-0.10505,1,1],[51.50484,-0.07621,1,1],[51.46891,-0.01852,1,0],[51.47789,-0.01852,1,2],[51.49586,-0.03295,1,1],[51.44196,-0.07621,1,0],[51.44196,-0.06179,1,2],[51.45094,-0.10505,1,1],[51.45094,-0.03295,1,1],[51.47789,-0.11948,1,1],[51.46891,-0.11948,1,2],[51.49137,-0.02573,1,1],[51.50035,-0.09784,1,0],[51.49137,-0.11227,1,1],[51.45543,-0.02573,1,0],[51.50035,-0.04016,1,0],[51.44645,-0.09784,1,0],[51.44645,-0.04016,1,0],[51.45543,-0.11227,1,1],[51.50484,-0.05458,1,3],[51.50484,-0.08342,1,1],[51.48238,-0.01852,1,2],[51.46442,-0.01852,1,1],[51.44196,-0.08342,1,0],[51.44196,-0.05458,1,0],[51.46442,-0.11948,1,2],[51.48238,-0.11948,1,2],[51.50484,-0.04737,1,0],[51.48687,-0.01852,1,2],[51.50484,-0.09063,1,2],[51.48687,-0.11948,1,0],[51.45993,-0.01852,1,0],[51.44196,-0.09063,1,0],[51.44196,-0.04737,1,0],[51.45993,-0.11948,1,0],[51.49586,-0.02573,1,0],[51.50035,-0.10505,1,2],[51.49586,-0.11227,1,4],[51.50035,-0.03295,1,0],[51.45094,-0.11227,1,0],[51.44645,-0.10505,1,0],[51.45094,-0.02573,1,0],[51.44645,-0.03295,1,3],[51.50933,-0.069,1,2],[51.4734,-0.01131,1,1],[51.4734,-0.12669,1,1],[51.50933,-0.06179,1,1],[51.50933,-0.07621,1,4],[51.49137,-0.01852,1,0],[51.50484,-0.09784,1,0],[51.49137,-0.11948,1,2],[51.46891,-0.01131,1,0],[51.47789,-0.01131,1,1],[51.45543,-0.01852,1,0],[51.50484,-0.04016,1,0],[51.44196,-0.09784,1,1],[51.43747,-0.07621,1,0],[51.44196,-0.04016,1,0],[51.43747,-0.06179,1,1],[51.45543,-0.11948,1,1],[51.46891,-0.12669,1,0],[51.47789,-0.12669,1,1],[51.50933,-0.05458,1,1],[51.48238,-0.01131,1,1],[51.50933,-0.08342,1,2],[51.46442,-0.01131,1,1],[51.43747,-0.08342,1,1],[51.43747,-0.05458,1,0],[51.48238,-0.12669,1,1],[51.46442,-0.12669,1,0],[51.50035,-0.02573,1,0],[51.50035,-0.11227,1,1],[51.44645,-0.11227,1,0],[51.44645,-0.02573,1,1],[51.50933,-0.04737,1,0],[51.48687,-0.01131,1,0],[51.50933,-0.09063,1,1],[51.45993,-0.01131,1,0],[51.43747,-0.09063,1,0],[51.43747,-0.04737,1,1],[51.48687,-0.12669,1,1],[51.45993,-0.12669,1,1],[51.49586,-0.01852,1,0],[51.50484,-0.10505,1,0],[51.49586,-0.11948,1,0],[51.45094,-0.01852,1,0],[51.50484,-0.03295,1,0],[51.44196,-0.10505,1,2],[51.44196,-0.03295,1,0],[51.45094,-0.11948,1,0],[51.49137,-0.01131,1,0],[51.50933,-0.04016,1,1],[51.50933,-0.09784,1,2],[51.45543,-0.01131,1,1],[51.43747,-0.09784,1,2],[51.43747,-0.04016,1,0],[51.49137,-0.12669,1,2],[51.45543,-0.12669,1,1],[51.51382,-0.069,1,2],[51.4734,-0.0041,1,0],[51.43298,-0.069,1,0],[51.4734,-0.1339,1,0],[51.51382,-0.06179,1,1],[51.51382,-0.07621,1,0],[51.46891,-0.0041,1,0],[51.47789,-0.0041,1,0],[51.43298,-0.07621,1,0],[51.43298,-0.06179,1,0],[51.46891,-0.1339,1,0],[51.47789,-0.1339,1,0],[51.51382,-0.05458,1,0],[51.51382,-0.08342,1,2],[51.50035,-0.01852,1,0],[51.50484,-0.02573,1,1],[51.50484,-0.11227,1,0],[51.50035,-0.11948,1,1],[51.48238,-0.0041,1,1],[51.43298,-0.08342,1,0],[51.43298,-0.05458,1,0],[51.48238,-0.1339,1,0],[51.46442,-0.0041,1,0],[51.44196,-0.11227,1,0],[51.44645,-0.01852,1,0],[51.44196,-0.02573,1,0],[51.44645,-0.11948,1,1],[51.46442,-0.1339,1,2],[51.49586,-0.01131,1,1],[51.50933,-0.03295,1,1],[51.50933,-0.10505,1,0],[51.45094,-0.01131,1,0],[51.43747,-0.03295,1,1],[51.43747,-0.10505,1,1],[51.49586,-0.12669,1,0],[51.45094,-0.12669,1,0],[51.51382,-0.04737,1,2],[51.48687,-0.0041,1,0],[51.51382,-0.09063,1,3],[51.45993,-0.0041,1,1],[51.43298,-0.09063,1,1],[51.43298,-0.04737,1,0],[51.48687,-0.1339,1,1],[51.45993,-0.1339,1,0],[51.51382,-0.04016,1,1],[51.49137,-0.0041,1,0],[51.51382,-0.09784,1,3],[51.45543,-0.0041,1,0],[51.43298,-0.09784,1,0],[51.43298,-0.04016,1,0],[51.49137,-0.1339,1,0],[51.45543,-0.1339,1,1],[51.50484,-0.01852,1,1],[51.50484,-0.11948,1,0],[51.44196,-0.01852,1,0],[51.44196,-0.11948,1,0],[51.51832,-0.069,1,1],[51.50933,-0.02573,1,0],[51.50035,-0.01131,1,0],[51.50035,-0.12669,1,1],[51.50933,-0.11227,1,1],[51.4734,0.00311,1,1],[51.42848,-0.069,1,1],[51.4734,-0.14111,1,1],[51.44645,-0.12669,1,0],[51.44645,-0.01131,1,0],[51.43747,-0.11227,1,0],[51.43747,-0.02573,1,0],[51.51832,-0.06179,1,0],[51.51832,-0.07621,1,1],[51.46891,-0.14111,1,1],[51.47789,0.00311,1,1],[51.42848,-0.07621,1,0],[51.42848,-0.06179,1,0],[51.46891,0.00311,1,1],[51.47789,-0.14111,1,0],[51.51832,-0.05458,1,0],[51.51832,-0.08342,1,2],[51.48238,0.00311,1,1],[51.46442,0.00311,1,1],[51.42848,-0.08342,1,1],[51.42848,-0.05458,1,0],[51.48238,-0.14111,1,1],[51.46442,-0.14111,1,1],[51.49586,-0.0041,1,1],[51.51382,-0.03295,1,1],[51.51382,-0.10505,1,2],[51.45094,-0.0041,1,0],[51.43298,-0.03295,1,1],[51.43298,-0.10505,1,1],[51.45094,-0.1339,1,1],[51.49586,-0.1339,1,0],[51.51832,-0.04737,1,1],[51.51832,-0.09063,1,2],[51.48687,0.00311,1,1],[51.45993,0.00311,1,0],[51.42848,-0.09063,1,0],[51.42848,-0.04737,1,0],[51.48687,-0.14111,1,0],[51.45993,-0.14111,1,0],[51.50933,-0.01852,1,0],[51.50484,-0.01131,1,0],[51.50933,-0.11948,1,1],[51.44196,-0.01131,1,0],[51.43747,-0.01852,1,0],[51.43747,-0.11948,1,0],[51.50484,-0.12669,1,2],[51.44196,-0.12669,1,0],[51.51832,-0.04016,1,2],[51.51832,-0.09784,1,1],[51.49137,0.00311,1,1],[51.45543,0.00311,1,0],[51.42848,-0.04016,1,0],[51.42848,-0.09784,1,1],[51.45543,-0.14111,1,0],[51.49137,-0.14111,1,0],[51.50035,-0.0041,1,0],[51.51382,-0.02573,1,1],[51.51382,-0.11227,1,1],[51.44645,-0.0041,1,0],[51.43298,-0.11227,1,0],[51.43298,-0.02573,1,1],[51.44645,-0.1339,1,0],[51.50035,-0.1339,1,1],[51.52281,-0.069,1,1],[51.4734,0.01032,1,1],[51.42399,-0.069,1,0],[51.4734,-0.14832,1,0],[51.52281,-0.06179,1,1],[51.52281,-0.07621,1,1],[51.42399,-0.07621,1,0],[51.42399,-0.06179,0,0],[51.46891,0.01032,0,0],[51.47789,0.01032,0,0],[51.47789,-0.14832,0,0],[51.46891,-0.14832,0,0],[51.52281,-0.05458,0,0],[51.52281,-0.08342,0,0],[51.51832,-0.03295,0,0],[51.51832,-0.10505,0,0],[51.49586,0.00311,0,0],[51.48238,0.01032,0,0],[51.46442,0.01032,0,0],[51.42848,-0.10505,0,0],[51.45094,0.00311,0,0],[51.42399,-0.08342,0,0],[51.42399,-0.05458,0,0],[51.42848,-0.03295,0,0],[51.48238,-0.14832,0,0],[51.46442,-0.14832,0,0],[51.45094,-0.14111,0,0],[51.49586,-0.14111,0,0],[51.50933,-0.01131,0,0],[51.43747,-0.01131,0,0],[51.43747,-0.12669,0,0],[51.50933,-0.12669,0,0],[51.52281,-0.04737,0,0],[51.50484,-0.0041,0,0],[51.51382,-0.01852,0,0],[51.52281,-0.09063,0,0],[51.48687,0.01032,0,0],[51.42399,-0.09063,0,0],[51.42399,-0.04737,0,0],[51.48687,-0.14832,0,0],[51.50484,-0.1339,0,0],[51.51382,-0.11948,0,0],[51.45993,0.01032,0,0],[51.44196,-0.0041,0,0],[51.43298,-0.01852,0,0],[51.45993,-0.14832,0,0],[51.44196,-0.1339,0,0],[51.43298,-0.11948,0,0],[51.51832,-0.02573,0,0],[51.51832,-0.11227,0,0],[51.50035,0.00311,0,0],[51.50035,-0.14111,0,0],[51.44645,0.00311,0,0],[51.42848,-0.02573,0,0],[51.42848,-0.11227,0,0],[51.44645,-0.14111,0,0],[51.49137,0.01032,0,0],[51.49137,-0.14832,0,0],[51.42399,-0.09784,0,0],[51.42399,-0.04016,0,0],[51.52281,-0.04016,0,0],[51.52281,-0.09784,0,0],[51.45543,0.01032,0,0],[51.45543,-0.14832,0,0],[51.5273,-0.069,0,0],[51.4734,0.01753,0,0],[51.4734,-0.15553,0,0],[51.4195,-0.069,0,0],[51.51382,-0.01131,0,0],[51.5273,-0.06179,0,0],[51.5273,-0.07621,0,0],[51.50933,-0.0041,0,0],[51.4195,-0.07621,0,0],[51.4195,-0.06179,0,0],[51.46891,0.01753,0,0],[51.47789,0.01753,0,0],[51.47789,-0.15553,0,0],[51.46891,-0.15553,0,0],[51.50933,-0.1339,0,0],[51.51382,-0.12669,0,0],[51.43298,-0.01131,0,0],[51.43747,-0.0041,0,0],[51.43747,-0.1339,0,0],[51.43298,-0.12669,0,0],[51.52281,-0.03295,0,0],[51.52281,-0.10505,0,0],[51.49586,0.01032,0,0],[51.49586,-0.14832,0,0],[51.42399,-0.03295,0,0],[51.45094,0.01032,0,0],[51.42399,-0.10505,0,0],[51.45094,-0.14832,0,0],[51.5273,-0.05458,0,0],[51.5273,-0.08342,0,0],[51.48238,0.01753,0,0],[51.4195,-0.08342,0,0],[51.4195,-0.05458,0,0],[51.46442,0.01753,0,0],[51.46442,-0.15553,0,0],[51.51832,-0.01852,0,0],[51.51832,-0.11948,0,0],[51.44196,0.00311,0,0],[51.42848,-0.01852,0,0],[51.44196,-0.14111,0,0],[51.42848,-0.11948,0,0],[51.50484,-0.14111,0,0],[51.50484,0.00311,0,0],[51.4195,-0.04737,0,0],[51.5273,-0.04737,0,0],[51.5273,-0.09063,0,0],[51.48687,0.01753,0,0],[51.45993,0.01753,0,0],[51.4195,-0.09063,0,0],[51.45993,-0.15553,0,0],[51.48687,-0.15553,0,0],[51.42399,-0.02573,0,0],[51.52281,-0.02573,0,0],[51.52281,-0.11227,0,0],[51.50035,0.01032,0,0],[51.44645,0.01032,0,0],[51.42399,-0.11227,0,0],[51.44645,-0.14832,0,0],[51.50035,-0.14832,0,0],[51.4195,-0.04016,0,0],[51.5273,-0.04016,0,0],[51.5273,-0.09784,0,0],[51.49137,0.01753,0,0],[51.45543,0.01753,0,0],[51.4195,-0.09784,0,0],[51.45543,-0.15553,0,0],[51.49137,-0.15553,0,0],[51.43298,-0.0041,0,0],[51.51382,-0.0041,0,0],[51.43298,-0.1339,0,0],[51.51382,-0.1339,0,0],[51.50933,0.00311,0,0],[51.51832,-0.01131,0,0],[51.50933,-0.14111,0,0],[51.51832,-0.12669,0,0],[51.42848,-0.01131,0,0],[51.43747,0.00311,0,0],[51.43747,-0.14111,0,0],[51.42848,-0.12669,0,0],[51.4195,-0.03295,0,0],[51.4734,0.02474,0,0],[51.5273,-0.03295,0,0],[51.53179,-0.069,0,0],[51.5273,-0.10505,0,0],[51.49586,0.01753,0,0],[51.45094,0.01753,0,0],[51.41501,-0.069,0,0],[51.4195,-0.10505,0,0],[51.4734,-0.16274,0,0],[51.45094,-0.15553,0,0],[51.49586,-0.15553,0,0],[51.42399,-0.01852,0,0],[51.52281,-0.01852,0,0],[51.53179,-0.06179,0,0],[51.53179,-0.07621,0,0],[51.52281,-0.11948,0,0],[51.44196,0.01032,0,0],[51.41501,-0.07621,0,0],[51.41501,-0.06179,0,0],[51.46891,0.02474,0,0],[51.47789,0.02474,0,0],[51.46891,-0.16274,0,0],[51.47789,-0.16274,0,0],[51.44196,-0.14832,0,0],[51.42399,-0.11948,0,0],[51.50484,-0.14832,0,0],[51.50484,0.01032,0,0],[51.41501,-0.05458,0,0],[51.53179,-0.05458,0,0],[51.53179,-0.08342,0,0],[51.46442,0.02474,0,0],[51.41501,-0.08342,0,0],[51.48238,0.02474,0,0],[51.46442,-0.16274,0,0],[51.48238,-0.16274,0,0],[51.41501,-0.04737,0,0],[51.53179,-0.04737,0,0],[51.53179,-0.09063,0,0],[51.48687,0.02474,0,0],[51.41501,-0.09063,0,0],[51.45993,0.02474,0,0],[51.45993,-0.16274,0,0],[51.48687,-0.16274,0,0],[51.4195,-0.02573,0,0],[51.5273,-0.02573,0,0],[51.5273,-0.11227,0,0],[51.44645,0.01753,0,0],[51.44645,-0.15553,0,0],[51.4195,-0.11227,0,0],[51.50035,-0.15553,0,0],[51.50035,0.01753,0,0],[51.43298,0.00311,0,0],[51.42848,-0.0041,0,0],[51.51382,0.00311,0,0],[51.51832,-0.0041,0,0],[51.43298,-0.14111,0,0],[51.42848,-0.1339,0,0],[51.51382,-0.14111,0,0],[51.51832,-0.1339,0,0],[51.42399,-0.01131,0,0],[51.41501,-0.04016,0,0],[51.41501,-0.09784,0,0],[51.53179,-0.04016,0,0],[51.50933,0.01032,0,0],[51.52281,-0.01131,0,0],[51.53179,-0.09784,0,0],[51.52281,-0.12669,0,0],[51.43747,0.01032,0,0],[51.45543,0.02474,0,0],[51.49137,0.02474,0,0],[51.45543,-0.16274,0,0],[51.43747,-0.14832,0,0],[51.42399,-0.12669,0,0],[51.49137,-0.16274,0,0],[51.50933,-0.14832,0,0],[51.4195,-0.01852,0,0],[51.50484,0.01753,0,0],[51.5273,-0.01852,0,0],[51.5273,-0.11948,0,0],[51.44196,0.01753,0,0],[51.44196,-0.15553,0,0],[51.4195,-0.11948,0,0],[51.50484,-0.15553,0,0],[51.49586,-0.16274,0,0],[51.49586,0.02474,0,0],[51.41501,-0.03295,0,0],[51.41501,-0.10505,0,0],[51.53179,-0.03295,0,0],[51.53179,-0.10505,0,0],[51.45094,0.02474,0,0],[51.45094,-0.16274,0,0],[51.53628,-0.069,0,0],[51.41052,-0.069,0,0],[51.4734,0.03195,0,0],[51.4734,-0.16995,0,0],[51.53628,-0.07621,0,0],[51.53628,-0.06179,0,0],[51.47789,0.03195,0,0],[51.41052,-0.07621,0,0],[51.41052,-0.06179,0,0],[51.46891,0.03195,0,0],[51.46891,-0.16995,0,0],[51.47789,-0.16995,0,0],[51.42848,0.00311,0,0],[51.41052,-0.05458,0,0],[51.51832,0.00311,0,0],[51.53628,-0.08342,0,0],[51.53628,-0.05458,0,0],[51.41052,-0.08342,0,0],[51.46442,0.03195,0,0],[51.48238,0.03195,0,0],[51.48238,-0.16995,0,0],[51.46442,-0.16995,0,0],[51.42848,-0.14111,0,0],[51.51832,-0.14111,0,0],[51.42399,-0.0041,0,0],[51.43298,0.01032,0,0],[51.51382,0.01032,0,0],[51.43298,-0.14832,0,0],[51.42399,-0.1339,0,0],[51.52281,-0.1339,0,0],[51.51382,-0.14832,0,0],[51.52281,-0.0041,0,0],[51.41501,-0.02573,0,0],[51.41052,-0.04737,0,0],[51.41501,-0.11227,0,0],[51.41052,-0.09063,0,0],[51.50035,0.02474,0,0],[51.53179,-0.02573,0,0],[51.53628,-0.04737,0,0],[51.53179,-0.11227,0,0],[51.53628,-0.09063,0,0],[51.44645,0.02474,0,0],[51.48687,0.03195,0,0],[51.45993,0.03195,0,0],[51.48687,-0.16995,0,0],[51.45993,-0.16995,0,0],[51.44645,-0.16274,0,0],[51.50035,-0.16274,0,0],[51.43747,0.01753,0,0],[51.5273,-0.01131,0,0],[51.50933,0.01753,0,0],[51.5273,-0.12669,0,0],[51.4195,-0.12669,0,0],[51.43747,-0.15553,0,0],[51.50933,-0.15553,0,0],[51.41052,-0.04016,0,0],[51.41052,-0.09784,0,0],[51.53628,-0.04016,0,0],[51.53628,-0.09784,0,0],[51.45543,0.03195,0,0],[51.49137,0.03195,0,0],[51.45543,-0.16995,0,0],[51.49137,-0.16995,0,0],[51.53179,-0.01852,0,0],[51.50484,0.02474,0,0],[51.53179,-0.11948,0,0],[51.41501,-0.01852,0,0],[51.44196,0.02474,0,0],[51.44196,-0.16274,0,0],[51.41501,-0.11948,0,0],[51.53628,-0.03295,0,0],[51.52281,0.00311,0,0],[51.51832,0.01032,0,0],[51.53628,-0.10505,0,0],[51.52281,-0.14111,0,0],[51.49586,0.03195,0,0],[51.49586,-0.16995,0,0],[51.51832,-0.14832,0,0],[51.42399,0.00311,0,0],[51.42848,0.01032,0,0],[51.41052,-0.03295,0,0],[51.41052,-0.10505,0,0],[51.45094,0.03195,0,0],[51.42399,-0.14111,0,0],[51.42848,-0.14832,0,0],[51.45094,-0.16995,0,0],[51.43298,0.01753,0,0],[51.4195,-0.0041,0,0],[51.51382,0.01753,0,0],[51.54077,-0.069,0,0],[51.5273,-0.0041,0,0],[51.5273,-0.1339,0,0],[51.4734,0.03916,0,0],[51.40603,-0.069,0,0],[51.4734,-0.17716,0,0],[51.4195,-0.1339,0,0],[51.43298,-0.15553,0,0],[51.51382,-0.15553,0,0],[51.54077,-0.07621,0,0],[51.54077,-0.06179,0,0],[51.40603,-0.07621,0,0],[51.40603,-0.06179,0,0],[51.46891,0.03916,0,0],[51.47789,0.03916,0,0],[51.47789,-0.17716,0,0],[51.46891,-0.17716,0,0],[51.40603,-0.05458,0,0],[51.54077,-0.05458,0,0],[51.54077,-0.08342,0,0],[51.40603,-0.08342,0,0],[51.46442,0.03916,0,0],[51.48238,0.03916,0,0],[51.48238,-0.17716,0,0],[51.46442,-0.17716,0,0],[51.41052,-0.02573,0,0],[51.41052,-0.11227,0,0],[51.50035,0.03195,0,0],[51.53628,-0.02573,0,0],[51.53628,-0.11227,0,0],[51.44645,0.03195,0,0],[51.44645,-0.16995,0,0],[51.50035,-0.16995,0,0],[51.41501,-0.01131,0,0],[51.53179,-0.01131,0,0],[51.50933,0.02474,0,0],[51.53179,-0.12669,0,0],[51.41501,-0.12669,0,0],[51.50933,-0.16274,0,0],[51.43747,0.02474,0,0],[51.43747,-0.16274,0,0],[51.40603,-0.04737,0,0],[51.40603,-0.09063,0,0],[51.54077,-0.04737,0,0],[51.54077,-0.09063,0,0],[51.45993,0.03916,0,0],[51.48687,0.03916,0,0],[51.48687,-0.17716,0,0],[51.45993,-0.17716,0,0],[51.40603,-0.04016,0,0],[51.40603,-0.09784,0,0],[51.54077,-0.04016,0,0],[51.54077,-0.09784,0,0],[51.49137,0.03916,0,0],[51.45543,0.03916,0,0],[51.49137,-0.17716,0,0],[51.45543,-0.17716,0,0],[51.42399,0.01032,0,0],[51.52281,0.01032,0,0],[51.52281,-0.14832,0,0],[51.42399,-0.14832,0,0],[51.4195,0.00311,0,0],[51.42848,0.01753,0,0],[51.51832,0.01753,0,0],[51.5273,0.00311,0,0],[51.5273,-0.14111,0,0],[51.51832,-0.15553,0,0],[51.4195,-0.14111,0,0],[51.42848,-0.15553,0,0],[51.41052,-0.01852,0,0],[51.41052,-0.11948,0,0],[51.53628,-0.01852,0,0],[51.53628,-0.11948,0,0],[51.44196,0.03195,0,0],[51.44196,-0.16995,0,0],[51.50484,0.03195,0,0],[51.50484,-0.16995,0,0],[51.51382,0.02474,0,0],[51.51382,-0.16274,0,0],[51.41501,-0.0041,0,0],[51.40603,-0.03295,0,0],[51.40603,-0.10505,0,0],[51.53179,-0.0041,0,0],[51.54077,-0.10505,0,0],[51.53179,-0.1339,0,0],[51.43298,0.02474,0,0],[51.49586,0.03916,0,0],[51.45094,0.03916,0,0],[51.45094,-0.17716,0,0],[51.41501,-0.1339,0,0],[51.43298,-0.16274,0,0],[51.49586,-0.17716,0,0],[51.54526,-0.069,0,0],[51.4734,0.04638,0,0],[51.40154,-0.069,0,0],[51.4734,-0.18438,0,0],[51.40154,-0.07621,0,0],[51.54526,-0.06179,0,0],[51.54526,-0.07621,0,0],[51.47789,0.04638,0,0],[51.46891,0.04638,0,0],[51.40154,-0.06179,0,0],[51.47789,-0.18438,0,0],[51.46891,-0.18438,0,0],[51.40154,-0.05458,0,0],[51.41052,-0.01131,0,0],[51.40154,-0.08342,0,0],[51.53628,-0.01131,0,0],[51.50933,0.03195,0,0],[51.54526,-0.05458,0,0],[51.54526,-0.08342,0,0],[51.53628,-0.12669,0,0],[51.46442,0.04638,0,0],[51.48238,0.04638,0,0],[51.48238,-0.18438,0,0],[51.46442,-0.18438,0,0],[51.41052,-0.12669,0,0],[51.50933,-0.16995,0,0],[51.43747,0.03195,0,0],[51.43747,-0.16995,0,0],[51.40603,-0.02573,0,0],[51.40603,-0.11227,0,0],[51.54077,-0.02573,0,0],[51.50035,0.03916,0,0],[51.54077,-0.11227,0,0],[51.44645,0.03916,0,0],[51.44645,-0.17716,0,0],[51.50035,-0.17716,0,0],[51.4195,0.01032,0,0],[51.42399,0.01753,0,0],[51.40154,-0.09063,0,0],[51.40154,-0.04737,0,0],[51.4195,-0.14832,0,0],[51.52281,0.01753,0,0],[51.5273,0.01032,0,0],[51.54526,-0.04737,0,0],[51.54526,-0.09063,0,0],[51.5273,-0.14832,0,0],[51.52281,-0.15553,0,0],[51.45993,0.04638,0,0],[51.48687,0.04638,0,0],[51.48687,-0.18438,0,0],[51.45993,-0.18438,0,0],[51.42399,-0.15553,0,0],[51.41501,0.00311,0,0],[51.51832,0.02474,0,0],[51.53179,0.00311,0,0],[51.53179,-0.14111,0,0],[51.51832,-0.16274,0,0],[51.42848,0.02474,0,0],[51.41501,-0.14111,0,0],[51.42848,-0.16274,0,0],[51.40154,-0.04016,0,0],[51.40154,-0.09784,0,0],[51.54526,-0.04016,0,0],[51.54526,-0.09784,0,0],[51.49137,0.04638,0,0],[51.45543,0.04638,0,0],[51.49137,-0.18438,0,0],[51.45543,-0.18438,0,0],[51.50484,0.03916,0,0],[51.50484,-0.17716,0,0],[51.44196,0.03916,0,0],[51.40603,-0.01852,0,0],[51.54077,-0.01852,0,0],[51.54077,-0.11948,0,0],[51.40603,-0.11948,0,0],[51.44196,-0.17716,0,0]]};
+window.HDS = {"cellMeters":500,"cells":[[51.4734,-0.069,1,1],[51.47789,-0.069,1,1],[51.4734,-0.06179,1,0],[51.46891,-0.069,1,4],[51.4734,-0.07621,1,0],[51.47789,-0.06179,1,0],[51.46891,-0.06179,1,1],[51.46891,-0.07621,1,0],[51.47789,-0.07621,1,0],[51.48238,-0.069,1,0],[51.4734,-0.05458,1,0],[51.46442,-0.069,1,0],[51.4734,-0.08342,1,0],[51.47789,-0.05458,1,0],[51.46891,-0.05458,1,0],[51.48238,-0.06179,1,0],[51.46442,-0.06179,1,1],[51.46442,-0.07621,1,0],[51.47789,-0.08342,1,0],[51.48238,-0.07621,1,1],[51.46891,-0.08342,1,0],[51.48238,-0.05458,1,0],[51.46442,-0.05458,1,0],[51.48238,-0.08342,1,1],[51.46442,-0.08342,1,2],[51.48687,-0.069,1,1],[51.4734,-0.04737,1,2],[51.45993,-0.069,1,0],[51.4734,-0.09063,1,1],[51.47789,-0.09063,1,0],[51.48687,-0.07621,1,1],[51.48687,-0.06179,1,2],[51.46891,-0.04737,1,1],[51.47789,-0.04737,1,3],[51.45993,-0.06179,1,1],[51.45993,-0.07621,1,1],[51.46891,-0.09063,1,1],[51.48687,-0.08342,1,1],[51.48238,-0.04737,1,2],[51.45993,-0.08342,1,1],[51.46442,-0.04737,1,0],[51.45993,-0.05458,1,0],[51.48687,-0.05458,1,0],[51.48238,-0.09063,1,1],[51.46442,-0.09063,1,0],[51.49137,-0.069,1,0],[51.4734,-0.04016,1,1],[51.45543,-0.069,1,0],[51.4734,-0.09784,1,0],[51.49137,-0.07621,1,0],[51.49137,-0.06179,1,0],[51.46891,-0.04016,1,0],[51.47789,-0.04016,1,1],[51.47789,-0.09784,1,0],[51.45543,-0.06179,1,2],[51.45543,-0.07621,1,0],[51.46891,-0.09784,1,1],[51.48687,-0.04737,1,1],[51.45993,-0.04737,1,1],[51.48687,-0.09063,1,0],[51.45993,-0.09063,1,1],[51.49137,-0.08342,1,0],[51.49137,-0.05458,1,1],[51.48238,-0.04016,1,1],[51.46442,-0.04016,1,1],[51.45543,-0.05458,1,1],[51.48238,-0.09784,1,1],[51.45543,-0.08342,1,0],[51.46442,-0.09784,1,3],[51.49137,-0.04737,1,0],[51.49586,-0.069,1,1],[51.49137,-0.09063,1,0],[51.48687,-0.09784,1,0],[51.48687,-0.04016,1,1],[51.4734,-0.03295,1,1],[51.45543,-0.04737,1,0],[51.45543,-0.09063,1,0],[51.45094,-0.069,1,0],[51.45993,-0.09784,1,2],[51.45993,-0.04016,1,1],[51.4734,-0.10505,1,0],[51.49586,-0.07621,1,0],[51.47789,-0.10505,1,0],[51.47789,-0.03295,1,2],[51.46891,-0.03295,1,2],[51.45094,-0.06179,1,1],[51.49586,-0.06179,1,0],[51.45094,-0.07621,1,0],[51.46891,-0.10505,1,2],[51.49586,-0.08342,1,1],[51.48238,-0.10505,1,1],[51.48238,-0.03295,1,1],[51.49586,-0.05458,1,0],[51.45094,-0.08342,1,1],[51.45094,-0.05458,1,0],[51.46442,-0.10505,1,0],[51.46442,-0.03295,1,0],[51.49137,-0.09784,1,1],[51.49137,-0.04016,1,0],[51.45543,-0.09784,1,1],[51.45543,-0.04016,1,1],[51.49586,-0.09063,1,0],[51.48687,-0.10505,1,0],[51.45993,-0.03295,1,1],[51.48687,-0.03295,1,0],[51.45094,-0.04737,1,0],[51.49586,-0.04737,1,2],[51.45094,-0.09063,1,2],[51.45993,-0.10505,1,0],[51.50035,-0.069,1,0],[51.4734,-0.11227,1,1],[51.4734,-0.02573,1,2],[51.44645,-0.069,1,0],[51.50035,-0.07621,1,1],[51.46891,-0.02573,1,1],[51.44645,-0.07621,1,0],[51.50035,-0.06179,1,2],[51.44645,-0.06179,1,0],[51.47789,-0.02573,1,3],[51.46891,-0.11227,1,1],[51.47789,-0.11227,1,1],[51.50035,-0.08342,1,0],[51.48238,-0.11227,1,2],[51.46442,-0.02573,1,0],[51.50035,-0.05458,1,1],[51.44645,-0.08342,1,0],[51.44645,-0.05458,1,0],[51.48238,-0.02573,1,2],[51.46442,-0.11227,1,1],[51.49586,-0.09784,1,0],[51.49137,-0.10505,1,0],[51.45543,-0.03295,1,0],[51.49586,-0.04016,1,0],[51.49137,-0.03295,1,1],[51.45094,-0.09784,1,1],[51.45094,-0.04016,1,1],[51.45543,-0.10505,1,0],[51.48687,-0.02573,1,0],[51.50035,-0.09063,1,1],[51.48687,-0.11227,1,0],[51.45993,-0.02573,1,1],[51.50035,-0.04737,1,1],[51.44645,-0.09063,1,0],[51.44645,-0.04737,1,1],[51.45993,-0.11227,1,2],[51.50484,-0.069,1,1],[51.4734,-0.01852,1,0],[51.4734,-0.11948,1,1],[51.44196,-0.069,1,1],[51.50484,-0.06179,1,1],[51.49586,-0.10505,1,1],[51.50484,-0.07621,1,1],[51.46891,-0.01852,1,0],[51.47789,-0.01852,1,2],[51.49586,-0.03295,1,1],[51.44196,-0.07621,1,0],[51.44196,-0.06179,1,2],[51.45094,-0.10505,1,1],[51.45094,-0.03295,1,1],[51.47789,-0.11948,1,1],[51.46891,-0.11948,1,2],[51.49137,-0.02573,1,1],[51.50035,-0.09784,1,0],[51.49137,-0.11227,1,1],[51.45543,-0.02573,1,0],[51.50035,-0.04016,1,0],[51.44645,-0.09784,1,0],[51.44645,-0.04016,1,0],[51.45543,-0.11227,1,1],[51.50484,-0.05458,1,3],[51.50484,-0.08342,1,1],[51.48238,-0.01852,1,2],[51.46442,-0.01852,1,1],[51.44196,-0.08342,1,0],[51.44196,-0.05458,1,0],[51.46442,-0.11948,1,2],[51.48238,-0.11948,1,2],[51.50484,-0.04737,1,0],[51.48687,-0.01852,1,2],[51.50484,-0.09063,1,2],[51.48687,-0.11948,1,0],[51.45993,-0.01852,1,0],[51.44196,-0.09063,1,0],[51.44196,-0.04737,1,0],[51.45993,-0.11948,1,0],[51.49586,-0.02573,1,0],[51.50035,-0.10505,1,2],[51.49586,-0.11227,1,4],[51.50035,-0.03295,1,0],[51.45094,-0.11227,1,0],[51.44645,-0.10505,1,0],[51.45094,-0.02573,1,0],[51.44645,-0.03295,1,3],[51.50933,-0.069,1,2],[51.4734,-0.01131,1,1],[51.4734,-0.12669,1,1],[51.50933,-0.06179,1,1],[51.50933,-0.07621,1,4],[51.49137,-0.01852,1,0],[51.50484,-0.09784,1,0],[51.49137,-0.11948,1,2],[51.46891,-0.01131,1,0],[51.47789,-0.01131,1,1],[51.45543,-0.01852,1,0],[51.50484,-0.04016,1,0],[51.44196,-0.09784,1,1],[51.43747,-0.07621,1,0],[51.44196,-0.04016,1,0],[51.43747,-0.06179,1,1],[51.45543,-0.11948,1,1],[51.46891,-0.12669,1,0],[51.47789,-0.12669,1,1],[51.50933,-0.05458,1,1],[51.48238,-0.01131,1,1],[51.50933,-0.08342,1,2],[51.46442,-0.01131,1,1],[51.43747,-0.08342,1,1],[51.43747,-0.05458,1,0],[51.48238,-0.12669,1,1],[51.46442,-0.12669,1,0],[51.50035,-0.02573,1,0],[51.50035,-0.11227,1,1],[51.44645,-0.11227,1,0],[51.44645,-0.02573,1,1],[51.50933,-0.04737,1,0],[51.48687,-0.01131,1,0],[51.50933,-0.09063,1,1],[51.45993,-0.01131,1,0],[51.43747,-0.09063,1,0],[51.43747,-0.04737,1,1],[51.48687,-0.12669,1,1],[51.45993,-0.12669,1,1],[51.49586,-0.01852,1,0],[51.50484,-0.10505,1,0],[51.49586,-0.11948,1,0],[51.45094,-0.01852,1,0],[51.50484,-0.03295,1,0],[51.44196,-0.10505,1,2],[51.44196,-0.03295,1,0],[51.45094,-0.11948,1,0],[51.49137,-0.01131,1,0],[51.50933,-0.04016,1,1],[51.50933,-0.09784,1,2],[51.45543,-0.01131,1,1],[51.43747,-0.09784,1,2],[51.43747,-0.04016,1,0],[51.49137,-0.12669,1,2],[51.45543,-0.12669,1,1],[51.51382,-0.069,1,2],[51.4734,-0.0041,1,0],[51.43298,-0.069,1,0],[51.4734,-0.1339,1,0],[51.51382,-0.06179,1,1],[51.51382,-0.07621,1,0],[51.46891,-0.0041,1,0],[51.47789,-0.0041,1,0],[51.43298,-0.07621,1,0],[51.43298,-0.06179,1,0],[51.46891,-0.1339,1,0],[51.47789,-0.1339,1,0],[51.51382,-0.05458,1,0],[51.51382,-0.08342,1,2],[51.50035,-0.01852,1,0],[51.50484,-0.02573,1,1],[51.50484,-0.11227,1,0],[51.50035,-0.11948,1,1],[51.48238,-0.0041,1,1],[51.43298,-0.08342,1,0],[51.43298,-0.05458,1,0],[51.48238,-0.1339,1,0],[51.46442,-0.0041,1,0],[51.44196,-0.11227,1,0],[51.44645,-0.01852,1,0],[51.44196,-0.02573,1,0],[51.44645,-0.11948,1,1],[51.46442,-0.1339,1,2],[51.49586,-0.01131,1,1],[51.50933,-0.03295,1,1],[51.50933,-0.10505,1,0],[51.45094,-0.01131,1,0],[51.43747,-0.03295,1,1],[51.43747,-0.10505,1,1],[51.49586,-0.12669,1,0],[51.45094,-0.12669,1,0],[51.51382,-0.04737,1,2],[51.48687,-0.0041,1,0],[51.51382,-0.09063,1,3],[51.45993,-0.0041,1,1],[51.43298,-0.09063,1,1],[51.43298,-0.04737,1,0],[51.48687,-0.1339,1,1],[51.45993,-0.1339,1,0],[51.51382,-0.04016,1,1],[51.49137,-0.0041,1,0],[51.51382,-0.09784,1,3],[51.45543,-0.0041,1,0],[51.43298,-0.09784,1,0],[51.43298,-0.04016,1,0],[51.49137,-0.1339,1,0],[51.45543,-0.1339,1,1],[51.50484,-0.01852,1,1],[51.50484,-0.11948,1,0],[51.44196,-0.01852,1,0],[51.44196,-0.11948,1,0],[51.51832,-0.069,1,1],[51.50933,-0.02573,1,0],[51.50035,-0.01131,1,0],[51.50035,-0.12669,1,1],[51.50933,-0.11227,1,1],[51.4734,0.00311,1,1],[51.42848,-0.069,1,1],[51.4734,-0.14111,1,1],[51.44645,-0.12669,1,0],[51.44645,-0.01131,1,0],[51.43747,-0.11227,1,0],[51.43747,-0.02573,1,0],[51.51832,-0.06179,1,0],[51.51832,-0.07621,1,1],[51.46891,-0.14111,1,1],[51.47789,0.00311,1,1],[51.42848,-0.07621,1,0],[51.42848,-0.06179,1,0],[51.46891,0.00311,1,1],[51.47789,-0.14111,1,0],[51.51832,-0.05458,1,0],[51.51832,-0.08342,1,2],[51.48238,0.00311,1,1],[51.46442,0.00311,1,1],[51.42848,-0.08342,1,1],[51.42848,-0.05458,1,0],[51.48238,-0.14111,1,1],[51.46442,-0.14111,1,1],[51.49586,-0.0041,1,1],[51.51382,-0.03295,1,1],[51.51382,-0.10505,1,2],[51.45094,-0.0041,1,0],[51.43298,-0.03295,1,1],[51.43298,-0.10505,1,1],[51.45094,-0.1339,1,1],[51.49586,-0.1339,1,0],[51.51832,-0.04737,1,1],[51.51832,-0.09063,1,2],[51.48687,0.00311,1,1],[51.45993,0.00311,1,0],[51.42848,-0.09063,1,0],[51.42848,-0.04737,1,0],[51.48687,-0.14111,1,0],[51.45993,-0.14111,1,0],[51.50933,-0.01852,1,0],[51.50484,-0.01131,1,0],[51.50933,-0.11948,1,1],[51.44196,-0.01131,1,0],[51.43747,-0.01852,1,0],[51.43747,-0.11948,1,0],[51.50484,-0.12669,1,2],[51.44196,-0.12669,1,0],[51.51832,-0.04016,1,2],[51.51832,-0.09784,1,1],[51.49137,0.00311,1,1],[51.45543,0.00311,1,0],[51.42848,-0.04016,1,0],[51.42848,-0.09784,1,1],[51.45543,-0.14111,1,0],[51.49137,-0.14111,1,0],[51.50035,-0.0041,1,0],[51.51382,-0.02573,1,1],[51.51382,-0.11227,1,1],[51.44645,-0.0041,1,0],[51.43298,-0.11227,1,0],[51.43298,-0.02573,1,1],[51.44645,-0.1339,1,0],[51.50035,-0.1339,1,1],[51.52281,-0.069,1,1],[51.4734,0.01032,1,1],[51.42399,-0.069,1,0],[51.4734,-0.14832,1,0],[51.52281,-0.06179,1,1],[51.52281,-0.07621,1,1],[51.42399,-0.07621,1,0],[51.42399,-0.06179,1,1],[51.46891,0.01032,1,0],[51.47789,0.01032,1,0],[51.47789,-0.14832,1,0],[51.46891,-0.14832,1,1],[51.52281,-0.05458,1,1],[51.52281,-0.08342,1,1],[51.51832,-0.03295,1,1],[51.51832,-0.10505,1,3],[51.49586,0.00311,1,1],[51.48238,0.01032,1,0],[51.46442,0.01032,1,1],[51.42848,-0.10505,1,0],[51.45094,0.00311,1,2],[51.42399,-0.08342,1,1],[51.42399,-0.05458,1,0],[51.42848,-0.03295,0,0],[51.48238,-0.14832,0,0],[51.46442,-0.14832,0,0],[51.45094,-0.14111,0,0],[51.49586,-0.14111,0,0],[51.50933,-0.01131,0,0],[51.43747,-0.01131,0,0],[51.43747,-0.12669,0,0],[51.50933,-0.12669,0,0],[51.52281,-0.04737,0,0],[51.50484,-0.0041,0,0],[51.51382,-0.01852,0,0],[51.52281,-0.09063,0,0],[51.48687,0.01032,0,0],[51.42399,-0.09063,0,0],[51.42399,-0.04737,0,0],[51.48687,-0.14832,0,0],[51.50484,-0.1339,0,0],[51.51382,-0.11948,0,0],[51.45993,0.01032,0,0],[51.44196,-0.0041,0,0],[51.43298,-0.01852,0,0],[51.45993,-0.14832,0,0],[51.44196,-0.1339,0,0],[51.43298,-0.11948,0,0],[51.51832,-0.02573,0,0],[51.51832,-0.11227,0,0],[51.50035,0.00311,0,0],[51.50035,-0.14111,0,0],[51.44645,0.00311,0,0],[51.42848,-0.02573,0,0],[51.42848,-0.11227,0,0],[51.44645,-0.14111,0,0],[51.49137,0.01032,0,0],[51.49137,-0.14832,0,0],[51.42399,-0.09784,0,0],[51.42399,-0.04016,0,0],[51.52281,-0.04016,0,0],[51.52281,-0.09784,0,0],[51.45543,0.01032,0,0],[51.45543,-0.14832,0,0],[51.5273,-0.069,0,0],[51.4734,0.01753,0,0],[51.4734,-0.15553,0,0],[51.4195,-0.069,0,0],[51.51382,-0.01131,0,0],[51.5273,-0.06179,0,0],[51.5273,-0.07621,0,0],[51.50933,-0.0041,0,0],[51.4195,-0.07621,0,0],[51.4195,-0.06179,0,0],[51.46891,0.01753,0,0],[51.47789,0.01753,0,0],[51.47789,-0.15553,0,0],[51.46891,-0.15553,0,0],[51.50933,-0.1339,0,0],[51.51382,-0.12669,0,0],[51.43298,-0.01131,0,0],[51.43747,-0.0041,0,0],[51.43747,-0.1339,0,0],[51.43298,-0.12669,0,0],[51.52281,-0.03295,0,0],[51.52281,-0.10505,0,0],[51.49586,0.01032,0,0],[51.49586,-0.14832,0,0],[51.42399,-0.03295,0,0],[51.45094,0.01032,0,0],[51.42399,-0.10505,0,0],[51.45094,-0.14832,0,0],[51.5273,-0.05458,0,0],[51.5273,-0.08342,0,0],[51.48238,0.01753,0,0],[51.4195,-0.08342,0,0],[51.4195,-0.05458,0,0],[51.46442,0.01753,0,0],[51.46442,-0.15553,0,0],[51.51832,-0.01852,0,0],[51.51832,-0.11948,0,0],[51.44196,0.00311,0,0],[51.42848,-0.01852,0,0],[51.44196,-0.14111,0,0],[51.42848,-0.11948,0,0],[51.50484,-0.14111,0,0],[51.50484,0.00311,0,0],[51.4195,-0.04737,0,0],[51.5273,-0.04737,0,0],[51.5273,-0.09063,0,0],[51.48687,0.01753,0,0],[51.45993,0.01753,0,0],[51.4195,-0.09063,0,0],[51.45993,-0.15553,0,0],[51.48687,-0.15553,0,0],[51.42399,-0.02573,0,0],[51.52281,-0.02573,0,0],[51.52281,-0.11227,0,0],[51.50035,0.01032,0,0],[51.44645,0.01032,0,0],[51.42399,-0.11227,0,0],[51.44645,-0.14832,0,0],[51.50035,-0.14832,0,0],[51.4195,-0.04016,0,0],[51.5273,-0.04016,0,0],[51.5273,-0.09784,0,0],[51.49137,0.01753,0,0],[51.45543,0.01753,0,0],[51.4195,-0.09784,0,0],[51.45543,-0.15553,0,0],[51.49137,-0.15553,0,0],[51.43298,-0.0041,0,0],[51.51382,-0.0041,0,0],[51.43298,-0.1339,0,0],[51.51382,-0.1339,0,0],[51.50933,0.00311,0,0],[51.51832,-0.01131,0,0],[51.50933,-0.14111,0,0],[51.51832,-0.12669,0,0],[51.42848,-0.01131,0,0],[51.43747,0.00311,0,0],[51.43747,-0.14111,0,0],[51.42848,-0.12669,0,0],[51.4195,-0.03295,0,0],[51.4734,0.02474,0,0],[51.5273,-0.03295,0,0],[51.53179,-0.069,0,0],[51.5273,-0.10505,0,0],[51.49586,0.01753,0,0],[51.45094,0.01753,0,0],[51.41501,-0.069,0,0],[51.4195,-0.10505,0,0],[51.4734,-0.16274,0,0],[51.45094,-0.15553,0,0],[51.49586,-0.15553,0,0],[51.42399,-0.01852,0,0],[51.52281,-0.01852,0,0],[51.53179,-0.06179,0,0],[51.53179,-0.07621,0,0],[51.52281,-0.11948,0,0],[51.44196,0.01032,0,0],[51.41501,-0.07621,0,0],[51.41501,-0.06179,0,0],[51.46891,0.02474,0,0],[51.47789,0.02474,0,0],[51.46891,-0.16274,0,0],[51.47789,-0.16274,0,0],[51.44196,-0.14832,0,0],[51.42399,-0.11948,0,0],[51.50484,-0.14832,0,0],[51.50484,0.01032,0,0],[51.41501,-0.05458,0,0],[51.53179,-0.05458,0,0],[51.53179,-0.08342,0,0],[51.46442,0.02474,0,0],[51.41501,-0.08342,0,0],[51.48238,0.02474,0,0],[51.46442,-0.16274,0,0],[51.48238,-0.16274,0,0],[51.41501,-0.04737,0,0],[51.53179,-0.04737,0,0],[51.53179,-0.09063,0,0],[51.48687,0.02474,0,0],[51.41501,-0.09063,0,0],[51.45993,0.02474,0,0],[51.45993,-0.16274,0,0],[51.48687,-0.16274,0,0],[51.4195,-0.02573,0,0],[51.5273,-0.02573,0,0],[51.5273,-0.11227,0,0],[51.44645,0.01753,0,0],[51.44645,-0.15553,0,0],[51.4195,-0.11227,0,0],[51.50035,-0.15553,0,0],[51.50035,0.01753,0,0],[51.43298,0.00311,0,0],[51.42848,-0.0041,0,0],[51.51382,0.00311,0,0],[51.51832,-0.0041,0,0],[51.43298,-0.14111,0,0],[51.42848,-0.1339,0,0],[51.51382,-0.14111,0,0],[51.51832,-0.1339,0,0],[51.42399,-0.01131,0,0],[51.41501,-0.04016,0,0],[51.41501,-0.09784,0,0],[51.53179,-0.04016,0,0],[51.50933,0.01032,0,0],[51.52281,-0.01131,0,0],[51.53179,-0.09784,0,0],[51.52281,-0.12669,0,0],[51.43747,0.01032,0,0],[51.45543,0.02474,0,0],[51.49137,0.02474,0,0],[51.45543,-0.16274,0,0],[51.43747,-0.14832,0,0],[51.42399,-0.12669,0,0],[51.49137,-0.16274,0,0],[51.50933,-0.14832,0,0],[51.4195,-0.01852,0,0],[51.50484,0.01753,0,0],[51.5273,-0.01852,0,0],[51.5273,-0.11948,0,0],[51.44196,0.01753,0,0],[51.44196,-0.15553,0,0],[51.4195,-0.11948,0,0],[51.50484,-0.15553,0,0],[51.49586,-0.16274,0,0],[51.49586,0.02474,0,0],[51.41501,-0.03295,0,0],[51.41501,-0.10505,0,0],[51.53179,-0.03295,0,0],[51.53179,-0.10505,0,0],[51.45094,0.02474,0,0],[51.45094,-0.16274,0,0],[51.53628,-0.069,0,0],[51.41052,-0.069,0,0],[51.4734,0.03195,0,0],[51.4734,-0.16995,0,0],[51.53628,-0.07621,0,0],[51.53628,-0.06179,0,0],[51.47789,0.03195,0,0],[51.41052,-0.07621,0,0],[51.41052,-0.06179,0,0],[51.46891,0.03195,0,0],[51.46891,-0.16995,0,0],[51.47789,-0.16995,0,0],[51.42848,0.00311,0,0],[51.41052,-0.05458,0,0],[51.51832,0.00311,0,0],[51.53628,-0.08342,0,0],[51.53628,-0.05458,0,0],[51.41052,-0.08342,0,0],[51.46442,0.03195,0,0],[51.48238,0.03195,0,0],[51.48238,-0.16995,0,0],[51.46442,-0.16995,0,0],[51.42848,-0.14111,0,0],[51.51832,-0.14111,0,0],[51.42399,-0.0041,0,0],[51.43298,0.01032,0,0],[51.51382,0.01032,0,0],[51.43298,-0.14832,0,0],[51.42399,-0.1339,0,0],[51.52281,-0.1339,0,0],[51.51382,-0.14832,0,0],[51.52281,-0.0041,0,0],[51.41501,-0.02573,0,0],[51.41052,-0.04737,0,0],[51.41501,-0.11227,0,0],[51.41052,-0.09063,0,0],[51.50035,0.02474,0,0],[51.53179,-0.02573,0,0],[51.53628,-0.04737,0,0],[51.53179,-0.11227,0,0],[51.53628,-0.09063,0,0],[51.44645,0.02474,0,0],[51.48687,0.03195,0,0],[51.45993,0.03195,0,0],[51.48687,-0.16995,0,0],[51.45993,-0.16995,0,0],[51.44645,-0.16274,0,0],[51.50035,-0.16274,0,0],[51.43747,0.01753,0,0],[51.5273,-0.01131,0,0],[51.50933,0.01753,0,0],[51.5273,-0.12669,0,0],[51.4195,-0.12669,0,0],[51.43747,-0.15553,0,0],[51.50933,-0.15553,0,0],[51.41052,-0.04016,0,0],[51.41052,-0.09784,0,0],[51.53628,-0.04016,0,0],[51.53628,-0.09784,0,0],[51.45543,0.03195,0,0],[51.49137,0.03195,0,0],[51.45543,-0.16995,0,0],[51.49137,-0.16995,0,0],[51.53179,-0.01852,0,0],[51.50484,0.02474,0,0],[51.53179,-0.11948,0,0],[51.41501,-0.01852,0,0],[51.44196,0.02474,0,0],[51.44196,-0.16274,0,0],[51.41501,-0.11948,0,0],[51.53628,-0.03295,0,0],[51.52281,0.00311,0,0],[51.51832,0.01032,0,0],[51.53628,-0.10505,0,0],[51.52281,-0.14111,0,0],[51.49586,0.03195,0,0],[51.49586,-0.16995,0,0],[51.51832,-0.14832,0,0],[51.42399,0.00311,0,0],[51.42848,0.01032,0,0],[51.41052,-0.03295,0,0],[51.41052,-0.10505,0,0],[51.45094,0.03195,0,0],[51.42399,-0.14111,0,0],[51.42848,-0.14832,0,0],[51.45094,-0.16995,0,0],[51.43298,0.01753,0,0],[51.4195,-0.0041,0,0],[51.51382,0.01753,0,0],[51.54077,-0.069,0,0],[51.5273,-0.0041,0,0],[51.5273,-0.1339,0,0],[51.4734,0.03916,0,0],[51.40603,-0.069,0,0],[51.4734,-0.17716,0,0],[51.4195,-0.1339,0,0],[51.43298,-0.15553,0,0],[51.51382,-0.15553,0,0],[51.54077,-0.07621,0,0],[51.54077,-0.06179,0,0],[51.40603,-0.07621,0,0],[51.40603,-0.06179,0,0],[51.46891,0.03916,0,0],[51.47789,0.03916,0,0],[51.47789,-0.17716,0,0],[51.46891,-0.17716,0,0],[51.40603,-0.05458,0,0],[51.54077,-0.05458,0,0],[51.54077,-0.08342,0,0],[51.40603,-0.08342,0,0],[51.46442,0.03916,0,0],[51.48238,0.03916,0,0],[51.48238,-0.17716,0,0],[51.46442,-0.17716,0,0],[51.41052,-0.02573,0,0],[51.41052,-0.11227,0,0],[51.50035,0.03195,0,0],[51.53628,-0.02573,0,0],[51.53628,-0.11227,0,0],[51.44645,0.03195,0,0],[51.44645,-0.16995,0,0],[51.50035,-0.16995,0,0],[51.41501,-0.01131,0,0],[51.53179,-0.01131,0,0],[51.50933,0.02474,0,0],[51.53179,-0.12669,0,0],[51.41501,-0.12669,0,0],[51.50933,-0.16274,0,0],[51.43747,0.02474,0,0],[51.43747,-0.16274,0,0],[51.40603,-0.04737,0,0],[51.40603,-0.09063,0,0],[51.54077,-0.04737,0,0],[51.54077,-0.09063,0,0],[51.45993,0.03916,0,0],[51.48687,0.03916,0,0],[51.48687,-0.17716,0,0],[51.45993,-0.17716,0,0],[51.40603,-0.04016,0,0],[51.40603,-0.09784,0,0],[51.54077,-0.04016,0,0],[51.54077,-0.09784,0,0],[51.49137,0.03916,0,0],[51.45543,0.03916,0,0],[51.49137,-0.17716,0,0],[51.45543,-0.17716,0,0],[51.42399,0.01032,0,0],[51.52281,0.01032,0,0],[51.52281,-0.14832,0,0],[51.42399,-0.14832,0,0],[51.4195,0.00311,0,0],[51.42848,0.01753,0,0],[51.51832,0.01753,0,0],[51.5273,0.00311,0,0],[51.5273,-0.14111,0,0],[51.51832,-0.15553,0,0],[51.4195,-0.14111,0,0],[51.42848,-0.15553,0,0],[51.41052,-0.01852,0,0],[51.41052,-0.11948,0,0],[51.53628,-0.01852,0,0],[51.53628,-0.11948,0,0],[51.44196,0.03195,0,0],[51.44196,-0.16995,0,0],[51.50484,0.03195,0,0],[51.50484,-0.16995,0,0],[51.51382,0.02474,0,0],[51.51382,-0.16274,0,0],[51.41501,-0.0041,0,0],[51.40603,-0.03295,0,0],[51.40603,-0.10505,0,0],[51.53179,-0.0041,0,0],[51.54077,-0.10505,0,0],[51.53179,-0.1339,0,0],[51.43298,0.02474,0,0],[51.49586,0.03916,0,0],[51.45094,0.03916,0,0],[51.45094,-0.17716,0,0],[51.41501,-0.1339,0,0],[51.43298,-0.16274,0,0],[51.49586,-0.17716,0,0],[51.54526,-0.069,0,0],[51.4734,0.04638,0,0],[51.40154,-0.069,0,0],[51.4734,-0.18438,0,0],[51.40154,-0.07621,0,0],[51.54526,-0.06179,0,0],[51.54526,-0.07621,0,0],[51.47789,0.04638,0,0],[51.46891,0.04638,0,0],[51.40154,-0.06179,0,0],[51.47789,-0.18438,0,0],[51.46891,-0.18438,0,0],[51.40154,-0.05458,0,0],[51.41052,-0.01131,0,0],[51.40154,-0.08342,0,0],[51.53628,-0.01131,0,0],[51.50933,0.03195,0,0],[51.54526,-0.05458,0,0],[51.54526,-0.08342,0,0],[51.53628,-0.12669,0,0],[51.46442,0.04638,0,0],[51.48238,0.04638,0,0],[51.48238,-0.18438,0,0],[51.46442,-0.18438,0,0],[51.41052,-0.12669,0,0],[51.50933,-0.16995,0,0],[51.43747,0.03195,0,0],[51.43747,-0.16995,0,0],[51.40603,-0.02573,0,0],[51.40603,-0.11227,0,0],[51.54077,-0.02573,0,0],[51.50035,0.03916,0,0],[51.54077,-0.11227,0,0],[51.44645,0.03916,0,0],[51.44645,-0.17716,0,0],[51.50035,-0.17716,0,0],[51.4195,0.01032,0,0],[51.42399,0.01753,0,0],[51.40154,-0.09063,0,0],[51.40154,-0.04737,0,0],[51.4195,-0.14832,0,0],[51.52281,0.01753,0,0],[51.5273,0.01032,0,0],[51.54526,-0.04737,0,0],[51.54526,-0.09063,0,0],[51.5273,-0.14832,0,0],[51.52281,-0.15553,0,0],[51.45993,0.04638,0,0],[51.48687,0.04638,0,0],[51.48687,-0.18438,0,0],[51.45993,-0.18438,0,0],[51.42399,-0.15553,0,0],[51.41501,0.00311,0,0],[51.51832,0.02474,0,0],[51.53179,0.00311,0,0],[51.53179,-0.14111,0,0],[51.51832,-0.16274,0,0],[51.42848,0.02474,0,0],[51.41501,-0.14111,0,0],[51.42848,-0.16274,0,0],[51.40154,-0.04016,0,0],[51.40154,-0.09784,0,0],[51.54526,-0.04016,0,0],[51.54526,-0.09784,0,0],[51.49137,0.04638,0,0],[51.45543,0.04638,0,0],[51.49137,-0.18438,0,0],[51.45543,-0.18438,0,0],[51.50484,0.03916,0,0],[51.50484,-0.17716,0,0],[51.44196,0.03916,0,0],[51.40603,-0.01852,0,0],[51.54077,-0.01852,0,0],[51.54077,-0.11948,0,0],[51.40603,-0.11948,0,0],[51.44196,-0.17716,0,0]]};

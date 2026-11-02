@@ -11509,10 +11509,12 @@
    "sectors": [
     "SE26 6"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 7,
+   "finds": [
+    "p333"
+   ]
   },
   {
    "id": "x+11y-1",
@@ -11536,9 +11538,9 @@
    "sectors": [
     "SE3 0"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
    "finds": []
   },
   {
@@ -11558,9 +11560,9 @@
     "SE3 7",
     "SE10 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 2,
    "finds": []
   },
   {
@@ -11582,9 +11584,9 @@
     "SW8 4",
     "SW11 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
    "finds": []
   },
   {
@@ -11619,10 +11621,12 @@
     "SW11 5",
     "SW4 0"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
+   "finds": [
+    "p338"
+   ]
   },
   {
    "id": "x+2y+11",
@@ -11655,10 +11659,12 @@
     "E2 6",
     "E2 0"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
+   "finds": [
+    "p339"
+   ]
   },
   {
    "id": "x-2y+11",
@@ -11697,10 +11703,12 @@
     "EC1Y 1",
     "EC2A 1"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 5,
+   "finds": [
+    "p340"
+   ]
   },
   {
    "id": "x+5y+10",
@@ -11724,10 +11732,12 @@
     "E14 7",
     "E1 4"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 5,
+   "finds": [
+    "p341"
+   ]
   },
   {
    "id": "x-5y+10",
@@ -11782,10 +11792,14 @@
     "EC1A 7",
     "EC1M 5"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
+   "finds": [
+    "p342",
+    "p343",
+    "p344"
+   ]
   },
   {
    "id": "x+10y+5",
@@ -11801,10 +11815,12 @@
    "sectors": [
     "SE10 0"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
+   "finds": [
+    "p337"
+   ]
   },
   {
    "id": "x+11y+2",
@@ -11831,9 +11847,9 @@
     "SE10 0",
     "SE10 9"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
    "finds": []
   },
   {
@@ -11859,10 +11875,12 @@
     "SE3 0",
     "SE3 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
+   "finds": [
+    "p334"
+   ]
   },
   {
    "id": "x-5y-10",
@@ -11886,9 +11904,9 @@
     "SE27 0",
     "SE27 9"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
    "finds": []
   },
   {
@@ -11909,10 +11927,13 @@
     "SE13 6",
     "SE12 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
+   "finds": [
+    "p335",
+    "p336"
+   ]
   },
   {
    "id": "x-2y-11",
@@ -11937,10 +11958,12 @@
    "sectors": [
     "SE19 1"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 5,
+   "finds": [
+    "p345"
+   ]
   },
   {
    "id": "x+2y-11",
@@ -11961,9 +11984,9 @@
     "SE26 5",
     "SE26 6"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 2,
    "finds": []
   },
   {
