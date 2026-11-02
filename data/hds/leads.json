@@ -811,30 +811,12 @@
    "found": "2026-11-01"
   },
   {
-   "name": "Stepney Green Park",
-   "lat": 51.52033,
-   "lon": -0.04522,
-   "cell": "x+3y+10",
-   "url": "https://www.goparks.london/park/stepney-green-park/",
-   "note": "4.6 ha Tower Hamlets park re-landscaped in 2000; GoParks lists playgrounds for younger and older children, outdoor gym and all-weather pitch (also Wikipedia, London Gardens Trust THM054). Couldn't pin it: side gate on Garden Street, which is not in the gazetteer. Pin is Beaumont Square centre, a placeholder only.",
-   "found": "2026-11-01"
-  },
-  {
    "name": "Gipsy Hill Community Station Garden",
    "lat": 51.42457,
    "lon": -0.08482,
    "cell": "x-2y-11",
    "url": "https://www.spacehive.com/friends-rejuvenation-of-gipsy-hill",
    "note": "Volunteer garden on a former railway siding by Platform 1 of Gipsy Hill station, next to Sainsbury Road, with a Network Rail mural outside (Spacehive, Norwood Forum, Lambeth). Unclear whether it is open to the public outside the station and whether there is anything for children; pin is Sainsbury Road centre.",
-   "found": "2026-11-01"
-  },
-  {
-   "name": "Sydenham Community Library",
-   "lat": 51.42643,
-   "lon": -0.04147,
-   "cell": "x+4y-10",
-   "url": "https://libraries.lewisham.gov.uk/digital-content/libraries-/sydenham-community-library",
-   "note": "Community library at Sydenham Road SE26 5SE (postcode pin) run by Calico Libraries for Lewisham, with free term-time Rhyme Time and under-5s storytime (2025 listings). Only Lewisham Council / Lewisham Libraries sources found, so it needs a second independent source.",
    "found": "2026-11-01"
   },
   {
@@ -853,15 +835,6 @@
    "cell": "x-10y-4",
    "url": "https://www.brixtonbuzz.com/2020/05/in-photos-the-open-spaces-green-fields-ponds-and-trees-of-clapham-common/",
    "note": "Pond on Clapham Common South Side where Clapham Model Yacht Club (formed 1934) still sails, per Wikipedia and Brixton Buzz. Coordinates are a rough placeholder near Clapham Common South Side, not verified; part of Clapham Common, which is already on the map.",
-   "found": "2026-11-02"
-  },
-  {
-   "name": "Poplar Recreation Ground and Upper North Street School memorial",
-   "lat": 51.5089,
-   "lon": -0.0141,
-   "cell": "x+8y+8",
-   "url": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Parks-directory/Poplar-Recreation-Ground.aspx",
-   "note": "Well sourced (Tower Hamlets: inclusive toddler and junior playground, Green Flag; Wikipedia and Historic England: Grade II* angel memorial to 18 children killed in 1917). Only blocker is the pin: address is Hale Street, E14, which is not in the gazetteer; placeholder is Poplar High Street centre, park lies between it and East India Dock Road.",
    "found": "2026-11-02"
   },
   {
@@ -961,6 +934,24 @@
    "cell": "x+5y+10",
    "url": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/mile_end_park/mile_end_ecology_pavilion.aspx",
    "note": "Ponds and reed beds with a wooden boardwalk ('Lovely Lake') to the grass-roofed Ecology Pavilion; dragonflies (Tower Hamlets, Gardenvisit, London Gardens Trust THM030). Blocker: exact position within Mile End Park not found in sources; placeholder is the Ragged School Museum postcode nearby. Also check it is distinct enough from the existing Mile End Children's Park entry.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Chrisp Street Market clock tower and street art",
+   "lat": 51.5131,
+   "lon": -0.01532,
+   "cell": "x+7y+9",
+   "url": "https://en.wikipedia.org/wiki/Chrisp_Street_Market_Clock_Tower",
+   "note": "Grade II 1952 Festival of Britain clock tower (Frederick Gibberd) with a former viewing platform; Poplar London lists street art around the market (2011 Banksy in a car park, 2019 EastEnders Pie 'n' Mash mural, Kerbey Street love mural). Market is mid-regeneration (Poplar HARCA/Telford; tower to be restored and made accessible), so current access, whether the platform opens and whether the murals survive are unconfirmed. Pin is Market Way street centre (the market square).",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Southern Park, Greenwich Peninsula",
+   "lat": 51.49545,
+   "lon": 0.0186,
+   "cell": "x+12y+5",
+   "url": "https://thelandtrust.org.uk/?p=512",
+   "note": "Land Trust greenspace next to Greenwich Peninsula Ecology Park, built for Greenwich Millennium Village residents: grassland, wildflower meadows (SLINC), native trees and play features, managed with TCV (Land Trust pages; Mayor of London decision MD1224 on the lease). Land Trust page lists open access as 'No', which conflicts with it being a public park, and no non-Land-Trust description of the play features was found. Pin is the Land Trust's postcode SE10 0BW, which may be a postal address rather than the park itself.",
    "found": "2026-11-02"
   }
  ]
