@@ -845,6 +845,51 @@
    "url": "https://libraries.lewisham.gov.uk/digital-content/libraries-/sydenham-community-library",
    "note": "Community library at Sydenham Road SE26 5SE (postcode pin) run by Calico Libraries for Lewisham, with free term-time Rhyme Time and under-5s storytime (2025 listings). Only Lewisham Council / Lewisham Libraries sources found, so it needs a second independent source.",
    "found": "2026-11-01"
+  },
+  {
+   "name": "Manor Park, Lee (Quaggy river wetland park)",
+   "lat": 51.4548,
+   "lon": -0.00036,
+   "cell": "x+10y-4",
+   "url": "https://parksandgardens.org/places/manor-park-lee",
+   "note": "Parks and Gardens UK: redesigned 2007 under the Quaggy flood scheme with Mediterranean gardens, wildflower meadow, riverside wetland, pond, woodland and a children's play area; GiGL lists River Quaggy and Manor Park as a free-access wildlife site; walking guides agree. Only blocker is the pin: 'Manor Park' is also a long road, and the park's exact position wasn't found; placeholder is the road's centre.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Barbican Wildlife Garden (Fann Street)",
+   "lat": 51.52167,
+   "lon": -0.09576,
+   "cell": "x-4y+11",
+   "url": "https://www.barbicanliving.co.uk/barbican-now/gardens/the-fann-street-wild-garden/",
+   "note": "Volunteer-run wildlife garden; open mainly on London Open Gardens weekend, Open House and possibly Wednesday mornings 10-12 during volunteer sessions (may be out of date). Access too limited to add unless regular opening is confirmed. Pin is Fann Street centre.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Long Pond model boating, Clapham Common",
+   "lat": 51.4555,
+   "lon": -0.1435,
+   "cell": "x-10y-4",
+   "url": "https://www.brixtonbuzz.com/2020/05/in-photos-the-open-spaces-green-fields-ponds-and-trees-of-clapham-common/",
+   "note": "Pond on Clapham Common South Side where Clapham Model Yacht Club (formed 1934) still sails, per Wikipedia and Brixton Buzz. Coordinates are a rough placeholder near Clapham Common South Side, not verified; part of Clapham Common, which is already on the map.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Poplar Recreation Ground and Upper North Street School memorial",
+   "lat": 51.5089,
+   "lon": -0.0141,
+   "cell": "x+8y+8",
+   "url": "https://www.towerhamlets.gov.uk/lgnl/leisure_and_culture/parks_and_open_spaces/Parks-directory/Poplar-Recreation-Ground.aspx",
+   "note": "Well sourced (Tower Hamlets: inclusive toddler and junior playground, Green Flag; Wikipedia and Historic England: Grade II* angel memorial to 18 children killed in 1917). Only blocker is the pin: address is Hale Street, E14, which is not in the gazetteer; placeholder is Poplar High Street centre, park lies between it and East India Dock Road.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Harbord Square Park, Wood Wharf",
+   "lat": 51.50257,
+   "lon": -0.01049,
+   "cell": "x+8y+6",
+   "url": "https://cwg.com/portfolio-and-places/wood-wharf/",
+   "note": "Canary Wharf Group and sales listings describe a children's playground in Harbord Square Park; only developer/marketing sources, no independent confirmation. Pin is Harbord Square street centre.",
+   "found": "2026-11-02"
   }
  ]
 }
