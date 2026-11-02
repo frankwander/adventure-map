@@ -14893,6 +14893,416 @@
     ],
     "reviewedAt": "2026-11-02"
    }
+  },
+  {
+   "id": "p355",
+   "name": "Giro the dog's grave and the Duke of York Column",
+   "lat": 51.50645,
+   "lon": -0.13173,
+   "type": "landmark",
+   "area": "St James's, Westminster",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Carlton House Terrace street centre from the offline gazetteer; the terrace is split in the middle by the Duke of York Steps, where the grave and column stand, so the pin is within about 50 m.",
+   "link": "https://en.wikipedia.org/wiki/Giro_(dog)",
+   "ai": {
+    "score": 5,
+    "summary": "A tiny headstone beside the Duke of York Steps marks the grave of Giro, the German ambassador's dog, who died in 1934 and was buried in the old embassy garden. It sits by the tall Duke of York Column, at the top of the steps down to The Mall. A quick, curious stop for children on a St James's Park or Trafalgar Square day out.",
+    "standout": "London's oddest pet grave, hidden under a tree next to a giant column",
+    "highlights": [
+     "A small walled enclosure with Giro's gravestone, found during building work in the 1960s and moved here",
+     "The Duke of York Column towers above the steps",
+     "Steps lead straight down to The Mall and St James's Park"
+    ],
+    "cautions": [
+     "Very small: a five-minute stop, best combined with St James's Park or Trafalgar Square",
+     "The 'Nazi dog' nickname is misleading: the ambassador was not a Nazi, so be ready to explain",
+     "The steps are steep and busy, so hold small hands"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Giro (dog)",
+      "url": "https://en.wikipedia.org/wiki/Giro_(dog)"
+     },
+     {
+      "title": "Atlas Obscura: Giro the Dog's Grave",
+      "url": "https://WWW.ATLASOBSCURA.COM/places/giro-dog-grave"
+     },
+     {
+      "title": "Londonist: Where to find London's oddest burial sites",
+      "url": "https://londonist.com/london/features/london-s-bizarrest-final-resting-places"
+     }
+    ],
+    "reviewedAt": "2026-11-02"
+   }
+  },
+  {
+   "id": "p356",
+   "name": "St James's Square garden and the molehill statue",
+   "lat": 51.50675,
+   "lon": -0.13487,
+   "type": "landmark",
+   "area": "St James's, Westminster",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "St James's Square street centre from the offline gazetteer, which falls on the central garden.",
+   "link": "https://en.wikipedia.org/wiki/St_James%27s_Square",
+   "ai": {
+    "score": 5,
+    "summary": "A historic garden square run by the St James's Square Trust and open to the public on weekdays. In the middle stands the 1808 equestrian statue of William III, with a molehill under the horse's hoof: the king is said to have died after his horse tripped on one. Children like hunting for the molehill.",
+    "standout": "A spot-the-molehill statue with a story about how a king died",
+    "highlights": [
+     "Equestrian statue of William III with a small molehill sculpted under the horse",
+     "A quiet garden in the middle of busy St James's",
+     "The statue can be seen through the railings when the garden is closed"
+    ],
+    "cautions": [
+     "Sources say the garden opens on weekday daytimes only; check before going",
+     "A formal garden with no play equipment"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: St James's Square",
+      "url": "https://en.wikipedia.org/wiki/St_James%27s_Square"
+     },
+     {
+      "title": "Atlas Obscura: The Molehill on the Equestrian Statue of William III",
+      "url": "https://WWW.ATLASOBSCURA.COM/places/the-molehill-on-the-equestrian-statue-of-william-iii"
+     },
+     {
+      "title": "London Gardens Trust: St James's Square",
+      "url": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=WST105"
+     }
+    ],
+    "reviewedAt": "2026-11-02"
+   }
+  },
+  {
+   "id": "p357",
+   "name": "Drury Lane Gardens (Covent Garden Playground)",
+   "lat": 51.51378,
+   "lon": -0.12042,
+   "type": "playground",
+   "area": "Covent Garden, Westminster",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode WC2B 5SN, given as the address on the Westminster council page, via the offline gazetteer.",
+   "link": "https://westminster.gov.uk/place-shaping/greening-westminster/projects/covent-garden-playground-and-childrens-nature-centre",
+   "ai": {
+    "score": 5,
+    "summary": "A pocket park in the heart of Theatreland with a toddler play area, a ball-games kickabout and seating. Westminster Council is greening it into an inclusive wildlife space with pollinator planting, called the Covent Garden Playground and Nature Garden. A handy break for little ones on a trip into Covent Garden.",
+    "standout": "A rare patch of play space right in Theatreland",
+    "age": "0–11",
+    "ages": [
+     0,
+     11
+    ],
+    "extras": "Toddler play area, kickabout area (MUGA), seating",
+    "highlights": [
+     "Toddler play park and kickabout area",
+     "Pollinator-friendly planting as part of the council's greening project",
+     "A few minutes' walk from Covent Garden piazza"
+    ],
+    "cautions": [
+     "Improvement works were planned over about three years from 2024, so parts may be closed; check before going",
+     "Small pocket park, best as a short stop"
+    ],
+    "sources": [
+     {
+      "title": "Westminster City Council: Covent Garden Playground and Children's Nature Centre",
+      "url": "https://westminster.gov.uk/place-shaping/greening-westminster/projects/covent-garden-playground-and-childrens-nature-centre"
+     },
+     {
+      "title": "freeparks.co.uk: Drury Lane Gardens",
+      "url": "https://freeparks.co.uk/park/drury-lane-gardens/amp/"
+     },
+     {
+      "title": "St Clement Danes School blog: Covent Garden Playground",
+      "url": "https://st-clementdanes.westminster.sch.uk/341/latest-blogs/post/3536/covent-garden-playground"
+     }
+    ],
+    "reviewedAt": "2026-11-02"
+   }
+  },
+  {
+   "id": "p358",
+   "name": "Tower Hamlets Cemetery Park and Ackroyd Drive Greenlink",
+   "lat": 51.52376,
+   "lon": -0.03041,
+   "type": "nature",
+   "area": "Mile End / Bow Common, Tower Hamlets",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode E3 4PX (Southern Grove), given for the park on Wikipedia, via the offline gazetteer; pin is at the Southern Grove side. The Ackroyd Drive Greenlink strip runs south from the park (Ackroyd Drive street centre 51.51922, -0.02871).",
+   "link": "https://en.wikipedia.org/wiki/Tower_Hamlets_Cemetery_Park",
+   "ai": {
+    "score": 7,
+    "summary": "A 33-acre Victorian cemetery that has grown into a woodland Local Nature Reserve a few minutes from Mile End station. Paths wind between ivy-covered graves and trees, and the Soanes Centre in the park runs nature and science workshops for thousands of schoolchildren. The Ackroyd Drive Greenlink, a small nature reserve, links it towards Mile End Park.",
+    "standout": "A wild, spooky-feeling woodland of old graves that's now a nature reserve",
+    "extras": "Soanes Centre education building with toilets (when open)",
+    "highlights": [
+     "Woodland Local Nature Reserve on the site of a Victorian cemetery",
+     "Soanes Centre runs nature and science workshops; the Friends group runs wildlife walks, birdwatching and volunteering",
+     "Ackroyd Drive Greenlink: a 0.87 ha nature reserve corridor of woodland and grassland, home to the small blue butterfly"
+    ],
+    "cautions": [
+     "Still a cemetery with graves and memorials, so explain to children and keep things respectful",
+     "Paths can be muddy and uneven: not ideal for some buggies",
+     "Opening hours and event dates change; check before going"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: Tower Hamlets Cemetery Park",
+      "url": "https://en.wikipedia.org/wiki/Tower_Hamlets_Cemetery_Park"
+     },
+     {
+      "title": "Soanes Centre: About the centre",
+      "url": "https://www.soanescentre.org/the-soanes-centre"
+     },
+     {
+      "title": "Wikipedia: Ackroyd Drive Greenlink",
+      "url": "https://en.wikipedia.org/wiki/Ackroyd_Drive_Greenlink"
+     },
+     {
+      "title": "GoParks London: Ackroyd Drive Greenlink Local Nature Reserve",
+      "url": "https://goparks.london/park/ackroyd-drive-greenlink-local-nature-reserve"
+     },
+     {
+      "title": "Tower Hamlets Slice: A guide to Tower Hamlets Cemetery Park",
+      "url": "https://towerhamletsslice.co.uk/?p=4774"
+     }
+    ],
+    "reviewedAt": "2026-11-02"
+   }
+  },
+  {
+   "id": "p359",
+   "name": "Sir John Soane's Museum",
+   "lat": 51.51696,
+   "lon": -0.11795,
+   "type": "museum",
+   "area": "Holborn, Camden",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Address 13 Lincoln's Inn Fields (from sources); postcode WC2A 3BP chosen by me for that address and geocoded with the offline gazetteer, which places it on the north side of Lincoln's Inn Fields.",
+   "link": "https://www.timeout.com/london/attractions/sir-john-soanes-museum-1",
+   "ai": {
+    "score": 6,
+    "summary": "The architect John Soane's house, kept as he left it and crammed with statues, casts, curiosities and an ancient Egyptian sarcophagus in the basement. Entry is free. It suits curious older children who like treasure-hunt rooms more than toddlers, and Lincoln's Inn Fields outside is a big square for running about afterwards.",
+    "standout": "An ancient Egyptian sarcophagus in a candlelit-feeling basement full of odd treasures",
+    "age": "7+",
+    "ages": [
+     7,
+     18
+    ],
+    "highlights": [
+     "Free entry",
+     "The sarcophagus, viewable online as a 3D scan to preview with children",
+     "Rooms packed with heads, columns and curiosities: good for 'spot the strangest face' games",
+     "Lincoln's Inn Fields, a large public square, is right outside"
+    ],
+    "cautions": [
+     "Small, crowded rooms: not easy with buggies or very young children, and reviews of its kid-friendliness are mixed",
+     "Open only some days of the week and can have queues, especially at weekends; check before going",
+     "Family workshops found in sources are old, so check the museum's site for current activities"
+    ],
+    "sources": [
+     {
+      "title": "Time Out: Sir John Soane's Museum",
+      "url": "https://timeout.com/london/attractions/sir-john-soanes-museum-1"
+     },
+     {
+      "title": "History Hit: Sir John Soane's Museum",
+      "url": "https://www.historyhit.com/locations/sir-john-soanes-museum/"
+     },
+     {
+      "title": "London Drum: Sir John Soane's Museum",
+      "url": "https://londondrum.com/md/a-sirjohnsoanesmuseum.md"
+     }
+    ],
+    "reviewedAt": "2026-11-02"
+   }
+  },
+  {
+   "id": "p360",
+   "name": "A Slice of Reality (Richard Wilson's sliced ship), Greenwich Peninsula",
+   "lat": 51.50416,
+   "lon": -0.00028,
+   "type": "landmark",
+   "area": "Greenwich Peninsula, Greenwich",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from Wikipedia's The Line (art trail) table (51°30′15″N 0°00′01″W), matching a second listing (51.504156, -0.000282); on the Thames foreshore by the Thames Path (Olympian Way), north-west of the O2.",
+   "link": "https://en.wikipedia.org/wiki/A_Slice_of_Reality",
+   "ai": {
+    "score": 6,
+    "summary": "A real ocean-going sand dredger, the Arco Trent, sliced into a thin vertical section and fixed on the Thames foreshore beside the riverside path near the O2. From the path children can see straight into the cut-away cabins and engine room. A millennium artwork on The Line free art trail, easy to pair with Quantum Cloud nearby.",
+    "standout": "A real ship cut in half so you can see inside it",
+    "highlights": [
+     "Cut-away view of a real ship's living quarters and engine room",
+     "On The Line, a free outdoor art walk round the peninsula",
+     "On the Thames Path, a short walk from Quantum Cloud and North Greenwich station"
+    ],
+    "cautions": [
+     "Viewed from the riverside path only: the ship itself is usually closed (occasionally open for Open House)",
+     "Riverside path next to the Thames foreshore, so keep little ones close"
+    ],
+    "sources": [
+     {
+      "title": "Wikipedia: A Slice of Reality",
+      "url": "https://en.wikipedia.org/wiki/A_Slice_of_Reality"
+     },
+     {
+      "title": "Londonist: What's that sliced-up ship in the Thames by the O2?",
+      "url": "https://londonist.com/london/art-and-photography/slice-of-reality-ship-cut-in-half-greenwich-sculpture"
+     },
+     {
+      "title": "The Line: Richard Wilson",
+      "url": "https://the-line.org/artist/richard-wilson/"
+     },
+     {
+      "title": "Greenwich Peninsula: A Slice of Reality",
+      "url": "https://www.greenwichpeninsula.co.uk/whats-here/slice-of-reality-by-richard-wilson"
+     }
+    ],
+    "reviewedAt": "2026-11-02"
+   }
+  },
+  {
+   "id": "p361",
+   "name": "Victoria Memorial and Changing the Guard, Buckingham Palace",
+   "lat": 51.50101,
+   "lon": -0.14156,
+   "type": "landmark",
+   "area": "St James's, Westminster",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Buckingham Palace postcode SW1A 1AA (chosen by me) via the offline gazetteer; its centroid is in the palace about 100 m west of the Victoria Memorial in front of the gates.",
+   "link": "https://www.visitlondon.com/blog/changing-of-the-guard-guide",
+   "ai": {
+    "score": 7,
+    "summary": "The big white-and-gold Victoria Memorial stands in front of Buckingham Palace, and its raised steps are a favourite free spot to watch the Changing the Guard: soldiers in red tunics and bearskins, a marching band and the handover in the palace forecourt. Free with no tickets, but busy, so go early. Little ones may tire of the long wait.",
+    "standout": "Bearskins, bands and marching guards outside the King's palace, for free",
+    "highlights": [
+     "Free ceremony with no booking",
+     "Victoria Memorial steps give a raised view over the crowd",
+     "Next to St James's Park and Green Park for a run-around afterwards"
+    ],
+    "cautions": [
+     "Ceremony days and times change through the year (sources disagree on which days); check the official schedule before going",
+     "Very crowded: sources suggest arriving 60 to 90 minutes early on busy days",
+     "The ceremony is long and some children get bored; keep the plan flexible"
+    ],
+    "sources": [
+     {
+      "title": "Visit London: Everything you need to know about Changing the Guard",
+      "url": "https://www.visitlondon.com/blog/changing-of-the-guard-guide"
+     },
+     {
+      "title": "Changing-guard.com: Where to watch Changing the Guard",
+      "url": "https://changing-guard.com/where-to-watch.html"
+     },
+     {
+      "title": "Things to Do in London: Changing of the Guard at Buckingham Palace",
+      "url": "https://www.thingstodoinlondon.com/attractions/buckingham-palace/changing-of-the-guard/"
+     }
+    ],
+    "reviewedAt": "2026-11-02"
+   }
+  },
+  {
+   "id": "p362",
+   "name": "Bellingham Green playgrounds",
+   "lat": 51.43038,
+   "lon": -0.02423,
+   "type": "playground",
+   "area": "Bellingham, Lewisham",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SE6 3JB, given by GiGL (Lewisham's page also shows SE6 3HD), via the offline gazetteer; on the Bellingham Estate's central green by King Alfred Avenue and Playgreen Way.",
+   "link": "https://www.lewisham.gov.uk/inmyarea/openspaces/parks/bellingham-green",
+   "ai": {
+    "score": 6,
+    "summary": "The 0.9-hectare green at the heart of the Bellingham Estate, with a play area for under-sevens, another for older children and a ball court. Lewisham Council says its century-old playground reopened after a £55k makeover with inclusive equipment, including a specialised swing and sensory panels. A good local playground, separate from Bellingham Play Park by the river.",
+    "standout": "Refreshed playground with inclusive swing and sensory play panels",
+    "age": "0–12",
+    "ages": [
+     0,
+     12
+    ],
+    "extras": "Under-7s play area, older children's play area, multi-sports ball court, dog exercise area",
+    "highlights": [
+     "Inclusive equipment for children with learning and physical disabilities",
+     "Separate areas for toddlers and older children",
+     "Close to Bellingham station"
+    ],
+    "cautions": [
+     "Council lists opening as 8am to sunset; check before going",
+     "Some entrances lack level access (AccessAble guide)",
+     "No toilets or café mentioned in sources"
+    ],
+    "sources": [
+     {
+      "title": "Lewisham Council: Bellingham Green",
+      "url": "https://www.lewisham.gov.uk/inmyarea/openspaces/parks/bellingham-green"
+     },
+     {
+      "title": "Lewisham Council news: Bellingham Green playground reopens with inclusive makeover",
+      "url": "https://lewisham.gov.uk/articles/news/bellingham-green-playground-reopens-with-inclusive-makeover"
+     },
+     {
+      "title": "GiGL Space to Visit: Bellingham Green",
+      "url": "https://www.gigl.org.uk/park/OS_Le_0023"
+     },
+     {
+      "title": "AccessAble: Bellingham Green access guide",
+      "url": "https://www.accessable.co.uk/london-borough-of-lewisham/access-guides/bellingham-green"
+     }
+    ],
+    "reviewedAt": "2026-11-02"
+   }
+  },
+  {
+   "id": "p363",
+   "name": "Covent Garden Piazza street performers",
+   "lat": 51.51163,
+   "lon": -0.12248,
+   "type": "activity",
+   "area": "Covent Garden, Westminster",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Street centre of 'Covent Garden' (WC2E) from the offline gazetteer: the named street is the square around the Market Building, so the pin falls on the Piazza; the big acts perform on the West Piazza.",
+   "link": "https://www.coventgarden.london/the-cg-edit/the-best-free-things-to-do-in-covent-garden",
+   "ai": {
+    "score": 7,
+    "summary": "The car-free Piazza around Covent Garden's market building is London's best-known stage for street performers: jugglers, magicians, comedians, clowns and singers draw crowds on the West Piazza and inside the market. Free to watch (tips welcome), and performers are licensed and auditioned. A lively stop for children of most ages.",
+    "standout": "Free juggling, magic and comedy shows on the cobbles, all day",
+    "highlights": [
+     "Big theatrical acts on the West Piazza",
+     "Smaller musical acts inside the Market Building",
+     "Traffic-free square; Drury Lane Gardens playground is a short walk away"
+    ],
+    "cautions": [
+     "Very crowded at weekends and in the afternoon; one guide suggests weekday mornings before 11am for a calmer visit",
+     "Shows vary by day and weather; check before going",
+     "Performers hope for tips, so bring some change"
+    ],
+    "sources": [
+     {
+      "title": "Covent Garden: The best free things to do in Covent Garden",
+      "url": "https://www.coventgarden.london/the-cg-edit/the-best-free-things-to-do-in-covent-garden"
+     },
+     {
+      "title": "Globetotting: Things to do in Covent Garden with kids",
+      "url": "https://globetotting.com/?p=24307"
+     },
+     {
+      "title": "Theatre Weekly: Covent Garden celebrates 50 years of street performance",
+      "url": "https://theatreweekly.com/covent-garden-celebrates-50-years-of-street-performance/"
+     }
+    ],
+    "reviewedAt": "2026-11-02"
+   }
   }
  ]
 }

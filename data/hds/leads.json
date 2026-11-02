@@ -953,6 +953,24 @@
    "url": "https://thelandtrust.org.uk/?p=512",
    "note": "Land Trust greenspace next to Greenwich Peninsula Ecology Park, built for Greenwich Millennium Village residents: grassland, wildflower meadows (SLINC), native trees and play features, managed with TCV (Land Trust pages; Mayor of London decision MD1224 on the lease). Land Trust page lists open access as 'No', which conflicts with it being a public park, and no non-Land-Trust description of the play features was found. Pin is the Land Trust's postcode SE10 0BW, which may be a postal address rather than the park itself.",
    "found": "2026-11-02"
+  },
+  {
+   "name": "Tooting Common Lakeside Playground",
+   "lat": 51.43292,
+   "lon": -0.14769,
+   "cell": "x-11y-9",
+   "url": "https://www.wandsworth.gov.uk/leisure-and-culture/parks-and-open-spaces/childrens-playgrounds/tooting-common-lakeside-playground/",
+   "note": "Open-access playground by the lake on Tooting Common (ages 2-7 and 8-14/16), address Dr Johnson Avenue SW17 (Wandsworth Council; Enable; GiGL). A GBP 384k redesign (slide, woodland storytelling area, musical area) was consulted on in late 2024; build status not confirmed. Pin is the Dr Johnson Avenue street centre (long road), so exact playground position unconfirmed; ~7.2 km from Peckham. Tooting Common itself is not yet on the map. A planning public notice gives postcode SW12 9HJ (51.43629, -0.14527, Bedford Hill side), about 400 m from the Dr Johnson Avenue pin, so the exact spot is still unresolved.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Dumps Adventure Playground, Bellingham",
+   "lat": 51.42464,
+   "lon": -0.02097,
+   "cell": "x+7y-11",
+   "url": "https://lewisham.gov.uk/myservices/young-people/adventure-playgrounds/dumps-adventure-playground",
+   "note": "Lewisham Council open-access adventure playground at 14 Oakview Road SE6 3QF (postcode pin). Council notice says it closed while works expand Watergate School and provide a new adventure playground and MUGA on the site (works from 14 April, year not stated, probably 2025). Only council sources; reopening not confirmed.",
+   "found": "2026-11-02"
   }
  ]
 }
