@@ -890,6 +890,51 @@
    "url": "https://cwg.com/portfolio-and-places/wood-wharf/",
    "note": "Canary Wharf Group and sales listings describe a children's playground in Harbord Square Park; only developer/marketing sources, no independent confirmation. Pin is Harbord Square street centre.",
    "found": "2026-11-02"
+  },
+  {
+   "name": "Sussex Street play area, Pimlico",
+   "lat": 51.48851,
+   "lon": -0.14429,
+   "cell": "x-10y+3",
+   "url": "https://www.westminsterconservatives.com/news/update-sussex-street-play-area",
+   "note": "Only councillor campaign pages (petition to improve it); current state and what is there unclear. Pin is Sussex Street centre.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Triangle Garden, Clarence Avenue (Clarence Avenue Growers)",
+   "lat": 51.45134,
+   "lon": -0.13413,
+   "cell": "x-9y-5",
+   "url": "https://lambeth.greenparty.org.uk/?p=4673",
+   "note": "Seen once in a search snippet (a Clapham Park profile, possibly the Lambeth Green Party or SW Londoner page): resident group runs a Triangle Garden with a book library, composting and food growing on the Clapham Park Estate. Exact source page, exact location and public access unconfirmed; pin is Clarence Avenue street centre.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Crystal Palace Park Dinosaur Playground",
+   "lat": 51.41677,
+   "lon": -0.0665,
+   "cell": "x+0y-13",
+   "url": "https://www.bromley.gov.uk/news/article/960/crystal-palace-park-dinosaur-playground-roars-into-action",
+   "note": "Well sourced (Bromley Council news, Crystal Palace Park Trust, Inside Croydon Nov 2025 and Apr 2026, World Landscape Architect): new dinosaur-skeleton adventure playground opened 20 March 2026 with accessible roundabout, swings and slide, 'easily reached from Penge Gate'. Only its exact spot is missing; pin is the Thicket Road segment by the Penge Gate end. Could instead be added as an extra on the existing Crystal Palace Dinosaurs entry.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Crystal Palace Maze",
+   "lat": 51.42062,
+   "lon": -0.071,
+   "cell": "x+0y-12",
+   "url": "https://www.crystalpalaceparktrust.org/pages/crystal-palace-maze",
+   "note": "Free 49 m Victorian hedge maze in Crystal Palace Park (Crystal Palace Park Trust, Londonist video, Foursquare). Only the park-wide address SE19 2GA was found, so the pin (that postcode) is not the maze's own position; needs a stated location before adding.",
+   "found": "2026-11-02"
+  },
+  {
+   "name": "Pimlico Library",
+   "lat": 51.48984,
+   "lon": -0.13318,
+   "cell": "x-9y+4",
+   "url": "https://westminster.gov.uk/event/rhyme-time-pimlico-library",
+   "note": "Westminster Council lists weekly term-time Rhyme Time for under-5s; library shares the Pimlico Academy campus with adult education (Art Rabbit). Street address not seen in sources: pin is Rampayne Street centre, which is my assumption and needs confirming.",
+   "found": "2026-11-02"
   }
  ]
 }

@@ -11042,9 +11042,9 @@
     "SW1P 1",
     "WC2B 4"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
    "finds": []
   },
   {
@@ -11060,9 +11060,9 @@
     "E14 9",
     "SE10 0"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
    "finds": []
   },
   {
@@ -11090,10 +11090,12 @@
     "E14 4",
     "E14 9"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 2,
+   "finds": [
+    "p325"
+   ]
   },
   {
    "id": "x-6y+9",
@@ -11144,10 +11146,12 @@
     "EC4A 3",
     "WC2R 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 2,
+   "finds": [
+    "p326"
+   ]
   },
   {
    "id": "x+9y-6",
@@ -11173,9 +11177,9 @@
     "SE13 6",
     "SE6 1"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
    "finds": []
   },
   {
@@ -11203,9 +11207,9 @@
     "SE27 0",
     "SW16 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 2,
    "finds": []
   },
   {
@@ -11223,10 +11227,12 @@
    "sectors": [
     "SE6 3"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
+   "finds": [
+    "p327"
+   ]
   },
   {
    "id": "x-9y-6",
@@ -11253,9 +11259,9 @@
     "SW2 4",
     "SW4 8"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 2,
    "finds": []
   },
   {
@@ -11286,10 +11292,12 @@
     "SW1E 6",
     "SW1P 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 2,
+   "finds": [
+    "p328"
+   ]
   },
   {
    "id": "x+0y+11",
@@ -11314,10 +11322,12 @@
     "E1 6",
     "E2 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 2,
+   "finds": [
+    "p329"
+   ]
   },
   {
    "id": "x+11y+0",
@@ -11333,10 +11343,12 @@
    "sectors": [
     "SE3 7"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
+   "finds": [
+    "p330"
+   ]
   },
   {
    "id": "x+0y-11",
@@ -11349,9 +11361,9 @@
    "sectors": [
     "SE26 6"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 2,
    "finds": []
   },
   {
@@ -11375,9 +11387,9 @@
     "SW11 4",
     "SW8 4"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 2,
    "finds": []
   },
   {
@@ -11410,10 +11422,12 @@
     "E2 6",
     "E2 0"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 3,
+   "finds": [
+    "p331"
+   ]
   },
   {
    "id": "x-1y+11",
@@ -11447,10 +11461,12 @@
     "EC2A 2",
     "EC2M 3"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 2,
+   "finds": [
+    "p332"
+   ]
   },
   {
    "id": "x-1y-11",
@@ -11467,9 +11483,9 @@
    "sectors": [
     "SE19 1"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-02",
+   "queries": 4,
    "finds": []
   },
   {
