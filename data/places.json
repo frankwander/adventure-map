@@ -15303,6 +15303,183 @@
     ],
     "reviewedAt": "2026-11-02"
    }
+  },
+  {
+   "id": "p364",
+   "name": "May Balfour Memorial Garden and Akeler Sundial",
+   "lat": 51.57084,
+   "lon": -0.77378,
+   "type": "park",
+   "area": "Marlow",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Sources put the garden behind Marlow Place with access from Institute Road, opposite Marlow Library. Pin is the Institute Road street centre (offline gazetteer); Institute Road is a short street.",
+   "ai": {
+    "score": 5,
+    "summary": "A small, quiet walled ornamental garden tucked off Institute Road, opposite Marlow Library. Its centrepiece is a huge modern sundial carved from a block of granite by sculptor Edwin Russell. A calm stop for a sit-down and a bit of 'how does a sundial tell the time?' with children on a town-centre wander.",
+    "standout": "A giant granite equatorial sundial by Edwin Russell, the sculptor of Greenwich's dolphin sundial",
+    "highlights": [
+     "Very large carved granite sundial to puzzle over on a sunny day",
+     "Peaceful walled garden a minute from the High Street and library",
+     "Used by local schools for quiet activities (Marlow C of E Infant School held a mindfulness session there in 2023)"
+    ],
+    "cautions": [
+     "Small ornamental garden with no play equipment",
+     "Check access before going: sources describe it as a public garden but give no opening times"
+    ],
+    "sources": [
+     {
+      "title": "British Sundial Society: sundial in the May Balfour Memorial Garden, Marlow",
+      "url": "https://sundialsoc.org.uk/wp_bridol/pages/S4/S4638.html"
+     },
+     {
+      "title": "Visit Thames: About Marlow",
+      "url": "https://www.visitthames.co.uk/explore/towns-villages/marlow"
+     },
+     {
+      "title": "Marlow Town Council: Marlow schoolchildren perform act of kindness for Marlow community (2023)",
+      "url": "https://www.marlow-tc.gov.uk/2023/06/marlow-schoolchildren-perform-act-of-kindness-for-marlow-community"
+     }
+    ],
+    "reviewedAt": "2026-11-07"
+   }
+  },
+  {
+   "id": "p365",
+   "name": "Charles Frohman Memorial (the 'Pocket Venus'), The Causeway",
+   "lat": 51.5686,
+   "lon": -0.7738,
+   "type": "landmark",
+   "area": "Marlow",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates 51.5686, -0.7738 as stated by British Listed Buildings for Historic England list entry 1125093 (NGR SU 85082 86238), on The Causeway near the bridge.",
+   "ai": {
+    "score": 5,
+    "summary": "A Grade II listed 1924 bronze nymph above a former drinking fountain on The Causeway, put up in memory of the theatre producer Charles Frohman, who died when the Lusitania sank. Locals call it the 'Pocket Venus'. It stands where Frohman liked to look out over the Thames, so it is an easy story-stop on the way to the bridge and the river.",
+    "standout": "A little bronze nymph with a big story: a memorial to a Lusitania victim, on the spot where he liked to watch the river",
+    "highlights": [
+     "Grade II listed sculpture by Leonard Merrifield (1924)",
+     "Right by Marlow Bridge and the riverside, so easy to combine with a walk",
+     "Looked after by Marlow Town Council, which secured its future and listed protection in 2024; local press reported it restored"
+    ],
+    "cautions": [
+     "A statue behind railings, not a play space: a short stop rather than an outing",
+     "Busy road junction at the bridge end of the High Street: hold small hands"
+    ],
+    "sources": [
+     {
+      "title": "Historic England: Statue in Memory of Charles Frohman (list entry 1125093)",
+      "url": "https://historicengland.org.uk/listing/the-list/list-entry/1125093"
+     },
+     {
+      "title": "Marlow Town Council: securing the future of the Charles Frohman memorial on the Causeway (Jan 2024)",
+      "url": "https://www.marlow-tc.gov.uk/2024/01/marlow-town-council-secures-the-future-for-grade-ii-listed-protection-of-the-iconic-charles-frohman-memorial-monument-on-the-causeway"
+     },
+     {
+      "title": "Imperial War Museums: War Memorials Register, Charles Frohman",
+      "url": "https://www.iwm.org.uk/memorials/item/memorial/64865"
+     },
+     {
+      "title": "MyMarlow: Landmark statue restored to former glory",
+      "url": "https://www.mymarlow.co.uk/?p=27756"
+     }
+    ],
+    "reviewedAt": "2026-11-07"
+   }
+  },
+  {
+   "id": "p366",
+   "name": "Marlow Library",
+   "lat": 51.571,
+   "lon": -0.7738,
+   "type": "library",
+   "area": "Marlow",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Postcode SL7 1BL (Institute Road) from the Buckinghamshire Council family information directory, geocoded with the offline gazetteer.",
+   "ai": {
+    "score": 6,
+    "summary": "Marlow's public library in the old Institute building on Institute Road, a minute from the High Street. A 2020 refurbishment replaced all the furniture and shelving and added a sensory StoryWall and new artwork for children. Handy for a rainy-day stop, story books and the council's regular children's clubs.",
+    "standout": "A sensory StoryWall for young children, added in the 2020 makeover",
+    "extras": "Children's books, sensory StoryWall",
+    "highlights": [
+     "Refurbished in 2020 with new shelving, furniture, artwork and a children's sensory StoryWall",
+     "Children's activities such as a Lego Club are listed in the council's family directory",
+     "Right next to the May Balfour Memorial Garden and its giant sundial"
+    ],
+    "cautions": [
+     "Opening hours and activity sessions change: check the Buckinghamshire Libraries page before going",
+     "Coverage of the refurbishment dates from 2020; we found no newer reports"
+    ],
+    "sources": [
+     {
+      "title": "MyMarlow: A transformed Marlow Library reopens",
+      "url": "https://www.mymarlow.co.uk/?p=36630"
+     },
+     {
+      "title": "Maidenhead Advertiser: Marlow Library transformed after extensive makeover (Dec 2020)",
+      "url": "https://www.maidenhead-advertiser.co.uk/news/marlow---bourne-end/164135/marlow-library-transformed-after-extensive-makeover.html"
+     },
+     {
+      "title": "Buckinghamshire Council Family Information Service directory: Marlow Library",
+      "url": "https://directory.familyinfo.buckinghamshire.gov.uk/service/14930?min_age=11"
+     },
+     {
+      "title": "Buckinghamshire Local Heritage List: Marlow Library",
+      "url": "https://local-heritage-list.org.uk/buckinghamshire/asset/9023"
+     }
+    ],
+    "reviewedAt": "2026-11-07"
+   }
+  },
+  {
+   "id": "p367",
+   "name": "Shelley plaque, Albion House (where Mary Shelley finished Frankenstein)",
+   "lat": 51.57037,
+   "lon": -0.7808,
+   "type": "landmark",
+   "area": "Marlow",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "104 West Street (Albion House / Shelley Cottages), postcode SL7 2BP from property-record listings for that address, geocoded with the offline gazetteer.",
+   "ai": {
+    "score": 4,
+    "summary": "A plaque on Albion House, 104 West Street, marks where the poet Percy Bysshe Shelley and his wife Mary lived in 1817 to 1818, and where Mary finished writing Frankenstein. It is a private house, so this is a quick look from the pavement, but it is a great story for older children who know the monster.",
+    "standout": "The house where Frankenstein was finished",
+    "age": "8+",
+    "ages": [
+     8,
+     18
+    ],
+    "highlights": [
+     "Plaque recording Percy and Mary Shelley's stay, 1817 to 1818",
+     "A literary curiosity on the main street west of the town centre, easy to fold into a walk to the High Street"
+    ],
+    "cautions": [
+     "Private homes: view from the street only",
+     "Only a plaque: no visitor facilities, and little to hold younger children's interest"
+    ],
+    "sources": [
+     {
+      "title": "Open Plaques: Mary Shelley",
+      "url": "https://openplaques.org/people/418"
+     },
+     {
+      "title": "Buckinghamshire Heritage Portal: Shelley House, West Street (MBC19975)",
+      "url": "https://heritageportal.buckinghamshire.gov.uk/Monument/MBC19975"
+     },
+     {
+      "title": "Visit Thames: About Marlow",
+      "url": "https://www.visitthames.co.uk/explore/towns-villages/marlow"
+     },
+     {
+      "title": "Time Out: the home that belonged to Frankenstein writer Mary Shelley",
+      "url": "https://www.timeout.com/uk/news/now-for-sale-the-creepy-home-that-belonged-to-frankenstein-writer-mary-shelley-122322"
+     }
+    ],
+    "reviewedAt": "2026-11-07"
+   }
   }
  ]
 }

@@ -27323,10 +27323,15 @@
     "SL7 3",
     "SL7 9"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 21,
+   "finds": [
+    "p364",
+    "p365",
+    "p366",
+    "p367"
+   ]
   },
   {
    "id": "m1:x+0y-1",
@@ -27478,9 +27483,9 @@
    "sectors": [
     "SL7 1"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 9,
    "finds": []
   },
   {
