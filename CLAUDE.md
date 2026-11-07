@@ -73,7 +73,7 @@ adventure playground or city farm is usually 8–9.
 - The offline gazetteer covers every search area, so `hds.py geocode "SL7 1NW"` works for Marlow too.
 
 ## High Density Search
-Each search area has its own grid of squares (Marlow's ids start `m:`). Use
+Each search area has its own grid of squares: 500 m around Peckham, 1 km around Marlow (ids start `m1:`). Use
 `python3 scripts/hds.py next N marlow` (or `peckham`) to work on one area.
 To find small places street by street, follow `.claude/skills/dense-search/SKILL.md`
 (method: `docs/high-density-search.md`). Progress lives in `data/hds/cells.json`; unconfirmed

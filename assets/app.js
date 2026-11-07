@@ -409,8 +409,8 @@
         if (!map) return;
         if (covBox.checked) {
           coverage.clearLayers();
-          var dLat = hds.cellMeters / 111320, dLon = hds.cellMeters / (111320 * Math.cos(PECKHAM.lat * Math.PI / 180));
           hds.cells.forEach(function (c) {
+            var m = c[4] || hds.cellMeters, dLat = m / 111320, dLon = m / (111320 * Math.cos(c[0] * Math.PI / 180));
             var b = [[c[0] - dLat / 2, c[1] - dLon / 2], [c[0] + dLat / 2, c[1] + dLon / 2]];
             L.rectangle(b, c[2] ? { color: "#2f6b45", weight: 1, fillColor: "#2f6b45", fillOpacity: c[3] ? 0.28 : 0.14, interactive: false }
                                 : { color: "#64748b", weight: 0.5, opacity: 0.35, fill: false, interactive: false }).addTo(coverage);

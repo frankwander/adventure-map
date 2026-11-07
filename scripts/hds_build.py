@@ -54,8 +54,10 @@ def bng_to_wgs84(E, N):
 
 
 def cell_of(r, lat, lon):
-    dlon = CELL_M / (111320.0 * math.cos(math.radians(r["lat"])))
-    return int(math.floor((lon - r["lon"]) / dlon + 0.5)), int(math.floor((lat - r["lat"]) / DLAT + 0.5)), dlon
+    m = r.get("cellMeters", CELL_M)
+    dlat = m / 111320.0
+    dlon = m / (111320.0 * math.cos(math.radians(r["lat"])))
+    return int(math.floor((lon - r["lon"]) / dlon + 0.5)), int(math.floor((lat - r["lat"]) / dlat + 0.5)), dlon
 
 
 def main():
@@ -99,14 +101,15 @@ def main():
             sec = cells.setdefault((x, y), {"streets": set(), "sectors": {}})["sectors"]
             sec[pc[:-2].strip()] = sec.get(pc[:-2].strip(), 0) + 1
         dlon = cell_of(r, r["lat"], r["lon"])[2]
+        cm = r.get("cellMeters", CELL_M); dlat = cm / 111320.0
         n = 0
         for (x, y), v in cells.items():
-            clat, clon = r["lat"] + y * DLAT, r["lon"] + x * dlon
+            clat, clon = r["lat"] + y * dlat, r["lon"] + x * dlon
             d = km(centre, (clat, clon))
-            if d > r["radiusKm"] + 0.25:
+            if d > r["radiusKm"] + cm / 2000:
                 continue
             cid = f"{r['cellPrefix']}x{x:+d}y{y:+d}"
-            c = {"id": cid, "region": r["id"], "lat": round(clat, 5), "lon": round(clon, 5), "km": round(d, 2),
+            c = {"id": cid, "region": r["id"], "m": cm, "lat": round(clat, 5), "lon": round(clon, 5), "km": round(d, 2),
                  "streets": sorted(v["streets"]), "sectors": sorted(v["sectors"], key=lambda k: -v["sectors"][k]),  # most postcodes first
                  "status": "pending", "searchedAt": None, "queries": 0, "finds": []}
             if cid in old:

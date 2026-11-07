@@ -10,9 +10,8 @@ articles, by searching every street. Follow `CLAUDE.md` for research rules, scor
 publishing; the method and its reasoning are in `docs/high-density-search.md`.
 
 ## The grid
-`data/hds/cells.json` splits each search area (`data/regions.json`) into squares of 500 m
-(about a 6-minute walk across): 864 around Peckham, 234 around Marlow (ids `m:…`), nearest
-to each centre first. Each square lists every named street in it and its
+`data/hds/cells.json` splits each search area (`data/regions.json`) into squares: 864 of
+500 m around Peckham, 94 of 1 km around Marlow (ids `m1:…`), nearest to each centre first. Each square lists every named street in it and its
 postcode sectors, from the ONS Postcode Directory and OS Open Names (`data/hds/gazetteer.json.gz`).
 
 ## One run

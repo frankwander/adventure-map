@@ -106,7 +106,7 @@ def render(data):
     cp = os.path.join(ROOT, "data", "hds", "cells.json")
     if os.path.exists(cp):
         hds = json.load(open(cp, encoding="utf-8"))
-        cells = [[c["lat"], c["lon"], 0 if c["status"] == "pending" else 1, len(c.get("finds", []))] for c in hds["cells"]]
+        cells = [[c["lat"], c["lon"], 0 if c["status"] == "pending" else 1, len(c.get("finds", [])), c.get("m", hds["cellMeters"])] for c in hds["cells"]]
         text += "window.REGIONS = " + json.dumps([{k: r[k] for k in ("id", "name", "lat", "lon", "radiusKm") if k in r} | {"hoods": r.get("hoods", [])} for r in REGIONS], ensure_ascii=False, separators=(",", ":")) + ";\n"
         text += "window.HDS = " + json.dumps({"cellMeters": hds["cellMeters"], "cells": cells}, separators=(",", ":")) + ";\n"
     return text

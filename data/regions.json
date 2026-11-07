@@ -13,7 +13,8 @@
     188000
    ],
    "cellPrefix": "",
-   "note": "5 miles around Peckham, the map's home area"
+   "note": "5 miles around Peckham, the map's home area",
+   "cellMeters": 500
   },
   {
    "id": "marlow",
@@ -27,7 +28,7 @@
     493000,
     194000
    ],
-   "cellPrefix": "m:",
+   "cellPrefix": "m1:",
    "anchor": "The Marlow Donkey pub, Station Road, SL7 1NW (postcode centre, ONS Postcode Directory)",
    "hoods": [
     {
@@ -56,7 +57,8 @@
      "lon": -0.6843
     }
    ],
-   "note": "5 km around the Marlow Donkey: Marlow, Bisham, Little Marlow, Bourne End, Cookham"
+   "note": "5 km around the Marlow Donkey: Marlow, Bisham, Little Marlow, Bourne End, Cookham",
+   "cellMeters": 1000
   }
  ]
 }
