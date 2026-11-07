@@ -15479,6 +15479,681 @@ window.PLACES = [
    ],
    "reviewedAt": "2026-11-07"
   }
+ },
+ {
+  "id": "p368",
+  "name": "Higginson Park",
+  "lat": 51.56774,
+  "lon": -0.77695,
+  "type": "park",
+  "area": "Marlow",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SL7 2AE (Pound Lane, given by Buckinghamshire Council and Visit Thames for the park) geocoded with the offline gazetteer; the pin is at the Pound Lane side, the play area is by the café near the river.",
+  "link": "https://www.buckinghamshire.gov.uk/health-wellbeing-and-sports/parks-and-open-spaces/find-a-park-or-play-area/higginson-park/",
+  "ai": {
+   "score": 9,
+   "summary": "Marlow's big riverside park, with lawns running down to the Thames and a play area rebuilt in 2023 for children of all ages and abilities. The play area sits next to the café and toilets, and there is a skate park too, so it works for a whole afternoon with toddlers or older kids.",
+   "standout": "A large ship-themed climbing unit by the Thames, plus inclusive swings and a wheelchair-accessible roundabout",
+   "age": "Toddlers to 14",
+   "ages": [
+    1,
+    14
+   ],
+   "extras": "Café, public toilets, skate park, pay and display car park on Pound Lane",
+   "highlights": [
+    "Play area refurbished in summer 2023 with inclusive equipment",
+    "Ship-themed multi-play unit, gliding track ride, trampoline and big rope swing",
+    "Skate park for older children",
+    "Riverside lawns for picnics and boat-watching",
+    "Short walk to Marlow Lock and the suspension bridge",
+    "Brick-in-grass maze, seasonal boat hire and summer-holiday mini golf listed by Visit Thames"
+   ],
+   "cautions": [
+    "Pound Lane car park is pay and display",
+    "Busy on sunny weekends and during summer events",
+    "Unfenced river edge along the park",
+    "Check café opening times before going"
+   ],
+   "sources": [
+    {
+     "title": "Buckinghamshire Council: Higginson Park (Marlow)",
+     "url": "https://www.buckinghamshire.gov.uk/health-wellbeing-and-sports/parks-and-open-spaces/find-a-park-or-play-area/higginson-park/"
+    },
+    {
+     "title": "MyMarlow: Fun and inclusive new play area opens at Higginson Park",
+     "url": "https://www.mymarlow.co.uk/?p=46301"
+    },
+    {
+     "title": "Visit Thames: Higginson Park and Court Garden Leisure Complex",
+     "url": "https://www.visitthames.co.uk/higginson-park-and-court-garden-leisure-complex-p1458811"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p369",
+  "name": "Court Garden Leisure Complex (swimming pool)",
+  "lat": 51.56774,
+  "lon": -0.77695,
+  "type": "activity",
+  "area": "Marlow",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SL7 2AE (Pound Lane, given by Places Leisure listings and Swim England pool finder) geocoded with the offline gazetteer; the centre is inside Higginson Park.",
+  "link": "https://www.placesleisure.org/centres/court-garden-leisure-complex/",
+  "ai": {
+   "score": 6,
+   "summary": "The town's leisure centre, run by Places Leisure, in the Georgian Court Garden house beside Higginson Park. It has one 15 m pool used for lessons and weekend family fun sessions, handy to pair with the playground next door.",
+   "standout": "A swim and the riverside playground in one trip",
+   "extras": "Swimming lessons, family swim sessions, gym",
+   "highlights": [
+    "Weekend family fun swim sessions",
+    "Learn-to-swim lessons",
+    "Right next to Higginson Park's play area and café"
+   ],
+   "cautions": [
+    "Single small pool (15 m), with no separate learner or splash pool listed",
+    "A local report mentioned a three-month pool closure from December; check the pool is open before going",
+    "Check family session times before going"
+   ],
+   "sources": [
+    {
+     "title": "Places Leisure: Court Garden Leisure Complex swimming",
+     "url": "https://www.placesleisure.org/centres/court-garden-leisure-complex/centre-activities/swimming"
+    },
+    {
+     "title": "Swim England pool finder: Court Garden Leisure Complex",
+     "url": "https://www.swimming.org/poolfinder/pools/1005471/marlow/court-garden-leisure-complex/"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p370",
+  "name": "Marlow Suspension Bridge",
+  "lat": 51.56728,
+  "lon": -0.77325,
+  "type": "landmark",
+  "area": "Marlow",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Coordinates 51° 34' 2.2\" N, 0° 46' 23.69\" W stated by Structurae (Wikipedia gives 51.567, -0.773).",
+  "ai": {
+   "score": 6,
+   "summary": "A white Grade I listed suspension bridge over the Thames, built 1829–1832 by William Tierney Clark, who later used it as the model for the much bigger Chain Bridge in Budapest. It is a fun story to tell children while you walk across between Higginson Park and the Bisham bank.",
+   "standout": "The little sister of Budapest's famous Chain Bridge",
+   "highlights": [
+    "Walk across the Thames with river views both ways",
+    "Links Higginson Park, the town and Marlow Lock in a short loop",
+    "Good bridge-and-boats spotting from the park bank"
+   ],
+   "cautions": [
+    "Narrow footways with traffic on the bridge; hold small hands"
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Marlow Bridge",
+     "url": "https://en.wikipedia.org/wiki/Marlow_Bridge"
+    },
+    {
+     "title": "hidden europe: A tale of two bridges, the work of William Tierney Clark",
+     "url": "https://www.hiddeneurope.co.uk/the-magazine/issues/hidden-europe-63/a-tale-of-two-bridges-the-work-of-william-tierney-clark/"
+    },
+    {
+     "title": "Structurae: Marlow Suspension Bridge",
+     "url": "https://structurae.net/en/structures/marlow-suspension-bridge"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p371",
+  "name": "Marlow Lock",
+  "lat": 51.56816,
+  "lon": -0.76841,
+  "type": "water",
+  "area": "Marlow",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SL7 1QB (Thames House, Marlow Lock, Mill Road, from a property listing beside the lock) geocoded with the offline gazetteer; the lock is a few metres away.",
+  "ai": {
+   "score": 6,
+   "summary": "A Thames lock on the town side of the river, about 300 m downstream of the bridge and a short walk from Higginson Park along the river. Children can watch boats rise and fall in the lock and see the long weir beside it.",
+   "standout": "Watching boats go through the lock, next to a long weir",
+   "highlights": [
+    "Free boat-watching",
+    "Easy add-on to a Higginson Park visit via the Thames Path",
+    "Reached by a short footpath off Mill Road"
+   ],
+   "cautions": [
+    "Deep water and unfenced lock edges; keep children close",
+    "Boat traffic is seasonal, so it is quieter in winter"
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Marlow Lock",
+     "url": "https://en.wikipedia.org/wiki/Marlow_Lock"
+    },
+    {
+     "title": "Visit Thames: Things to do in Marlow",
+     "url": "https://www.visitthames.co.uk/explore/towns-villages/marlow/things-to-do/"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p372",
+  "name": "Riley Park play area",
+  "lat": 51.572,
+  "lon": -0.7785,
+  "type": "playground",
+  "area": "Marlow",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Riley Road, SL7 (street centre, offline gazetteer). Riley Park Trust says the park is bounded by Riley Road, Oxford Road and Cambridge Road behind Sainsbury's on West Street.",
+  "ai": {
+   "score": 5,
+   "summary": "A neighbourhood park just west of the town centre, behind Sainsbury's, with a children's playground looked after by Marlow Town Council. A useful stop for a quick play close to the shops.",
+   "standout": "A town-centre playground within a few minutes of the High Street",
+   "highlights": [
+    "Close to the town centre and West Street",
+    "Town council repaired the worn surfacing around the swings in 2024",
+    "Open grass for running about"
+   ],
+   "cautions": [
+    "Equipment details are not listed in recent sources",
+    "Council papers in 2024 noted worn surfacing around the swings; check whether works are finished"
+   ],
+   "sources": [
+    {
+     "title": "Riley Park Trust",
+     "url": "https://rileyparktrust.co.uk/"
+    },
+    {
+     "title": "Marlow Town Council: Resources Committee agenda 21 May 2024 (Riley Park playground repairs)",
+     "url": "https://marlow-tc.gov.uk/wp-content/uploads/2024/05/Agenda-Resources-21.05.2024-1.pdf"
+    },
+    {
+     "title": "Buckinghamshire Council: Play strategy for the former Wycombe district 2017 to 2022, appendix 1 (play area list)",
+     "url": "https://www.buckinghamshire.gov.uk/health-wellbeing-and-sports/parks-and-open-spaces/looking-after-our-parks-and-open-spaces/play-strategy-for-the-former-wycombe-district-area-2017-to-2022/appendix-1"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p373",
+  "name": "Marlow Bottom Playing Field play area",
+  "lat": 51.58669,
+  "lon": -0.78125,
+  "type": "playground",
+  "area": "Marlow Bottom",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Burford Close, SL7 (street centre, offline gazetteer); a source describes the field as off Burford Close. Pin is approximate.",
+  "ai": {
+   "score": 6,
+   "summary": "The village playing field in Marlow Bottom, run by a local charity committee that raises money for the play area with a summer concert and November fireworks. Sources mention toddler equipment, a zip line for older children and open grass for ball games.",
+   "standout": "A zip line, and the village fireworks night each November",
+   "highlights": [
+    "Wooden playground on grass with a Playdale Woodland Eco Towers climbing frame",
+    "Under-5s equipment added by the management committee",
+    "Zip line for older children",
+    "Big open field next to the play area",
+    "Community fireworks display in November"
+   ],
+   "cautions": [
+    "Exact entrance and parking not confirmed; check before going",
+    "Facilities such as toilets are not listed"
+   ],
+   "sources": [
+    {
+     "title": "Charity Commission: Marlow Bottom Playing Fields Management Committee",
+     "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/271046/full-print"
+    },
+    {
+     "title": "MyMarlow: Local residents raise £20k for park improvements",
+     "url": "https://www.mymarlow.co.uk/?p=29755"
+    },
+    {
+     "title": "Playdale: Picnic and play this summer in Buckinghamshire",
+     "url": "https://www.playdale.co.uk/?p=53451"
+    },
+    {
+     "title": "World of Playgrounds: Marlow Bottom Playing Field",
+     "url": "https://worldofplaygrounds.com/playgrounds/united-kingdom/england/marlow-1/marlow-bottom-playing-field"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p374",
+  "name": "Bisham Woods and Quarry Wood",
+  "lat": 51.56348,
+  "lon": -0.75289,
+  "type": "nature",
+  "area": "Bisham",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Quarry Wood Road, SL6 (street centre, offline gazetteer), which runs up through Quarry Wood, part of Bisham Woods. The woods are large; the pin is approximate.",
+  "link": "https://www.woodlandtrust.org.uk/visiting-woods/woods/bisham-woods/",
+  "ai": {
+   "score": 8,
+   "summary": "Big ancient beech woods on the hill just across the river from Marlow, looked after by the Woodland Trust. Quarry Wood is often named as the Wild Wood of The Wind in the Willows, which makes a walk here a story adventure for children, with Thames views from the top.",
+   "standout": "The real-life Wild Wood from The Wind in the Willows",
+   "extras": "Woodland Trust Wind in the Willows walk leaflet",
+   "highlights": [
+    "Ancient woodland with a network of paths and bridleways",
+    "Wind in the Willows walk leaflet from the Woodland Trust (short route about 5 km)",
+    "Views down to the Thames and Marlow",
+    "Site of a medieval quarry that supplied stone for Windsor Castle"
+   ],
+   "cautions": [
+    "No dedicated car park; parking is in lay-bys and pull-ins on nearby lanes",
+    "Some walking along country lanes to reach the wood",
+    "Hilly and muddy in wet months; not buggy-friendly",
+    "No toilets or café in the wood"
+   ],
+   "sources": [
+    {
+     "title": "Woodland Trust: Bisham Woods",
+     "url": "https://www.woodlandtrust.org.uk/visiting-woods/woods/bisham-woods/"
+    },
+    {
+     "title": "Wikipedia: Bisham Woods",
+     "url": "https://en.wikipedia.org/wiki/Bisham_Woods"
+    },
+    {
+     "title": "Countryfile: Quarry Woods, Berkshire walk",
+     "url": "https://www.countryfile.com/go-outdoors/walks/quarry-woods-berkshire"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p375",
+  "name": "Cookham Moor and Cock Marsh (National Trust)",
+  "lat": 51.55936,
+  "lon": -0.71627,
+  "type": "nature",
+  "area": "Cookham",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SL6 9SA (National Trust Cookham Moor car park on the B4447, from a postcode directory) geocoded with the offline gazetteer. Cock Marsh is a walk north from here along the river.",
+  "link": "https://nationaltrust.org.uk/maidenhead-and-cookham-commons",
+  "ai": {
+   "score": 7,
+   "summary": "Open National Trust common land on the edge of Cookham village: Cookham Moor by the car park, and Cock Marsh, flat water meadows and chalk slopes along the Thames opposite Bourne End. Good for picnics, a riverside walk and seeing grazing cattle, with a footbridge over the river to Bourne End.",
+   "standout": "Riverside meadows with grazing cattle and a footbridge on the railway bridge to Bourne End",
+   "extras": "National Trust car park at Cookham Moor; pubs and cafés in Cookham village",
+   "highlights": [
+    "Wide open grass for running and picnics",
+    "National Trust Cookham and Cock Marsh circular walk by the river",
+    "Cattle grazing on the commons in the warmer months",
+    "Thames Path footbridge across to Bourne End"
+   ],
+   "cautions": [
+    "Cookham Moor car park charges non-members; check the current fee",
+    "Cattle graze from about April to November; keep dogs on leads and give them space",
+    "Unfenced riverbank; low-lying land can flood in winter",
+    "No toilets on the commons"
+   ],
+   "sources": [
+    {
+     "title": "National Trust: Cookham and Cock Marsh walk",
+     "url": "https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/maidenhead-and-cookham-commons/cookham-and-cock-marsh-walk"
+    },
+    {
+     "title": "Wikipedia: Cock Marsh",
+     "url": "https://en.wikipedia.org/wiki/Cock_Marsh"
+    },
+    {
+     "title": "Postcode Area: car parks in SL6 9 (Cookham Moor)",
+     "url": "https://www.postcodearea.co.uk/postaltowns/slough/sl69eg/car-parks/"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p376",
+  "name": "Little Marlow Lakes Country Park (Spade Oak)",
+  "lat": 51.57944,
+  "lon": -0.72565,
+  "type": "nature",
+  "area": "Little Marlow",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Coordinates 51.57944, -0.72565 for the free Spade Oak car park on Coldmoorholme Lane, stated by Walking Britain (grid ref SU884875).",
+  "link": "https://littlemarlowlakes.co.uk/",
+  "ai": {
+   "score": 7,
+   "summary": "Former gravel pits between Marlow and Bourne End, now about 300 ha of lakes, meadows and woodland being turned into a country park by Buckinghamshire Council. Flat paths around Spade Oak lake make an easy loop for little legs, with lots of water birds to spot.",
+   "standout": "Flat lakeside loop with herons, waders and woodpeckers to spot",
+   "extras": "Free car park at Spade Oak; pubs and a farm shop nearby",
+   "highlights": [
+    "Easy, flat lakeside walk of about 4 km",
+    "Spade Oak lake is an important site for wading birds",
+    "Children's quiz for the walk from Chilterns Country",
+    "Links to the Thames Path towards Bourne End"
+   ],
+   "cautions": [
+    "Country park status was still being set up; facilities are limited",
+    "No toilets or café at the car park",
+    "Deep lakes with open edges; keep children close",
+    "Paths can be muddy after rain"
+   ],
+   "sources": [
+    {
+     "title": "Little Marlow Lakes Country Park",
+     "url": "https://littlemarlowlakes.co.uk/"
+    },
+    {
+     "title": "Buckinghamshire Council: Plans approved for new designated green space in Little Marlow",
+     "url": "https://www.buckinghamshire.gov.uk/news/plans-approved-for-new-designated-green-space-in-little-marlow"
+    },
+    {
+     "title": "Chilterns Country: Little Marlow walk",
+     "url": "https://www.chilterns.org.uk/map_marker/chilterns-country-little-marlow-walk/"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p377",
+  "name": "Alfred Major Recreation Ground play area",
+  "lat": 51.55639,
+  "lon": -0.72531,
+  "type": "playground",
+  "area": "Cookham",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SL6 9JF (Cookham Rise School, which Cookham Parish Council's tender says is next to the recreation ground) geocoded with the offline gazetteer.",
+  "link": "https://cookham-pc.gov.uk/alfred-major-recreation-ground/",
+  "ai": {
+   "score": 6,
+   "summary": "Cookham Rise's main recreation ground, run by Cookham Parish Council, with a fenced children's play area that includes several pieces for under-5s. A local family blog rates it top of its Maidenhead-area play parks, and Cookham's shops are close for refreshments.",
+   "standout": "A fenced village play area with plenty for under-5s",
+   "extras": "Fenced play area (no dogs)",
+   "highlights": [
+    "Enclosed play area so parents can watch easily",
+    "Equipment for under-5s as well as older children",
+    "Big open recreation ground around it",
+    "The parish council sought a Wind in the Willows-themed renovation in 2021",
+    "Also has an outdoor keep-fit area and a hard-surface basketball and netball court"
+   ],
+   "cautions": [
+    "Parking is on nearby residential roads",
+    "Ground rules were updated in 2025; check the parish council page",
+    "It is unclear from sources whether the planned renovation was completed"
+   ],
+   "sources": [
+    {
+     "title": "Cookham Parish Council: Alfred Major Recreation Ground",
+     "url": "https://cookham-pc.gov.uk/alfred-major-recreation-ground/"
+    },
+    {
+     "title": "Red Kite Days: Top 5 play parks in Maidenhead",
+     "url": "https://bedfordshire.redkitedays.co.uk/top-5-play-parks-maidenhead"
+    },
+    {
+     "title": "Contracts Finder: Cookham parish play area renovation tender (2021)",
+     "url": "https://www.contractsfinder.service.gov.uk/Notice/4d32af56-05cf-4631-b48c-e813a9002d0b"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p378",
+  "name": "Marlow Station and the Marlow Donkey train",
+  "lat": 51.57152,
+  "lon": -0.76764,
+  "type": "activity",
+  "area": "Marlow",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SL7 1NT (Marlow station, Station Approach, given by station listings) geocoded with the offline gazetteer.",
+  "ai": {
+   "score": 6,
+   "summary": "Marlow's little terminus station, end of the single-track branch line from Maidenhead that locals call the Marlow Donkey. A short shuttle ride via Bourne End, where the train reverses, is a cheap train adventure for young rail fans.",
+   "standout": "A single-track branch line where the train reverses at Bourne End",
+   "highlights": [
+    "Short shuttle ride to Bourne End or Maidenhead",
+    "Line opened in 1873; the nickname dates from steam days",
+    "The Marlow Donkey pub next door is named after the train"
+   ],
+   "cautions": [
+    "Usually about one train an hour off-peak; check times and engineering works before going",
+    "Small unstaffed station with few facilities"
+   ],
+   "sources": [
+    {
+     "title": "Wikipedia: Marlow branch line",
+     "url": "https://en.wikipedia.org/wiki/Marlow_branch_line"
+    },
+    {
+     "title": "Marlow-Maidenhead Passengers' Association: history of the line",
+     "url": "https://mmpa.org.uk/history.html"
+    },
+    {
+     "title": "Wikipedia: Marlow railway station",
+     "url": "https://en.wikipedia.org/wiki/Marlow_railway_station"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p379",
+  "name": "Little Marlow Recreation Ground play area",
+  "lat": 51.58435,
+  "lon": -0.74109,
+  "type": "playground",
+  "area": "Little Marlow",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SL7 3RZ (Church Road, given for the recreation ground by a sports-facilities listing) geocoded with the offline gazetteer.",
+  "ai": {
+   "score": 5,
+   "summary": "The village recreation ground in Little Marlow, run by the parish council, with a local equipped play area, a pavilion and cricket and football pitches. A quiet village stop that pairs well with a walk to the Little Marlow lakes.",
+   "standout": "Village green setting close to the Little Marlow lakes walks",
+   "highlights": [
+    "Play area plus open playing fields",
+    "Pavilion run by Little Marlow Parish Council",
+    "Near the Spade Oak lakes and Thames Path"
+   ],
+   "cautions": [
+    "Equipment is not described in recent sources; check before a special trip",
+    "Facilities such as toilets are not confirmed"
+   ],
+   "sources": [
+    {
+     "title": "Buckinghamshire Council: Play strategy for the former Wycombe district 2017 to 2022, appendix 1 (play area list)",
+     "url": "https://www.buckinghamshire.gov.uk/health-wellbeing-and-sports/parks-and-open-spaces/looking-after-our-parks-and-open-spaces/play-strategy-for-the-former-wycombe-district-area-2017-to-2022/appendix-1"
+    },
+    {
+     "title": "Sports facilities: Little Marlow recreation ground",
+     "url": "https://sports-facilities.co.uk/sites/view/6019541"
+    },
+    {
+     "title": "Little Marlow Parish Council: community halls for hire",
+     "url": "https://www.littlemarlow-pc.gov.uk/community/little-marlow-parish-council-13433/news/community-halls-for-hire-72032"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p380",
+  "name": "The Little Green Boat Company (boat hire)",
+  "lat": 51.56774,
+  "lon": -0.77695,
+  "type": "water",
+  "area": "Marlow",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SL7 2AE (Higginson Park, Pound Lane, given by listings for the boat hire) geocoded with the offline gazetteer; the boats launch from the park's riverbank.",
+  "link": "https://tlgbc.squarespace.com/marlow",
+  "ai": {
+   "score": 7,
+   "summary": "Self-drive rowing and electric boats hired by the hour from the riverbank in Higginson Park. Taking the family out on the Thames yourselves is a proper adventure for children, and the park's playground and café are right there for afterwards.",
+   "standout": "Rowing your own boat on the Thames from Higginson Park",
+   "extras": "Rowing boats and electric motor boats; café at the hire site",
+   "highlights": [
+    "Self-drive rowing and electric boats, some taking up to 8 people",
+    "Walk-up hire or booking ahead",
+    "Next to Higginson Park's playground, café and toilets"
+   ],
+   "cautions": [
+    "Seasonal: closed in winter",
+    "Paid; prices change, so check before going",
+    "Life jackets and supervision of children on the water are essential; check what is provided",
+    "River conditions can close hire after heavy rain"
+   ],
+   "sources": [
+    {
+     "title": "Visit Thames: The Little Green Boat Company",
+     "url": "https://visitthames.co.uk/things-to-do/the-little-green-boat-company-p2516721"
+    },
+    {
+     "title": "Chilterns National Landscape: The Little Green Boat Company",
+     "url": "https://www.chilterns.org.uk/experience-event/the-little-green-boat-company"
+    },
+    {
+     "title": "Day Out With The Kids: The Little Green Boat Company Marlow",
+     "url": "https://www.dayoutwiththekids.co.uk/attractions/the-little-green-boat-company-marlow-kbe13ssl"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p381",
+  "name": "Stanley Spencer Gallery",
+  "lat": 51.5597,
+  "lon": -0.70822,
+  "type": "museum",
+  "area": "Cookham",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SL6 9SJ (The Kings Hall, High Street, Cookham, given in a gallery listing) geocoded with the offline gazetteer.",
+  "link": "https://stanleyspencer.org.uk/visit/",
+  "ai": {
+   "score": 5,
+   "summary": "A small gallery in Cookham's old chapel devoted to Stanley Spencer, who painted the village and its people. It suits curious school-age children more than toddlers, helped by a free activity workbook with drawing and looking games, and it pairs well with Cookham Moor and the river.",
+   "standout": "Free children's workbook for spotting Cookham in the paintings",
+   "highlights": [
+    "Free 'Revealing Genius' workbook for children and adults",
+    "Paintings of places you can then find in the village",
+    "Short walk to Cookham Moor and the Thames"
+   ],
+   "cautions": [
+    "Small, quiet gallery; best for older children",
+    "Admission is charged for adults; check prices and opening times before going"
+   ],
+   "sources": [
+    {
+     "title": "Stanley Spencer Gallery: Visit the gallery",
+     "url": "https://stanleyspencer.org.uk/visit/"
+    },
+    {
+     "title": "Wikipedia: Stanley Spencer Gallery",
+     "url": "https://en.wikipedia.org/wiki/Stanley_Spencer_Gallery"
+    },
+    {
+     "title": "Visit Windsor: Cookham",
+     "url": "https://www.windsor.gov.uk/explore/towns-and-villages/cookham"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p382",
+  "name": "Bourne End Community Library",
+  "lat": 51.57894,
+  "lon": -0.71089,
+  "type": "library",
+  "area": "Bourne End",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SL8 5SX (Wakeman Road, given by Buckinghamshire Council for the library) geocoded with the offline gazetteer.",
+  "ai": {
+   "score": 5,
+   "summary": "A small community library on Wakeman Road in the middle of Bourne End, part of Buckinghamshire's library network. It runs occasional free children's sessions such as a coding club and holiday crafts, and makes a quiet indoor stop on a trip to the village.",
+   "standout": "Free holiday activities and a children's coding club",
+   "highlights": [
+    "Children's books in the village centre",
+    "Free coding club for 7 to 11-year-olds has been listed",
+    "Summer craft activities in the holidays"
+   ],
+   "cautions": [
+    "Opening hours are limited and it is closed some days; check before going",
+    "Children's events vary; check the Buckinghamshire libraries events listing"
+   ],
+   "sources": [
+    {
+     "title": "Buckinghamshire Council: Bourne End Community Library",
+     "url": "https://www.buckinghamshire.gov.uk/libraries/information-about-local-library/bourne-end-community-library"
+    },
+    {
+     "title": "Buckinghamshire Family Information directory: Bourne End library activities",
+     "url": "https://directory.familyinfo.buckinghamshire.gov.uk/service/16101?min_age=11"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
+ },
+ {
+  "id": "p383",
+  "name": "The Fruit Fields at Copas Farms (pick your own)",
+  "lat": 51.54876,
+  "lon": -0.73231,
+  "type": "activity",
+  "area": "Cookham",
+  "scope": "local",
+  "source": "ai",
+  "locationNote": "Postcode SL6 9EE (Lower Mount Farm, Long Lane, Cookham, given by Day Out With The Kids) geocoded with the offline gazetteer; a rural postcode, so the pin may be a little off the field entrance.",
+  "ai": {
+   "score": 7,
+   "summary": "A pick-your-own farm on the edge of Cookham where families wander the fields picking seasonal fruit and vegetables, then pumpkins in October. It is a hands-on outing for children, and a maize maze has been promised alongside the autumn pumpkins.",
+   "standout": "Picking your own pumpkin in October, with a maize maze",
+   "highlights": [
+    "Seasonal pick-your-own fruit and veg in summer",
+    "Pumpkin picking on October weekends",
+    "Maize maze mentioned for autumn"
+   ],
+   "cautions": [
+    "Seasonal (roughly late spring to October); check dates before going",
+    "Pumpkin slots may need booking and are charged",
+    "No animal farm listed; this is a fruit and veg farm",
+    "Fields are muddy after rain; wear boots"
+   ],
+   "sources": [
+    {
+     "title": "Day Out With The Kids: The Fruit Fields at Copas Farms",
+     "url": "https://www.dayoutwiththekids.co.uk/attractions/the-fruit-fields-at-copas-farms-54ugewr2"
+    },
+    {
+     "title": "Visit Windsor: Copas Farms Fruit Fields pick your own, Cookham",
+     "url": "https://www.windsor.gov.uk/food-and-drink/copas-farms-fruit-fields-pick-your-own-cookham-p2719311"
+    },
+    {
+     "title": "Red Kite Days: Where to go pumpkin picking in Berkshire",
+     "url": "https://redkitedays.co.uk/where-to-go-pumpkin-picking-in-berkshire/"
+    }
+   ],
+   "reviewedAt": "2026-11-07"
+  }
  }
 ];
 window.REGIONS = [{"id":"peckham","name":"Peckham","lat":51.4734,"lon":-0.069,"radiusKm":8.05,"hoods":[]},{"id":"marlow","name":"Marlow","lat":51.57088,"lon":-0.77027,"radiusKm":5.0,"hoods":[{"label":"Marlow","lat":51.574,"lon":-0.7741},{"label":"Bourne End","lat":51.5795,"lon":-0.7107},{"label":"Cookham","lat":51.5577,"lon":-0.7305},{"label":"Flackwell Heath","lat":51.5995,"lon":-0.7072},{"label":"Wooburn Green","lat":51.5953,"lon":-0.6843}]}];

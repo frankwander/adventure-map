@@ -989,6 +989,105 @@
    "url": "https://www.buckinghamshire.gov.uk/health-wellbeing-and-sports/parks-and-open-spaces/find-a-park-or-play-area/gossmore-recreation-ground",
    "note": "Riverside open area by the Thames off Riverwoods Drive, on the Thames Path downstream of Gossmore Recreation Ground (Bucks Council Gossmore page) and listed among Marlow town parks by the Marlow Society. Only an auto-generated listing and one review describe it (benches, paths); no facilities or play confirmed. Pin is postcode SL7 1QU on Riverwoods Drive (gazetteer), not the open space itself.",
    "found": "2026-11-07"
+  },
+  {
+   "name": "Seymour Park play area (Marlow)",
+   "lat": 51.5792,
+   "lon": -0.77842,
+   "cell": "m1:x-1y+1",
+   "url": "https://www.marlow-tc.gov.uk/who-does-what",
+   "note": "Marlow Town Council runs Seymour Park including a play area (also in the Bucks play strategy list, and Pacer says about 5 acres with a playground). Pin is only the Seymour Park Road street centre; the park's exact position and entrance were not found.",
+   "found": "2026-11-07"
+  },
+  {
+   "name": "Campbell Road play area (Marlow)",
+   "lat": 51.58207,
+   "lon": -0.76522,
+   "cell": "m1:x+0y+1",
+   "url": "https://www.marlow-tc.gov.uk/who-does-what",
+   "note": "Named as a Marlow Town Council play area; pin is the Campbell Road street centre. No description of equipment or exact position found.",
+   "found": "2026-11-07"
+  },
+  {
+   "name": "Gossmore Recreation Ground (Marlow)",
+   "lat": 51.56848,
+   "lon": -0.76155,
+   "cell": "m1:x+1y+0",
+   "url": "https://www.buckinghamshire.gov.uk/health-wellbeing-and-sports/parks-and-open-spaces/find-a-park-or-play-area/gossmore-recreation-ground",
+   "note": "Council-listed recreation ground on Gossmore Lane (SL7 1SZ) with football pitches and a path to the Thames; no confirmed children's play equipment, so not added.",
+   "found": "2026-11-07"
+  },
+  {
+   "name": "Bourne End Recreation Ground play area",
+   "lat": 51.57653,
+   "lon": -0.71009,
+   "cell": "m1:x+4y+1",
+   "url": "https://www.wooburnparish.gov.uk/?page_id=53",
+   "note": "Parish council play area listed by Wooburn and Bourne End Parish Council and the Bucks play strategy, but its position was not found. Pin is only the Station Road SL8 street centre (central Bourne End).",
+   "found": "2026-11-07"
+  },
+  {
+   "name": "Blind Lane Recreation Ground play area (Bourne End)",
+   "lat": 51.58777,
+   "lon": -0.707,
+   "cell": "m1:x+4y+2",
+   "url": "https://www.wooburnparish.gov.uk/?page_id=53",
+   "note": "Parish play area listed by the parish council and play strategy (with shelter and ball hoop). Blind Lane has two street segments in the gazetteer; exact site unknown. About 4.7 km from the Marlow Donkey.",
+   "found": "2026-11-07"
+  },
+  {
+   "name": "Sandygate Close play area (Marlow)",
+   "lat": 51.57737,
+   "lon": -0.77932,
+   "cell": "m1:x-1y+1",
+   "url": "https://www.buckinghamshire.gov.uk/health-wellbeing-and-sports/parks-and-open-spaces/looking-after-our-parks-and-open-spaces/play-strategy-for-the-former-wycombe-district-area-2017-to-2022/appendix-1",
+   "note": "Estate play area listed (Red Kite housing) in the 2017-2022 play strategy only; one source, street-centre pin.",
+   "found": "2026-11-07"
+  },
+  {
+   "name": "Wallace Close play area (Marlow)",
+   "lat": 51.58265,
+   "lon": -0.7616,
+   "cell": "m1:x+1y+1",
+   "url": "https://www.buckinghamshire.gov.uk/health-wellbeing-and-sports/parks-and-open-spaces/looking-after-our-parks-and-open-spaces/play-strategy-for-the-former-wycombe-district-area-2017-to-2022/appendix-1",
+   "note": "Estate play area (Red Kite) in the 2017-2022 play strategy only; one source, street-centre pin.",
+   "found": "2026-11-07"
+  },
+  {
+   "name": "Shelley Road play area (Marlow)",
+   "lat": 51.57756,
+   "lon": -0.761,
+   "cell": "m1:x+1y+1",
+   "url": "https://www.buckinghamshire.gov.uk/health-wellbeing-and-sports/parks-and-open-spaces/looking-after-our-parks-and-open-spaces/play-strategy-for-the-former-wycombe-district-area-2017-to-2022/appendix-1",
+   "note": "Estate play area (Red Kite) in the 2017-2022 play strategy only; one source, street-centre pin.",
+   "found": "2026-11-07"
+  },
+  {
+   "name": "Newfield Gardens play area (Marlow)",
+   "lat": 51.57607,
+   "lon": -0.76668,
+   "cell": "m1:x+0y+1",
+   "url": "https://www.buckinghamshire.gov.uk/health-wellbeing-and-sports/parks-and-open-spaces/looking-after-our-parks-and-open-spaces/play-strategy-for-the-former-wycombe-district-area-2017-to-2022/appendix-1",
+   "note": "Estate play area (Red Kite) in the 2017-2022 play strategy only; one source, street-centre pin.",
+   "found": "2026-11-07"
+  },
+  {
+   "name": "Homefield Wood nature reserve (BBOWT)",
+   "lat": 51.57028,
+   "lon": -0.83149,
+   "cell": "m1:x-4y+0",
+   "url": "https://www.bbowt.org.uk/node/427",
+   "note": "BBOWT woodland reserve west of Marlow, free entry, postcode SL7 2HL (rural postcode; pin may be off by a few hundred metres). About 4.3 km away. Little family-specific info found.",
+   "found": "2026-11-07"
+  },
+  {
+   "name": "Jungle Mania Bourne End (soft play)",
+   "lat": 51.57311,
+   "lon": -0.70703,
+   "cell": "m1:x+4y+0",
+   "url": "https://absolutelymagazines.com/the-best-things-to-do-in-bourne-end/",
+   "note": "Indoor soft play at Unit 8 Wessex Road, SL8 5DT. A local guide says it has closed and a BBC report describes the Jungle Mania chain going into liquidation; not added. Confirm before listing.",
+   "found": "2026-11-07"
   }
  ]
 }
