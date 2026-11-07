@@ -11,7 +11,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "data", "places.json")
 TYPES = {"playground": "playground", "park": "park", "nature": "nature", "city farm": "farm", "museum": "museum",
          "splash & swim": "water", "landmark": "landmark", "activity": "activity", "library": "library"}
-PECKHAM, RADIUS_KM = (51.4734, -0.0690), 8.05
+REGIONS = json.load(open(os.path.join(ROOT, "data", "regions.json"), encoding="utf-8"))["regions"]
 
 
 def fields(body):
@@ -57,7 +57,7 @@ def main():
     p = {"id": f"p{n:03d}", "name": name, "lat": round(lat, 5), "lon": round(lon, 5),
          "type": TYPES.get(f.get("type", "").lower(), "playground"),
          "area": f.get("address or directions", "") or "London",
-         "scope": "local" if km(PECKHAM, (lat, lon)) <= RADIUS_KM else "far",
+         "scope": "local" if any(km((r["lat"], r["lon"]), (lat, lon)) <= r["radiusKm"] for r in REGIONS) else "far",
          "source": "you", "added": {"date": datetime.date.today().isoformat(), "issue": int(os.environ.get("ISSUE_NUMBER", "0") or 0)}}
     if f.get("what makes it good"): p["standout"] = f["what makes it good"]
     if f.get("ages it suits"):
@@ -66,7 +66,7 @@ def main():
     if f.get("website", "").startswith("http"): p["link"] = f["website"]
     places.append(p)
     json.dump(data, open(SRC, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    print(f"ADDED: {name} is on the map as {p['id']}" + (" (outside the 5-mile area, so under “further afield”)" if p["scope"] == "far" else "") + ". Claude will review it on its next run.")
+    print(f"ADDED: {name} is on the map as {p['id']}" + (" (outside the search areas, so under “further afield”)" if p["scope"] == "far" else "") + ". Claude will review it on its next run.")
 
 
 if __name__ == "__main__":

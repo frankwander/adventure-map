@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""High Density Search (HDS): sweep the 5-mile area around Peckham square by square,
+"""High Density Search (HDS): sweep each search area (data/regions.json: Peckham, Marlow) square by square,
 street by street, for small attractions (nature gardens, pocket parks, community gardens,
 wildlife sites, murals, statues, little libraries…).
 
 Commands
-  python3 scripts/hds.py next [N]                  the next N unsearched cells (nearest first) with their search queries
+  python3 scripts/hds.py next [N] [REGION]         the next N unsearched cells (nearest first) with their search queries;
+                                                   REGION is peckham or marlow (default: all, Peckham first)
   python3 scripts/hds.py geocode "SE15 4EE"         postcode -> lat/lon and streets
   python3 scripts/hds.py geocode "Costa Street, SE15" street (with district) -> lat/lon
   python3 scripts/hds.py cell LAT LON               which cell a point is in
@@ -55,11 +56,13 @@ def queries_for(cell):
     return qs
 
 
-def cmd_next(n=5):
+def cmd_next(n=5, region=None):
     data = load(CELLS, None)
-    todo = [c for c in data["cells"] if c["status"] == "pending"][: int(n)]
+    todo = [c for c in data["cells"] if c["status"] == "pending" and (region is None or c.get("region") == region)]
+    todo.sort(key=lambda c: c["km"]) if region else None
+    todo = todo[: int(n)]
     for c in todo:
-        print(f"\n## Cell {c['id']}  ({c['km']} km from Peckham, centre {c['lat']}, {c['lon']})")
+        print(f"\n## Cell {c['id']}  ({c['km']} km from the {c.get('region', 'peckham').title()} centre, centre {c['lat']}, {c['lon']})")
         print(f"Sectors: {', '.join(c['sectors']) or '-'}")
         print(f"Streets ({len(c['streets'])}): {'; '.join(s.split(',')[0] for s in c['streets'])}")
         print("Queries:")
@@ -121,10 +124,13 @@ def cmd_lead(name, lat, lon, url, note=""):
 def cmd_status():
     data = load(CELLS, None); cells = data["cells"]
     done = [c for c in cells if c["status"] != "pending"]
-    rings = [(1, "1 km"), (2, "2 km"), (4, "4 km"), (8.3, "5 miles")]
-    for r, label in rings:
-        inside = [c for c in cells if c["km"] <= r]
-        print(f"within {label}: {sum(1 for c in inside if c['status'] != 'pending')}/{len(inside)} cells searched")
+    for reg in data.get("regions", ["peckham"]):
+        rc = [c for c in cells if c.get("region", "peckham") == reg]
+        parts = []
+        for r, label in [(1, "1 km"), (2, "2 km"), (4, "4 km"), (99, "all")]:
+            inside = [c for c in rc if c["km"] <= r]
+            parts.append(f"{label} {sum(1 for c in inside if c['status'] != 'pending')}/{len(inside)}")
+        print(f"{reg}: " + ", ".join(parts))
     print(f"queries used: {sum(c.get('queries', 0) for c in done)}; places found: {sum(len(c.get('finds', [])) for c in done)}; "
           f"open leads: {len(load(LEADS, {'leads': []})['leads'])}")
 
@@ -132,6 +138,6 @@ def cmd_status():
 if __name__ == "__main__":
     a = sys.argv[1:]
     if not a: print(__doc__); sys.exit(0)
-    {"next": lambda: cmd_next(*a[1:2]), "geocode": lambda: cmd_geocode(" ".join(a[1:])),
+    {"next": lambda: cmd_next(*a[1:3]), "geocode": lambda: cmd_geocode(" ".join(a[1:])),
      "cell": lambda: print(cell_id(float(a[1]), float(a[2]))), "done": lambda: cmd_done(*a[1:]),
      "lead": lambda: cmd_lead(*a[1:]), "status": cmd_status}[a[0]]()

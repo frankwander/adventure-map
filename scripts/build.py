@@ -13,8 +13,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "data", "places.json")
 OUT = os.path.join(ROOT, "data.js")
 
-PECKHAM = (51.4734, -0.0690)
-RADIUS_KM = 8.05  # 5 miles
+REGIONS = json.load(open(os.path.join(ROOT, "data", "regions.json"), encoding="utf-8"))["regions"]
 TYPES = {"playground", "park", "nature", "farm", "museum", "water", "landmark", "activity", "library"}
 SCOPES = {"local", "far"}
 SOURCES = {"council", "ours", "ai", "you"}
@@ -61,9 +60,10 @@ def validate(data):
             errors.append(f"{where}: lat/lon must be numbers")
             continue
         if p.get("scope") == "local":
-            d = km(PECKHAM, (lat, lon))
-            if d > RADIUS_KM:
-                errors.append(f"{where}: {d:.1f} km from Peckham, outside the 5-mile area (set scope 'far' for holiday places)")
+            # Local means inside one of the search areas (data/regions.json).
+            if not any(km((r["lat"], r["lon"]), (lat, lon)) <= r["radiusKm"] for r in REGIONS):
+                d = km((REGIONS[0]["lat"], REGIONS[0]["lon"]), (lat, lon))
+                errors.append(f"{where}: outside every search area ({d:.1f} km from Peckham); set scope 'far' for holiday places")
         ages = p.get("ages")
         if ages is not None and not (isinstance(ages, list) and len(ages) == 2 and 0 <= ages[0] <= ages[1] <= 18):
             errors.append(f"{where}: ages must be [min, max] between 0 and 18")
@@ -107,6 +107,7 @@ def render(data):
     if os.path.exists(cp):
         hds = json.load(open(cp, encoding="utf-8"))
         cells = [[c["lat"], c["lon"], 0 if c["status"] == "pending" else 1, len(c.get("finds", []))] for c in hds["cells"]]
+        text += "window.REGIONS = " + json.dumps([{k: r[k] for k in ("id", "name", "lat", "lon", "radiusKm") if k in r} | {"hoods": r.get("hoods", [])} for r in REGIONS], ensure_ascii=False, separators=(",", ":")) + ";\n"
         text += "window.HDS = " + json.dumps({"cellMeters": hds["cellMeters"], "cells": cells}, separators=(",", ":")) + ";\n"
     return text
 

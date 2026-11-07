@@ -1,7 +1,9 @@
 # Adventure Map
 
-Kids' adventures within 5 miles of Peckham: playgrounds, parks, farms, nature, museums and
-hidden gems. Live at https://frankwander.github.io/adventure-map/
+Kids' adventures within 5 miles of Peckham, and around Marlow (5 km of the Marlow Donkey):
+playgrounds, parks, farms, nature, museums and hidden gems. The search areas are in
+`data/regions.json`; adding one there and rebuilding the grid (`scripts/hds_build.py`) extends
+the map, the validator and the street-by-street search to it. Live at https://frankwander.github.io/adventure-map/
 
 A static site (plain HTML, CSS and JavaScript, no server) with four pages:
 

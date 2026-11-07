@@ -1,7 +1,11 @@
 # Adventure Map: rules for Claude
 
 A static GitHub Pages site (https://frankwander.github.io/adventure-map/) that helps parents
-pick their next adventure within **5 miles (8.05 km) of Peckham** (51.4734, -0.0690).
+pick their next adventure. It has **search areas**, listed in `data/regions.json`:
+- **Peckham**: 5 miles (8.05 km) around 51.4734, -0.0690 (the home area).
+- **Marlow**: 5 km around the Marlow Donkey pub, Station Road, SL7 1NW (51.57088, -0.77027),
+  covering Marlow, Bisham, Little Marlow, Bourne End and Cookham.
+A place inside any search area is `scope: "local"`.
 
 ## Data
 
@@ -13,7 +17,7 @@ pick their next adventure within **5 miles (8.05 km) of Peckham** (51.4734, -0.0
 ### Place fields
 `id` (next free `pNNN`), `name`, `lat`, `lon` (5 decimals), `type` (playground, park,
 nature, farm, museum, water, landmark, activity, library), `area` (neighbourhood or
-borough), `scope` (`local` inside the 5-mile area, `far` outside), `source` (`council`,
+borough), `scope` (`local` inside a search area, `far` outside), `source` (`council`,
 `ours` = the owner's own visit, `ai` = found by Claude, `you` = added by the owner through
 the form). Optional: `age` (text), `ages` ([min, max]), `standout`, `extras`, `link`,
 `locationNote`, `review` (the owner's own review: never write or change it), `ai`.
@@ -65,9 +69,12 @@ adventure playground or city farm is usually 8–9.
   OpenStreetMap/Mapcarta pages in search results). Put where they came from in
   `locationNote`. If you can't find coordinates you trust, don't add the place: list it in
   your report instead.
-- `build.py` rejects local places further than 8.05 km from Peckham.
+- `build.py` rejects local places outside every search area.
+- The offline gazetteer covers every search area, so `hds.py geocode "SL7 1NW"` works for Marlow too.
 
 ## High Density Search
+Each search area has its own grid of squares (Marlow's ids start `m:`). Use
+`python3 scripts/hds.py next N marlow` (or `peckham`) to work on one area.
 To find small places street by street, follow `.claude/skills/dense-search/SKILL.md`
 (method: `docs/high-density-search.md`). Progress lives in `data/hds/cells.json`; unconfirmed
 finds in `data/hds/leads.json`. Those files may be edited during runs along with

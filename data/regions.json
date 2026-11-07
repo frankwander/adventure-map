@@ -1,0 +1,62 @@
+{
+ "regions": [
+  {
+   "id": "peckham",
+   "name": "Peckham",
+   "lat": 51.4734,
+   "lon": -0.069,
+   "radiusKm": 8.05,
+   "bngBox": [
+    520000,
+    165000,
+    548000,
+    188000
+   ],
+   "cellPrefix": "",
+   "note": "5 miles around Peckham, the map's home area"
+  },
+  {
+   "id": "marlow",
+   "name": "Marlow",
+   "lat": 51.57088,
+   "lon": -0.77027,
+   "radiusKm": 5.0,
+   "bngBox": [
+    478000,
+    179000,
+    493000,
+    194000
+   ],
+   "cellPrefix": "m:",
+   "anchor": "The Marlow Donkey pub, Station Road, SL7 1NW (postcode centre, ONS Postcode Directory)",
+   "hoods": [
+    {
+     "label": "Marlow",
+     "lat": 51.574,
+     "lon": -0.7741
+    },
+    {
+     "label": "Bourne End",
+     "lat": 51.5795,
+     "lon": -0.7107
+    },
+    {
+     "label": "Cookham",
+     "lat": 51.5577,
+     "lon": -0.7305
+    },
+    {
+     "label": "Flackwell Heath",
+     "lat": 51.5995,
+     "lon": -0.7072
+    },
+    {
+     "label": "Wooburn Green",
+     "lat": 51.5953,
+     "lon": -0.6843
+    }
+   ],
+   "note": "5 km around the Marlow Donkey: Marlow, Bisham, Little Marlow, Bourne End, Cookham"
+  }
+ ]
+}

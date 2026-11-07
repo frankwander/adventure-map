@@ -3,7 +3,8 @@
 (function () {
   "use strict";
   var REPO = "frankwander/adventure-map";
-  var PECKHAM = { lat: 51.4734, lon: -0.0690 }, RADIUS_M = 8050;
+  var PECKHAM = { lat: 51.4734, lon: -0.0690 };
+  var REGIONS = window.REGIONS || [{ name: "Peckham", lat: PECKHAM.lat, lon: PECKHAM.lon, radiusKm: 8.05 }];
 
   window.AMAdd = function (ctx) {
     var $ = function (s) { return document.querySelector(s); };
@@ -44,8 +45,10 @@
     function setPin(la, lo, why) {
       lat.value = (+la).toFixed(5); lon.value = (+lo).toFixed(5);
       if (map) { if (pin) pin.setLatLng([la, lo]); else pin = L.marker([la, lo]).addTo(map); }
-      var d = ctx.distM(PECKHAM, { lat: +la, lon: +lo });
-      locStatus.textContent = (why ? why + " " : "") + (d > RADIUS_M ? "This is " + (d / 1609).toFixed(1) + " miles from Peckham, outside the map's 5-mile area. It will be added as “further afield”." : "Location set, " + (d / 1609).toFixed(1) + " miles from Peckham.");
+      var pt = { lat: +la, lon: +lo };
+      var near = REGIONS.slice().sort(function (a, b) { return ctx.distM(pt, a) - ctx.distM(pt, b); })[0];
+      var d = ctx.distM(pt, near);
+      locStatus.textContent = (why ? why + " " : "") + (d > near.radiusKm * 1000 ? "This is " + (d / 1609).toFixed(1) + " miles from " + near.name + ", outside the map's search areas. It will be added as “further afield”." : "Location set, " + (d / 1609).toFixed(1) + " miles from " + near.name + ".");
       checkDupes();
     }
     if (window.L) {

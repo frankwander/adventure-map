@@ -17,6 +17,11 @@
     { id: "rotherhithe", label: "Rotherhithe", lat: 51.4990, lon: -0.0500 },
     { id: "nunhead", label: "Nunhead", lat: 51.4660, lon: -0.0560 }
   ];
+  // Other search areas (data/regions.json): each adds a starting point at its centre and its town labels.
+  var REGIONS = window.REGIONS || [{ id: "peckham", name: "Peckham", lat: 51.4734, lon: -0.0690, radiusKm: 8.05, hoods: [] }];
+  REGIONS.forEach(function (r) {
+    if (r.id !== "peckham") PRESETS.push({ id: r.id, label: r.name + (r.id === "marlow" ? " (Marlow Donkey)" : ""), lat: r.lat, lon: r.lon });
+  });
   // Neighbourhood centres used to label places ("Sumner Park Playground · Peckham").
   var HOODS = PRESETS.map(function (p) { return { label: p.label, lat: p.lat, lon: p.lon }; }).concat([
     { label: "Elephant & Castle", lat: 51.4946, lon: -0.1001 },
@@ -30,6 +35,7 @@
     { label: "Surrey Quays", lat: 51.4930, lon: -0.0470 },
     { label: "Crystal Palace", lat: 51.4250, lon: -0.0760 }
   ]);
+  REGIONS.forEach(function (r) { (r.hoods || []).forEach(function (h) { HOODS.push(h); }); });
   function nearestHood(pt) {
     var best = null, bd = Infinity;
     HOODS.forEach(function (h) { var d = distM(pt, h); if (d < bd) { bd = d; best = h; } });
@@ -364,6 +370,12 @@
   var TYPE_COLOR = { playground: "#2f6b45", park: "#5a8f2e", nature: "#0f766e", farm: "#9a4a1c", museum: "#6d4aa8",
     water: "#1d6fb8", landmark: "#a16207", activity: "#c2410c", library: "#9d3f7a" };
   var PECKHAM = { lat: 51.4734, lon: -0.0690 }, RADIUS_M = 8047;
+  // The search area nearest the starting point (or Peckham): what the map opens on.
+  function homeRegion() {
+    var o = state.origin; if (!o) return REGIONS[0];
+    return REGIONS.slice().sort(function (a, b) { return distM(o, a) - distM(o, b); })[0];
+  }
+  function fitRegion(map, r) { map.fitBounds(L.latLng(r.lat, r.lon).toBounds(r.radiusKm * 2000), { padding: [10, 10] }); }
   function colorOf(p) { return TYPE_COLOR[p.type] || "#2f6b45"; }
   function radiusOf(p) { var sc = scoreOf(p); return sc == null ? 5 : 4 + sc * 0.8; }
   function baseMap(el, opts) {
@@ -435,12 +447,14 @@
     }
     if (window.L) {
       map = baseMap("map");
-      L.circle([PECKHAM.lat, PECKHAM.lon], { radius: RADIUS_M, color: getVar("--park"), weight: 2, dashArray: "6 6", fill: false, interactive: false }).addTo(map);
-      L.marker([PECKHAM.lat, PECKHAM.lon], { icon: L.divIcon({ className: "area-label", html: "Peckham", iconSize: [70, 20], iconAnchor: [35, 10] }), interactive: false }).addTo(map);
+      REGIONS.forEach(function (r) {
+        L.circle([r.lat, r.lon], { radius: r.radiusKm * 1000, color: getVar("--park"), weight: 2, dashArray: "6 6", fill: false, interactive: false }).addTo(map);
+        L.marker([r.lat, r.lon], { icon: L.divIcon({ className: "area-label", html: esc(r.name), iconSize: [70, 20], iconAnchor: [35, 10] }), interactive: false }).addTo(map);
+      });
       coverage = L.layerGroup();
       layer = L.layerGroup().addTo(map);
       numbered = L.layerGroup().addTo(map);
-      map.fitBounds(L.latLng(PECKHAM.lat, PECKHAM.lon).toBounds(RADIUS_M * 2), { padding: [10, 10] });
+      fitRegion(map, homeRegion());
     } else {
       $("#map").innerHTML = '<p class="empty">The map couldn\'t load. The list still works.</p>';
     }
@@ -459,7 +473,7 @@
       }
     }
     $("#use-location").addEventListener("click", function () { locate(status, go); });
-    $("#show-all").addEventListener("click", function () { if (map) map.fitBounds(L.latLng(PECKHAM.lat, PECKHAM.lon).toBounds(RADIUS_M * 2), { padding: [10, 10] }); });
+    $("#show-all").addEventListener("click", function () { if (map) fitRegion(map, homeRegion()); });
     sel.addEventListener("change", function () { var p = presetById(sel.value); if (p) { setOrigin({ lat: p.lat, lon: p.lon, label: p.label }); status.textContent = "Starting from " + p.label + "."; go(); } });
     document.addEventListener("click", function (e) {
       var b = e.target.closest('[data-act="went"]'); if (!b) return;
@@ -521,7 +535,7 @@
         if (s === "score") return rankScore(b) - rankScore(a) || (scoreOf(b) != null) - (scoreOf(a) != null) || a.name.localeCompare(b.name);
         return a.name.localeCompare(b.name);
       });
-      $("#count").textContent = rows.length + " of " + PLACES.length + " places" + (kind.value === "london" ? " within 5 miles of Peckham" : "");
+      $("#count").textContent = rows.length + " of " + PLACES.length + " places" + (kind.value === "london" ? " in the search areas" : "");
       $("#tbody").innerHTML = rows.map(function (p) {
         var v = view(p), pill = isFar(p) ? " far" : (isOurs(p) ? " trip" : "");
         var review = p.review ? esc(p.review.stars) + "★ “" + esc(p.review.text) + "”"

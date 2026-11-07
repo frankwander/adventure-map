@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the High Density Search grid and gazetteer for the 5-mile area around Peckham.
+"""Build the High Density Search grid and gazetteer for every search area in data/regions.json.
 
   python3 scripts/hds_build.py path/to/uk-address.json.gz
 
@@ -14,11 +14,9 @@ import gzip, json, math, os, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "hds")
-PECKHAM = (51.4734, -0.0690)
-RADIUS_KM = 8.05
+REGIONS = json.load(open(os.path.join(ROOT, "data", "regions.json"), encoding="utf-8"))["regions"]
 CELL_M = 500
 DLAT = CELL_M / 111320.0
-DLON = CELL_M / (111320.0 * math.cos(math.radians(PECKHAM[0])))
 
 
 def km(a, b):
@@ -55,66 +53,76 @@ def bng_to_wgs84(E, N):
     return math.degrees(phi), math.degrees(math.atan2(y2, x2))
 
 
-def cell_of(lat, lon):
-    return int(math.floor((lon - PECKHAM[1]) / DLON + 0.5)), int(math.floor((lat - PECKHAM[0]) / DLAT + 0.5))
+def cell_of(r, lat, lon):
+    dlon = CELL_M / (111320.0 * math.cos(math.radians(r["lat"])))
+    return int(math.floor((lon - r["lon"]) / dlon + 0.5)), int(math.floor((lat - r["lat"]) / DLAT + 0.5)), dlon
 
 
 def main():
     src = json.load(gzip.open(sys.argv[1]))
     dist = src["districts"]
-    margin = RADIUS_KM + 0.6
-    # streets: [name, town, district, region, country, E, N]
-    streets = []
-    for s in src["streets"]:
-        if not (520000 < s[5] < 548000 and 165000 < s[6] < 188000):
-            continue
-        lat, lon = bng_to_wgs84(s[5], s[6])
-        if km(PECKHAM, (lat, lon)) <= margin:
-            streets.append([s[0], dist[s[2]], round(lat, 5), round(lon, 5)])
-    keep_idx = {}
-    postcodes = []
-    for p in src["postcodes"]:
-        if abs(p[1] - PECKHAM[0]) > 0.09 or abs(p[2] - PECKHAM[1]) > 0.15:
-            continue
-        if km(PECKHAM, (p[1], p[2])) <= margin:
-            postcodes.append([p[0], round(p[1], 5), round(p[2], 5), sorted({src["streets"][i][0] for i in p[3]})])
+    postcodes, streets, seen_pc, seen_st = [], [], set(), set()
+    old = {}
+    cp = os.path.join(OUT, "cells.json")
+    if os.path.exists(cp):
+        old = {c["id"]: c for c in json.load(open(cp))["cells"]}
+    out = []
+    for r in REGIONS:
+        centre, margin = (r["lat"], r["lon"]), r["radiusKm"] + 0.6
+        e0, n0, e1, n1 = r["bngBox"]
+        rs = []
+        # streets: [name, town, district, region, country, E, N]
+        for s in src["streets"]:
+            if not (e0 < s[5] < e1 and n0 < s[6] < n1):
+                continue
+            lat, lon = bng_to_wgs84(s[5], s[6])
+            if km(centre, (lat, lon)) <= margin:
+                row = [s[0], dist[s[2]], round(lat, 5), round(lon, 5)]
+                rs.append(row)
+                if tuple(row) not in seen_st:
+                    seen_st.add(tuple(row)); streets.append(row)
+        rp = []
+        for p in src["postcodes"]:
+            if abs(p[1] - r["lat"]) > 0.09 or abs(p[2] - r["lon"]) > 0.15:
+                continue
+            if km(centre, (p[1], p[2])) <= margin:
+                row = [p[0], round(p[1], 5), round(p[2], 5), sorted({src["streets"][i][0] for i in p[3]})]
+                rp.append(row)
+                if p[0] not in seen_pc:
+                    seen_pc.add(p[0]); postcodes.append(row)
+        cells = {}
+        for name, district, lat, lon in rs:
+            x, y, _ = cell_of(r, lat, lon)
+            cells.setdefault((x, y), {"streets": set(), "sectors": {}})["streets"].add(f"{name}, {district}")
+        for pc, lat, lon, _ in rp:
+            x, y, _ = cell_of(r, lat, lon)
+            sec = cells.setdefault((x, y), {"streets": set(), "sectors": {}})["sectors"]
+            sec[pc[:-2].strip()] = sec.get(pc[:-2].strip(), 0) + 1
+        dlon = cell_of(r, r["lat"], r["lon"])[2]
+        n = 0
+        for (x, y), v in cells.items():
+            clat, clon = r["lat"] + y * DLAT, r["lon"] + x * dlon
+            d = km(centre, (clat, clon))
+            if d > r["radiusKm"] + 0.25:
+                continue
+            cid = f"{r['cellPrefix']}x{x:+d}y{y:+d}"
+            c = {"id": cid, "region": r["id"], "lat": round(clat, 5), "lon": round(clon, 5), "km": round(d, 2),
+                 "streets": sorted(v["streets"]), "sectors": sorted(v["sectors"], key=lambda k: -v["sectors"][k]),  # most postcodes first
+                 "status": "pending", "searchedAt": None, "queries": 0, "finds": []}
+            if cid in old:
+                for k in ("status", "searchedAt", "queries", "finds"):
+                    c[k] = old[cid].get(k, c[k])
+            out.append(c); n += 1
+        print(f"{r['name']}: {len(rp)} postcodes, {len(rs)} streets, {n} cells")
     gaz = {"source": "ONS Postcode Directory (Feb 2026) and OS Open Names (Apr 2026), Open Government Licence v3.0, via npm uk-address-lookup",
            "postcodes": postcodes, "streets": streets}
     os.makedirs(OUT, exist_ok=True)
     with gzip.open(os.path.join(OUT, "gazetteer.json.gz"), "wt", encoding="utf-8") as f:
         json.dump(gaz, f, separators=(",", ":"))
-    # cells
-    old = {}
-    cp = os.path.join(OUT, "cells.json")
-    if os.path.exists(cp):
-        old = {c["id"]: c for c in json.load(open(cp))["cells"]}
-    cells = {}
-    for name, district, lat, lon in streets:
-        x, y = cell_of(lat, lon)
-        cells.setdefault((x, y), {"streets": set(), "sectors": {}})["streets"].add(f"{name}, {district}")
-    for pc, lat, lon, _ in postcodes:
-        x, y = cell_of(lat, lon)
-        sec = cells.setdefault((x, y), {"streets": set(), "sectors": {}})["sectors"]
-        sec[pc[:-2].strip()] = sec.get(pc[:-2].strip(), 0) + 1
-    out = []
-    for (x, y), v in cells.items():
-        clat, clon = PECKHAM[0] + y * DLAT, PECKHAM[1] + x * DLON
-        d = km(PECKHAM, (clat, clon))
-        if d > RADIUS_KM + 0.25:
-            continue
-        cid = f"x{x:+d}y{y:+d}"
-        c = {"id": cid, "lat": round(clat, 5), "lon": round(clon, 5), "km": round(d, 2),
-             "streets": sorted(v["streets"]), "sectors": sorted(v["sectors"], key=lambda k: -v["sectors"][k]),  # most postcodes first
-             "status": "pending", "searchedAt": None, "queries": 0, "finds": []}
-        if cid in old:
-            for k in ("status", "searchedAt", "queries", "finds"):
-                c[k] = old[cid].get(k, c[k])
-        out.append(c)
-    out.sort(key=lambda c: c["km"])
-    json.dump({"cellMeters": CELL_M, "centre": PECKHAM, "radiusKm": RADIUS_KM, "cells": out},
+    out.sort(key=lambda c: (c["region"] != "peckham", c["km"]))
+    json.dump({"cellMeters": CELL_M, "regions": [r["id"] for r in REGIONS], "cells": out},
               open(cp, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    print(f"{len(postcodes)} postcodes, {len(streets)} streets, {len(out)} cells "
-          f"({sum(1 for c in out if c['status'] != 'pending')} already searched)")
+    print(f"total {len(out)} cells ({sum(1 for c in out if c['status'] != 'pending')} already searched)")
 
 
 if __name__ == "__main__":

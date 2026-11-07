@@ -65,10 +65,11 @@
       <button class="btn small" type="button" data-idea="Free museums and galleries good for kids">Museums</button>
       <button class="btn small" type="button" data-idea="Hidden gems: statues, little libraries, bridges, odd landmarks">Hidden gems</button>
       <button class="btn small" type="button" data-idea="High density search: sweep the next streets near Peckham for small places (nature gardens, pocket parks, murals, statues)">Street by street</button>
+      <button class="btn small" type="button" data-idea="High density search around Marlow: playgrounds and small places street by street">Marlow</button>
     </div>
     <form id="scout-form" class="form-grid">
       <div class="field wide"><label for="s-focus">What should Claude look for?</label><textarea id="s-focus" rows="3" placeholder="e.g. Rainy-day places for a 3- and 7-year-old"></textarea></div>
-      <div class="field"><label for="s-area">Where</label><input id="s-area" type="text" value="Within 5 miles of Peckham"></div>
+      <div class="field"><label for="s-area">Where</label><input id="s-area" type="text" value="Within 5 miles of Peckham" list="area-options"><datalist id="area-options"><option value="Within 5 miles of Peckham"><option value="Around Marlow (5 km of the Marlow Donkey)"></datalist></div>
       <div class="field"><label for="s-count">How many</label><select id="s-count"><option>5</option><option selected>10</option><option>20</option></select></div>
       <div class="wide row"><button class="btn primary" type="submit">Ask Claude to scout</button></div>
       <p class="status wide" id="s-status" role="status" aria-live="polite"></p>
