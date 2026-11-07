@@ -15736,13 +15736,13 @@
   {
    "id": "p374",
    "name": "Bisham Woods and Quarry Wood",
-   "lat": 51.56348,
-   "lon": -0.75289,
+   "lat": 51.5575,
+   "lon": -0.7667,
    "type": "nature",
    "area": "Bisham",
    "scope": "local",
    "source": "ai",
-   "locationNote": "Quarry Wood Road, SL6 (street centre, offline gazetteer), which runs up through Quarry Wood, part of Bisham Woods. The woods are large; the pin is approximate.",
+   "locationNote": "OS grid reference SU 857 849 from Wikipedia (Bisham Woods), converted to latitude/longitude. The woods are large; this is their centre.",
    "link": "https://www.woodlandtrust.org.uk/visiting-woods/woods/bisham-woods/",
    "ai": {
     "score": 8,
@@ -16151,6 +16151,141 @@
      {
       "title": "Red Kite Days: Where to go pumpkin picking in Berkshire",
       "url": "https://redkitedays.co.uk/where-to-go-pumpkin-picking-in-berkshire/"
+     }
+    ],
+    "reviewedAt": "2026-11-07"
+   }
+  },
+  {
+   "id": "p384",
+   "name": "Winter Hill viewpoint, Cookham Dean",
+   "lat": 51.5673,
+   "lon": -0.7448,
+   "type": "nature",
+   "area": "Cookham Dean",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Coordinates from a Geograph photo page (subject SU 871 861, WGS84 51.5673, -0.7448); the Great Britain Guide gives almost the same point (51.5669, -0.7450).",
+   "link": "https://www.nationaltrust.org.uk/maidenhead-and-cookham-commons/features/winter-hill---cookham-commons",
+   "ai": {
+    "score": 6,
+    "summary": "A National Trust chalk hillside on the Cookham Commons with one of the best views of the Thames valley: across the river and Cock Marsh towards Marlow and the Chilterns. A lovely spot for a picnic and a sit in the sun, and the start of family walks down to the water meadows of Cock Marsh or into Quarry Wood.",
+    "standout": "A huge view over the Thames, Cock Marsh and Marlow from the top of the hill",
+    "highlights": [
+     "Wide views over the river towards Marlow",
+     "Red kites are often seen over the valley",
+     "Walks down to Cock Marsh water meadows, where cattle graze, and along the Wind in the Willows routes"
+    ],
+    "cautions": [
+     "The path down to Cock Marsh is very steep (it can be avoided)",
+     "Cattle graze Cock Marsh: keep dogs on leads",
+     "Parking at the top is small; check before going",
+     "No facilities on the hill itself"
+    ],
+    "sources": [
+     {
+      "title": "National Trust: Winter Hill, Cookham Commons",
+      "url": "https://www.nationaltrust.org.uk/maidenhead-and-cookham-commons/features/winter-hill---cookham-commons"
+     },
+     {
+      "title": "Thames Valley Guide: Winter Hill",
+      "url": "https://www.thamesvalleyguide.co.uk/what-to-do-and-see/activities/walking/winter-hill"
+     },
+     {
+      "title": "Ramblers: Cookham, Winter Hill and Cock Marsh",
+      "url": "https://www.ramblers.org.uk/go-walking/group-walks/cookham-winter-hill-and-cock-marsh-0"
+     }
+    ],
+    "reviewedAt": "2026-11-07"
+   }
+  },
+  {
+   "id": "p385",
+   "name": "Cookham Dean Common (National Trust)",
+   "lat": 51.54891,
+   "lon": -0.75906,
+   "type": "nature",
+   "area": "Cookham Dean",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Pin is postcode SL6 6PJ, the Cookham Dean Common National Trust car park on Winter Hill Road given by the National Trust trail pages (grid ref SU862838) and the Woodland Trust leaflet, geocoded with the offline gazetteer.",
+   "link": "https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/maidenhead-and-cookham-commons/things-to-do-at-cookham-commons",
+   "ai": {
+    "score": 6,
+    "summary": "A patchwork of National Trust commons around Cookham Dean village: Cookham Dean Common itself, Cricket Common, an old chalk pit, Bigfrith, Hardings Green and Tugwood commons. The free car park here is the start of the National Trust and Woodland Trust Wind in the Willows walks, a good way to give a family walk a story, heading towards Quarry Wood and Winter Hill.",
+    "standout": "The start of the Wind in the Willows family walks, through the countryside that inspired Kenneth Grahame",
+    "highlights": [
+     "Free National Trust car park (SL6 6PJ)",
+     "Short and long Wind in the Willows walks start and finish here",
+     "Ancient woodland on the common and an old chalk pit, noted in the local wildlife survey"
+    ],
+    "cautions": [
+     "No facilities described at the common; pubs in Cookham Dean are the nearest refreshments, so check opening before going",
+     "Lanes around the village are narrow, with few pavements"
+    ],
+    "sources": [
+     {
+      "title": "National Trust: Things to do at Cookham Commons",
+      "url": "https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/maidenhead-and-cookham-commons/things-to-do-at-cookham-commons"
+     },
+     {
+      "title": "National Trust: The short Wind in the Willows walk",
+      "url": "https://www.nationaltrust.org.uk/visit/oxfordshire-buckinghamshire-berkshire/maidenhead-and-cookham-commons/the-short-wind-in-the-willows-walk"
+     },
+     {
+      "title": "Woodland Trust: Wind in the Willows walk leaflet",
+      "url": "https://www.woodlandtrust.org.uk/media/47828/0798-wt-wind-in-the-willows-leaflet-aa_p1.pdf"
+     },
+     {
+      "title": "The Cookham Plan: biodiversity survey results",
+      "url": "https://cookham.com/cookhamplannew/biodiversity/3results.htm"
+     }
+    ],
+    "reviewedAt": "2026-11-07"
+   }
+  },
+  {
+   "id": "p386",
+   "name": "Marlow Common nature reserve (Chiltern Society)",
+   "lat": 51.57413,
+   "lon": -0.8103,
+   "type": "nature",
+   "area": "Marlow Common",
+   "scope": "local",
+   "source": "ai",
+   "locationNote": "Pin is postcode SL7 2QR, one of the two entrance postcodes the Chiltern Society gives for Marlow Common (the other, SL7 2PQ, is not in the offline gazetteer), geocoded at postcode precision. Just west of square m1:x-2y+1.",
+   "link": "https://chilternsociety.org.uk/?p=2222",
+   "ai": {
+    "score": 7,
+    "summary": "Beech, oak and birch woodland on the high ground west of Marlow, part of which is a Chiltern Society nature reserve that is free to visit all year. A good family woodland walk: bluebells in spring, orchids in early summer and a fair chance of deer and red kites at any time, with a waymarked circular path on Marlow Common North.",
+    "standout": "Free-to-roam Chiltern beechwood where deer and red kites are seen all year",
+    "highlights": [
+     "Bluebells in spring and orchids in early summer",
+     "Deer and red kites year-round",
+     "Waymarked circular path on the Chiltern Society's Marlow Common North (about 27 acres)",
+     "Chiltern Society seasonal walk from Marlow"
+    ],
+    "cautions": [
+     "Woodland paths with no facilities; can be muddy",
+     "Only the public parts of the reserve are open: follow the signs",
+     "Parking details not confirmed: check before going"
+    ],
+    "sources": [
+     {
+      "title": "Chiltern Society: About Marlow Common",
+      "url": "https://chilternsociety.org.uk/?p=2222"
+     },
+     {
+      "title": "Chiltern Society: Marlow Common walk",
+      "url": "https://chilternsociety.org.uk/seasonal_walk/marlow-common-walk/"
+     },
+     {
+      "title": "Visorando: Marlow Common, Chilterns walk",
+      "url": "https://www.visorando.com/en/walk-marlow-common-walk-chilterns/"
+     },
+     {
+      "title": "Pete's Walks: Hambleden, Marlow Common, Moorend Common (2024)",
+      "url": "https://petes-walks.co.uk/Latest%20walks/w2024/w20240603/w20240603_2.htm"
      }
     ],
     "reviewedAt": "2026-11-07"

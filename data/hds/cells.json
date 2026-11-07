@@ -27352,9 +27352,9 @@
    "sectors": [
     "SL7 1"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 4,
    "finds": []
   },
   {
@@ -27400,9 +27400,9 @@
     "SL7 3",
     "SL7 1"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 4,
    "finds": []
   },
   {
@@ -27457,9 +27457,9 @@
     "SL7 2",
     "SL7 3"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 3,
    "finds": []
   },
   {
@@ -27503,9 +27503,9 @@
     "SL6 9",
     "SL7 1"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 2,
    "finds": []
   },
   {
@@ -27542,9 +27542,9 @@
     "SL7 1",
     "SL7 3"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 2,
    "finds": []
   },
   {
@@ -27564,9 +27564,9 @@
     "SL7 2",
     "SL7 1"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 1,
    "finds": []
   },
   {
@@ -27596,9 +27596,9 @@
     "SL7 3",
     "SL7 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 1,
    "finds": []
   },
   {
@@ -27626,9 +27626,9 @@
    "sectors": [
     "SL7 3"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 4,
    "finds": []
   },
   {
@@ -27645,9 +27645,9 @@
     "SL7 1",
     "SL6 6"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 1,
    "finds": []
   },
   {
@@ -27665,10 +27665,12 @@
    "sectors": [
     "SL6 9"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 3,
+   "finds": [
+    "p384"
+   ]
   },
   {
    "id": "m1:x-2y+0",
@@ -27685,9 +27687,9 @@
    "sectors": [
     "SL7 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 1,
    "finds": []
   },
   {
@@ -27711,10 +27713,12 @@
    "sectors": [
     "SL6 9"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 3,
+   "finds": [
+    "p385"
+   ]
   },
   {
    "id": "m1:x+1y-2",
@@ -27734,10 +27738,12 @@
     "SL6 9",
     "SL6 6"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 1,
+   "finds": [
+    "p385"
+   ]
   },
   {
    "id": "m1:x-1y-2",
@@ -27755,9 +27761,9 @@
    "sectors": [
     "SL7 1"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 3,
    "finds": []
   },
   {
@@ -27775,9 +27781,9 @@
    "sectors": [
     "SL7 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 1,
    "finds": []
   },
   {
@@ -27794,10 +27800,12 @@
    "sectors": [
     "SL7 2"
    ],
-   "status": "pending",
-   "searchedAt": null,
-   "queries": 0,
-   "finds": []
+   "status": "searched",
+   "searchedAt": "2026-11-07",
+   "queries": 1,
+   "finds": [
+    "p386"
+   ]
   },
   {
    "id": "m1:x-1y+2",
